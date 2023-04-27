@@ -586,6 +586,9 @@ https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-6
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon2/4e315b06-4e75-44c3-aa02-ede3653b52cc/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -598,28 +601,6 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=115186&extension=ts&play_token=fCtkS8JYjR
-#EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png",VTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=115187&extension=ts&play_token=nzms9tA0gV
-#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png",VTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=115188&extension=ts&play_token=cvUDZ6X4b7
-#EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575",VTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=115189&extension=ts&play_token=PQsAoXfeD8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635",VTV5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=115190&extension=ts&play_token=OAcxvahNXZ
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://i.pinimg.com/originals/65/f9/79/65f979c7a1e6c1c054c8edd152fe1216.png",VTV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=115191&extension=ts&play_token=ateAfomm81
-#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164",VTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0 
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=115194&extension=ts&play_token=eWvKjC0YPt
 
 #EXTINF:-1 tvg-id="antvhd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
