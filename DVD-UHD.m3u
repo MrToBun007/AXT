@@ -13,6 +13,8 @@ http://dontuse.doublesmashedpudding.xyz:8080/play/live.php?mac=00:1A:79:34:89:01
 http://quickview.xyz:80/live/DavidT/DavidT/1042157.ts
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 3
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1038792&extension=ts&play_token=7MkW2YPilQ
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 3Sub
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552955&extension=ts&play_token=z4d2p28jPs
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 4
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1300442&extension=ts&play_token=kyez1fCJbr
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 5
@@ -76,7 +78,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:38:78:38&stream=1922&extensi
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:38:78:38&stream=1938&extension=ts&play_token=7ftypVSXtL
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 0
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=255102&extension=ts&play_token=fkNID6BAqQ
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552954&extension=ts&play_token=cUbsZhdW03
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=JJIj9TgyKk
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 2
@@ -88,7 +90,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1552954&exte
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 5
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1227372&extension=ts&play_token=LSjbe93e3M
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 6
-
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=255102&extension=ts&play_token=fkNID6BAqQ
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",EPL Live Event 1
 http://quickview.xyz:80/live/Lbaker/Lbaker/1011029.ts
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",EPL Live Event 2
@@ -110,7 +112,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1227372&exte
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1227372&extension=ts&play_token=WUCmI15HWD
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Sky Sport UK 7
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1227372&extension=ts&play_token=QOkINokZ2O
-
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Sky Sport UK 8
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1227372&extension=ts&play_token=bA92pulFKI
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/10_News.png",Sky Sport News FHD 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:38:78:38&stream=1890&extension=ts&play_token=hTXzndi4h5
