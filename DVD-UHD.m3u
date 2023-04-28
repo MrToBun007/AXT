@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
+#EXTM3U url-tvg="http://bit.ly/guidevn"
+
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 0
 http://dontuse.doublesmashedpudding.xyz:8080/play/live.php?mac=00:1A:79:34:89:01&stream=532599&extension=ts&play_token=sEVTjPYOTe
