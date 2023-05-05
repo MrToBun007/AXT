@@ -15,8 +15,6 @@ http://dontuse.doublesmashedpudding.xyz:8080/play/live.php?mac=00:1A:79:34:89:01
 http://quickview.xyz:80/live/DavidT/DavidT/1042157.ts
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 3
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1038792&extension=ts&play_token=7MkW2YPilQ
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 3Sub
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552955&extension=ts&play_token=z4d2p28jPs
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 4
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1300442&extension=ts&play_token=kyez1fCJbr
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 5
