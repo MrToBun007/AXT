@@ -56,8 +56,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=20366&extens
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=20371&extension=ts&play_token=KSbqxXXq1P
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sport 4 FHD 50FPS
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=322582&extension=ts&play_token=p3sRkglA32
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sport 4 FHD
-http://dontuse.doublesmashedpudding.xyz:8080/play/live.php?mac=00:1A:79:34:89:01&stream=533044&extension=ts&play_token=CMgpPslkz8
 
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sport 1 FHD
 http://dontuse.doublesmashedpudding.xyz:8080/play/live.php?mac=00:1A:79:34:89:01&stream=3232&extension=ts&play_token=PSlGHeQL1g
@@ -93,11 +91,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1552954&exte
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1227372&extension=ts&play_token=LSjbe93e3M
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 6
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=255102&extension=ts&play_token=fkNID6BAqQ
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",EPL Live Event 1
-http://quickview.xyz:80/live/Lbaker/Lbaker/1011029.ts
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",EPL Live Event 2
-http://quickview.xyz:80/live/DavidT/DavidT/1011029.ts
-
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Sky Sport UK 0
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1227372&extension=ts&play_token=WwXi0UsZNH
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Sky Sport UK 1
@@ -297,17 +290,11 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=443338&
 #EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 2
 http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=90814&extension=ts&play_token=RJwDuBm3Hj
 #EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 3
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=242541&extension=ts&play_token=UY9s8WrYBS
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=443338&extension=ts&play_token=IbiKMobvj5
 #EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 4
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=90814&extension=ts&play_token=Pd1RzvxbPA
 #EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 5
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=90814&extension=ts&play_token=ofwHHEDmpQ
-#EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 6
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C0:3F:DF&stream=1116743&extension=ts&play_token=Ri9Ab1NOil
-#EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 7
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=443338&extension=ts&play_token=IbiKMobvj5
-#EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 8
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:e6:e1:4b&stream=443338&extension=ts&play_token=mAHyFZj5xE
 
 #EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",VSport Ultra 0
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=294070&extension=ts&play_token=xFfYpvVel5
@@ -333,10 +320,6 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=11121
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=466358&extension=ts&play_token=0sTZfGfyZE
 #EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",VSport Ultra 11
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1049082&extension=ts&play_token=gN2PLXXbsS
-#EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",VSport Ultra 12
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:e6:e1:4b&stream=530244&extension=ts&play_token=riQhO5nlay
-#EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",VSport Ultra 13
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:e6:e1:4b&stream=154625&extension=ts&play_token=zVv8MiG9Yn
 
 #EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",Sky F1 0
 http://dontuse.doublesmashedpudding.xyz:8080/play/live.php?mac=00:1A:79:34:89:01&stream=596862&extension=ts&play_token=gDxpsKhhTW
@@ -348,8 +331,7 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1566281&ext
 http://trx.p13.one:80/live/Willow123/Willow123/1836072.ts
 #EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",Sky F1 4
 http://dontuse.doublesmashedpudding.xyz:8080/play/live.php?mac=00:1A:79:34:89:01&stream=596862&extension=ts&play_token=nRNpc5mTRw
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1920px-DAZN_F1_logo.svg.png",DAZN F1 1
-http://trx.p13.one:80/live/Willow123/Willow123/1836060.ts
+
 #EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",Sky Sport F1 FHD 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:38:78:38&stream=1904&extension=ts&play_token=DYsRvBQvAx
 #EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",Sky Sport F1 FHD 2
@@ -359,8 +341,11 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&exten
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=986639&extension=ts&play_token=mlJMDqY8K4
 #EXTINF:-1,group-title="Spain DAZN LALIGA" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg",DAZN LALIGA 2
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=986639&extension=ts&play_token=1MUThi6pCh
-#EXTINF:-1,group-title="Spain DAZN LALIGA" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg",DAZN LALIGA 3
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:e6:e1:4b&stream=986639&extension=ts&play_token=RItjluev6h
+
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",SuperSport LALIGA 1
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=33507&extension=ts&play_token=hY79tjl8gW
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",SuperSport LALIGA 2
+http://quickview.xyz:80/live/DavidT/DavidT/268660.ts
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",USA Networks 1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=130123&extension=ts&play_token=uCxaeDT85B
@@ -369,8 +354,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=130123&exten
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",USA Networks 3
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=8259&extension=ts&play_token=g5949aLDdj
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",USA Networks 4
-
-
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1555727&extension=ts&play_token=RrcDvQxvCi
@@ -387,10 +370,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1555727&exte
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 7
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1555727&extension=ts&play_token=2xn7PS2q11
 
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",SuperSport LALIGA 1
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=33507&extension=ts&play_token=hY79tjl8gW
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",SuperSport LALIGA 2
-http://quickview.xyz:80/live/DavidT/DavidT/268660.ts
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",ESPN 1 FHD
 http://quickview.xyz:80/live/DavidT/DavidT/1008727.ts
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",ESPN 2 FHD
@@ -427,21 +406,21 @@ http://4ksuper.live:80/play/live.php?mac=00:1A:79:0e:80:f9&stream=1124346&extens
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124346&extension=ts&play_token=4LT1bBbn8g
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sport 0
-http://uhd3.one:80/live/Carlos24/Carlos24/1124350.ts
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1124350&extension=ts&play_token=HrSZ3wNGnN
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sport 1
 http://m.octotv.live:80/play/live.php?mac=00:1A:79:5E:B2:55&stream=1124350&extension=ts&play_token=Z5H3g2fOnu
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sport 2
 http://vip.liontv.site:80/play/live.php?mac=00:1A:79:08:5F:25&stream=1124350&extension=ts&play_token=WKAHYhlxV1
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sport 3
-http://4ksuper.live:80/play/live.php?mac=00:1A:79:0e:80:f9&stream=1124350&extension=ts&play_token=KqVsGcExhf
+http://bakerbonds.h1ott.com:80/play/live.php?mac=00:1A:79:66:a5:10&stream=1124350&extension=ts&play_token=LdFEY7xAl2
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sport 4
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124350&extension=ts&play_token=3HKs6JUGGq
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sport 5
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124350&extension=ts&play_token=wpmAw2wejp
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sport 6
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1124350&extension=ts&play_token=HrSZ3wNGnN
+
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sport 7
-http://bakerbonds.h1ott.com:80/play/live.php?mac=00:1A:79:66:a5:10&stream=1124350&extension=ts&play_token=LdFEY7xAl2
+
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",UFC FIGHT PASS 1
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=13259&extension=ts&play_token=dWtCza4q14
@@ -534,12 +513,6 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=9852&e
 http://dontuse.doublesmashedpudding.xyz:8080/play/live.php?mac=00:1A:79:34:89:01&stream=3117&extension=ts&play_token=xQq2xIVW8D
 
 #-*--Film-*--#
-#EXTINF:-1,group-title="UK Sky Cinema" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7361.1598063422.png",Sky Cinema Animation
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:34:AA:02&stream=697601&extension=ts&play_token=eKbLFYRTuQ
-#EXTINF:-1,group-title="UK Sky Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/1920px-Sky_Cinema_Action_-_Logo_2021.svg.png",Sky Cinema Action
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:34:AA:02&stream=697600&extension=ts&play_token=hOBfBmM2H6
-#EXTINF:-1,group-title="UK Sky Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sky_Cinema_Hits_-_Logo_2018.svg/1920px-Sky_Cinema_Hits_-_Logo_2018.svg.png",Sky Hits
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:34:AA:02&stream=1803&extension=ts&play_token=BYnwuk1gdt
 #EXTINF:-1,group-title="UK Sky Cinema" tvg-logo="https://media.info/i/lf/900/1592346981/1533.png",Sky Cinema Disney
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=9831&extension=ts&play_token=xJzW79GYZ1
 
@@ -675,3 +648,12 @@ https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 
 #-*--Radio-*--#
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hà Nội
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hồ Chí Minh
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", Mixbox Live Jpop
+https://code.vthanhtivi.pw/getlink/radio/mixbox/playlist.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", Xone Radio
+https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
