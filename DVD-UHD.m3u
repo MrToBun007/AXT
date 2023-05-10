@@ -393,6 +393,9 @@ http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=13259&exte
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",UFC FIGHT PASS 2
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=206942&extension=ts&play_token=GCslZL1uNr
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",UFC FIGHT PASS 3
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=13259&extension=ts&play_token=BGkfLwnUBH
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",UFC FIGHT PASS 4
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101217&extension=ts&play_token=hm8Di15njA
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",WWE 1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=39199&extension=ts&play_token=cuaD8IGK33
