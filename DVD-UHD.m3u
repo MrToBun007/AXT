@@ -326,6 +326,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=130123&exten
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",USA Networks 3
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=8259&extension=ts&play_token=g5949aLDdj
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",USA Networks 4
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=8259&extension=ts&play_token=qNR9QneOli
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1555727&extension=ts&play_token=RrcDvQxvCi
@@ -438,7 +439,7 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206
 
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Bein Sport 4K (Canal+ Foot)
 http://onrev.xyz:80/mag00:1A:79:B2:D5:B7/U7Ed5pAXj8/151363
-#EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Bein 4K
+#EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",Bein 4K
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=269457&extension=ts&play_token=R4wN7KS6bF
 
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Motor 1
