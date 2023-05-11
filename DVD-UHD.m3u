@@ -290,9 +290,6 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=10490
 #EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",VSport Ultra 12
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=294070&extension=ts&play_token=vz5caklw0v
 
-#EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C_More_Logo.svg/1920px-C_More_Logo.svg.png",Cmore C1-League 1
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101208&extension=ts&play_token=20ygc8JJdL
-
 #EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",Sky F1 0
 http://dontuse.doublesmashedpudding.xyz:8080/play/live.php?mac=00:1A:79:34:89:01&stream=596862&extension=ts&play_token=gDxpsKhhTW
 #EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",Sky F1 1
