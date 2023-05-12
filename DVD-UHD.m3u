@@ -237,13 +237,13 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C0:3F:DF&stream=1555710&exte
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=905665&extension=ts&play_token=vMRjS8ffAb
 
 #EXTINF:-1,group-title="Germany Sky" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",Sky Bundesliga 1
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=411573&extension=ts&play_token=J1FnMGqtqn
+
 #EXTINF:-1,group-title="Germany Sky" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",Sky Bundesliga 2
 
 #EXTINF:-1,group-title="Germany Sky" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Sky Sport DE 1
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=411603&extension=ts&play_token=NyQU4o53Ym
+
 #EXTINF:-1,group-title="Germany Sky" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Sky Sport DE 2
-http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=411603&extension=ts&play_token=DTvzTDFcVT
+
 
 #EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 1
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=443338&extension=ts&play_token=f5SxajYgdf
