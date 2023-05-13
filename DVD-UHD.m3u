@@ -401,7 +401,7 @@ http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=9663&exten
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",Canal+ 4K 0
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526135&extension=ts&play_token=Aohk0PNWL9
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",Canal+ 4K 1
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=526135&extension=ts&play_token=qL7QDI69et
+http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&extension=ts&play_token=7Af8Ztv0eN
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",Canal+ 4K 2
 http://playedbikes.h1ott.com:80/play/live.php?mac=00:1A:79:53:8F:F2&stream=526135&extension=ts&play_token=XGBmZ0GMm8
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",Canal+ 4K 3
@@ -413,7 +413,7 @@ http://onrev.xyz:80/mag00:1A:79:B2:D5:B7/U7Ed5pAXj8/147547
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",Canal+ 4K 6
 http://youtubecdn.watch:8080/HMTtvs7NRh2N/3MaoUDQ7ff/618315?play_token=yltrFc5a3k
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",Canal+ 4K 7
-http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&extension=ts&play_token=7Af8Ztv0eN
+
 
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
 http://playedbikes.h1ott.com:80/play/live.php?mac=00:1A:79:53:8F:F2&stream=526130&extension=ts&play_token=zckuCZhPw5
