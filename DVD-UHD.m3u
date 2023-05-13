@@ -439,10 +439,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=269457&extensi
 
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Motor 1
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526128&extension=ts&play_token=b5FA4gfd0H
-#EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 360 1
-http://youtubecdn.watch:8080/bxwvXEd6DLN4/F0XsGb5444/618987?play_token=xdN7w20OPN
-#EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 360 2
-http://youtubecdn.watch:8080/eQdcVgCTANRd/0GNts6StpS/618987?play_token=Ulnp3a3ebE
+
 
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",RMC Sport 1
 
