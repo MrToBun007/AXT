@@ -66,7 +66,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&exten
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 2
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=514345&extension=ts&play_token=yRR4sWwkV3
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 3
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=514345&extension=ts&play_token=KK2U7qOtQT
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:51:0E&stream=514345&extension=ts&play_token=GaWRN3tbKY
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 4
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1552954&extension=ts&play_token=is1nlARLOb
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 5
@@ -78,7 +78,7 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1299719&ext
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 8
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sport Main Event 9
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:51:0E&stream=514345&extension=ts&play_token=GaWRN3tbKY
+
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Sky Sport UK 0
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1227372&extension=ts&play_token=WwXi0UsZNH
