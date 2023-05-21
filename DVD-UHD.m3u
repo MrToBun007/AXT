@@ -176,7 +176,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348094&extensi
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sport HK 0
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1122720&extension=ts&play_token=hhSWlVitAb
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sport HK 1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1032489&extension=ts&play_token=dnJqjEh6WO
+http://89.47.232.72:8080/play/live.php?mac=00:1A:79:5e:0f:6b&stream=594609&extension=ts&play_token=QNC3hYJTN3
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sport HK 2
 http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=117957&extension=ts&play_token=TbTXgt1B53
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sport HK 3
