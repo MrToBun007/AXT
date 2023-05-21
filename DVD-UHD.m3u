@@ -323,6 +323,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1555727&exte
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1555727&extension=ts&play_token=9EX7js4tMx
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 7
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1555727&extension=ts&play_token=2xn7PS2q11
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 8
+http://esv5.net:80/XAjg8y773l/L6vQXiF7UV/93541?play_token=oRbTuiLvDK
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",ESPN 1 FHD
 
@@ -351,6 +353,8 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=11243
 http://4ksuper.live:80/play/live.php?mac=00:1A:79:0e:80:f9&stream=1124346&extension=ts&play_token=eovI6WKkOS
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",Fox Sport 4K 5 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124346&extension=ts&play_token=4LT1bBbn8g
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",Fox Sport 4K 6
+http://esv5.net:80/XAjg8y773l/L6vQXiF7UV/93546?play_token=K4AF2EqAB5
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sport 1
 http://m.octotv.live:80/play/live.php?mac=00:1A:79:5E:B2:55&stream=1124350&extension=ts&play_token=Z5H3g2fOnu
