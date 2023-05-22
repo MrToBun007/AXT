@@ -81,6 +81,8 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1299719&ext
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",10.Sky Sport Main Event
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1552954&extension=ts&play_token=261vHp9XEU
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",11.Sky Sport Main Event
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=514345&extension=ts&play_token=OBi3eWXqCw
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/10_News.png",Sky Sport News FHD 1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255100&extension=ts&play_token=POL80HFHdc
@@ -91,7 +93,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255104&exten
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Sky Sport Premier League FHD 1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255098&extension=ts&play_token=t8NRUo9Bmx
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/07_Golf.png",Sky Sport Golf FHD 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:38:78:38&stream=1900&extension=ts&play_token=GCiNi4BAM6
+
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/06_Racing.png",Sky Sport Racing FHD 1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255097&extension=ts&play_token=25c4inW4wg
 
@@ -156,15 +158,15 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1124635&exte
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",3.Astro Supersport
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=1016544&extension=ts&play_token=1EpPfEv4wz
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",4.Astro Supersport
-http://trx.p13.one:80/live/Willow123/Willow123/1836045.ts
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348094&extension=ts&play_token=P9pIHC5Mru
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",5.Astro Supersport
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348094&extension=ts&play_token=P9pIHC5Mru
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",6.Astro Supersport
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extension=ts&play_token=4bpG5l7h9F
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",7.Astro Supersport
 
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",8.Astro Supersport
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348094&extension=ts&play_token=P9pIHC5Mru
+
 
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sport HK
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=117957&extension=ts&play_token=UOUW7IPf3f
@@ -177,7 +179,7 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=117957
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",5.Now Sport HK
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=117957&extension=ts&play_token=UOUW7IPf3f
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",6.Now Sport HK
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=117957&extension=ts&play_token=sat0ryUCaC
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",7.Now Sport HK
 
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",8.Now Sport HK
@@ -216,11 +218,13 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=905665&
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C0:3F:DF&stream=1555710&extension=ts&play_token=fkYtToV0SU
 #EXTINF:-1,group-title="Poland Eleven Sport" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",5.Eleven Sport
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=905665&extension=ts&play_token=vMRjS8ffAb
+#EXTINF:-1,group-title="Poland Eleven Sport" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",6.Eleven Sport
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348127&extension=ts&play_token=FlYAe3hSYU
 
 #EXTINF:-1,group-title="Germany Sky" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",1.Sky Bundesliga Live Event
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=242541&extension=ts&play_token=Vrv3McCZfa
 #EXTINF:-1,group-title="Germany Sky" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",2.Sky Bundesliga
-http://magm1giillmig.funtogether.xyz:8080/csbQKNt1zL/20Y6A0lnqF/108527?play_token=AheJcpV4DG
+
 #EXTINF:-1,group-title="Germany Sky" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",3.Sky Bundesliga
 
 
@@ -241,6 +245,8 @@ http://xc.tvset.top:80/4KSTREAMS/GXnvAEryP9Cy/17
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=443338&extension=ts&play_token=bKbast55I4
 #EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",5.DIGI
 http://xc.tvset.top:80/4KSTREAMS/GXnvAEryP9Cy/17
+#EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",6.DIGI
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=90814&extension=ts&play_token=vfms2HUyoB
 
 #EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",1.VSport Ultra
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=294070&extension=ts&play_token=vz5caklw0v
@@ -267,7 +273,7 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=46635
 #EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",12.VSport Ultra
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1049082&extension=ts&play_token=gN2PLXXbsS
 #EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",13.VSport Ultra
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=31644&extension=ts&play_token=ElnAhtvVak
 
 #EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C_More_Logo.svg/1920px-C_More_Logo.svg.png",Cmore UHD 1 C1&League 1
 
@@ -401,7 +407,7 @@ http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extens
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",6.Canal+ 4K
 http://onrev.xyz:80/mag00:1A:79:B2:D5:B7/U7Ed5pAXj8/147547
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",7.Canal+ 4K
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101206&extension=ts&play_token=L5QYnlXAbF
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",8.Canal+ 4K
 
 
@@ -424,15 +430,18 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=52613
 
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Bein Sport 4K (Canal+ Foot)
 http://onrev.xyz:80/mag00:1A:79:B2:D5:B7/U7Ed5pAXj8/151363
-#EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",Bein 4K
+
+#EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",1.Bein 4K
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=269457&extension=ts&play_token=R4wN7KS6bF
+#EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",2.Bein 4K
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=269457&extension=ts&play_token=Lsl5OVpziW
 
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ Motor
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526128&extension=ts&play_token=b5FA4gfd0H
 
 
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",RMC Sport 1
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101205&extension=ts&play_token=4vd06PVuX3
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",ITV 1 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=22815&extension=ts&play_token=3ABp2Z0CTf
