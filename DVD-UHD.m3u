@@ -142,22 +142,22 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348096&extensi
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",17.Hub Premier UHD2
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1124634&extension=ts&play_token=CZvpF4shBe
 
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",Hub Premier 1 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
 
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premier 2 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 FHD
 
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",Hub Premier 3 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",1.Hub Premier 3 FHD
 
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",Hub Premier 4 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",1.Hub Premier 4 FHD
 
 
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",Hub Premier 1 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",2.Hub Premier 1 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350557&extension=ts&play_token=OUA7OifHiI
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premier 2 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",2.Hub Premier 2 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350558&extension=ts&play_token=I7lqZQfynJ
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",Hub Premier 3 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",2.Hub Premier 3 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350559&extension=ts&play_token=9Dv3X5rOic
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",Hub Premier 4 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",2.Hub Premier 4 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350560&extension=ts&play_token=K6v6QLLBxs
 
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersport
@@ -237,11 +237,11 @@ http://megabest.ottc.pro/Jv5CmgEkUZetHZ8/eLqKeqw8ks/724
 #EXTINF:-1,group-title="Germany Sky" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",3.Sky Bundesliga
 
 
-#EXTINF:-1,group-title="Germany Sky" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Bundesliga 1
+#EXTINF:-1,group-title="Germany Sky" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",1.Bundesliga 1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1115464&extension=ts&play_token=0xSJ3akarP
-#EXTINF:-1,group-title="Germany Sky" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Bundesliga 2
+#EXTINF:-1,group-title="Germany Sky" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",1.Bundesliga 2
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1115463&extension=ts&play_token=59OZVswelI
-#EXTINF:-1,group-title="Germany Sky" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Bundesliga 3
+#EXTINF:-1,group-title="Germany Sky" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",1.Bundesliga 3
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1115462&extension=ts&play_token=0hpgBL3alR
 
 #EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI
@@ -297,9 +297,9 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1566281&ext
 #EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",4.Sky F1
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1566281&extension=ts&play_token=sAFDaEnf1o
 
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",Sky Sport F1 FHD 1
+#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",1.Sky Sport F1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",Sky Sport F1 FHD 2
+#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",2.Sky Sport F1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
 
 #EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg",DAZN LALIGA 1
@@ -362,6 +362,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1555726&exte
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1920px-2015_Fox_Sports_1_logo.svg.png",6.Fox Sport FS1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1555726&extension=ts&play_token=zQVZyXy1A1
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1920px-2015_Fox_Sports_1_logo.svg.png",7.Fox Sport FS1
+http://megabest.ottc.pro/Jv5CmgEkUZetHZ8/eLqKeqw8ks/578648
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",1.Fox Sport 4K
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
@@ -370,7 +371,7 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=11243
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",3.Fox Sport 4K
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124346&extension=ts&play_token=4LT1bBbn8g
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",4.Fox Sport 4K
-http://megabest.ottc.pro/Jv5CmgEkUZetHZ8/eLqKeqw8ks/578648
+
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",5.Fox Sport 4K
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",1.NBC Sport
@@ -387,23 +388,23 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124350&ext
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=1124350&extension=ts&play_token=okQhy24Oim
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",7.NBC Sport
 
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",UFC FIGHT PASS 1
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",1.UFC FIGHT PASS
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=13259&extension=ts&play_token=dWtCza4q14
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",UFC FIGHT PASS 2
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",2.UFC FIGHT PASS
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=206942&extension=ts&play_token=GCslZL1uNr
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",UFC FIGHT PASS 3
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",3.UFC FIGHT PASS
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=13259&extension=ts&play_token=BGkfLwnUBH
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",UFC FIGHT PASS 4
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",4.UFC FIGHT PASS
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101217&extension=ts&play_token=hm8Di15njA
 
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",WWE 1
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=39199&extension=ts&play_token=cuaD8IGK33
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",WWE 2
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",1.WWE
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=9663&extension=ts&play_token=4a8AB2mqki
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",WWE 3
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",2.WWE
+http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=9663&extension=ts&play_token=4a8AB2mqki
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",3.WWE
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101219&extension=ts&play_token=gKPtTo2TCQ
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",WWE 4
-http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=9663&extension=ts&play_token=4a8AB2mqki
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",4.WWE
+
 
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",1.Canal+ 4K
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526135&extension=ts&play_token=Aohk0PNWL9
@@ -454,18 +455,18 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=52
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",RMC Sport 1
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101205&extension=ts&play_token=4vd06PVuX3
 
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",ITV 1 FHD
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",1.ITV 1 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=22815&extension=ts&play_token=3ABp2Z0CTf
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",ITV 2 FHD
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",1.ITV 2 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11113&extension=ts&play_token=1h8z8Nq126
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",ITV 3 FHD
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",1.ITV 3 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=37395&extension=ts&play_token=UTY59xbT8B
 
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",ITV 1 FHD
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",2.ITV 1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20142&extension=ts&play_token=j0M1Brp2wK
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",ITV 2 FHD
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",2.ITV 2 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20179&extension=ts&play_token=ISi0zQBbot
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",ITV 3 FHD
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",3.ITV 3 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20181&extension=ts&play_token=hbffuurR3H
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://www.pngkit.com/png/full/146-1464169_eurosport-1.png",1.EuroSport 1
