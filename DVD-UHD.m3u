@@ -22,24 +22,24 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1552955&exte
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",8.BT Ultimate
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300443&extension=ts&play_token=ST72fRM9E3
 
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",9.BT Ultimate Live Event
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",9.BT Ultimate
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1122782&extension=ts&play_token=GfHty63NZx
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",10.BT Ultimate Live Event
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",10.BT Ultimate
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1122782&extension=ts&play_token=U1nb6FuNER
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",11.BT Ultimate Live Event
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",11.BT Ultimate
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1122782&extension=ts&play_token=JqsTb3hawA
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",12.BT Ultimate Live Event
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",12.BT Ultimate 
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1122782&extension=ts&play_token=ipXtKwHwal
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",13.BT Ultimate Live Event
-http://playedbikes.h1ott.com:80/play/live.php?mac=00:1A:79:53:8F:F2&stream=1038792&extension=ts&play_token=G3YB0b0fli
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",14.BT Ultimate Live Event
-http://go.teamexpat.ninja:80/play/gxUzcx6FUZwjxDo_W7GU_vvRENtnO6SlSU1z4lHLzHaGq-8U3i81fyRzRIwDddt-BJ9N0RuXtgYJwPYZjqxvl6ur-N2hRmr5BgX1HiitDW2bRm9ZBA-mlSEHTnvejPSMq4AEjZ48BN9i9Off6G-lKeRflo0ob2Zb6KZsAWB_n-4?ext=.ts
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",15.BT Ultimate Live Event
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1122782&extension=ts&play_token=iDOcfithDz
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",16.BT Ultimate Live Event
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",13.BT Ultimate
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=8yrFewLAuO
-#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",17.BT Ultimate Live Event
-http://89.47.232.72:8080/play/live.php?mac=00:1A:79:5e:0f:6b&stream=565783&extension=ts&play_token=oTR6L9tR7H
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",14.BT Ultimate
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1122782&extension=ts&play_token=iDOcfithDz
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",15.BT Ultimate
+
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",16.BT Ultimate
+
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",17.BT Ultimate
+
 
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sport 1 FHD 
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=104722&extension=ts&play_token=O2NNroHgM0
