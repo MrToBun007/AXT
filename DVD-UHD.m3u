@@ -566,39 +566,30 @@ https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
 
 #-*--Hoạt hình & Quốc tế-*--#
 
-#EXTINF:-1 tvg-id="hbohd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
 http://live.vthanhtivi.pw/hbo
-#EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="🌏| Quốc tế" tvg-logo="https://img.vnmedia.xyz/logo/hbofamilyhd-asia.png", HBO Family HD
+#EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="🧡| VTVcab" tvg-logo="https://img.vnmedia.xyz/logo/hbofamilyhd-asia.png", HBO Family HD
 
-#EXTINF:-1 tvg-id="hbohitshd-asia" group-title="🌏| Quốc tế" tvg-logo="https://img.vnmedia.xyz/logo/hbohitshd-asia.png", HBO Hits HD
+#EXTINF:-1 tvg-id="hbohitshd-asia" group-title="🧡| VTVcab" tvg-logo="https://img.vnmedia.xyz/logo/hbohitshd-asia.png", HBO Hits HD
 
-#EXTINF:-1 tvg-id="hbosignaturehd-asia" group-title="🌏| Quốc tế" tvg-logo="https://img.vnmedia.xyz/logo/hbosignaturehd-asia.png", HBO Signature
+#EXTINF:-1 tvg-id="hbosignaturehd-asia" group-title="🧡| VTVcab" tvg-logo="https://img.vnmedia.xyz/logo/hbosignaturehd-asia.png", HBO Signature
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
 http://live.vthanhtivi.pw/cinemax
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 
-#EXTINF:-1 tvg-id="man" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+#EXTINF:-1 tvg-id="man" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://code.vthanhtivi.pw/getlink/cliptv/837/chunklist_b5128000.m3u8
-
-#-*--Radio-*--#
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hà Nội
-https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hồ Chí Minh
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", Xone Radio
-https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
-
 
 #-*--VTVCAB-*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",  VTVcab 1 - Vie Giải trí HD
@@ -618,4 +609,12 @@ https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+
+#-*--Radio-*--#
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hà Nội
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hồ Chí Minh
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", Xone Radio
+https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
 
