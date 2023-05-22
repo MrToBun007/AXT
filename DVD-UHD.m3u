@@ -142,22 +142,14 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348096&extensi
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",17.Hub Premier UHD2
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1124634&extension=ts&play_token=CZvpF4shBe
 
+
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
-
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 FHD
-
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",1.Hub Premier 3 FHD
-
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",1.Hub Premier 4 FHD
-
-
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",2.Hub Premier 1 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350557&extension=ts&play_token=OUA7OifHiI
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",2.Hub Premier 2 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350558&extension=ts&play_token=I7lqZQfynJ
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",2.Hub Premier 3 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",1.Hub Premier 3 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350559&extension=ts&play_token=9Dv3X5rOic
-#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",2.Hub Premier 4 FHD
+#EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",1.Hub Premier 4 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350560&extension=ts&play_token=K6v6QLLBxs
 
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersport
