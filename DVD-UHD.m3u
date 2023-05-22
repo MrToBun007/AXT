@@ -167,15 +167,15 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extensi
 
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",8.Astro Supersport UHD
 
-#EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersport 1 FHD
+#EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38186&extension=ts&play_token=dAdxkwYjMp
-#EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersport 2 FHD
+#EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 2 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38187&extension=ts&play_token=R9ODy8D8B8
-#EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersport 3 FHD
+#EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 3 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38189&extension=ts&play_token=MhUYplPWKt
-#EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersport 4 FHD
+#EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 4 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38191&extension=ts&play_token=OR5DOWotC8
-#EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersport 5 FHD
+#EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 5 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1117031&extension=ts&play_token=eOaVsReUY3
 
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sport HK UHD
@@ -313,7 +313,7 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=986639&exte
 #EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg",1.DAZN LALIGA FHD
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=986639&extension=ts&play_token=1MUThi6pCh
 
-#EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",1.SuperSport LALIGA FHD
+#EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg",1.SuperSport LALIGA FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=33507&extension=ts&play_token=hY79tjl8gW
 #EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",2.SuperSport LALIGA FHD
 
