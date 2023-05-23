@@ -94,6 +94,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1552954&exte
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=514345&extension=ts&play_token=OBi3eWXqCw
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",12.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552954&extension=ts&play_token=Y8BoswZibD
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",13.Sky Sports Main Event UHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1552954&extension=ts&play_token=lByrhTs3UD
 
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/10_News.png",1.Sky Sports News FHD
@@ -113,20 +115,20 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255097&exten
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/10_News.png",2.Sky Sports News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255100&extension=ts&play_token=POL80HFHdc
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",2.Sky Sports Main Event FHD
-http://world-tv.tk:8090/play/live.php?mac=00:1A:79:58:1e:fe&stream=110001&extension=ts&play_token=F6vYwPBUlX
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=Tkd8tpMXwB
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",2.Sky Sports Football FHD
-http://world-tv.tk:8090/play/live.php?mac=00:1A:79:58:1e:fe&stream=110003&extension=ts&play_token=YazZIweRit
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255104&extension=ts&play_token=XuD8NsRQqR
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",2.Sky Sports Premier League FHD
-http://world-tv.tk:8090/play/live.php?mac=00:1A:79:58:1e:fe&stream=110002&extension=ts&play_token=XgtAXfzKx9
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255098&extension=ts&play_token=Za0weY3vbC
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/07_Golf.png",2.Sky Sports Golf FHD
-http://world-tv.tk:8090/play/live.php?mac=00:1A:79:58:1e:fe&stream=110005&extension=ts&play_token=hboB1I2HqG
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255103&extension=ts&play_token=XycWWKtc3O
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/06_Racing.png",2.Sky Sports Racing FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255097&extension=ts&play_token=25c4inW4wg
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&extension=ts&play_token=pS17zrmBcR
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Sports 1 FHD
-http://world-tv.tk:8090/play/live.php?mac=00:1A:79:58:1e:fe&stream=119&extension=ts&play_token=pQFGayNems
+
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Sports 2 FHD
-http://world-tv.tk:8090/play/live.php?mac=00:1A:79:58:1e:fe&stream=120&extension=ts&play_token=wN0sNNi1Tf
+
 
 
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 UHD
@@ -156,7 +158,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1350568&exte
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",13.Hub Premier 2 UHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1a:79:6b:96:31&stream=232243&extension=ts&play_token=m8xHwNokrf
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",14.Hub Premier 2 UHD
-
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1124634&extension=ts&play_token=HTXHPX2Pnh
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",15.Hub Premier 2 UHD
 
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",16.Hub Premier 2 UHD
@@ -444,7 +446,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=13259&extensio
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",4.UFC FIGHT PASS FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101217&extension=ts&play_token=hm8Di15njA
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",5.UFC FIGHT PASS FHD
-http://world-tv.tk:8090/play/live.php?mac=00:1A:79:58:1e:fe&stream=624464&extension=ts&play_token=pAF25Wg6JN
+
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",1.WWE FHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=9663&extension=ts&play_token=4a8AB2mqki
@@ -453,7 +455,7 @@ http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=9663&exten
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",3.WWE FHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101219&extension=ts&play_token=gKPtTo2TCQ
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",4.WWE FHD
-http://world-tv.tk:8090/play/live.php?mac=00:1A:79:58:1e:fe&stream=2219&extension=ts&play_token=HH22RJaGly
+
 
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",1.Canal+ 4K
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526135&extension=ts&play_token=Aohk0PNWL9
