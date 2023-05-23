@@ -67,13 +67,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552954&exte
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",13.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1552954&extension=ts&play_token=lByrhTs3UD
 
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",1.EPL 4K Live Event
-http://ampify20.xyz:8080/c5hSKO3jyX/JRGffZ5B1f/226007?play_token=YlAyySB4vP
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",2.EPL 4K Live Event
-http://ampify20.xyz:8080/c5hSKO3jyX/JRGffZ5B1f/226006?play_token=gWr3tdueON
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",3.EPL 4K Live Event
-http://ampify20.xyz:8080/c5hSKO3jyX/JRGffZ5B1f/226005?play_token=2eCJVFlDt8
-
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 UHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1032518&extension=ts&play_token=23sRdi72eC
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",2.Hub Premier 2 UHD
