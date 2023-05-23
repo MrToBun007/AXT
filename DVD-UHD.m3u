@@ -98,7 +98,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552954&exte
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/10_News.png",1.Sky Sport News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255100&extension=ts&play_token=POL80HFHdc
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",1.Sky Sport Main Event FHD
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",1.Sky Sport Main Event FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255102&extension=ts&play_token=Hz8fIAwLKE
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",1.Sky Sport Football FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255104&extension=ts&play_token=DiBZxTfc3q
@@ -112,7 +112,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255097&exten
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/10_News.png",2.Sky Sport News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255100&extension=ts&play_token=POL80HFHdc
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",2.Sky Sport Main Event FHD
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",2.Sky Sport Main Event FHD
 http://world-tv.tk:8090/play/live.php?mac=00:1A:79:58:1e:fe&stream=110001&extension=ts&play_token=F6vYwPBUlX
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",2.Sky Sport Football FHD
 http://world-tv.tk:8090/play/live.php?mac=00:1A:79:58:1e:fe&stream=110003&extension=ts&play_token=YazZIweRit
@@ -504,7 +504,7 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=52
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",RMC Sport 1 UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101205&extension=ts&play_token=4vd06PVuX3
 
-#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png,1.BBC ONE FHD
+#EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png",1.BBC ONE FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71399&extension=ts&play_token=2JCVbfMtIN
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1841px-BBC_Two.svg.png",1.BBC TWO FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71397&extension=ts&play_token=x0DivRfPN5
