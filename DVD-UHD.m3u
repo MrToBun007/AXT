@@ -39,7 +39,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1122782&exte
 
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",17.BT Ultimate UHD
 
-
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",1.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",2.Sky Sports Main Event UHD
@@ -165,7 +164,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=443338&extens
 #EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",5.DIGI UHD
 http://xc.tvset.top:80/4KSTREAMS/GXnvAEryP9Cy/17
 #EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",6.DIGI UHD
-
 
 #EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",1.VSport Ultra UHD
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=294070&extension=ts&play_token=vz5caklw0v
@@ -366,7 +364,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255098&exten
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/06_Racing.png",1.Sky Sports Racing FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255097&extension=ts&play_token=25c4inW4wg
 
-
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/10_News.png",2.Sky Sports News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255100&extension=ts&play_token=POL80HFHdc
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",2.Sky Sports Main Event FHD
@@ -381,9 +378,9 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255103&exten
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&extension=ts&play_token=pS17zrmBcR
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Sports 1 FHD
-http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753916.m3u8
+
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Sports 2 FHD
-http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753920.m3u8
+
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Extra FHD
 http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753907.m3u8
 
