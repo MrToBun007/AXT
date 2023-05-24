@@ -98,7 +98,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1124634&exte
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",15.Hub Premier 2 UHD
 http://103.76.130.33:13107/play/AO-exgRlEK3XJoH1rBboJUz0-0F9ZlGcyIKy3MIX7-UW2uRxLoY5C98qcDID93OcKGwo0Uh9ivILiRTUKxjK8r5-h_-dctTj5PjZ7mFsNfA?ext=.ts
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",16.Hub Premier 2 UHD
-
+http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=188713&extension=ts&play_token=ypbW8n6aUB
 #EXTINF:-1,group-title="Singapore Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",17.Hub Premier 2 UHD
 
 
@@ -134,6 +134,8 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=117957&extensi
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303200&extension=ts&play_token=gJCG1hoQo0
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",8.Now Sports HK UHD
 http://103.76.130.33:13107/play/AO-exgRlEK3XJoH1rBboJUz0-0F9ZlGcyIKy3MIX7-W1WDP2-1kcR7lixqeEiLjAcEoW0E2AGljosOqRDIsC_DPfpx6Q5DUoCrCMpV8nG9s?ext=.ts
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",9.Now Sports HK UHD
+http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=188694&extension=ts&play_token=D5ELZEEfiX
 
 #EXTINF:-1,group-title="Poland Eleven Sport" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",1.Eleven Sports UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=905665&extension=ts&play_token=0jUPfyTJIv
