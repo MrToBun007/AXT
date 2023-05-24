@@ -562,7 +562,7 @@ http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303297&extension=
 
 #EXTINF:-1,group-title="LaLiga" tvg-logo="https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg",1.SuperSport LaLiga FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=33507&extension=ts&play_token=hY79tjl8gW
-#EXTINF:-1,group-title="LaLiga" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",2.SuperSport LaLiga FHD
+#EXTINF:-1,group-title="LaLiga" tvg-logo="https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg",2.SuperSport LaLiga FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=39406&extension=ts&play_token=BUOEVNLzqW
 
 #EXTINF:-1,group-title="LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1024px-Movistar_LaLiga.svg.png",1.Movistar LaLiga 1 FHD
