@@ -199,13 +199,13 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=31644&extensio
 
 #EXTINF:-1,group-title="Sweden Vsport Ultra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C_More_Logo.svg/1920px-C_More_Logo.svg.png",Cmore UHD 2 C1&League 1
 
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png",1.Sky F1 UHD
+#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest?cb=20200924152412",1.Sky F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png",2.Sky F1 UHD
+#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest?cb=20200924152412",2.Sky F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1566281&extension=ts&play_token=EsxX1oCPF8
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png",3.Sky F1 UHD
+#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest?cb=20200924152412",3.Sky F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1566281&extension=ts&play_token=pWO7TmsfXQ
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png",4.Sky F1 UHD
+#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest?cb=20200924152412",4.Sky F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1566281&extension=ts&play_token=sAFDaEnf1o
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",1.ESPN UHD
@@ -444,13 +444,13 @@ http://89.47.232.72:8080/play/live.php?mac=00:1A:79:bd:cf:c4&stream=391720&exten
 #EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png",Chelsea FHD
 http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/17277
 
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png",1.Sky Sport F1 FHD
+#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",1.Sky Sport F1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png",2.Sky Sport F1 FHD
+#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",2.Sky Sport F1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png",3.Sky Sport F1 FHD
+#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",3.Sky Sport F1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=ts&play_token=6rCllY0ScD
-#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png",4.Sky Sport F1 FHD
+#EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",4.Sky Sport F1 FHD
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://www.pngkit.com/png/full/146-1464169_eurosport-1.png",1.EuroSport 1 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=8339&extension=ts&play_token=clIor7Ker2
