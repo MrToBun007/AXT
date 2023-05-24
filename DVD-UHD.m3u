@@ -319,7 +319,7 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=52
 #EXTINF:-1,group-title="France Canal+" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",RMC Sport 1 UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101205&extension=ts&play_token=4vd06PVuX3
 
-#EXTINF:-1,group-title="USA" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/bloomberg-logo-transparent.png",Bloomberg UHD
+#EXTINF:-1,group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1280px-New_Bloomberg_Logo.svg.png",Bloomberg UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584&extension=ts&play_token=6jBXOtTIxl
 
 #-*--FHD-*--#
@@ -469,9 +469,9 @@ http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=9663&exten
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101219&extension=ts&play_token=gKPtTo2TCQ
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",4.WWE FHD
 
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",1.ESPN 1 FHD
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",1.ESPN 1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=32083&extension=ts&play_token=54jfarpTs9
-#EXTINF:-1,group-title="USA Sport" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",2.ESPN 2 FHD
+#EXTINF:-1,group-title="USA Sport" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",2.ESPN 2 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=32089&extension=ts&play_token=OJgmkAhrHs
 
 #EXTINF:-1,group-title="USA Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png",1.Fox Sports 1 FHD
