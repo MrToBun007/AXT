@@ -69,9 +69,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1552954&exte
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",14.Sky Sports Main Event UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=514345&extension=ts&play_token=69TIKKWHGE
 
-#EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BBC_Sport_%282022%2C_alt%29.svg/1280px-BBC_Sport_%282022%2C_alt%29.svg.png",1.BBC Sports UHD
-http://may23.ddns.best:25461/xPjkG8uhXpX9/2O0rwVkBxC/1066500?play_token=kkBkOqUPLx
-
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",1.Hub Premier 2 UHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1032518&extension=ts&play_token=23sRdi72eC
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",2.Hub Premier 2 UHD
@@ -389,8 +386,6 @@ http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=174206&extensio
 #EXTINF:-1,group-title="UK BT Sportss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png",1.BT Sportss ESPN FHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2123&extension=ts&play_token=duMX7lgrg6
 
-#EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/10_News.png",1.Sky Sports News FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255100&extension=ts&play_token=POL80HFHdc
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",1.Sky Sports Main Event FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255102&extension=ts&play_token=Hz8fIAwLKE
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",1.Sky Sports Football FHD
@@ -403,8 +398,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255098&exten
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255097&extension=ts&play_token=25c4inW4wg
 
 
-#EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/10_News.png",2.Sky Sports News FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255100&extension=ts&play_token=POL80HFHdc
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",2.Sky Sports Main Event FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=Tkd8tpMXwB
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",2.Sky Sports Football FHD
@@ -416,10 +409,21 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255103&exten
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/06_Racing.png",2.Sky Sports Racing FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&extension=ts&play_token=pS17zrmBcR
 
+#EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",3.Sky Sports Main Event FHD
+http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArCjHZ69_INMOMFKVAdPpdF27H8cUz02iFaa-OTyU_Uc9sMyJRlt2jfkdCahUAg7L5c?ext=.ts
+#EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",3.Sky Sports Football FHD
+http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArA_aNHomAaMG0jdLhdbocoiHW_cJ5nCkLjRt0ANqbHjWe8S7miAouimk3HNxiFM4C0?ext=.ts
+#EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",3.Sky Sports Premier League FHD
+http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArDv5KzXeOleOGBGglK5RADMtpgAw1qowdwT_ibxoHhEA91zGZWPnLl1B7-f_z-LW5s?ext=.ts
+#EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/07_Golf.png",3.Sky Sports Golf FHD
+http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArCdu2tBmnd4RcSFNISZNYclBBuptV3tThbXKotzx4o-LfYFi9KajAG_S0SFOjixaxU?ext=.ts
+#EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/06_Racing.png",3.Sky Sports Racing FHD
+http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArBCREZPcven_8uc8HkXt3e9Cdppdc9r82NrMUjs7J1Ji95jXUIFAOeqYF8W0gPVy3A?ext=.ts
+
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Sports 1 FHD
-http://may23.ddns.best:25461/xPjkG8uhXpX9/2O0rwVkBxC/216165?play_token=shfsXLrvXJ
+
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Sports 2 FHD
-http://may23.ddns.best:25461/xPjkG8uhXpX9/2O0rwVkBxC/216176?play_token=4xAiOuSDLM
+
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Extra FHD
 http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753907.m3u8
 
@@ -455,7 +459,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20181&extens
 #EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",1.Manchester City FHD
 http://103.76.130.33:13107/play/AO-exgRlEK3XJoH1rBboJUz0-0F9ZlGcyIKy3MIX7-VkSRFzbaxaVFzEoJfnWOA7aKEIYjiQ2AuG827J9pHCfmaMNCXe88JBw2QibNpyXHo?ext=.ts
 #EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",2.Manchester City FHD
-http://may23.ddns.best:25461/xPjkG8uhXpX9/2O0rwVkBxC/1083403?play_token=GrbAivjROD
+
 
 #EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",1.Manchester United FHD
 http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/59933.m3u8
@@ -590,6 +594,8 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497553&ext
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122",1.Now Sports HK 4 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497554&extension=ts&play_token=REOFKLXSCG
 
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122",1.Now Sports HK 1 FHD
+http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArDDQ1Pmdn2q2WN_gAWk0mfY6y_EI84iaeCBhJ3iYlhW1UsQXjHMuqx-WvpRMD5ZtWg?ext=.ts
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_170_122",2.Now Sports HK 2 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1497552&extension=ts&play_token=BWPiOwlc4j
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122",2.Now Sports HK 3 FHD
