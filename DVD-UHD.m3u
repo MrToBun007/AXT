@@ -119,6 +119,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extensi
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",7.Astro Supersport UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1124635&extension=ts&play_token=Lo8TkzabXR
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",8.Astro Supersport UHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=348094&extension=ts&play_token=FDS5rE9zWX
 
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports HK UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=117957&extension=ts&play_token=UOUW7IPf3f
@@ -138,6 +139,8 @@ http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303200&extension=
 http://103.76.130.33:13107/play/AO-exgRlEK3XJoH1rBboJUz0-0F9ZlGcyIKy3MIX7-W1WDP2-1kcR7lixqeEiLjAcEoW0E2AGljosOqRDIsC_DPfpx6Q5DUoCrCMpV8nG9s?ext=.ts
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",9.Now Sports HK UHD
 http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=188694&extension=ts&play_token=D5ELZEEfiX
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",10.Now Sports HK UHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=117957&extension=ts&play_token=uGcXc38EuH
 
 #EXTINF:-1,group-title="Poland Eleven Sport" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",1.Eleven Sports UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=905665&extension=ts&play_token=0jUPfyTJIv
@@ -156,8 +159,9 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348127&extensi
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=242541&extension=ts&play_token=Vrv3McCZfa
 #EXTINF:-1,group-title="Germany Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",2.Sky Bundesliga UHD Live Event
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=242541&extension=ts&play_token=Q2Slxo109Y
-#EXTINF:-1,group-title="Germany Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",3.Sky Bundesliga UHD
-http://megabest.ottc.pro/Jv5CmgEkUZetHZ8/eLqKeqw8ks/724
+#EXTINF:-1,group-title="Germany Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",3.Sky Bundesliga UHD Live Event
+http://megabest.ottc.pro/Jv5CmgEkUZetHZ8/eLqKeqw8ks/724#EXTINF:-1,group-title="Germany Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",4.Sky Bundesliga UHD Live Event
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=242541&extension=ts&play_token=zYPLjshflN
 
 #EXTINF:-1,group-title="Sweden DIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=443338&extension=ts&play_token=f5SxajYgdf
@@ -330,8 +334,6 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extensi
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584&extension=ts&play_token=6jBXOtTIxl
 
 #EXTINF:-1,group-title="USA" tvg-logo="https://i0.wp.com/mobirank.pl/wp-content/uploads/2022/09/love-nature-4k-logo.jpg",1.Love Nature UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=526941&extension=ts&play_token=NGiAxqlaZl
-#EXTINF:-1,group-title="USA" tvg-logo="https://i0.wp.com/mobirank.pl/wp-content/uploads/2022/09/love-nature-4k-logo.jpg",2.Love Nature UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=502583&extension=ts&play_token=HbZbZ4goJz
 
 #EXTINF:-1,group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV UHD
@@ -543,6 +545,16 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=986639&exte
 #EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg",1.SuperSport LALIGA FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=33507&extension=ts&play_token=hY79tjl8gW
 #EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",2.SuperSport LALIGA FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=39406&extension=ts&play_token=BUOEVNLzqW
+
+#EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1024px-Movistar_LaLiga.svg.png",1.Movistar Laliga 1 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361400&extension=ts&play_token=zaDNQesZPg
+#EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1024px-Movistar_LaLiga.svg.png",1.Movistar Laliga 2 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361404&extension=ts&play_token=u45yaclqe8
+#EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1024px-Movistar_LaLiga.svg.png",1.Movistar Laliga 3 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361406&extension=ts&play_token=jRmUF8p36V
+#EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1024px-Movistar_LaLiga.svg.png",1.Movistar Laliga 4 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361408&extension=ts&play_token=IsXSnXQ98w
 
 #EXTINF:-1,group-title="Spain LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1384px-LaLiga.svg.png",1.LALIGA TV FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303297&extension=ts&play_token=CBil8VNbyO
