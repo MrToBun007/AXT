@@ -521,25 +521,25 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1115460&exte
 
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122",1.Now Sports HK 1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303199&extension=ts&play_token=9qNh2gKuNQ
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports HK 2 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_170_122",1.Now Sports HK 2 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497552&extension=ts&play_token=1RVZY4q24D
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports HK 3 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122",1.Now Sports HK 3 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497553&extension=ts&play_token=ngyVucyX01
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports HK 4 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122",1.Now Sports HK 4 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497554&extension=ts&play_token=REOFKLXSCG
 
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",2.Now Sports HK 2 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_170_122",2.Now Sports HK 2 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1497552&extension=ts&play_token=BWPiOwlc4j
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",2.Now Sports HK 3 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122",2.Now Sports HK 3 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1497553&extension=ts&play_token=I9m2rjLkIJ
 
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png",1.Now Premier Sports HK 1 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122",1.Now Premier Sports HK 1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=176285&extension=ts&play_token=hZO78j1FTN
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png",1.Now Premier Sports HK 2 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122",1.Now Premier Sports HK 2 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=176284&extension=ts&play_token=xwsvGjGZXu
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png",1.Now Premier Sports HK 3 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_170_122",1.Now Premier Sports HK 3 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=176283&extension=ts&play_token=1Rxvn2PhMd
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png",1.Now Premier Sports HK 4 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122",1.Now Premier Sports HK 4 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=176282&extension=ts&play_token=uaeaiEPyja
 
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png",2.Now Premier Sports HK 1 FHD
