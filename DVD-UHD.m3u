@@ -363,6 +363,16 @@ http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71579&extension=t
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",3.BT Sport 4 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71578&extension=ts&play_token=oVLYVRHqoA
 
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",3.BT Sport 1 FHD
+http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=174203&extension=ts&play_token=g8fSFgXkK1
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",3.BT Sport 2 FHD
+http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=174204&extension=ts&play_token=9IX4zfxMlq
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",3.BT Sport 3 FHD
+http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=174205&extension=ts&play_token=TOoNGqOpGe
+#EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",3.BT Sport 4 FHD
+http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=174206&extension=ts&play_token=ydg6Dx1kck
+
+
 #EXTINF:-1,group-title="UK BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png",1.BT Sports ESPN FHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2123&extension=ts&play_token=duMX7lgrg6
 
