@@ -177,7 +177,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=90814&extensio
 #EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",6.DIGI UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=90814&extension=ts&play_token=TwlBMldSnw
 #EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",7.DIGI UHD
-http://icetv.uk:25461/live/m1fn25xuGh/y5Czrvp0bW/154586.ts?play_token=H9GckbOxF9
+
 
 #EXTINF:-1,group-title="VSports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",1.VSports Ultra UHD
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=294070&extension=ts&play_token=vz5caklw0v
