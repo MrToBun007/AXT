@@ -281,7 +281,7 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124350&ext
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",6.NBC Sports UHD
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=1124350&extension=ts&play_token=okQhy24Oim
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",7.NBC Sports UHD
-http://may23.ddns.best:25461/xPjkG8uhXpX9/2O0rwVkBxC/1008524?play_token=A5FKimspxq
+
 
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",1.Canal+ 4K
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526135&extension=ts&play_token=Aohk0PNWL9
@@ -470,11 +470,11 @@ http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/61467.m3u8
 #EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",2.Liverpool FHD
 http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/150244
 #EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",1.Asenal FHD
-http://89.47.232.72:8080/play/live.php?mac=00:1A:79:bd:cf:c4&stream=391703&extension=ts&play_token=RhS2IcM0jY
+
 #EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png",1.Newcastle United FHD
-http://may23.ddns.best:25461/xPjkG8uhXpX9/2O0rwVkBxC/1083405?play_token=xQRpIkfJKs
+
 #EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png",1.Chelsea FHD
-http://may23.ddns.best:25461/xPjkG8uhXpX9/2O0rwVkBxC/1083397?play_token=iphdy7DAFp
+
 
 #EXTINF:-1,group-title="Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",1.Sky Sport F1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
