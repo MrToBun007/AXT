@@ -283,11 +283,11 @@ http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=1124350&exten
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",1.Canal+ 4K
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526135&extension=ts&play_token=Aohk0PNWL9
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",2.Canal+ 4K
-http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&extension=ts&play_token=7Af8Ztv0eN
-#EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",3.Canal+ 4K
-http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=BzCcY4S10M
-#EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",4.Canal+ 4K
 http://vip.liontv.site:80/play/live.php?mac=00:1A:79:08:5F:25&stream=526135&extension=ts&play_token=NZ6PiTpvaY
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",3.Canal+ 4K
+http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&extension=ts&play_token=7Af8Ztv0eN
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",4.Canal+ 4K
+http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=BzCcY4S10M
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",5.Canal+ 4K
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101206&extension=ts&play_token=L5QYnlXAbF
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",6.Canal+ 4K
