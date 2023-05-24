@@ -627,8 +627,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121125&exten
 
 #EXTINF:-1,group-title="USA" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",1.National Geographic FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=dQdxWciay6
-#EXTINF:-1,group-title="USA" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",2.National Geographic FHD
-http://shacktv.com:8080/56fTQ6R0mg/RnyB1mxSHb/380?play_token=LMRtVaTuC1
 
 #EXTINF:-1,group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD FHD
 http://shacktv.com:8080/56fTQ6R0mg/RnyB1mxSHb/146?play_token=DpqqZQoU30
