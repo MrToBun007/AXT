@@ -416,21 +416,21 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20181&extens
 
 #EXTINF:-1,group-title="UK Sky Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",1.ITV 3X FHD
 
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",Manchester City FHD
+#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",Manchester City FHD
 http://103.76.130.33:13107/play/AO-exgRlEK3XJoH1rBboJUz0-0F9ZlGcyIKy3MIX7-VkSRFzbaxaVFzEoJfnWOA7aKEIYjiQ2AuG827J9pHCfmaMNCXe88JBw2QibNpyXHo?ext=.ts
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",1.Manchester United FHD
+#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",1.Manchester United FHD
 http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/59933.m3u8
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",2.Manchester United FHD
+#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",2.Manchester United FHD
 http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/17278
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",1.Liverpool FHD
+#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",1.Liverpool FHD
 http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/61467.m3u8
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",2.Liverpool FHD
+#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",2.Liverpool FHD
 http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/150244
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",Asenal FHD
+#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",Asenal FHD
 http://89.47.232.72:8080/play/live.php?mac=00:1A:79:bd:cf:c4&stream=391703&extension=ts&play_token=RhS2IcM0jY
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",Newcastle United FHD
+#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png",Newcastle United FHD
 http://89.47.232.72:8080/play/live.php?mac=00:1A:79:bd:cf:c4&stream=391720&extension=ts&play_token=HPFmx09B3C
-#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",Chelsea FHD
+#EXTINF:-1,group-title="UK EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png",Chelsea FHD
 http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/17277
 
 #EXTINF:-1,group-title="Italy Fomula F1" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/03_F1.png",1.Sky Sport F1 FHD
@@ -542,13 +542,13 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=176283&exten
 #EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122",1.Now Premier Sports HK 4 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=176282&extension=ts&play_token=uaeaiEPyja
 
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png",2.Now Premier Sports HK 1 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122",2.Now Premier Sports HK 1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303192&extension=ts&play_token=i4xTxQU1lQ
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png",2.Now Premier Sports HK 2 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122",2.Now Premier Sports HK 2 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303191&extension=ts&play_token=XD8L1JA3v0
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png",2.Now Premier Sports HK 3 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_170_122",2.Now Premier Sports HK 3 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303190&extension=ts&play_token=5gcIqRUx6Y
-#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png",2.Now Premier Sports HK 4 FHD
+#EXTINF:-1,group-title="HongKong Now Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122",2.Now Premier Sports HK 4 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303189&extension=ts&play_token=dHrFVtYZDs
 
 #EXTINF:-1,group-title="Malaysia Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 1 FHD
