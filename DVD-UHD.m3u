@@ -643,9 +643,9 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=16770&
 #EXTINF:-1,group-title="USA" tvg-logo="https://as1.ftcdn.net/v2/jpg/02/23/48/44/1000_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",Cartoon FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121125&extension=ts&play_token=Vz0jwCWbeg
 
-#EXTINF:-1,group-title="USA" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",1.National Geographic FHD
+#EXTINF:-1,group-title="USA" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",1.National Geographic US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=dQdxWciay6
-#EXTINF:-1,group-title="USA" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",2.National Geographic FHD
+#EXTINF:-1,group-title="USA" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",2.National Geographic UK FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=A0wMl77UWL
 
 #EXTINF:-1,group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD FHD
