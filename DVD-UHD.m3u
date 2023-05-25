@@ -267,8 +267,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1555726&exte
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1555726&extension=ts&play_token=zQVZyXy1A1
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1920px-2015_Fox_Sports_1_logo.svg.png",7.Fox Sports FS1 UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1555726&extension=ts&play_token=q0p4ojf4cQ
-#EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1920px-2015_Fox_Sports_1_logo.svg.png",7.Fox Sports FS1 UHD
-http://162.19.80.109:80/usachannels/nzPKdcZ8wbvj/129696
+#EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1920px-2015_Fox_Sports_1_logo.svg.png",8.Fox Sports FS1 UHD
+
 
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",1.Fox Sports 4K
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
@@ -327,11 +327,6 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=526130&extension=ts&play_token=MlgpSMgsLy
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ Sports Foot UHD
 
-#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",2.Bein Sport 4K (Canal+ Foot) UHD
-
-#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ Sport 360 UHD
-
-
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",1.Bein 4K
 
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",2.Bein 4K
@@ -360,7 +355,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=110504&extensi
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",2.Fashion TV UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=110504&extension=ts&play_token=ALwXgMQmHb
 
-#-*--FHD-*--#
+#-*--SPORT FULL HD-*--#
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",1.BT Sports 1 FHD 
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=104722&extension=ts&play_token=O2NNroHgM0
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",1.BT Sports 2 FHD 
@@ -656,23 +651,23 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350560&ext
 
 
 #-*--Film-*--#
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://media.info/i/lf/900/1592346981/1533.png",Sky Cinema Disney FHD
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://media.info/i/lf/900/1592346981/1533.png",1.Sky Cinema Disney FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=9831&extension=ts&play_token=xJzW79GYZ1
 
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CineMax US FHD
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",1.CineMax US FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121626&extension=ts&play_token=YUIHMcmuQd
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png",1.HBO US FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121724&extension=ts&play_token=LqZhyQpn8M
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png",2.HBO UK FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1555712&extension=ts&play_token=xKA7f4XNP1
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/1920px-MovieMax_Logo.svg.png",Movie Max FHD
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/1920px-MovieMax_Logo.svg.png",1.Movie Max FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121736&extension=ts&play_token=1jFfG95IwQ
 
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney Channel FHD
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",1.Disney Channel FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",Disney Junior FHD
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",1.Disney Junior FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=16770&extension=ts&play_token=ercn0JhXQO
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://as1.ftcdn.net/v2/jpg/02/23/48/44/1000_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",Cartoon FHD
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://as1.ftcdn.net/v2/jpg/02/23/48/44/1000_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",1.Cartoon FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121125&extension=ts&play_token=Vz0jwCWbeg
 
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",1.National Geographic US FHD
