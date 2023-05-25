@@ -103,6 +103,8 @@ http://103.76.130.33:13107/play/AO-exgRlEK3XJoH1rBboJUz0-0F9ZlGcyIKy3MIX7-UW2uRx
 http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=188713&extension=ts&play_token=ypbW8n6aUB
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",17.Hub Premier 2 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350568&extension=ts&play_token=03OUAl5Yce
+#EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",18.Hub Premier 2 UHD
+http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=232243&extension=ts&play_token=RBFPp2Si32
 
 #EXTINF:-1,group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1124635&extension=ts&play_token=Fe4BM9Vir1
@@ -185,36 +187,34 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=90814&extensio
 #EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",7.DIGI UHD
 
 
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",1.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",1.Vsports Ultra UHD
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=294070&extension=ts&play_token=vz5caklw0v
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",2.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",2.Vsports Ultra UHD
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=530244&extension=ts&play_token=8ugcygU8v0
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",3.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",3.Vsports Ultra UHD
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=154625&extension=ts&play_token=OLc6JD4QLu
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",4.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",4.Vsports Ultra UHD
 http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=114242&extension=ts&play_token=zcvFyH7qVC
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",5.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",5.Vsports Ultra UHD
 http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=35892&extension=ts&play_token=wP3sgSv9QY
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",6.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",6.Vsports Ultra UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=114242&extension=ts&play_token=jQU72xhFeZ
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",7.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",7.Vsports Ultra UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=35892&extension=ts&play_token=vKzkTgs4pE
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",8.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",8.Vsports Ultra UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=530244&extension=ts&play_token=9EXe8m3mPz
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",9.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",9.Vsports Ultra UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=154625&extension=ts&play_token=aTMXmZYeDo
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",10.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",10.Vsports Ultra UHD
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1112184&extension=ts&play_token=vQhGArOASz
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",11.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",11.Vsports Ultra UHD
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=466358&extension=ts&play_token=0sTZfGfyZE
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",12.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",12.Vsports Ultra UHD
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1049082&extension=ts&play_token=gN2PLXXbsS
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",13.VSports Ultra UHD
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",13.Vsports Ultra UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=31644&extension=ts&play_token=ElnAhtvVak
 
 #EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C_More_Logo.svg/1920px-C_More_Logo.svg.png",Cmore UHD 1 C1&League 1
-
-#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C_More_Logo.svg/1920px-C_More_Logo.svg.png",Cmore UHD 2 C1&League 1
 
 #EXTINF:-1,group-title="Fomula F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/640px-Sky_Sport_F1_-_Logo_2020.svg.png",1.Sky F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
@@ -436,9 +436,9 @@ http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xd
 http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArBCREZPcven_8uc8HkXt3e9Cdppdc9r82NrMUjs7J1Ji95jXUIFAOeqYF8W0gPVy3A?ext=.ts
 
 #EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Sports 1 FHD
-
+http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
 #EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Sports 2 FHD
-
+http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=154405&extension=ts&play_token=Sz0cj6w84W
 #EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Extra FHD
 http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753907.m3u8
 
