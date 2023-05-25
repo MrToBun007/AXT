@@ -348,17 +348,17 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extensi
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1280px-New_Bloomberg_Logo.svg.png",1.Bloomberg UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584&extension=ts&play_token=6jBXOtTIxl
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png",1.TRT 4K
-http://gooserace.xyz/live/annmarie/annmarie/3387570.m3u8
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=400958&extension=ts&play_token=VjjT7V1UDz
 
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://i0.wp.com/mobirank.pl/wp-content/uploads/2022/09/love-nature-4k-logo.jpg",1.Love Nature UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=502583&extension=ts&play_token=HbZbZ4goJz
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://i0.wp.com/mobirank.pl/wp-content/uploads/2022/09/love-nature-4k-logo.jpg",2.Love Nature UHD
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=502583&extension=ts&play_token=eB3ud6FJ0v
 
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",1.Fashion TV UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=110504&extension=ts&play_token=EPawEmMvzA
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",2.Fashion TV UHD
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=110504&extension=ts&play_token=ALwXgMQmHb
 
 #-*--FHD-*--#
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",1.BT Sports 1 FHD 
