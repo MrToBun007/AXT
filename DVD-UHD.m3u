@@ -14,7 +14,7 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1300442&ext
 #EXTINF:-1,group-title="UK BT Sportss" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",4.BT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1300442&extension=ts&play_token=WI3SeYjiNd
 #EXTINF:-1,group-title="UK BT Sportss" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",5.BT Ultimate UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1122782&extension=ts&play_token=iDOcfithDz
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1300442&extension=ts&play_token=YmsTKWQok5
 #EXTINF:-1,group-title="UK BT Sportss" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",6.BT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=8yrFewLAuO
 #EXTINF:-1,group-title="UK BT Sportss" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",7.BT Ultimate UHD
@@ -59,7 +59,7 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1299719&ext
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",9.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",10.Sky Sports Main Event UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1552954&extension=ts&play_token=261vHp9XEU
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1299719&extension=ts&play_token=zKDdvDT4pU
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",11.Sky Sports Main Event UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=514345&extension=ts&play_token=OBi3eWXqCw
 #EXTINF:-1,group-title="UK Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",12.Sky Sports Main Event UHD
@@ -122,6 +122,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1124635&exte
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=348094&extension=ts&play_token=FDS5rE9zWX
 #EXTINF:-1,group-title="Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",9.Astro Supersports UHD
 http://gooserace.xyz/live/annmarie/annmarie/3351122.m3u8
+#EXTINF:-1,group-title="Astro Supersport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",10.Astro Supersports UHD
+http://esv5.net:80/XAjg8y773l/L6vQXiF7UV/85859?play_token=CxCJXgpyjG
 
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports HK UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=117957&extension=ts&play_token=UOUW7IPf3f
@@ -243,6 +245,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1555727&exte
 http://megabest.ottc.pro/Jv5CmgEkUZetHZ8/eLqKeqw8ks/576830
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",10.ESPN UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1555727&extension=ts&play_token=hB2tpFCEZJ
+#EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",11.ESPN UHD
+http://esv5.net:80/XAjg8y773l/L6vQXiF7UV/93541?play_token=cBK92tAAPL
 
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png",1.UNIVERSO UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=130122&extension=ts&play_token=cCDsUJrByH
@@ -271,7 +275,7 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=11243
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",3.Fox Sports 4K
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124346&extension=ts&play_token=4LT1bBbn8g
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",4.Fox Sports 4K
-
+http://esv5.net:80/XAjg8y773l/L6vQXiF7UV/93546?play_token=0htRKPnia9
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",5.Fox Sports 4K
 
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",1.NBC Sports UHD
@@ -347,9 +351,13 @@ http://gooserace.xyz/live/annmarie/annmarie/3387570.m3u8
 
 #EXTINF:-1,group-title="USA" tvg-logo="https://i0.wp.com/mobirank.pl/wp-content/uploads/2022/09/love-nature-4k-logo.jpg",1.Love Nature UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=502583&extension=ts&play_token=HbZbZ4goJz
+#EXTINF:-1,group-title="USA" tvg-logo="https://i0.wp.com/mobirank.pl/wp-content/uploads/2022/09/love-nature-4k-logo.jpg",2.Love Nature UHD
+http://esv5.net/XAjg8y773l/L6vQXiF7UV/87440?play_token=47oxDtOET3
 
 #EXTINF:-1,group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",1.Fashion TV UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=110504&extension=ts&play_token=EPawEmMvzA
+#EXTINF:-1,group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",2.Fashion TV UHD
+http://esv5.net:80/XAjg8y773l/L6vQXiF7UV/91241?play_token=Ue7Rn2VFUE
 
 #-*--FHD-*--#
 #EXTINF:-1,group-title="UK BT Sportss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",1.BT Sports 1 FHD 
