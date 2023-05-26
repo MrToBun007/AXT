@@ -107,7 +107,7 @@ http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350568&ext
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=232243&extension=ts&play_token=RBFPp2Si32
 
 #EXTINF:-1,group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",1.Astro Supersports UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1124635&extension=ts&play_token=Fe4BM9Vir1
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=348094&extension=ts&play_token=DOB5M9UCDb
 #EXTINF:-1,group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",2.Astro Supersports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1124635&extension=ts&play_token=8xvLzrFJpH
 #EXTINF:-1,group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",3.Astro Supersports UHD
@@ -125,7 +125,7 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=348094
 #EXTINF:-1,group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",9.Astro Supersports UHD
 http://gooserace.xyz/live/annmarie/annmarie/3351122.m3u8
 #EXTINF:-1,group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",10.Astro Supersports UHD
-http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/470251.ts
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=348094&extension=ts&play_token=8VFADwOede
 
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports HK UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=117957&extension=ts&play_token=UOUW7IPf3f
@@ -149,6 +149,10 @@ http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=188694&extensio
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=117957&extension=ts&play_token=uGcXc38EuH
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",11.Now Sports HK UHD
 http://xc.tvset.top:80/4KSTREAMS/GXnvAEryP9Cy/98571
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",12.Now Sports HK UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=117957&extension=ts&play_token=PdupYJTq7h
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",13.Now Sports HK UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=117957&extension=ts&play_token=xSDYtMdOf9
 
 #EXTINF:-1,group-title="Eleven Sports" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",1.Eleven Sports UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=905665&extension=ts&play_token=0jUPfyTJIv
@@ -164,9 +168,9 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=90566
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348127&extension=ts&play_token=FlYAe3hSYU
 
 #EXTINF:-1,group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",1.Sky Bundesliga UHD Live Event
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=242541&extension=ts&play_token=ED0XxLJoLG
 #EXTINF:-1,group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",2.Sky Bundesliga UHD Live Event
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=242541&extension=ts&play_token=fzzmdaad0a
 #EXTINF:-1,group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",3.Sky Bundesliga UHD Live Event
 
 #EXTINF:-1,group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",4.Sky Bundesliga UHD Live Event
@@ -179,11 +183,11 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=443338&
 #EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",3.DIGI UHD
 http://xc.tvset.top:80/4KSTREAMS/GXnvAEryP9Cy/17
 #EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",4.DIGI UHD
-http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=443338&extension=ts&play_token=bKbast55I4
+
 #EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",5.DIGI UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=90814&extension=ts&play_token=vfms2HUyoB
+
 #EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",6.DIGI UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=90814&extension=ts&play_token=TwlBMldSnw
+
 #EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",7.DIGI UHD
 
 
@@ -213,6 +217,13 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=46635
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1049082&extension=ts&play_token=gN2PLXXbsS
 #EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",13.Vsports Ultra UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=31644&extension=ts&play_token=ElnAhtvVak
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",14.Vsports Ultra UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=35892&extension=ts&play_token=8dP31r9MjY
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",15.Vsports Ultra UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=31644&extension=ts&play_token=HCkFBG34rh
+#EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",16.Vsports Ultra UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=114242&extension=ts&play_token=Ah0BMydoRP
+
 
 #EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C_More_Logo.svg/1920px-C_More_Logo.svg.png",Cmore UHD 1 C1&League 1
 
@@ -305,9 +316,9 @@ http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extens
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",5.Canal+ 4K
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101206&extension=ts&play_token=L5QYnlXAbF
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",6.Canal+ 4K
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101206&extension=ts&play_token=2usQAUALPd
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",7.Canal+ 4K
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=101206&extension=ts&play_token=r8KPrFON28
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",8.Canal+ 4K
 
 
@@ -328,9 +339,9 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=52613
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ Sports Foot UHD
 
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",1.Bein 4K
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=269457&extension=ts&play_token=LC5nEhsERC
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",2.Bein 4K
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=269457&extension=ts&play_token=STW2jFrRad
 
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ Motor UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526128&extension=ts&play_token=b5FA4gfd0H
@@ -339,26 +350,36 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=52
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101205&extension=ts&play_token=4vd06PVuX3
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",2.RMC Sports 1 UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extension=ts&play_token=sT88QaQFMH
-
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png",1.Fox News UHD
-http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/473165.ts
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",1.CNN UHD
-http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/376889.ts
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",3.RMC Sports 1 UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extension=ts&play_token=uYjhxVFb4c
 
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1280px-New_Bloomberg_Logo.svg.png",1.Bloomberg UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584&extension=ts&play_token=6jBXOtTIxl
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png",1.TRT 4K
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=400958&extension=ts&play_token=VjjT7V1UDz
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png",2.TRT 4K
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=400958&extension=ts&play_token=e0NlLpIBZE
 
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://i0.wp.com/mobirank.pl/wp-content/uploads/2022/09/love-nature-4k-logo.jpg",1.Love Nature UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=502583&extension=ts&play_token=HbZbZ4goJz
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://i0.wp.com/mobirank.pl/wp-content/uploads/2022/09/love-nature-4k-logo.jpg",2.Love Nature UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=502583&extension=ts&play_token=eB3ud6FJ0v
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://i0.wp.com/mobirank.pl/wp-content/uploads/2022/09/love-nature-4k-logo.jpg",3.Love Nature UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=502583&extension=ts&play_token=ySiozykwoN
 
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",1.Fashion TV UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=110504&extension=ts&play_token=EPawEmMvzA
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",2.Fashion TV UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=110504&extension=ts&play_token=ALwXgMQmHb
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",3.Fashion TV UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=110504&extension=ts&play_token=QwKWnlltTW
+
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png",1.Fox News UHD
+http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/473165.ts
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",1.CNN FHD
+http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/376889.ts
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png",1.BBC News FHD
+http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/16601.ts
 
 #-*--SPORT FULL HD-*--#
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",1.BT Sports 1 FHD 
