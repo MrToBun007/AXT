@@ -11,8 +11,7 @@
 
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",Welcome to 4K-UHD Channel
-http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/510616.m3u8
-#http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extension=ts&play_token=QQeTHAmnXn
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extension=ts&play_token=QQeTHAmnXn
 
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",1.BT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=6H190jzhqk
