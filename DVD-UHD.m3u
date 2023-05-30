@@ -384,6 +384,13 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=110504&extensi
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",3.Fashion TV UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=110504&extension=ts&play_token=QwKWnlltTW
 
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/0hu4d2jq_fashion-tv7f2520370000446a9237a02bbbeadb58_296_168.webp" , Fashion TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=595
+https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+#http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png",1.Fox News UHD
 http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/473165.ts
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",1.CNN FHD
@@ -696,28 +703,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121626&exten
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121724&extension=ts&play_token=LqZhyQpn8M
 #EXTINF:-1,group-title="🅼🅾🆅🅸🅴" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png",2.HBO UK FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1555712&extension=ts&play_token=xKA7f4XNP1
-#EXTINF:-1,group-title="🅼🅾🆅🅸🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/1920px-MovieMax_Logo.svg.png",1.Movie Max FHD
+#EXTINF:-1,group-title="🅼🅾🆅🅸🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/1920px-MovieMax_Logo.svg.png",1.Movie Max US FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121736&extension=ts&play_token=1jFfG95IwQ
-
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",1.Disney Channel FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",1.Disney Junior FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=16770&extension=ts&play_token=ercn0JhXQO
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://as1.ftcdn.net/v2/jpg/02/23/48/44/1000_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",1.Cartoon FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121125&extension=ts&play_token=Vz0jwCWbeg
-
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",1.National Geographic US FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=dQdxWciay6
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",2.National Geographic UK FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=A0wMl77UWL
-
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png",1.Nat Geo Wild FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=39799&extension=ts&play_token=jRA3NXDjUm
-
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",1.Discovery FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121633&extension=ts&play_token=W4pwf2Vp44
-#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",1.Discovery Science FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=15175&extension=ts&play_token=eNJ2Iyausy
 
 
 #--*.*--VTV--*.*--#
@@ -767,10 +754,10 @@ http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NyACsnBwuMz/0pwu0GlnXg", "kid":"WhwfA6cySzGfiSNImdSx/A" } ], "type":"temporary" }
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+LIFE IPTV
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp" group-title="🅺✚", K+LIFE IPTV
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8 
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+LIFE HD
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp" group-title="🅺✚", K+LIFE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"W8PQavWcSrPT2sIwFf0C+Q", "kid":"+aYlIDb2TzazduT5++WDxw" } ], "type":"temporary" }
@@ -1084,26 +1071,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="foxsports3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCd7UvOnIlL9uu_y9luBnTQtB4G0f-jSvNyQ&usqp=CAU" group-title="Quốc Tế", FOX SPORTS 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=592
-https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=babytv-hd
-#https://subs-livecdn.fptplay.net/mskychannel/babytvhd_4000.stream/manifest.mpd
-#EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.dl.dropboxusercontent.com/s/w8nyz6zycc9ha3c/%EA%99%B0.ico
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 ( Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd?https:///dl.dropboxusercontent.com/s/29h8399q6wuus8z//   																						 ㅤ
-#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/dnu913y34gzfj8s///   																						 ㅤ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/history.php
-https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
+
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="🅼🅾🆅🅸🅴" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/02/13/io3wjkox_animax-ngang890fc73e3ecf15c8aac863fc6cc376a7_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animax HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1120,10 +1088,9 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=523
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
-#EXTINF:-1 tvg-id="davinci" tvg-logo="Da Vinci" tvg-name="Da Vinci (HD)"  group-title="Quốc Tế", Da Vinci HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-https://vips-livecdn.fptplay.net/hda2/davincihd_2000.stream/chunklist.m3u8
-#https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#-*--Khám Phá-*--#
 
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="http://gg.gg/NGClogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", NGC HD
 #https://www.dl.dropboxusercontent.com/s/f324ikpd9ixjzy1/0513%281%29.m3u
@@ -1150,12 +1117,7 @@ https://s7773.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_outdoor-channel_165649323545.png" , Outdoor Channel HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/0hu4d2jq_fashion-tv7f2520370000446a9237a02bbbeadb58_296_168.webp" , Fashion TV HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=595
-https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
-#http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/66kpgfn6_bbc-earth_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1168,6 +1130,34 @@ https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=519
 https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
+
+#EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.dl.dropboxusercontent.com/s/w8nyz6zycc9ha3c/%EA%99%B0.ico
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 ( Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd?https:///dl.dropboxusercontent.com/s/29h8399q6wuus8z//   																						 ㅤ
+#KODIPROP:inputstream.adaptive.license_key=https:///dl.dropboxusercontent.com/s/dnu913y34gzfj8s///   																						 ㅤ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/history.php
+https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
+
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",1.National Geographic US FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=dQdxWciay6
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",2.National Geographic UK FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=A0wMl77UWL
+
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png",1.Nat Geo Wild US FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=39799&extension=ts&play_token=jRA3NXDjUm
+
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",1.Discovery US FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121633&extension=ts&play_token=W4pwf2Vp44
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",1.Discovery Science US FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=15175&extension=ts&play_token=eNJ2Iyausy
+
+
+#-*--Cartoon-*--#
+
 #EXTINF:0 tvg-id="disneychannel" group-title="Quốc Tế" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/iEpvKTL_zcrh2cTR1D8EUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://38.84.24.29:8089/play/mpegts/eyJpdiI6IkdaWWpENWlUVzQzWkh1Ri9IMVRrakE9PSIsInZhbHVlIjoiTXZwRFJ5QUs1Mzhpd0hid2lyc09tSWg5SkhlS1RVWVdiM0lUa1FWbFUyWnZjWjJQMDhnK28xNDBFWDRZUkpRYnl6Qmg5TUlJTFdyYllvc0VFZEVvL0E9PSIsIm1hYyI6ImI0ZjU0M2ZlZjU1NDBjZjM4MWZjMDVlMWM1Y2U0N2YwYTgxOGQ0MzcyN2I4MmY4MzZkM2M1ZjQ5ZTRjMDA5ZWIiLCJ0YWciOiIifQ==/23ff7eb2-29e2-40f9-b81a-17df96d9e096.ts?lvtoken=eyJpdiI6IjhyVlk4ZmZqZTVTRnpGNXl5ZjRGcVE9PSIsInZhbHVlIjoiYllrdnlqVUdVc01lWGVGYTRjVW44bm5TZ29EWDkwQ2hNSWkxK1hDOWQwVjgxcDVuekQyUE10TlAzajhQcnZqNVI0eTZFUFoxVC9tdi9VaVpuYWFhTG11RUhMdDBKb25TOU8rUlVrelo1ak00V09ZWlBuNml2eWpSTHpZS1ZFZDUwcVpiNFFMenE1b2JSb214QnBKOUltajJSeUNGTkI4ak5DV0pGWWYvZ3g3eXpubmhtSis5SGlvejZsWlhkMGlpTnJJUmZlMHBXRitqMUtyVS9Va00zdz09IiwibWFjIjoiYTczZGE3NjljYjYwNTE0ZjM0YmE2NzRlOGQxNjQzNGIyMjM5OTViZjVhNGZhNGE0MGIxZTQ2ODI5ZDViY2NlYyIsInRhZyI6IiJ9&r=9fdb46&rt=e66a27bd6d767f07614bdbd8df845229
@@ -1179,7 +1169,28 @@ http://38.84.24.29:8089/play/mpegts/eyJpdiI6ImVEK1JxZFZJTWtIbituMFh4UHlwcXc9PSIs
 #EXTINF:0 tvg-id="disneyxd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/pbCSymV/disneyXD.webp", Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://38.84.24.29:8089/play/mpegts/eyJpdiI6Ii90QmdJM1RFS3N1TEVxbUVtd284WFE9PSIsInZhbHVlIjoibENzRFhRSXQvVGt3b012eTA3dnpmWnFyNEwvK1RBbVplWUxlMXI1NHgzdnUyeklkZ1BJUVJiRytsR3NjR2J0U1RUblZvL0lxeXpFaVhobFg2RmZ1RXc9PSIsIm1hYyI6IjViMWYzMzA1N2QzMTZiNzZjN2NhZDQ5MWI5MGJlNTExMjAyNzM3MzE1OTQwOWUzYTJhZWQ5OGQxNGIyNDM0NmMiLCJ0YWciOiIifQ==/f3dd2ffb-d557-4c44-a5b0-a4e6f47bf60a.ts?lvtoken=eyJpdiI6IlJLcyt6YkpmcUZSZWExYlVDR1hHdHc9PSIsInZhbHVlIjoiWloxUzBvd24wZ1lRUnJISDdKV1g0akxFNmdvb3NteFhINVpNRlpTQ210dmVVaXR5anU3Z0xHVTFBdTY5VEdSZGplQUVoN0F5MEw4b0dTMm1kRXBocFVRVTZUejN5aE5sMWh0SndCd2ViaWYzeExVSUMvNTBUMEl2ZUVKM3BtNkhoZzJnai85RlEyQ3d1OUhwM2djVE9LTjBIS2xXcmoxQm1uZE1wOTNaYlN5MkNQUTFjOXFXQzkzNFlobGs2YTRicFhVL1JPeFF1UkRpWkZROFhsN0lZZz09IiwibWFjIjoiZDg2OGVkNDQwNDAxZmFiYzM4ODJmNTc4ZWM1ZmZiZTc2NjgxODMzNDljNDg2YjM0ZTk1Y2M4MzkzYjcwYjIzMyIsInRhZyI6IiJ9&r=499d6b&rt=b8da53be7e01dd07422cfb3d7c0bcfa9
+#EXTINF:-1 tvg-id="davinci" tvg-logo="Da Vinci" tvg-name="Da Vinci (HD)"  group-title="Quốc Tế", Da Vinci HD
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://vips-livecdn.fptplay.net/hda2/davincihd_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=592
+https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+#EXTINF:-1 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=babytv-hd
+#https://subs-livecdn.fptplay.net/mskychannel/babytvhd_4000.stream/manifest.mpd
 
+
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",1.Disney Channel US FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",1.Disney Junior US FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=16770&extension=ts&play_token=ercn0JhXQO
+#EXTINF:-1,group-title="USA Channel" tvg-logo="https://as1.ftcdn.net/v2/jpg/02/23/48/44/1000_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",1.Cartoon US FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121125&extension=ts&play_token=Vz0jwCWbeg
 
 #-*--Radio-*--#
 #EXTINF:-1 group-title="🆁🅰🅳🅸🅾" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hà Nội
