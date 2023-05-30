@@ -1226,7 +1226,7 @@ https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
 #EXTINF:-1,group-title="👶" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",1.Disney Junior US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=16770&extension=ts&play_token=ercn0JhXQO
-#EXTINF:-1,group-title=""👶" tvg-logo="https://as1.ftcdn.net/v2/jpg/02/23/48/44/1000_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",1.Cartoon US FHD
+#EXTINF:-1,group-title="👶" tvg-logo="https://as1.ftcdn.net/v2/jpg/02/23/48/44/1000_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",1.Cartoon US FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121125&extension=ts&play_token=Vz0jwCWbeg
 
 #-*--Radio-*--#
