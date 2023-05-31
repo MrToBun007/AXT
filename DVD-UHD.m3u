@@ -14,13 +14,13 @@
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extension=ts&play_token=QQeTHAmnXn
 
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",1.BT Ultimate UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=6H190jzhqk
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1300442&extension=ts&play_token=WI3SeYjiNd
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",2.BT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1300442&extension=ts&play_token=kyez1fCJbr
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",3.BT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1300442&extension=ts&play_token=kFiCXbKJbA
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",4.BT Ultimate UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1300442&extension=ts&play_token=WI3SeYjiNd
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=6H190jzhqk
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",5.BT Ultimate UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1300442&extension=ts&play_token=YmsTKWQok5
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",6.BT Ultimate UHD
@@ -176,13 +176,15 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348127&extensi
 
 
 #EXTINF:-1,group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",1.Sky Bundesliga UHD Live Event
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=242541&extension=ts&play_token=ED0XxLJoLG
+http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AF:3A:F1&stream=484209&extension=ts&play_token=PdyD23Es5Y
 #EXTINF:-1,group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",2.Sky Bundesliga UHD Live Event
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=242541&extension=ts&play_token=fzzmdaad0a
+http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:57:29:E8&stream=484209&extension=ts&play_token=R7HZCxj66k
 #EXTINF:-1,group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",3.Sky Bundesliga UHD Live Event
-
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=242541&extension=ts&play_token=ED0XxLJoLG
 #EXTINF:-1,group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",4.Sky Bundesliga UHD Live Event
-
+http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AF:3A:F1&stream=482837&extension=ts&play_token=MSadu1raOh
+#EXTINF:-1,group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",5.Sky Bundesliga UHD Live Event
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=242541&extension=ts&play_token=fzzmdaad0a
 
 #EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=443338&extension=ts&play_token=f5SxajYgdf
@@ -198,6 +200,10 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=90814&extensio
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=443338&extension=ts&play_token=bKbast55I4
 #EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",7.DIGI UHD
 http://nordicone.tv:2095/play/live.php?mac=00:1a:79:67:52:6c&stream=90814&extension=ts&play_token=bSDPyhbsDD
+#EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",8.DIGI UHD
+http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ad:f1:43&stream=90814&extension=ts&play_token=dveSj4SVSO
+#EXTINF:-1,group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",9.DIGI UHD
+http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:57:29:E8&stream=564952&extension=ts&play_token=oepR8YUqB6
 
 #EXTINF:-1,group-title="Vsports Ultra" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",1.Vsports Ultra UHD
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=294070&extension=ts&play_token=vz5caklw0v
@@ -319,17 +325,7 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=52
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",2.Canal+ 4K
 http://vip.liontv.site:80/play/live.php?mac=00:1A:79:08:5F:25&stream=526135&extension=ts&play_token=NZ6PiTpvaY
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",3.Canal+ 4K
-http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&extension=ts&play_token=7Af8Ztv0eN
-#EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",4.Canal+ 4K
-http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=BzCcY4S10M
-#EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",5.Canal+ 4K
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101206&extension=ts&play_token=L5QYnlXAbF
-#EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",6.Canal+ 4K
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101206&extension=ts&play_token=2usQAUALPd
-#EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",7.Canal+ 4K
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=101206&extension=ts&play_token=r8KPrFON28
-#EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",8.Canal+ 4K
-
+http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:57:29:E8&stream=629068&extension=ts&play_token=OEiR4nVIUu
 
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ Sports UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206&extension=ts&play_token=D1lw5F81Zy
@@ -345,6 +341,17 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206&extension=ts&play_token=PMDxvyVPzW
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",7.Canal+ Sports UHD
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=526130&extension=ts&play_token=MlgpSMgsLy
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",8.Canal+ Sports UHD
+http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&extension=ts&play_token=7Af8Ztv0eN
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",9.Canal+ Sports UHD
+http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=BzCcY4S10M
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",10.Canal+ Sports UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101206&extension=ts&play_token=L5QYnlXAbF
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",11.Canal+ Sports UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101206&extension=ts&play_token=2usQAUALPd
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",12.Canal+ Sports UHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=101206&extension=ts&play_token=r8KPrFON28
+
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ Sports Foot UHD
 
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",1.Bein 4K
@@ -369,7 +376,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=400958&extensi
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png",2.TRT 4K
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=400958&extension=ts&play_token=e0NlLpIBZE
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png",3.TRT 4K
-http://tvpro.vprotv.com:25443/live/MAGEEdzep5CNL/pnThKOh4lb/149482.ts?play_token=mRocfAr8Mx
+
 
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://i0.wp.com/mobirank.pl/wp-content/uploads/2022/09/love-nature-4k-logo.jpg",1.Love Nature UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=502583&extension=ts&play_token=HbZbZ4goJz
@@ -385,7 +392,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=110504&extensi
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",3.Fashion TV UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=110504&extension=ts&play_token=QwKWnlltTW
 
-#EXTINF:0 tvg-id="fashionhd" group-title="USA Channel" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/0hu4d2jq_fashion-tv7f2520370000446a9237a02bbbeadb58_296_168.webp" , Fashion TV HD
+#EXTINF:0 tvg-id="fashionhd" group-title="USA Channel" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/0hu4d2jq_fashion-tv7f2520370000446a9237a02bbbeadb58_296_168.webp" ,4.Fashion TV HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=595
@@ -1090,7 +1097,7 @@ https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8?khanggtv|Refe
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
 https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp" group-title="🅼🅾🆅🅸🅴", CINEMAX HD
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp" group-title="🅼🅾🆅🅸🅴", CineMax HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
@@ -1132,10 +1139,10 @@ https://www.dl.dropboxusercontent.com/s/6c1m79ze7x3w1so/thongbaotamngungngc.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo", National Geographic Wild HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.56.156.30:8081/udp/225.1.1.211:30120
-#EXTINF:-1 tvg-id="ngwhd" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", NGW HD
+#EXTINF:-1 tvg-id="ngwhd" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
 #http://live.vthanhtivi.pw/ngw
 #https://www.dl.dropboxusercontent.com/s/g9eqg9jsxoh8zos/thongbaotamngung.m3u8
-#EXTINF:-1 group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png", WILD EARTH HD THỬ NGHIỆM
+#EXTINF:-1 group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png", WILD EARTH HD
 https://wildearth-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/vop9bsxi_animal-planet_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet HD
@@ -1198,38 +1205,38 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=15175&
 
 #-*--Cartoon-*--#
 
-#EXTINF:0 tvg-id="disneychannel" group-title="👶" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/iEpvKTL_zcrh2cTR1D8EUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", Disney Channel
+#EXTINF:0 tvg-id="disneychannel" group-title="👶" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/iEpvKTL_zcrh2cTR1D8EUA==.jpg?type=live&thumbnail=thumbnail_small.jpg",1.Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://38.84.24.29:8089/play/mpegts/eyJpdiI6IkdaWWpENWlUVzQzWkh1Ri9IMVRrakE9PSIsInZhbHVlIjoiTXZwRFJ5QUs1Mzhpd0hid2lyc09tSWg5SkhlS1RVWVdiM0lUa1FWbFUyWnZjWjJQMDhnK28xNDBFWDRZUkpRYnl6Qmg5TUlJTFdyYllvc0VFZEVvL0E9PSIsIm1hYyI6ImI0ZjU0M2ZlZjU1NDBjZjM4MWZjMDVlMWM1Y2U0N2YwYTgxOGQ0MzcyN2I4MmY4MzZkM2M1ZjQ5ZTRjMDA5ZWIiLCJ0YWciOiIifQ==/23ff7eb2-29e2-40f9-b81a-17df96d9e096.ts?lvtoken=eyJpdiI6IjhyVlk4ZmZqZTVTRnpGNXl5ZjRGcVE9PSIsInZhbHVlIjoiYllrdnlqVUdVc01lWGVGYTRjVW44bm5TZ29EWDkwQ2hNSWkxK1hDOWQwVjgxcDVuekQyUE10TlAzajhQcnZqNVI0eTZFUFoxVC9tdi9VaVpuYWFhTG11RUhMdDBKb25TOU8rUlVrelo1ak00V09ZWlBuNml2eWpSTHpZS1ZFZDUwcVpiNFFMenE1b2JSb214QnBKOUltajJSeUNGTkI4ak5DV0pGWWYvZ3g3eXpubmhtSis5SGlvejZsWlhkMGlpTnJJUmZlMHBXRitqMUtyVS9Va00zdz09IiwibWFjIjoiYTczZGE3NjljYjYwNTE0ZjM0YmE2NzRlOGQxNjQzNGIyMjM5OTViZjVhNGZhNGE0MGIxZTQ2ODI5ZDViY2NlYyIsInRhZyI6IiJ9&r=9fdb46&rt=e66a27bd6d767f07614bdbd8df845229
 #https://code.vthanhtivi.pw/getlink/jptv/iEpvKTL_zcrh2cTR1D8EUA==/playlist.m3u8
-#EXTINF:0 tvg-id="disneyjunior" group-title="👶" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/chTowUHZLkQGzE_HtjvDXw==.jpg?type=live&thumbnail=thumbnail_small.jpg", Disney Junior
+#EXTINF:0 tvg-id="disneyjunior" group-title="👶" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/chTowUHZLkQGzE_HtjvDXw==.jpg?type=live&thumbnail=thumbnail_small.jpg",1.Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://38.84.24.29:8089/play/mpegts/eyJpdiI6ImVEK1JxZFZJTWtIbituMFh4UHlwcXc9PSIsInZhbHVlIjoiaUZxUHJVVVVjMnRUb1czYUk4MERHZU1xM0dubXRTTytGd01qOWRkaHhVYjJzZFplaTQ1SG1TOUFiWnYzUGlxWDZ4aHdDWCtQNm1YOU5vK2VuTDFNRmc9PSIsIm1hYyI6ImM5NmFmNGI1NDJkNDlhNTAwMDRmM2ZkMDYxNGExODczMDA5NTU2Y2M5MGI3NTBmYmI4OTljZmQzYWJlZjFmZGEiLCJ0YWciOiIifQ==/057e1b7d-8c3a-4f8c-8d9c-b7fbf39691b6.ts?lvtoken=eyJpdiI6Ik16VDZMSlc1VWRGdDBKL0c1SGdRYWc9PSIsInZhbHVlIjoiNEVIUWtDMXNlR20weFlHVm9qK0RpUlBtdXNGNFJxZ0F5cDBwL2I1R24vTFAwdkZnMlFhL3VsR2RQRkRCMmRSaWFoSWRNSUxuQnZhejA3RURVWlpzTCtVajZ2aVd1L0hqS0lFQXdqRHh2SnJOT09TN1dDTXo1czdERGhPdGZXWXhyMTl1NVMreXp3UEdrSlFTWi80WXFoWGNPNCt6bVNtdWkxRzVIK3prcUp6RlVxRGZkV1dxMk51cE9PNi9LS3dhSFdUYzFLMzNBUHYxcTJ5VEpNSjgzZz09IiwibWFjIjoiYzJiYzNjYjg3ZDEwMmM4YjNhNDEwYzczYzZjYTFkMTA5MDMxZGUwODA3MDUxYzMwMWNjZDcwYzc3ZDEzNGRlYSIsInRhZyI6IiJ9&r=113520&rt=42faa73e337ce162ea023f4268002df4
 #https://code.vthanhtivi.pw/getlink/jptv/chTowUHZLkQGzE_HtjvDXw==/playlist.m3u8
-#EXTINF:0 tvg-id="disneyxd" group-title="👶" tvg-logo="https://i.ibb.co/pbCSymV/disneyXD.webp", Disney XD
+#EXTINF:0 tvg-id="disneyxd" group-title="👶" tvg-logo="https://i.ibb.co/pbCSymV/disneyXD.webp",1.Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://38.84.24.29:8089/play/mpegts/eyJpdiI6Ii90QmdJM1RFS3N1TEVxbUVtd284WFE9PSIsInZhbHVlIjoibENzRFhRSXQvVGt3b012eTA3dnpmWnFyNEwvK1RBbVplWUxlMXI1NHgzdnUyeklkZ1BJUVJiRytsR3NjR2J0U1RUblZvL0lxeXpFaVhobFg2RmZ1RXc9PSIsIm1hYyI6IjViMWYzMzA1N2QzMTZiNzZjN2NhZDQ5MWI5MGJlNTExMjAyNzM3MzE1OTQwOWUzYTJhZWQ5OGQxNGIyNDM0NmMiLCJ0YWciOiIifQ==/f3dd2ffb-d557-4c44-a5b0-a4e6f47bf60a.ts?lvtoken=eyJpdiI6IlJLcyt6YkpmcUZSZWExYlVDR1hHdHc9PSIsInZhbHVlIjoiWloxUzBvd24wZ1lRUnJISDdKV1g0akxFNmdvb3NteFhINVpNRlpTQ210dmVVaXR5anU3Z0xHVTFBdTY5VEdSZGplQUVoN0F5MEw4b0dTMm1kRXBocFVRVTZUejN5aE5sMWh0SndCd2ViaWYzeExVSUMvNTBUMEl2ZUVKM3BtNkhoZzJnai85RlEyQ3d1OUhwM2djVE9LTjBIS2xXcmoxQm1uZE1wOTNaYlN5MkNQUTFjOXFXQzkzNFlobGs2YTRicFhVL1JPeFF1UkRpWkZROFhsN0lZZz09IiwibWFjIjoiZDg2OGVkNDQwNDAxZmFiYzM4ODJmNTc4ZWM1ZmZiZTc2NjgxODMzNDljNDg2YjM0ZTk1Y2M4MzkzYjcwYjIzMyIsInRhZyI6IiJ9&r=499d6b&rt=b8da53be7e01dd07422cfb3d7c0bcfa9
-#EXTINF:-1 tvg-id="davinci"  group-title="👶" tvg-logo="Da Vinci" tvg-name="Da Vinci (HD)", Da Vinci HD
+#EXTINF:-1 tvg-id="davinci"  group-title="👶" tvg-logo="Da Vinci" tvg-name="Da Vinci (HD)",1.Da Vinci HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://vips-livecdn.fptplay.net/hda2/davincihd_2000.stream/chunklist.m3u8
 #https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="👶" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="👶" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",1.Cartoon Network HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=592
 https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="babytvhd" group-title="👶" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BabyTV HD
+#EXTINF:-1 tvg-id="babytvhd" group-title="👶" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/babytvhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",1.BabyTV HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=babytv-hd
 #https://subs-livecdn.fptplay.net/mskychannel/babytvhd_4000.stream/manifest.mpd
 
 
-#EXTINF:-1,group-title="👶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",1.Disney Channel US FHD
+#EXTINF:-1,group-title="👶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",2.Disney Channel US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
-#EXTINF:-1,group-title="👶" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",1.Disney Junior US FHD
+#EXTINF:-1,group-title="👶" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",2.Disney Junior US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=16770&extension=ts&play_token=ercn0JhXQO
-#EXTINF:-1,group-title="👶" tvg-logo="https://as1.ftcdn.net/v2/jpg/02/23/48/44/1000_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",1.Cartoon US FHD
+#EXTINF:-1,group-title="👶" tvg-logo="https://as1.ftcdn.net/v2/jpg/02/23/48/44/1000_F_223484421_lBeWtWOuCSn2qXNZFZ9NthbYyZHIOgA0.jpg",2.Cartoon US FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121125&extension=ts&play_token=Vz0jwCWbeg
 
 #-*--Radio-*--#
