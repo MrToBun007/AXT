@@ -136,31 +136,25 @@ http://gooserace.xyz/live/annmarie/annmarie/3351122.m3u8
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=348094&extension=ts&play_token=8VFADwOede
 
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports HK UHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=117957&extension=ts&play_token=UOUW7IPf3f
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",2.Now Sports HK UHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=117957&extension=ts&play_token=UOUW7IPf3f
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",3.Now Sports HK UHD
-http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=117957&extension=ts&play_token=TbTXgt1B53
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",4.Now Sports HK UHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=117957&extension=ts&play_token=qVdslF40Uq
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",5.Now Sports HK UHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=117957&extension=ts&play_token=UOUW7IPf3f
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",6.Now Sports HK UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=117957&extension=ts&play_token=sat0ryUCaC
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",7.Now Sports HK UHD
-http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303200&extension=ts&play_token=gJCG1hoQo0
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",8.Now Sports HK UHD
 http://103.76.130.33:13107/play/AO-exgRlEK3XJoH1rBboJUz0-0F9ZlGcyIKy3MIX7-W1WDP2-1kcR7lixqeEiLjAcEoW0E2AGljosOqRDIsC_DPfpx6Q5DUoCrCMpV8nG9s?ext=.ts
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",9.Now Sports HK UHD
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",2.Now Sports HK UHD
 http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=188694&extension=ts&play_token=D5ELZEEfiX
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",10.Now Sports HK UHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=117957&extension=ts&play_token=uGcXc38EuH
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",11.Now Sports HK UHD
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",3.Now Sports HK UHD
 http://xc.tvset.top:80/4KSTREAMS/GXnvAEryP9Cy/98571
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",12.Now Sports HK UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=117957&extension=ts&play_token=PdupYJTq7h
-#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",13.Now Sports HK UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=117957&extension=ts&play_token=xSDYtMdOf9
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",4.Now Sports HK UHD
+
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",5.Now Sports HK UHD
+
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",6.Now Sports HK UHD
+
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",7.Now Sports HK UHD
+
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",8.Now Sports HK UHD
+
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",9.Now Sports HK UHD
+
+#EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",11.Now Sports HK UHD
+
 
 
 #EXTINF:-1,group-title="Eleven Sports" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",1.Eleven Sports UHD
