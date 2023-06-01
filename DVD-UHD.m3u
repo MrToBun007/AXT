@@ -1202,10 +1202,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
 #http://5.255.90.184:2001/play/a04i
 https://www.dl.dropboxusercontent.com/s/6c1m79ze7x3w1so/thongbaotamngungngc.m3u8
 
-#EXTINF:-1 tvg-id="ngwhd" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",2.National Geographic HD
-#http://live.vthanhtivi.pw/ngw
-#https://www.dl.dropboxusercontent.com/s/g9eqg9jsxoh8zos/thongbaotamngung.m3u8
-#EXTINF:-1 tvg-id="" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/NGClogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",3.National Geographic HD
+#EXTINF:-1 tvg-id="" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/NGClogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",2.National Geographic HD
 http://metaip.tv:80/rezastar7/ucCIshvpYj/3591
 
 #EXTINF:-1 group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png", Wild Earth HD
