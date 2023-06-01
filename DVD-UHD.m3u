@@ -158,7 +158,6 @@ http://xc.tvset.top:80/4KSTREAMS/GXnvAEryP9Cy/98571
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",11.Now Sports HK UHD
 
 
-
 #EXTINF:-1,group-title="Eleven Sports" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",1.Eleven Sports UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=905665&extension=ts&play_token=0jUPfyTJIv
 #EXTINF:-1,group-title="Eleven Sports" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",2.Eleven Sports UHD
@@ -168,7 +167,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=905665&
 #EXTINF:-1,group-title="Eleven Sports" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",4.Eleven Sports UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348127&extension=ts&play_token=FlYAe3hSYU
 #EXTINF:-1,group-title="Eleven Sports" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",5.Eleven Sports UHD
-
+http://metaip.tv:80/rezastar7/ucCIshvpYj/2107
 #EXTINF:-1,group-title="Eleven Sports" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",6.Eleven Sports UHD
 
 
@@ -326,6 +325,9 @@ http://vip.liontv.site:80/play/live.php?mac=00:1A:79:08:5F:25&stream=526135&exte
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",3.Canal+ 4K
 http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:57:29:E8&stream=629068&extension=ts&play_token=OEiR4nVIUu
 
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ LDC Champions League UHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/9605
+
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ Sports UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206&extension=ts&play_token=D1lw5F81Zy
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",2.Canal+ Sports UHD
@@ -353,6 +355,9 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=101206&extensi
 
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ Sports Foot UHD
 
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",1.Canal+ Box Office UHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/9699
+
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",1.Bein 4K
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=269457&extension=ts&play_token=LC5nEhsERC
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",2.Bein 4K
@@ -367,6 +372,9 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101205&extensi
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extension=ts&play_token=sT88QaQFMH
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",3.RMC Sports 1 UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extension=ts&play_token=uYjhxVFb4c
+
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1280px-Rai_4K_-_Logo_2017.svg.png",1.RAI IT UHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/9472
 
 #EXTINF:-1,group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1280px-New_Bloomberg_Logo.svg.png",1.Bloomberg UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584&extension=ts&play_token=6jBXOtTIxl
@@ -486,6 +494,8 @@ http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/7539
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71399&extension=ts&play_token=2JCVbfMtIN
 #EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png",2.BBC ONE FHD
 http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/17305
+#EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png",3.BBC ONE FHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/8726
 #EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1841px-BBC_Two.svg.png",1.BBC TWO FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71397&extension=ts&play_token=x0DivRfPN5
 #EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1841px-BBC_Two.svg.png",2.BBC TWO FHD
@@ -569,10 +579,15 @@ http://realsport.scalecdn.co:8080/live/111222/111222/3701.m3u8
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=32083&extension=ts&play_token=54jfarpTs9
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",2.ESPN 1 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=42909&extension=ts&play_token=DhmsA3yGBq
+#EXTINF:-1,group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",3.ESPN 1 FHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3496
+
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",1.ESPN 2 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=32089&extension=ts&play_token=OJgmkAhrHs
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",2.ESPN 2 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=42910&extension=ts&play_token=3boUMQdHFb
+#EXTINF:-1,group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",3.ESPN 2 FHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3497
 
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png",1.TENNIS FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695&extension=ts&play_token=Td5aN51cxU
@@ -595,11 +610,6 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 #EXTINF:-1 tvg-ID="foxsports2" group-title="USA Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGT62seMX8WkTotuetFE9h6QUhuklNBbHyBQ&usqp=CAU", FOX SPORTS 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="foxsports3" group-title="USA Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCd7UvOnIlL9uu_y9luBnTQtB4G0f-jSvNyQ&usqp=CAU", FOX SPORTS 3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://sm.pcmag.com/t/pcmag_uk/review/f/fubo/fubo_f9jn.1920.png",1.Fubo Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=120187&extension=ts&play_token=eVet9Yg1Fs
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://sm.pcmag.com/t/pcmag_uk/review/f/fubo/fubo_f9jn.1920.png",1.Fubo Sports 2 FHD
@@ -619,10 +629,18 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=8259&extension
 http://realsport.scalecdn.co:8080/live/111222/111222/3694.m3u8
 #EXTINF:-1,group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",6.USA Networks FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=130123&extension=ts&play_token=3OZAM1QB5c
+#EXTINF:-1,group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",7.USA Networks FHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3725
+
+#EXTINF:-1,group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png",1.NBC Universo FHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3598
 
 #EXTINF:-1,group-title="⚽ LaLiga" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg",1.DAZN LaLiga FHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=986639&extension=ts&play_token=mlJMDqY8K4
 #EXTINF:-1,group-title="⚽ LaLiga" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg",1.DAZN LaLiga FHD
+
+#EXTINF:-1,group-title="⚽ LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png",1.M LaLiga FHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/2697
 
 #EXTINF:-1,group-title="⚽ LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1384px-LaLiga.svg.png",1.LaLiga TV FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303297&extension=ts&play_token=CBil8VNbyO
@@ -651,6 +669,14 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1115462&exte
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1115461&extension=ts&play_token=U531dH9nls
 #EXTINF:-1,group-title="⚽ Bundesliga" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",1.Bundesliga 5 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1115460&extension=ts&play_token=a9ivsboCh1
+
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",1.Canal+ Sports FHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/9701
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",2.Canal+ Sports FHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/9688
+
+#EXTINF:-1,group-title="Canal+" tvg-logo="https://github.com/MrToBun007/AXT/blob/main/Canal_Formula1.png",1.Canal+ Formula 1 FHD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/9691
 
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122",1.Now Sports HK 1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303199&extension=ts&play_token=9qNh2gKuNQ
@@ -1173,12 +1199,13 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
 #https://www.dl.dropboxusercontent.com/s/f324ikpd9ixjzy1/0513%281%29.m3u
 #http://5.255.90.184:2001/play/a04i
 https://www.dl.dropboxusercontent.com/s/6c1m79ze7x3w1so/thongbaotamngungngc.m3u8
-#EXTINF:-1 tvg-id="ngwhd" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo", National Geographic Wild HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://103.56.156.30:8081/udp/225.1.1.211:30120
+
 #EXTINF:-1 tvg-id="ngwhd" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",2.National Geographic HD
 #http://live.vthanhtivi.pw/ngw
 #https://www.dl.dropboxusercontent.com/s/g9eqg9jsxoh8zos/thongbaotamngung.m3u8
+#EXTINF:-1 tvg-id="" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/NGClogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",3.National Geographic HD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3591
+
 #EXTINF:-1 group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png", Wild Earth HD
 https://wildearth-plex.amagi.tv/playlist.m3u8
 
@@ -1188,8 +1215,14 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&
 #EXTINF:-1,group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png",2.National Geographic UK FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=A0wMl77UWL
 
-#EXTINF:-1,group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png",1.Nat Geo Wild US FHD
+#EXTINF:-1,group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo",1.National Geographic Wild US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=39799&extension=ts&play_token=jRA3NXDjUm
+#EXTINF:-1 tvg-id="" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/NGClogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",2.National Geographic Wild US HD
+http://metaip.tv:80/rezastar7/ucCIshvpYj/3590
+#EXTINF:-1 tvg-id="ngwhd" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo",3.National Geographic Wild US HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://103.56.156.30:8081/udp/225.1.1.211:30120
+
 
 #EXTINF:-1,group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",1.Discovery US FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121633&extension=ts&play_token=W4pwf2Vp44
