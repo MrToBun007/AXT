@@ -675,7 +675,7 @@ http://metaip.tv:80/rezastar7/ucCIshvpYj/9701
 #EXTINF:-1,group-title="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",2.Canal+ Sports FHD
 http://metaip.tv:80/rezastar7/ucCIshvpYj/9688
 
-#EXTINF:-1,group-title="Canal+" tvg-logo="https://github.com/MrToBun007/AXT/blob/main/Canal_Formula1.png",1.Canal+ Formula 1 FHD
+#EXTINF:-1,group-title="Canal+" tvg-logo="http://gg.gg/Canal_Formula1",1.Canal+ Formula 1 FHD
 http://metaip.tv:80/rezastar7/ucCIshvpYj/9691
 
 #EXTINF:-1,group-title="Now Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122",1.Now Sports HK 1 FHD
@@ -1217,7 +1217,7 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&
 
 #EXTINF:-1,group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo",1.National Geographic Wild US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=39799&extension=ts&play_token=jRA3NXDjUm
-#EXTINF:-1 tvg-id="" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/NGClogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",2.National Geographic Wild US HD
+#EXTINF:-1 tvg-id="" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",2.National Geographic Wild US HD
 http://metaip.tv:80/rezastar7/ucCIshvpYj/3590
 #EXTINF:-1 tvg-id="ngwhd" group-title="🅺🅷Á🅼 🅿🅷Á" tvg-logo="http://gg.gg/natgeowildlogo",3.National Geographic Wild US HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
