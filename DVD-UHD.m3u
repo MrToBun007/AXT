@@ -10,7 +10,7 @@
 #https://hqth.me/r586iE and http://gg.gg/axt-controller
 
 #-*--SPORT UHD-4K-*--#
-#EXTINF:-1,group-title="BT Sports" tvg-logo="https://tailormadeav.com/media/zoo/images/sony-4k-hdr-tv_53ce4b75af9cbabc5be05830aa2e8330.jpg",Welcome to 4K-UHD Channel
+#EXTINF:-1,group-title="BT Sports" tvg-logo="https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png",Welcome to 4K-UHD Channel
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extension=ts&play_token=QQeTHAmnXn
 
 #EXTINF:-1,group-title="BT Sports" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",1.BT Ultimate UHD
