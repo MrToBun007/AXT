@@ -3,14 +3,14 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
 
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
-#Su dung OTT Nagator hoặc Tivimate để xem được K+
+#Su dung OTT Navigator hoặc Tivimate để xem được K+
 #cam-on-cac-list-(thanhtivi+kiptv+nhamng+KhanggKplus)
 #http://gg.gg/khanggkplusiptv và http://hqth.me/khanggkplusiptv
 
 #https://hqth.me/r586iE and http://gg.gg/axt-controller
 
 #-*--SPORT UHD-4K-*--#
-#EXTINF:-1,group-title="BT Sports" tvg-logo="https://logodix.com/logo/1578270.jpg",Welcome to 4K-UHD Channel
+#EXTINF:-1,group-title="BT Sports" tvg-logo="https://logodix.com/logo/1578270.jpg",Welcome to 4K-UHD Channel-OTT Navigator or Tivimate app
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extension=ts&play_token=QQeTHAmnXn
 
 #https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
@@ -268,25 +268,25 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350568&ext
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",7.Hub Premier 2 UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1032518&extension=ts&play_token=0T5CBw6C19
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",8.Hub Premier 2 UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1350568&extension=ts&play_token=XrHSSvwiuB
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1350568&extension=ts&play_token=PbWBnSxWv9
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",9.Hub Premier 2 UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1124634&extension=ts&play_token=OiE5Btx5FP
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",10.Hub Premier 2 UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1124634&extension=ts&play_token=9cf7ZY9eA4
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",11.Hub Premier 2 UHD
-http://4ksuper.live:80/play/live.php?mac=00:1A:79:0e:80:f9&stream=1032518&extension=ts&play_token=ZyTBM1S7ti
+http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350568&extension=ts&play_token=kJ858C7NqR
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",12.Hub Premier 2 UHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1350568&extension=ts&play_token=fkAV16mXY4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:8E:61:F6&stream=1350568&extension=ts&play_token=TUQFELPfwB
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",13.Hub Premier 2 UHD
-http://cocopops.xyz:8080/play/live.php?mac=00:1a:79:6b:96:31&stream=232243&extension=ts&play_token=m8xHwNokrf
+http://cocopops.xyz:8080/play/live.php?mac=00:1a:79:04:72:55&stream=232243&extension=ts&play_token=MmCuAYXxhM
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",14.Hub Premier 2 UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1124634&extension=ts&play_token=HTXHPX2Pnh
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",15.Hub Premier 2 UHD
-http://103.76.130.33:13107/play/AO-exgRlEK3XJoH1rBboJUz0-0F9ZlGcyIKy3MIX7-UW2uRxLoY5C98qcDID93OcKGwo0Uh9ivILiRTUKxjK8r5-h_-dctTj5PjZ7mFsNfA?ext=.ts
+
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",16.Hub Premier 2 UHD
 http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=188713&extension=ts&play_token=ypbW8n6aUB
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",17.Hub Premier 2 UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1350568&extension=ts&play_token=03OUAl5Yce
+
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",18.Hub Premier 2 UHD
 
 
@@ -670,7 +670,7 @@ http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/7539
 #EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png",1.BBC ONE FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71399&extension=ts&play_token=2JCVbfMtIN
 #EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png",2.BBC ONE FHD
-http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/17305
+http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=697656&extension=ts&play_token=OuHtnIkQAM
 #EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png",3.BBC ONE FHD
 http://metaip.tv:80/rezastar7/ucCIshvpYj/8726
 #EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1841px-BBC_Two.svg.png",1.BBC TWO FHD
