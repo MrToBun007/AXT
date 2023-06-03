@@ -99,7 +99,7 @@ https://smarttv-drm.fptplay.net/drmlive/k1sport2_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="http://gg.gg/k2sport", K+SPORT 2 MYTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"AvevMX7O04uQkdh0NJ6+0Q", "kid":"+rKRG9UZQ1CqQAu9WdqPkw" } ], "type":"temporary"}
-#http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="http://gg.gg/k2sport", K+ SPORT2 50FPS TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -109,7 +109,7 @@ http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=16794
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="http://gg.gg/k2sport", K+SPORT 2 MYTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aCn6RuQBRKzgJsXejhAKUA","kid":"9OzdoHsdQ+aZ/xxCOiJmLA"}],"type":"temporary"} 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"aCn6RuQBRKzgJsXejhAKUA", "kid":"9OzdoHsdQ+aZ/xxCOiJmLA" } ], "type":"temporary"} 
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
