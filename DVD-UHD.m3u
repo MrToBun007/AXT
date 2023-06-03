@@ -282,9 +282,9 @@ http://cocopops.xyz:8080/play/live.php?mac=00:1a:79:04:72:55&stream=232243&exten
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",14.Hub Premier 2 UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1124634&extension=ts&play_token=HTXHPX2Pnh
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",15.Hub Premier 2 UHD
-
-#EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",16.Hub Premier 2 UHD
 http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=188713&extension=ts&play_token=ypbW8n6aUB
+#EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",16.Hub Premier 2 UHD
+
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",17.Hub Premier 2 UHD
 
 #EXTINF:-1,group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",18.Hub Premier 2 UHD
