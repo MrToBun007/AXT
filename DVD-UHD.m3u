@@ -31,17 +31,13 @@ http://metaip.tv:80/rezastar7/ucCIshvpYj/2107
 
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",1.21h FA Cup ManCity vs ManU
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
+http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71399&extension=ts&play_token=2JCVbfMtIN
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",2.21h FA Cup ManCity vs ManU
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=697656&extension=ts&play_token=OuHtnIkQAM
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",3.21h FA Cup ManCity vs ManU
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
+http://metaip.tv:80/rezastar7/ucCIshvpYj/8726
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",4.21h FA Cup ManCity vs ManU
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
+
 
 #--*.*------------------------------*.*--#
 
