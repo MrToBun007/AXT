@@ -30,16 +30,16 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348127&extensi
 http://metaip.tv:80/rezastar7/ucCIshvpYj/2107
 
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",1.21h FA Cup ManCity vs ManU FPT Play 1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",1.21h FA Cup ManCity vs ManU FPT Play 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",2.21h FA Cup ManCity vs ManU FPT Play 2
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",2.21h FA Cup ManCity vs ManU FPT Play 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",3.21h FA Cup ManCity vs ManU FPT Play 3
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",3.21h FA Cup ManCity vs ManU FPT Play 3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",4.21h FA Cup ManCity vs ManU FPT Play 4
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",4.21h FA Cup ManCity vs ManU FPT Play 4
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
 
