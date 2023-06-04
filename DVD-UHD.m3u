@@ -29,11 +29,20 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1566281&ext
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",UHD5.21h FA Cup ManCity vs ManU
 
 
-
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD1
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695&extension=ts&play_token=Td5aN51cxU
+
+:-1 tvg-id="vtvcab3hd" group-title="🆅🆃🆅 & 🆅🆃🆅🄲🄰🄱" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8",Roland Garros VIET
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportshd
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/manifest.mpd
+
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD2
-http://163.172.55.74:8080/2845951588eaee1ab743/a41d729b3d5d0da64f15/127389?play_token=spqFkBObxt
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695&extension=ts&play_token=Td5aN51cxU
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD3
+http://gooserace.xyz/live/annmarie/annmarie/3041875.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD4
+http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",F1 Spain FHD1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",F1 Spain FHD2
