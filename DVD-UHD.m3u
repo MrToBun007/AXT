@@ -26,10 +26,10 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",F1 Spain 4K 2
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1566281&extension=ts&play_token=EsxX1oCPF8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",UHD5.21h FA Cup ManCity vs ManU
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",
 
 
-:-1 tvg-id="vtvcab3hd" group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8",Roland Garros VIET
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8",Roland Garros VIET
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportshd
