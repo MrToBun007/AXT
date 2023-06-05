@@ -1396,45 +1396,53 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",EuroSport 2-VPN Sweden
 http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=7ipkkb97Da
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1024px-Logo_Roland-Garros.svg.png",Roland Garros 1-VPN Netherlands
-
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1024px-Logo_Roland-Garros.svg.png",Roland Garros 2-VPN Netherlands
-
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports Deutschland 1-VPN Canada
 http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/88668.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports Deutschland 2-VPN Canada
+http://45.12.1.14:80/live/quertiy12222/gzaVWR144/88668.m3u8
 
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",Sky Bundesliga 1-VPN Canada
+http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/88667.m3u8
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",Sky Bundesliga 2-VPN Canada
+http://45.12.1.14:80/live/quertiy12222/gzaVWR144/88667.m3u8
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sports 1-VPN Canada
-http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/110701?play_token=opqY1Z7NWW
+
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sports 2-VPN Canada
-http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/110712?play_token=fDfmaWnjWQ
+
+
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",Eleven Sports 1-VPN Canada
+http://45.12.1.14:80/live/quertiy12222/gzaVWR144/118089.m3u8
+#http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/118089.m3u8
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",Eleven Sports 2-VPN Canada
+http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/86630.m3u8
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",RMC Sports 1-VPN Canada
-http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/19551?play_token=Q1nsRHq5vS
+
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",RMC Sports 2-VPN Canada
 
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/canal-uhd",Canal+ 1-VPN Canada
-http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/110712?play_token=fDfmaWnjWQ
+http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/118088.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/canal-uhd",Canal+ 2-VPN Canada
-http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/105100?play_token=Rvei6oFfc1
 
 
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 1-VPN Canada
-http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/78126?play_token=h2qoJIj4NP
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 2-VPN Canada
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1280px-Rai_4K_-_Logo_2017.svg.png",RAI IT 1-VPN Canada
+http://45.12.1.14:80/live/quertiy12222/gzaVWR144/24698.m3u8
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1280px-Rai_4K_-_Logo_2017.svg.png",RAI IT 2-VPN Canada
 
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premier 1-VPN Netherlands
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=1032518&extension=ts&play_token=0guZCYI6m6
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premier 2-VPN Netherlands
-
+http://wavetv.pro:80/play/live.php?mac=00:1A:79:17:2d:6a&stream=1032518&extension=ts&play_token=VXSMPk1YAS
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 1-VPN Netherlands
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=443338&extension=ts&play_token=VRk1pATjKs
@@ -1444,10 +1452,16 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=443338&extensi
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",Astro Supersports 1-VPN Netherlands
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=1016544&extension=ts&play_token=3LOJFdSYSA
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",Astro Supersports 2-VPN Netherlands
+http://wavetv.pro:80/play/live.php?mac=00:1A:79:17:2d:6a&stream=1016544&extension=ts&play_token=7X40ER7Akn
+
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 1-VPN Netherlands
+http://wavetv.pro:80/play/live.php?mac=00:1A:79:17:2d:6a&stream=1032489&extension=ts&play_token=Ly12Xmrkw1
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 2-VPN Netherlands
 
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 1-VPN Netherlands
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=294070&extension=ts&play_token=pzaswtrXEZ
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 2-VPN Canada
-http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/78126?play_token=h2qoJIj4NP
+http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/30095.m3u8
