@@ -144,16 +144,38 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xEAD1IIyW/Mqe4ce3BYsDg", "kid":"Ivwk+BfzNPWy174JZSU75w" } ], "type":"temporary" }
 https:///kplus-livecdn.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="Kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids IPTV1
-https://hqth.me/Ksport5khichtv360m3u8
 
-#EXTINF:-1 tvg-id="Kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids IPTV2
+#EXTINF:-1 tvg-id="Kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids IPTV1
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"xEAD1IIyW/Mqe4ce3BYsDg", "kid":"Ivwk+BfzNPWy174JZSU75w" } ], "type":"temporary"}
 #https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+
+
+#--*.*--TEST--*.*--#
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids TEST1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"x9df+5DcmqQgqTtPBoFDow","kid":"1r4ocgV8eIl1Lpuv/dnrmw"} ], "type":"temporary"}
+#https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids TEST2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"x9df+5DcmqQgqTtPBoFDow","kid":"1r4ocgV8eIl1Lpuv/dnrmw"} ], "type":"temporary"}
+#https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids TEST3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"O5cRWXpSoUdatsJzKvRDMA","kid":"lWnkKbZ8eIl1Lpuv/dnrmw"} ], "type":"temporary"}
+#https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids TEST4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"IFh35VaZgSHgEgjZxQnk6A","kid":"3a3kKbZ8eIl1Lpuv/dnrmw"} ], "type":"temporary"}
+#https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+
 
 
 #--*.*--K+ Live--*.*--#
@@ -1365,7 +1387,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121125&exten
 #EXTINF:0 tvg-id="disneyxd" group-title="👶" tvg-logo="https://i.ibb.co/pbCSymV/disneyXD.webp",1.Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://38.84.24.29:8089/play/mpegts/eyJpdiI6Ii90QmdJM1RFS3N1TEVxbUVtd284WFE9PSIsInZhbHVlIjoibENzRFhRSXQvVGt3b012eTA3dnpmWnFyNEwvK1RBbVplWUxlMXI1NHgzdnUyeklkZ1BJUVJiRytsR3NjR2J0U1RUblZvL0lxeXpFaVhobFg2RmZ1RXc9PSIsIm1hYyI6IjViMWYzMzA1N2QzMTZiNzZjN2NhZDQ5MWI5MGJlNTExMjAyNzM3MzE1OTQwOWUzYTJhZWQ5OGQxNGIyNDM0NmMiLCJ0YWciOiIifQ==/f3dd2ffb-d557-4c44-a5b0-a4e6f47bf60a.ts?lvtoken=eyJpdiI6IlJLcyt6YkpmcUZSZWExYlVDR1hHdHc9PSIsInZhbHVlIjoiWloxUzBvd24wZ1lRUnJISDdKV1g0akxFNmdvb3NteFhINVpNRlpTQ210dmVVaXR5anU3Z0xHVTFBdTY5VEdSZGplQUVoN0F5MEw4b0dTMm1kRXBocFVRVTZUejN5aE5sMWh0SndCd2ViaWYzeExVSUMvNTBUMEl2ZUVKM3BtNkhoZzJnai85RlEyQ3d1OUhwM2djVE9LTjBIS2xXcmoxQm1uZE1wOTNaYlN5MkNQUTFjOXFXQzkzNFlobGs2YTRicFhVL1JPeFF1UkRpWkZROFhsN0lZZz09IiwibWFjIjoiZDg2OGVkNDQwNDAxZmFiYzM4ODJmNTc4ZWM1ZmZiZTc2NjgxODMzNDljNDg2YjM0ZTk1Y2M4MzkzYjcwYjIzMyIsInRhZyI6IiJ9&r=499d6b&rt=b8da53be7e01dd07422cfb3d7c0bcfa9
-#EXTINF:-1 tvg-id="davinci"  group-title="👶" tvg-logo="Da Vinci" tvg-name="Da Vinci (HD)",1.Da Vinci VIET
+#EXTINF:-1 tvg-id="davinci"  group-title="👶" tvg-logo="http://gg.gg/Davinci4kkk" tvg-name="Da Vinci (HD)",1.Da Vinci VIET
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://vips-livecdn.fptplay.net/hda2/davincihd_2000.stream/chunklist.m3u8
 #https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
