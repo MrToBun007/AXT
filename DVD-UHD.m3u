@@ -1396,10 +1396,39 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",EuroSport 2-VPN Sweden
 http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=7ipkkb97Da
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1024px-Logo_Roland-Garros.svg.png",Roland Garros 1-VPN Sweden
-http://youtubecdn.watch:8080/bxwvXEd6DLN4/sn6OKZaxoZ/633379?play_token=U5znOE5ics
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1024px-Logo_Roland-Garros.svg.png",Roland Garros 2-VPN Sweden
-http://youtubecdn.watch:8080/S3621nufYT/Y30Z2r5MUV/633379?play_token=4fgMbAEOtS
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1024px-Logo_Roland-Garros.svg.png",Roland Garros 1-VPN Netherlands
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1024px-Logo_Roland-Garros.svg.png",Roland Garros 2-VPN Netherlands
+
+
+#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports Deutschland 1-VPN Canada
+http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/108527?play_token=bnjzPxreIY
+#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports Deutschland 2-VPN Canada
+
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sports 1-VPN Canada
+http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/110701?play_token=opqY1Z7NWW
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sports 2-VPN Canada
+http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/110712?play_token=fDfmaWnjWQ
+
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",RMC Sports 1-VPN Canada
+http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/19551?play_token=Q1nsRHq5vS
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",RMC Sports 2-VPN Canada
+
+
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/canal-uhd",Canal+ 1-VPN Canada
+http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/110712?play_token=fDfmaWnjWQ
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/canal-uhd",Canal+ 2-VPN Canada
+http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/105100?play_token=Rvei6oFfc1
+
+
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 1-VPN Canada
+http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/78126?play_token=h2qoJIj4NP
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 2-VPN Canada
+
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premier 1-VPN Netherlands
@@ -1420,4 +1449,5 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=1016544&extens
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 1-VPN Netherlands
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=294070&extension=ts&play_token=pzaswtrXEZ
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 2-VPN Netherlands
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 2-VPN Canada
+http://magm1giillmig.funtogether.xyz:8080/SasaHilti/LLWQnDf0LC/78126?play_token=h2qoJIj4NP
