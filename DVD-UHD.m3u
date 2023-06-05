@@ -162,6 +162,11 @@ http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmgy7Nd0u
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0j0AMXFhhzn1uCP/m3u8
 
 
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"IFh35VaZgSHgEgjZxQnk6A", "kid":"3a3kKbZ8eIl1Lpuv/dnrmw" } ], "type":"temporary"}
+https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+
 
 #--*.*--K+ Live--*.*--#
 
@@ -1397,3 +1402,4 @@ https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7
 
 
 #-*--TEST List-*--#
+
