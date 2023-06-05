@@ -1391,32 +1391,33 @@ https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7
 
 #-*--UHD-Need VPN-*--#
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",EuroSport 4K-VPN Sweden 1
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",EuroSport 1-VPN Sweden
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
-#EXTINF:-1 group-title="Need VPN" tvg-logo="http://gg.gg/dvdeurosport",EuroSport 4K-VPN Sweden 2
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",EuroSport 2-VPN Sweden
 http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=7ipkkb97Da
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1024px-Logo_Roland-Garros.svg.png",Roland Garros 1-VPN Sweden
 http://youtubecdn.watch:8080/S3621nufYT/Y30Z2r5MUV/633379?play_token=yahJxBFc5z
-#EXTINF:-1 group-title="Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1024px-Logo_Roland-Garros.svg.png",Roland Garros 2-VPN Sweden
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Logo_Roland-Garros.svg/1024px-Logo_Roland-Garros.svg.png",Roland Garros 2-VPN Sweden
 http://youtubecdn.watch:8080/S3621nufYT/Y30Z2r5MUV/633379?play_token=MuokcGiWbr
 
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premier 2-VPN Netherland
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premier 1-VPN Netherland
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=1032518&extension=ts&play_token=0guZCYI6m6
-
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premier 2-VPN Netherland
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 1-VPN Netherland
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=443338&extension=ts&play_token=VRk1pATjKs
-
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",DIGI 2-VPN Netherland
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",Astro Supersports 1-VPN Netherland
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=1016544&extension=ts&play_token=3LOJFdSYSA
-
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Astro_UHD.png",Astro Supersports 2-VPN Netherland
 
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 1-VPN Netherland
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=294070&extension=ts&play_token=pzaswtrXEZ
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 2-VPN Netherland
