@@ -16,20 +16,22 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extensi
 #https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 #http://gg.gg/4hkdrrr
 
-#--*.*--Supper Saturday and Sunday--*.*--#
+#--*.*--UHD Live--*.*--#
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",Roland Garros 4K VPN Sweden 1
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",Roland Garros 4K VPN Sweden 2
 http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=7ipkkb97Da
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",F1 Spain 4K 1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 Spain 4K 1
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",F1 Spain 4K 2
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 Spain 4K 2
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1566281&extension=ts&play_token=EsxX1oCPF8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",
 
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8",Roland Garros VIET
+#--*.*--FHD Live--*.*--#
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8",ON sport Roland Garros VIET
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportshd
@@ -41,14 +43,15 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695
 http://gooserace.xyz/live/annmarie/annmarie/3041875.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD4
 http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",F1 Spain FHD1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Sky Sport F1 Spain FHD1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",F1 Spain FHD2
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Sky Sport F1 Spain FHD2
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=ts&play_token=6rCllY0ScD
 
+
+
+
 #--*.*------------------------------*.*--#
-
-
 
 #--*.*--K+--*.*--#
 
@@ -157,6 +160,12 @@ http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmgy7Nd0u
 #EXTINF:-1 tvg-id="klifehd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+HBO NoDRM 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0j0AMXFhhzn1uCP/m3u8
+
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids TEST 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"x9df+5DcmqQgqTtPBoFDow","kid":"1r4ocgV8eIl1Lpuv/dnrmw"},{"kty":"oct","k":"x9df+5DcmqQgqTtPBoFDow","kid":"1r4ocgV8eIl1Lpuv/dnrmw"},{"kty":"oct","k":"O5cRWXpSoUdatsJzKvRDMA","kid":"lWnkKbZ8eIl1Lpuv/dnrmw"},{"kty":"oct","k":"IFh35VaZgSHgEgjZxQnk6A","kid":"3a3kKbZ8eIl1Lpuv/dnrmw"}], "type":"temporary"}
+https:///kplus-livecdn.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
 
 
 
@@ -786,6 +795,8 @@ http://metaip.tv:80/rezastar7/ucCIshvpYj/3497
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695&extension=ts&play_token=Td5aN51cxU
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png",2.TENNIS FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=130113&extension=ts&play_token=tMlNnDjqu6
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png",3.TENNIS FHD
+http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png",1.Fox Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=42904&extension=ts&play_token=on8dezHGwB
