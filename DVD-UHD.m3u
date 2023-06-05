@@ -1408,9 +1408,9 @@ http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/88667.m3u8
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/88667.m3u8
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sports 1-VPN Canada
-
+http://stiptv3.xyz:80/play/live.php?mac=00:1A:79:4A:B7:BC&stream=526130&extension=ts&play_token=qeBxvEisFA
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sports 2-VPN Canada
-
+http://vod.supremetv.live/live/jake1234/jake1234/526130.m3u8
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",Eleven Sports 1-VPN Canada
@@ -1429,13 +1429,19 @@ http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/86630.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/canal-uhd",Canal+ 1-VPN Canada
 http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/118088.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/canal-uhd",Canal+ 2-VPN Canada
-
+http://vod.supremetv.live/live/jake1234/jake1234/526135.m3u8
 
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1280px-Rai_4K_-_Logo_2017.svg.png",RAI IT 1-VPN Canada
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/24698.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1280px-Rai_4K_-_Logo_2017.svg.png",RAI IT 2-VPN Canada
+
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sports 1-VPN Canada
+http://stiptv3.xyz:80/play/live.php?mac=00:1A:79:4A:B7:BC&stream=1124350&extension=ts&play_token=yAERabjakz
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sports 1-VPN Canada
+http://vod.supremetv.live/live/jake1234/jake1234/1124350.m3u8
 
 
 
@@ -1458,10 +1464,10 @@ http://wavetv.pro:80/play/live.php?mac=00:1A:79:17:2d:6a&stream=1016544&extensio
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 1-VPN Netherlands
 http://wavetv.pro:80/play/live.php?mac=00:1A:79:17:2d:6a&stream=1032489&extension=ts&play_token=Ly12Xmrkw1
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 2-VPN Netherlands
-
+http://xc.tvset.top:80/4KSTREAMS/GXnvAEryP9Cy/98571
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 1-VPN Netherlands
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=294070&extension=ts&play_token=pzaswtrXEZ
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 2-VPN Canada
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 2-VPN Netherlands
 http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/30095.m3u8
