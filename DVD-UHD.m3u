@@ -151,7 +151,7 @@ http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"xEAD1IIyW/Mqe4ce3BYsDg", "kid":"Ivwk+BfzNPWy174JZSU75w" } ], "type":"temporary"}
-#https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
 
 
 #--*.*--TEST--*.*--#
@@ -159,22 +159,22 @@ http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids TEST1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"x9df+5DcmqQgqTtPBoFDow","kid":"1r4ocgV8eIl1Lpuv/dnrmw"} ], "type":"temporary"}
-#https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids TEST2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"x9df+5DcmqQgqTtPBoFDow","kid":"1r4ocgV8eIl1Lpuv/dnrmw"} ], "type":"temporary"}
-#https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids TEST3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"O5cRWXpSoUdatsJzKvRDMA","kid":"lWnkKbZ8eIl1Lpuv/dnrmw"} ], "type":"temporary"}
-#https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids TEST4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"IFh35VaZgSHgEgjZxQnk6A","kid":"3a3kKbZ8eIl1Lpuv/dnrmw"} ], "type":"temporary"}
-#https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
+https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
 
 
 
