@@ -7,7 +7,7 @@
 #cam-on-cac-list-(thanhtivi+kiptv+nhamng+KhanggKplus)
 #http://gg.gg/khanggkplusiptv và http://hqth.me/khanggkplusiptv
 
-#My list : http://gg.gg/06062023 , https://hqth.me/r586iE or http://gg.gg/axt-controller
+#My list : http://gg.gg/06062023TEST , http://gg.gg/06062023 , https://hqth.me/r586iE or http://gg.gg/axt-controller
 
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/hrd222",Welcome to 4K-UHD Channel-Use OTT Navigator or Tivimate app
@@ -56,50 +56,50 @@ http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=t
 
 #--*.*--TEST--*.*--#
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/k1sport", K+ Sport 1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/k1sport", K+ Sport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/k2sport", K+ Sport 2
+#EXTINF:-1 tvg-id="ksport2hd" group-title="TEST" tvg-logo="http://gg.gg/k2sport", K+ Sport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
 
-#EXTINF:-1 tvg-id="Kkidshd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/dkidkkk", K+ Kids 1
+#EXTINF:-1 tvg-id="Kkidshd" group-title="TEST" tvg-logo="http://gg.gg/dkidkkk", K+ Kids 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
-#EXTINF:-1 tvg-id="Kkidshd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/dkidkkk", K+ Kids 2
+#EXTINF:-1 tvg-id="Kkidshd" group-title="TEST" tvg-logo="http://gg.gg/dkidkkk", K+ Kids 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 
-#EXTINF:-1 tvg-id="khd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/dvkkdk", K+
+#EXTINF:-1 tvg-id="khd" group-title="TEST" tvg-logo="http://gg.gg/dvkkdk", K+
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
 
-#EXTINF:-1 tvg-id="khd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/dvkkdk", K+
+#EXTINF:-1 tvg-id="khd" group-title="TEST" tvg-logo="http://gg.gg/dvkkdk", K+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Us22DV9TZSt7UZFYKvfJNi8/m3u8
 
-#EXTINF:-1 tvg-id="khd" group-title="🅺✚" tvg-logo="http://gg.gg/dvkkdk", K+
+#EXTINF:-1 tvg-id="khd" group-title="TEST" tvg-logo="http://gg.gg/dvkkdk", K+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0j0AMXFhhzn1uCP/m3u8
 
-#EXTINF:-1 tvg-id="btv5hd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/btv5kkk", BTV5
+#EXTINF:-1 tvg-id="btv5hd" group-title="TEST" tvg-logo="http://gg.gg/btv5kkk", BTV5
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sport
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="TEST DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sport
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportshd
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/manifest.mpd
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sport+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="TEST DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sport+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsplus
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/HAY_TV/manifest.mpd
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Sport Football
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="TEST DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Sport Football
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onfootball
 https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sport News
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="TEST DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sport News
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsnews
