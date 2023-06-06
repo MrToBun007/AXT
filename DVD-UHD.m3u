@@ -18,45 +18,70 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extensi
 
 #--*.*--UHD Live--*.*--#
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 1
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 1
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 2
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 2
 http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=7ipkkb97Da
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Canada 3
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Canada 3
 
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 1
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 1
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 2
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 2
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1566281&extension=ts&play_token=EsxX1oCPF8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/live4kkkkk",
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",
 
 
 #--*.*--FHD Live--*.*--#
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8",ON sport Roland Garros VIET
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8",ON sport Roland Garros VIET
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportshd
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/manifest.mpd
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD2
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD2
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695&extension=ts&play_token=Td5aN51cxU
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD3
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD3
 http://gooserace.xyz/live/annmarie/annmarie/3041875.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD4
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD4
 http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Sky Sport F1 Spain FHD1
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Sky Sport F1 Spain FHD1
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://gg.gg/livehdd",Sky Sport F1 Spain FHD2
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Sky Sport F1 Spain FHD2
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=ts&play_token=6rCllY0ScD
 
 
-
-
-#--*.*------------------------------*.*--#
-
 #--*.*--K+--*.*--#
+
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest?cb=20220127020318&path-prefix=vi", K+ CINE
+#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest?cb=20220127020322&path-prefix=vi", K+ LIFE
+#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+ KIDS
+#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Us22DV9TZSt7UZFYKvfJNi8/m3u8
+
+#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/BTV5_logo_2023.png/revision/latest?cb=20230127121049&path-prefix=vi", ON Sports Action
+https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", VTVcab 6 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsplus
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/HAY_TV/manifest.mpd
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", VTVcab 16 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onfootball
+https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
+#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", VTVcab 18 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsnews
+https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_TINTUC_HD/manifest.mpd
 
 #--*.*--K+1 Sport--*.*--#
 
@@ -1405,9 +1430,9 @@ http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/88668.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports Deutschland 2-VPN Canada
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/88668.m3u8
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",Sky Bundesliga 1-VPN Netherlands/Canada
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/skybundesliga",Sky Bundesliga 1-VPN Netherlands/Canada
 http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/88667.m3u8
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",Sky Bundesliga 2-VPN Netherlands/Canada
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/skybundesliga",Sky Bundesliga 2-VPN Netherlands/Canada
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/88667.m3u8
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sports 1-VPN Canada
@@ -1436,9 +1461,9 @@ http://vod.supremetv.live/live/jake1234/jake1234/526135.m3u8
 
 
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1280px-Rai_4K_-_Logo_2017.svg.png",RAI IT 1-VPN Canada
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1280px-Rai_4K_-_Logo_2017.svg.png",RAI 1-VPN Canada
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/24698.m3u8
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1280px-Rai_4K_-_Logo_2017.svg.png",RAI IT 2-VPN Canada
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1280px-Rai_4K_-_Logo_2017.svg.png",RAI 2-VPN Canada
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",NBC Sports 1-VPN Canada
