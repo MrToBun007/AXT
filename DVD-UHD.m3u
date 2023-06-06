@@ -384,15 +384,15 @@ http://metaip.tv:80/rezastar7/ucCIshvpYj/2107
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",6.Eleven Sports UHD
 
 
-#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",1.Sky Bundesliga UHD Live Event
+#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="http://gg.gg/bundesligasky",1.Sky Bundesliga UHD Live Event
 http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AF:3A:F1&stream=484209&extension=ts&play_token=PdyD23Es5Y
-#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",2.Sky Bundesliga UHD Live Event
+#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="http://gg.gg/bundesligasky",2.Sky Bundesliga UHD Live Event
 http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:57:29:E8&stream=484209&extension=ts&play_token=R7HZCxj66k
-#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",3.Sky Bundesliga UHD Live Event
+#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="http://gg.gg/bundesligasky",3.Sky Bundesliga UHD Live Event
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=242541&extension=ts&play_token=ED0XxLJoLG
-#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",4.Sky Bundesliga UHD Live Event
+#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="http://gg.gg/bundesligasky",4.Sky Bundesliga UHD Live Event
 http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AF:3A:F1&stream=482837&extension=ts&play_token=MSadu1raOh
-#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",5.Sky Bundesliga UHD Live Event
+#EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="http://gg.gg/bundesligasky",5.Sky Bundesliga UHD Live Event
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=242541&extension=ts&play_token=fzzmdaad0a
 
 #EXTINF:-1 group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI UHD
@@ -489,6 +489,8 @@ http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/470254.ts
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png",1.UNIVERSO UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=130122&extension=ts&play_token=tiQTUzqb6E
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png",2.UNIVERSO UHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=130122&extension=ts&play_token=WNgFOTl1ak
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1920px-2015_Fox_Sports_1_logo.svg.png",1.Fox Sports FS1 UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1555726&extension=ts&play_token=bibWKhtcY8
@@ -505,6 +507,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1555726&exte
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1920px-2015_Fox_Sports_1_logo.svg.png",7.Fox Sports FS1 UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1555726&extension=ts&play_token=q0p4ojf4cQ
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1920px-2015_Fox_Sports_1_logo.svg.png",8.Fox Sports FS1 UHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=1555726&extension=ts&play_token=wrEH5hWoe0
 
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-2FF867A05A-seeklogo.com.png",1.Fox Sports 4K
@@ -530,6 +533,8 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124350&ext
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",6.NBC Sports UHD
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=1124350&extension=ts&play_token=okQhy24Oim
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1280px-NBC_Sports_2023.svg.png",7.NBC Sports UHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=1555720&extension=ts&play_token=pTgYtSuMB2
+
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a5/Canal%2B_4K_Ultra_HD_%282018-.n.v.%29.png/",1.Canal+ 4K
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526135&extension=ts&play_token=Aohk0PNWL9
@@ -816,6 +821,8 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=130113&extension=ts&play_token=tMlNnDjqu6
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png",3.TENNIS FHD
 http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1566px-Tennis_Channel_logo.svg.png",4.TENNIS FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=130113&extension=ts&play_token=tZOVvmXb5J
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png",1.Fox Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=42904&extension=ts&play_token=on8dezHGwB
@@ -854,6 +861,8 @@ http://realsport.scalecdn.co:8080/live/111222/111222/3694.m3u8
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=130123&extension=ts&play_token=3OZAM1QB5c
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",7.USA Networks FHD
 http://metaip.tv:80/rezastar7/ucCIshvpYj/3725
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",8.USA Networks FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=130123&extension=ts&play_token=4vX7NkISjK
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png",1.NBC Universo FHD
 http://metaip.tv:80/rezastar7/ucCIshvpYj/3598
