@@ -54,35 +54,6 @@ http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=t
 
 #--*.*--K+--*.*--#
 
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest?cb=20220127020318&path-prefix=vi", K+ CINE
-#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest?cb=20220127020322&path-prefix=vi", K+ LIFE
-#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+ KIDS
-#http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Us22DV9TZSt7UZFYKvfJNi8/m3u8
-
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/BTV5_logo_2023.png/revision/latest?cb=20230127121049&path-prefix=vi", ON Sports Action
-https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
-
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", VTVcab 6 HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsplus
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/HAY_TV/manifest.mpd
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", VTVcab 16 HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onfootball
-https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", VTVcab 18 HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsnews
-https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_TINTUC_HD/manifest.mpd
-
 #--*.*--K+1 Sport--*.*--#
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="http://gg.gg/k1sport", K+ SPORT 1 NoDRM 
