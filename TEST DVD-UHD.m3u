@@ -56,37 +56,50 @@ http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=t
 
 #--*.*--TEST--*.*--#
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🅺✚" tvg-logo="http://gg.gg/dvkkdk", K+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/k1sport", K+ Sport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/k2sport", K+ Sport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
+
+#EXTINF:-1 tvg-id="Kkidshd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/dkidkkk", K+ Kids 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
+#EXTINF:-1 tvg-id="Kkidshd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/dkidkkk", K+ Kids 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
+
+#EXTINF:-1 tvg-id="khd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/dvkkdk", K+
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
+
+#EXTINF:-1 tvg-id="khd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/dvkkdk", K+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Us22DV9TZSt7UZFYKvfJNi8/m3u8
+
+#EXTINF:-1 tvg-id="khd" group-title="🅺✚" tvg-logo="http://gg.gg/dvkkdk", K+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0j0AMXFhhzn1uCP/m3u8
 
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest?cb=20220127020318&path-prefix=vi", K+ CINE 1
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest?cb=20220127020318&path-prefix=vi", K+ CINE 2
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest?cb=20220127020322&path-prefix=vi", K+ LIFE 1
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest?cb=20220127020322&path-prefix=vi", K+ LIFE 2
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+ KIDS 1
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+ KIDS 2
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Us22DV9TZSt7UZFYKvfJNi8/m3u8
-
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/BTV5_logo_2023.png/revision/latest?cb=20230127121049&path-prefix=vi", ON Sports Action
+#EXTINF:-1 tvg-id="btv5hd" group-title="TRONG NƯỚC" tvg-logo="http://gg.gg/btv5kkk", BTV5
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sport+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sport
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportshd
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/manifest.mpd
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sport+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsplus
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/HAY_TV/manifest.mpd
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Sport Football
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Sport Football
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onfootball
 https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
-#EXTINF:-1 group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sport News
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="KÊNH DRM" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sport News
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsnews
@@ -174,12 +187,12 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 
 #--*.*--K+ Kids--*.*--#
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids 1
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="http://gg.gg/dkidkkk", K+ Kids 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xEAD1IIyW/Mqe4ce3BYsDg", "kid":"Ivwk+BfzNPWy174JZSU75w" } ], "type":"temporary" }
 https:///kplus-livecdn.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
 
-#EXTINF:-1 tvg-id="Kkidshd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids IPTV1
+#EXTINF:-1 tvg-id="Kkidshd" group-title="🅺✚" tvg-logo="http://gg.gg/dkidkkk", K+ Kids IPTV1
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+ Kids NoDRM
