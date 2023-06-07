@@ -29,8 +29,8 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 2
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1566281&extension=ts&play_token=EsxX1oCPF8
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Vissel Kobe vs Barcelona Live
-http://playlistone.site:8080/play/fyQVttqfKhvmA0qfC_Y59qssu50AHpzy3N45AqoILDOhkDDQtoRWiRANeNe8bmYIpf1O-BPgsrG0O48SiJYQ9xb6tXiiTSGzByNc8IZ6NqlK7cKuGan2B80Zpx6AAh88OJxd4YxzwTssCLs6XbhuA1aoCFiXM2vo8q6-2D8NOL8?ext=.ts
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",
+
 
 #--*.*--FHD Live--*.*--#
 
@@ -730,6 +730,12 @@ http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713443&exte
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713435&extension=ts&play_token=oNGxY3E2aO
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1024px-Brighton_%26_Hove_Albion_logo.svg.png",1.Brighton&Hove Albion FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713433&extension=ts&play_token=uqEGroGVab
+
+#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png",1.Real Madrid FHD
+http://line.crystalott.net/ECJvulCPEriILdy/QC3SggMi0L/1850
+#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/91/FC_Barcelona_logo.svg/1010px-FC_Barcelona_logo.svg.png",1.Barcelona FHD
+http://line.crystalott.net/ECJvulCPEriILdy/QC3SggMi0L/1851
+
 
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",1.Sky Sport F1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
