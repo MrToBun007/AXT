@@ -26,7 +26,11 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486167&extension=ts&play_token=aSOd6hmbJV
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/francesport",France*TV Sport 4K Roland Garros-VPN Canada 2
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension=ts&play_token=dLNP07FZA0
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/UHD1DE",UHD1 4K Roland Garros-VPN Canada 2
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/UHD1DE",UHD1 4K Roland Garros-VPN Sweden 1
+http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=lWLAQByHgm
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/UHD1DE",UHD1 4K Roland Garros-VPN Sweden 2
+http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=486170&extension=ts&play_token=2sRB7xjQpR
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/UHD1DE",UHD1 4K Roland Garros-VPN Canada
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486170&extension=ts&play_token=dEuIquhrd8
 
 
@@ -1411,6 +1415,9 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",EuroSport 2-VPN Sweden
 http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=7ipkkb97Da
 
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C_More_Logo.svg/1920px-C_More_Logo.svg.png",Cmore UHD 1 C1&League 1-VPN Sweden
+http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=414816&extension=ts&play_token=XVNplYvz2I
+
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports Deutschland 1-VPN Canada
 http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/88668.m3u8
@@ -1441,8 +1448,10 @@ http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/118089.m3u8
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.aymericdeveyrac.com/wp-content/uploads/2019/08/logo-RMC-sport.png",RMC Sports 2-VPN Canada
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",1.Bein 4K-VPN Canada
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",Bein 4K-VPN Canada
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=466959&extension=ts&play_token=ku1wryCgs0
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg",Bein 4K-VPN Sweden
+http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=466959&extension=ts&play_token=O6ibaZt6oZ
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png",1.TRT 4K-VPN Canada
@@ -1488,8 +1497,9 @@ http://wavetv.pro:80/play/live.php?mac=00:1A:79:17:2d:6a&stream=1032489&extensio
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",Now Sports 2-VPN Netherlands
 http://xc.tvset.top:80/4KSTREAMS/GXnvAEryP9Cy/98571
 
-
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 1-VPN Netherlands
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=294070&extension=ts&play_token=pzaswtrXEZ
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 1-VPN Sweden
+http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=218719&extension=ts&play_token=sLPaRlDzMJ
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 2-VPN Netherlands
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=294070&extension=ts&play_token=pzaswtrXEZ
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 3-VPN Netherlands
 http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/30095.m3u8
