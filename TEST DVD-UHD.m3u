@@ -1489,17 +1489,6 @@ http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
 
-#EXTINF:-1 tvg-id="khd" group-title="TEST" tvg-logo="http://gg.gg/dvkkdk", K+
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
-
-#EXTINF:-1 tvg-id="khd" group-title="TEST" tvg-logo="http://gg.gg/dvkkdk", K+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Us22DV9TZSt7UZFYKvfJNi8/m3u8
-
-#EXTINF:-1 tvg-id="khd" group-title="TEST" tvg-logo="http://gg.gg/dvkkdk", K+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0j0AMXFhhzn1uCP/m3u8
-
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+ KIDS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1594,3 +1583,13 @@ https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/man
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsnews
 https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_TINTUC_HD/manifest.mpd
 
+#EXTINF:-1 tvg-id="khd" group-title="TEST" tvg-logo="http://gg.gg/dvkkdk", K+
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
+
+#EXTINF:-1 tvg-id="khd" group-title="TEST" tvg-logo="http://gg.gg/dvkkdk", K+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Us22DV9TZSt7UZFYKvfJNi8/m3u8
+
+#EXTINF:-1 tvg-id="khd" group-title="TEST" tvg-logo="http://gg.gg/dvkkdk", K+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0j0AMXFhhzn1uCP/m3u8
