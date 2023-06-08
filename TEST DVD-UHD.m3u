@@ -1513,16 +1513,10 @@ http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/30095.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/k1sport", K+ Sport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="TEST" tvg-logo="http://gg.gg/k2sport", K+ Sport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
 
 #EXTINF:-1 tvg-id="Kkidshd" group-title="TEST" tvg-logo="http://gg.gg/dkidkkk", K+ Kids 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
-#EXTINF:-1 tvg-id="Kkidshd" group-title="TEST" tvg-logo="http://gg.gg/dkidkkk", K+ Kids 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 
 #EXTINF:-1 tvg-id="khd" group-title="TEST" tvg-logo="http://gg.gg/dvkkdk", K+
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
@@ -1537,32 +1531,30 @@ http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0
 
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+ KIDS
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+ KIDS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SMZMPvuMgTGbxHrsDMVfRA","kid":"+2Hl5XwHwIleyztiXybARg"},{"kty":"oct","k":"MzhgHfUgflwK8g/BjwDm5Q","kid":"Q6Xl5XwHwIleyztiXybARg"},{"kty":"oct","k":"MW0oDa+TjGH7Z6tvC6Ekfg","kid":"UKkpFnwHwIleyztiXybARg"},{"kty":"oct","k":"Evvu4F4YpeWFDaAixPKCng","kid":"PLYpLssHwIleyztiXybARg"}], "type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
-#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ CINE 1
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ CINE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mZ0rdk3sNZFYK/PvDP5Tlg","kid":"reHed7wXHBCdLGoRE+lU+w"},{"kty":"oct","k":"cAmVNV/JFJbkVEHYAXUFRA","kid":"9SXed7wXHBCdLGoRE+lU+w"},{"kty":"oct","k":"vMSH1j0Oi2RSQm2Y+i95Sg","kid":"AikiqLwXHBCdLGoRE+lU+w"},{"kty":"oct","k":"PS2ajJ4BNt8nVEAbloFXsg","kid":"7jYiwAsXHBCdLGoRE+lU+w"}], "type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
-#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ CINE 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NyACsnBwuMz/0pwu0GlnXg", "kid":"WhwfA6cySzGfiSNImdSx/A" } ], "type":"temporary" }
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+ LIFE
+#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+ LIFE 1
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+ LIFE
+#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+ LIFE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SLypwzL4MArhC5juXLkLpA","kid":"MQHlAXLsiM/dXA9fPUDkoA"},{"kty":"oct","k":"659ME0J7EwTN2ohqyLHHjQ","kid":"eUXlAXLsiM/dXA9fPUDkoA"},{"kty":"oct","k":"whaUWrC+FgEtzbaPjj+HkA","kid":"hkkpMnLsiM/dXA9fPUDkoA"},{"kty":"oct","k":"OYDznnY5wNKwFvhWqsThYA","kid":"clYpSsHsiM/dXA9fPUDkoA"}], "type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+ LIFE
+#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+ LIFE 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"W8PQavWcSrPT2sIwFf0C+Q", "kid":"+aYlIDb2TzazduT5++WDxw" } ], "type":"temporary" }
@@ -1574,8 +1566,7 @@ http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yILW+pp+rpgB82nuT0Z4Jw","kid":"P96tCC5wKuD3kWCooKfn1A"},{"kty":"oct","k":"cggATCPAgJolcOZ40ndtpQ","kid":"hyKtCC5wKuD3kWCooKfn1A"},{"kty":"oct","k":"um84tBCQUdYjPdeSe1TAYA","kid":"lCbxOS5wKuD3kWCooKfn1A"},{"kty":"oct","k":"T1e26P0MauHN6K4mK3Hgsw","kid":"gDPxUX1wKuD3kWCooKfn1A"}], "type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+ SPORT 1
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+ SPORT 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
