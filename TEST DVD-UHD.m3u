@@ -1492,8 +1492,6 @@ http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SMZMPvuMgTGbxHrsDMVfRA","kid":"+2Hl5XwHwIleyztiXybARg"},{"kty":"oct","k":"MzhgHfUgflwK8g/BjwDm5Q","kid":"Q6Xl5XwHwIleyztiXybARg"},{"kty":"oct","k":"MW0oDa+TjGH7Z6tvC6Ekfg","kid":"UKkpFnwHwIleyztiXybARg"},{"kty":"oct","k":"Evvu4F4YpeWFDaAixPKCng","kid":"PLYpLssHwIleyztiXybARg"}], "type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
-#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+ CINE
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8a
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="TEST" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",K+ KIDS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
