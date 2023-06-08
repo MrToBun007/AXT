@@ -17,6 +17,9 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extensi
 #https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 #http://gg.gg/4hkdrrr
 
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/hrd222",Avatar 4K
+http://raw.bitnode.pm:81/play/movie.php?mac=00:1a:79:35:67:13&stream=1582250.mkv&play_token=7gYqfKqmwv&type=movie
+
 #--*.*--UHD Live--*.*--#
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 1
@@ -33,7 +36,6 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension
 http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=486170&extension=ts&play_token=2sRB7xjQpR
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/UHD1DE",UHD1 4K Roland Garros-VPN Canada
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486170&extension=ts&play_token=dEuIquhrd8
-
 
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 1
