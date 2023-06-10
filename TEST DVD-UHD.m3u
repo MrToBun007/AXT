@@ -966,10 +966,6 @@ https://hqth.me/getlinksctvvtv9?id9288199201/manifest:9/index.m3u8?khanggtv|Refe
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv-can-tho
 
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",1.HTV THỂ THAO
-#EXTVLCOPT:http-user-agent="Khanggne"
-#https://106a8e566.vws.vegacdn.vn/Nfbq1NA_MSJkyJkAmg-8TA/1684748567/cliptv_live/amlst:htvthethaohd/chunklist_b3128000.m3u8
-
 #--*.*--VTVCAB--*.*--#
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🆅🆃🆅 & 🆅🆃🆅🄲🄰🄱" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/dvr-${start}-${offset}.m3u8", ON Phim Việt
 https://code.vthanhtivi.pw/getlink/tv360/175/0.m3u8
@@ -1072,7 +1068,7 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONGOLFTA/mani
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onvolley
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVOLLEYBALL/manifest.mpd
 
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="🆅🆃🆅 & 🆅🆃🆅🄲🄰🄱" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",2.HTV THỂ THAO
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="🆅🆃🆅 & 🆅🆃🆅🄲🄰🄱" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
