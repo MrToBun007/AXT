@@ -10,7 +10,7 @@
 #My list : http://gg.gg/06062023 , https://hqth.me/r586iE or http://gg.gg/axt-controller
 
 #-*--SPORT UHD-4K-*--#
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/hrd222",Welcome to 4K-UHD Channel-Use OTT Navigator or Tivimate app
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/hrd222",Welcome to 4K-UHD Channel-Use iSTB or OTT Navigator or Tivimate app
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extension=ts&play_token=QQeTHAmnXn
 
 #https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
@@ -18,30 +18,30 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extensi
 
 #--*.*--UHD Live--*.*--#
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 1
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Tennis-VPN Sweden 1
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 2
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Tennis-VPN Sweden 2
 http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=7ipkkb97Da
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros-VPN Sweden 1
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Tennis-VPN Sweden 1
 http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=lWLAQByHgm
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros-VPN Sweden 2
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Tennis-VPN Sweden 2
 http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=486170&extension=ts&play_token=2sRB7xjQpR
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",BT Ultimate C1-1 VPN Canada
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",BT Cup C1-1 VPN Canada
 http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:97:3c:44&stream=479413&extension=ts&play_token=DJ3X6GD360&sn2=
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",BT Ultimate C1-2 VPN Canada
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",BT Cup C1-2 VPN Canada
 http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=479413&extension=ts&play_token=JbFfmwjNvs&sn2=
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 3-VPN Canada 
 http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=548023&extension=ts&play_token=wgyaNm4UnO&sn2=
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",France*TV Sport 4K Roland Garros-VPN Canada 1
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",France*TV Sport 4K Tennis-VPN Canada 1
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486167&extension=ts&play_token=aSOd6hmbJV
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",France*TV Sport 4K Roland Garros-VPN Canada 2
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",France*TV Sport 4K Tennis-VPN Canada 2
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension=ts&play_token=dLNP07FZA0
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros-VPN Canada
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Tennis-VPN Canada
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486170&extension=ts&play_token=dEuIquhrd8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Canal+ C1-2 VPN Canada
@@ -49,7 +49,7 @@ http://2.onrev.xyz:80/bEfj2Y1w/bQPmCxrB3K/147549
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Bein C1-2 VPN Canada
 http://2.onrev.xyz:80/bEfj2Y1w/bQPmCxrB3K/151363
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Tennis
 http://4khdstreamsbox.com:80/play/live.php?mac=00:1A:79:72:9B:49&stream=540014&extension=ts&play_token=Yo6OyRWsB6
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 1
