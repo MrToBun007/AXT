@@ -18,6 +18,12 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extensi
 
 #--*.*--UHD Live--*.*--#
 
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate C1-1 VPN Canada
+http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:97:3c:44&stream=479413&extension=ts&play_token=DJ3X6GD360&sn2=
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate C1-2 VPN Canada
+http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=479413&extension=ts&play_token=JbFfmwjNvs&sn2=
+
+
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 1
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 2
