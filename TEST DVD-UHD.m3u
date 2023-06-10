@@ -10,18 +10,39 @@
 #My list : http://gg.gg/06062023 , https://hqth.me/r586iE or http://gg.gg/axt-controller
 
 #-*--SPORT UHD-4K-*--#
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/hrd222",Welcome to 4K-UHD Channel-Use OTT Navigator or Tivimate app
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/hrd222",Welcome to 4K-UHD Channel-Use iSTB or OTT Navigator or Tivimate app
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extension=ts&play_token=QQeTHAmnXn
 
 #https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 #http://gg.gg/4hkdrrr
 
-#-*--Live 4K Event--*.*--#
+#--*.*--UHD Live--*.*--#
+
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 1
+http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 2
+http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=7ipkkb97Da
+
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros-VPN Sweden 1
+http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=lWLAQByHgm
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros-VPN Sweden 2
+http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=486170&extension=ts&play_token=2sRB7xjQpR
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",BT Ultimate C1-1 VPN Canada
 http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:97:3c:44&stream=479413&extension=ts&play_token=DJ3X6GD360&sn2=
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",BT Ultimate C1-2 VPN Canada
 http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=479413&extension=ts&play_token=JbFfmwjNvs&sn2=
+
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 3-VPN Canada 
+http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=548023&extension=ts&play_token=wgyaNm4UnO&sn2=
+
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",France*TV Sport 4K Roland Garros-VPN Canada 1
+http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486167&extension=ts&play_token=aSOd6hmbJV
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",France*TV Sport 4K Roland Garros-VPN Canada 2
+http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension=ts&play_token=dLNP07FZA0
+
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros-VPN Canada
+http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486170&extension=ts&play_token=dEuIquhrd8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Canal+ C1-2 VPN Canada
 http://2.onrev.xyz:80/bEfj2Y1w/bQPmCxrB3K/147549
@@ -30,28 +51,11 @@ http://2.onrev.xyz:80/bEfj2Y1w/bQPmCxrB3K/151363
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros
 http://4khdstreamsbox.com:80/play/live.php?mac=00:1A:79:72:9B:49&stream=540014&extension=ts&play_token=Yo6OyRWsB6
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 1
-http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 2
-http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=7ipkkb97Da
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",France*TV Sport 4K Roland Garros-VPN Canada 1
-http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486167&extension=ts&play_token=aSOd6hmbJV
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",France*TV Sport 4K Roland Garros-VPN Canada 2
-http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension=ts&play_token=dLNP07FZA0
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros-VPN Sweden 1
-http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=lWLAQByHgm
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros-VPN Sweden 2
-http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=486170&extension=ts&play_token=2sRB7xjQpR
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Roland Garros-VPN Canada
-http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486170&extension=ts&play_token=dEuIquhrd8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 1
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 2
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1566281&extension=ts&play_token=EsxX1oCPF8
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 3-VPN Canada 
-http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=548023&extension=ts&play_token=wgyaNm4UnO&sn2=
-
 
 #--*.*--FHD Live--*.*--#
 
@@ -954,64 +958,17 @@ http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv7-hd
 #EXTINF:-1 tvg-id="vtv8hd" group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.webp",❤️VTV8 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv8-hd
-#EXTINF:-1 tvg-id="vtv9hd" group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/q8jw35jn_vtv97423ee6b52f3c30fd7b7b22ca1023b50_296_168.webp",❤️VTV9 HD
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv9-hd
+
+#EXTINF:0 tvg-id="vtv9hd"group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/q8jw35jn_vtv97423ee6b52f3c30fd7b7b22ca1023b50_296_168.webp" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8",❤️VTV9 HD
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://hqth.me/getlinksctvvtv9?id9288199201/manifest:9/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv6hd" group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/mygem9ju_vtv-can-tho992d0d0d357f71755e38c5f4276cc207_296_168.webp",❤️VTV Cần Thơ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv-can-tho
 
-
-#--*.*--HTV AND HTVC--*.*--#
-#EXTINF:-1 tvg-id="htv1" group-title="🅷🆃🆅 & HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/vz9uri53_htv1cb299c50f12848b5420a4272d21ccec4_296_168.webp", HTV1
-#EXTVLCOPT:http-user-agent="Khanggne"
-https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="🅷🆃🆅 & HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/02/10/k4e8c89z_htv36fb1aad44353d9dada6ac824e066bf3d_296_168.webp", HTV3
-#EXTVLCOPT:http-user-agent="Khanggne"
-#https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/chunks.m3u8
-#http://live-ali4.tv360.vn/manifest/HTV3/playlist_360p.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="🅷🆃🆅 & HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/ynnn9ypk_htvkey0364056e436d8f637f10ffbc56032c84_296_168.webp", HTV Key
-#EXTVLCOPT:http-user-agent="Khanggne"
-#https://106a8e566.vws.vegacdn.vn/C7eXMJhJOHuldDKa9ZLBIQ/1684747230/cliptv_live/amlst:htv4sd/chunklist_b2628000.m3u8
-https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/htv4/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="🅷🆃🆅 & HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",1.HTV THỂ THAO
 #EXTVLCOPT:http-user-agent="Khanggne"
 #https://106a8e566.vws.vegacdn.vn/Nfbq1NA_MSJkyJkAmg-8TA/1684748567/cliptv_live/amlst:htvthethaohd/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="🅷🆃🆅 & HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
-#EXTVLCOPT:http-user-agent="Khanggne"
-https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
-#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/04/2xq7mdxb_htv72ngay1dem2a8de358383058f5a54671ad64a53b81_296_168.webp" group-title="🅷🆃🆅 & HTVC" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8", HTV7 HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-#https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#https://1117979683.vnns.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8?khanggne|Referer=http://sctvonline.vn/
-#https://106a8e566.vws.vegacdn.vn/5fk95Dg64jX9zhRn7nUcgA/1684748435/cliptv_live/amlst:htv7hd/chunklist_b3128000.m3u8
-https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
-#https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/02/02/5857r2jj_htv92e1e0a10effdace05b62ef514769d866_296_168.webp" group-title="🅷🆃🆅 & HTVC" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8", HTV9 HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-#https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#https://1117979683.vnns.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV9-HD-ABR/HTV-ABR/HTV9-HD-1080p/chunks.m3u8
-#https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8?khanggne|Referer=http://sctvonline.vn/
-#https://106a8e566.vws.vegacdn.vn/ZxtJBBLnpajq-mlQFcd_2A/1684748483/cliptv_live/amlst:htv9hd/chunklist_b5128000.m3u8
-https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="🅷🆃🆅 & HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/f1awhyku_htvcthuanviet_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt HD
-#EXTVLCOPT:http-user-agent=Khanggne
-#https://106a8e566.vws.vegacdn.vn/lzQsy8A73mfQj6RxgKyGgQ/1684747340/cliptv_live/amlst:htvcthuanvietsd/chunklist_b2628000.m3u8
-#https://1117979683.vnns.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="🅷🆃🆅 & HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/bp6rq37b_htvccanhac_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmusic_4000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Ca nhạc HD
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
-#https://1117979683.vnns.net/hda3/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="🅷🆃🆅 & HTVC" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/7mskjha6_htvcphim_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
-#https://1117979683.vnns.net/hda2/htvcmoviehd_vhls.smil/chunklist_b5000000.m3u8
-#https://drm-livecdn.hplus.com.vn/CDN-FPT/HTVC-PHIM-HD-ABR/HTV-ABR/HTVC-PHIM-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvcplushd" group-title="🅷🆃🆅 & HTVC" tvg-logo="tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcplus_4000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Plus HD
-#EXTVLCOPT:http-user-agent=Khanggne
-#https://106a8e566.vws.vegacdn.vn/xFnrehqvYYSPEvhOX3o8Jw/1684747584/cliptv_live/amlst:htvcplushd/chunklist_b3128000.m3u8
 
 #--*.*--VTVCAB--*.*--#
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🆅🆃🆅 & 🆅🆃🆅🄲🄰🄱" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/dvr-${start}-${offset}.m3u8", ON Phim Việt
@@ -1114,7 +1071,10 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONGOLFTA/mani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onvolley
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVOLLEYBALL/manifest.mpd
-
+
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="🆅🆃🆅 & 🆅🆃🆅🄲🄰🄱" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",2.HTV THỂ THAO
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
 #--*.*--Phim--*.*--#
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/24/5z9ogvys_hbongagn5c6638d88559beb0b692f177bbe32637_296_168.webp" group-title="🅼🅾🆅🅸🅴", HBO VIET
@@ -1303,8 +1263,9 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486169&extension
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sports 1-VPN Canada
-
+http://stiptv3.xyz:80/play/live.php?mac=00:1A:79:4A:B7:BC&stream=526130&extension=ts&play_token=qeBxvEisFA
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sports 2-VPN Canada
+http://vod.supremetv.live/live/jake1234/jake1234/526130.m3u8
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png",Eleven Sports 1-VPN Canada
@@ -1373,21 +1334,6 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=294070&extensi
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f643%2fv-sport-ultra-1.png",Vsports Ultra 3-VPN Netherlands
 http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/30095.m3u8
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 1-VPN Canada
-http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:97:3c:44&stream=479413&extension=ts&play_token=XXhNNdQwct&sn2=
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate 2-VPN Canada
-http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=479413&extension=ts&play_token=HpxD1Px57V&sn2=
-
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports Main Event 1-VPN Canada
-http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:97:3c:44&stream=474653&extension=ts&play_token=fzRDuI7Qpm&sn2=
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",Sky Sports Main Event 2-VPN Canada
-http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=474653&extension=ts&play_token=hskMnyd7ps&sn2=
-
-
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/640px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1 1-VPN Canada
-http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:97:3c:44&stream=548023&extension=ts&play_token=pGXD9PyCl7&sn2=
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/640px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sports F1 2-VPN Canada
-http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=548023&extension=ts&play_token=AzmD9m1Sq5&sn2=
 
 
 #--*.*--TEST K+--*.*--#
