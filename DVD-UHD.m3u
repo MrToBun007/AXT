@@ -23,7 +23,13 @@ http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:97:3c:44&stream=4
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",BT Ultimate C1-2 VPN Canada
 http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=479413&extension=ts&play_token=JbFfmwjNvs&sn2=
 
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",Canal+ C1-2 VPN Canada
+http://2.onrev.xyz:80/bEfj2Y1w/bQPmCxrB3K/147549
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5824.1564437716.png",Bein C1-2 VPN Canada
+http://2.onrev.xyz:80/bEfj2Y1w/bQPmCxrB3K/151363
 
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/UHD1DE",UHD1 4K Roland Garros
+http://4khdstreamsbox.com:80/play/live.php?mac=00:1A:79:72:9B:49&stream=540014&extension=ts&play_token=Yo6OyRWsB6
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 1
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Roland Garros-VPN Sweden 2
@@ -39,15 +45,12 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=486170&extension
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/UHD1DE",UHD1 4K Roland Garros-VPN Canada
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486170&extension=ts&play_token=dEuIquhrd8
 
-
-
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 1
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 2
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1566281&extension=ts&play_token=EsxX1oCPF8
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",
-
-
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 3-VPN Canada 
+http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=548023&extension=ts&play_token=wgyaNm4UnO&sn2=
 
 #--*.*--FHD Live--*.*--#
 
