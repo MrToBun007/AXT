@@ -46,11 +46,18 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486170&extension
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Canal+ C1-2 VPN Canada
 http://2.onrev.xyz:80/bEfj2Y1w/bQPmCxrB3K/147549
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Bein C1-2 VPN Canada
 
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",UHD1 4K Tennis
-
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Digi 4K C1
+http://safe.avivainsur.com:8080/live/Stefan-Razvan_Roibu/pdVXSsGrZ1/50502.m3u8
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Digi 4K C1
+http://safe.avivainsur.com:8080/live/Cinta_Gheorghe/a2x2DSg2Gg4m/50502.m3u8
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Orange Sport C1
+http://safe.avivainsur.com:8080/live/Stefan-Razvan_Roibu/pdVXSsGrZ1/38647.m3u8
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Euro Sport Tennis
+http://safe.avivainsur.com:8080/live/Stefan-Razvan_Roibu/pdVXSsGrZ1/10510.m3u8
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",PRIMA Sport C1
+http://safe.avivainsur.com:8080/live/Stefan-Razvan_Roibu/pdVXSsGrZ1/35745.m3u8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sport F1 4K 1
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
