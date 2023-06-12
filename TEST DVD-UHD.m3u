@@ -51,7 +51,7 @@ http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtY
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7ImnXtmtxOTHZwcHkBWXhg", "kid":"Kggglwkxt/hRN9o3+fYc2Q" } ], "type":"temporary" }
 https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="http://gg.gg/ksport1kkk", K+ SPORT1 50FPS TV360
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="http://gg.gg/ksport1kkk", K+ SPORT 1 50FPS TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }	
@@ -1411,7 +1411,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 #https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
 https://smarttv-drm.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" logo="http://gg.gg/ksport1kkk",K+ SPORT1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" logo="http://gg.gg/ksport1kkk",K+ SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keysport1.php
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
