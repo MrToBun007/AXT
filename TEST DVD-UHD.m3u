@@ -91,12 +91,12 @@ http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
 
 #--*.*--K+ KIDS--*.*--#
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="http://gg.gg/dkidkkk", K+ KIDS 1
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="http://gg.gg/kkidkkk", K+ KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xEAD1IIyW/Mqe4ce3BYsDg", "kid":"Ivwk+BfzNPWy174JZSU75w" } ], "type":"temporary" }
 https:///kplus-livecdn.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
 
-#EXTINF:-1 tvg-id="Kkidshd" group-title="🅺✚" tvg-logo="http://gg.gg/dkidkkk", K+ KIDS IPTV1
+#EXTINF:-1 tvg-id="Kkidshd" group-title="🅺✚" tvg-logo="http://gg.gg/kkidkkk", K+ KIDS IPTV1
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="http://gg.gg/kkidkkk", K+ KIDS NoDRM
@@ -1378,18 +1378,18 @@ http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=16794
 https://smarttv-drm.fptplay.net/drmlive/k1sport2_4000.stream/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Kkidshd" group-title="TEST" tvg-logo="http://gg.gg/dkidkkk", K+ KIDS
+#EXTINF:-1 tvg-id="Kkidshd" group-title="TEST" tvg-logo="http://gg.gg/kkidkkk", K+ KIDS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
 
 
-#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="http://gg.gg/klifekkk",K+ LIFE
+#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="http://gg.gg/klifekkk", K+ LIFE
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
 
 
 #--*.*--ThanhAn K+--*.*--#
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="http://gg.gg/kcinekkk",K+ CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="http://gg.gg/kcinekkk", K+ CINE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keycine.php
