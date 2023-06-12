@@ -1,4 +1,6 @@
 
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
+
 #EXTM3U url-tvg="http://bit.ly/guidevn"
 
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
@@ -39,65 +41,65 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extensi
 
 #--*.*--K+1 Sport--*.*--#
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="http://gg.gg/k1sport", K+ SPORT 1 NoDRM 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="http://gg.gg/ksport1kkk", K+ SPORT 1 NoDRM 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtYB5XoJRLUQpKdUJ/m3u8
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="http://gg.gg/k1sport", K+ SPORT 1 FPT
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="http://gg.gg/ksport1kkk", K+ SPORT 1 FPT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7ImnXtmtxOTHZwcHkBWXhg", "kid":"Kggglwkxt/hRN9o3+fYc2Q" } ], "type":"temporary" }
 https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="http://gg.gg/k1sport", K+ SPORT1 50FPS TV360
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🅺✚" tvg-logo="http://gg.gg/ksport1kkk", K+ SPORT 1 50FPS TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }	
 http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd?hdnts=exp=1679405479~acl=/*~hmac=ede08a28f01588514705d06a50200e65d52b78c7b432583437206d7cd381c30a&manifestfilter=video_bitrate:1-3600000&uid=16352080
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="http://gg.gg/k1sport", K+ SPORT 1 IPTV
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="http://gg.gg/ksport1kkk", K+ SPORT 1 IPTV
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
 
 
 #--*.*--K+2 Sport--*.*--#
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="http://gg.gg/k2sport", K+ SPORT 2 NoDRM 
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="http://gg.gg/ksport2kkk", K+ SPORT 2 NoDRM 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmheWSCYR_J4uV2imYSMWRX/m3u8
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="http://gg.gg/k2sport", K+ SPORT2 50FPS TV360
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🅺✚" tvg-logo="http://gg.gg/ksport2kkk", K+ SPORT 2 50FPS TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
 http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae		 ㅤ
 
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/k2sport" group-title="🅺✚", K+ SPORT 2 IPTV
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/ksport2kkk" group-title="🅺✚", K+ SPORT 2 IPTV
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8 
 
 
 #--*.*--K+ Cine--*.*--#
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="http://gg.gg/kcinekkk",K+ CINE
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
 
 
 #--*.*--K+ Life--*.*--#
 
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp" group-title="🅺✚", K+LIFE
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/klifekkk" group-title="🅺✚", K+LIFE
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
 
 
-#--*.*--K+ Kids--*.*--#
+#--*.*--K+ KIDS--*.*--#
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="http://gg.gg/dkidkkk", K+ Kids 1
+#EXTINF:-1 tvg-id="kkidshd" group-title="🅺✚" tvg-logo="http://gg.gg/kkidkkk", K+ KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xEAD1IIyW/Mqe4ce3BYsDg", "kid":"Ivwk+BfzNPWy174JZSU75w" } ], "type":"temporary" }
 https:///kplus-livecdn.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
 
-#EXTINF:-1 tvg-id="Kkidshd" group-title="🅺✚" tvg-logo="http://gg.gg/dkidkkk", K+ Kids IPTV1
+#EXTINF:-1 tvg-id="Kkidshd" group-title="🅺✚" tvg-logo="http://gg.gg/kkidkkk", K+ KIDS IPTV1
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+ Kids NoDRM
+#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" tvg-logo="http://gg.gg/kkidkkk", K+ KIDS NoDRM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmgy7Nd0u0pYnu0-bIPoLpx/m3u8
 
@@ -919,9 +921,10 @@ http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv7-hd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv8-hd
 
-#EXTINF:0 tvg-id="vtv9hd"group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/q8jw35jn_vtv97423ee6b52f3c30fd7b7b22ca1023b50_296_168.webp" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8",❤️VTV9 HD
+#EXTINF:0 tvg-id="vtv9hd" group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/q8jw35jn_vtv97423ee6b52f3c30fd7b7b22ca1023b50_296_168.webp" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8",❤️VTV9 HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://hqth.me/getlinksctvvtv9?id9288199201/manifest:9/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="vtv6hd" group-title="ON📺 VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/mygem9ju_vtv-can-tho992d0d0d357f71755e38c5f4276cc207_296_168.webp",❤️VTV Cần Thơ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv-can-tho
