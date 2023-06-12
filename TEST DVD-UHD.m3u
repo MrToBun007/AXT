@@ -944,9 +944,6 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/ma
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/HAY_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🆅🆃🆅 & 🆅🆃🆅🄲🄰🄱" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON Football
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Ulu6DdFdEKoNRZC1kSMUKdg/m3u8
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🆅🆃🆅 & 🆅🆃🆅🄲🄰🄱" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON Football
 #https://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
