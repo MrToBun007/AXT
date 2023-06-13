@@ -507,7 +507,7 @@ http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/473165.ts
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",1.CNN FHD
 http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/376889.ts
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png",1.BBC News FHD
-http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/16601.ts
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=20455&extension=ts&play_token=GVkHA4BdJl
 
 #-*--SPORT FULL HD-*--#
 #EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/bt1kkk",1.BT Sports 1 FHD 
