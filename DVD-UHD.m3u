@@ -503,11 +503,11 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584
 http://dimarstore.com:8080/live/euroiptv400cox/E6TDpeMPfrZt4eSn/279908.m3u8
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/foxne-skkk",1.Fox News FHD 
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=71657&extension=ts&play_token=ueuCIWACHC
+http://realsport.scalecdn.co:8080/live/george1/george2/3647.m3u8
 
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",1.CNN FHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=8248&extension=ts&play_token=UtcA78ImPX
+http://realsport.scalecdn.co:8080/live/george1/george2/3625.m3u8
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png",1.BBC News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=20455&extension=ts&play_token=GVkHA4BdJl
 
