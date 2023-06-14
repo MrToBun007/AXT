@@ -16,14 +16,14 @@
 
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/hrd222",Welcome to 4K-UHD Channel-Use iSTB or OTT Navigator or Tivimate app
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=572964&extension=ts&play_token=QQeTHAmnXn
+
 
 #https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 #http://gg.gg/4hkdrrr
 
 #--*.*--UHD Live--*.*--#
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport 4K Tennis-Sweden 1
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Digi 4K C1
 
@@ -499,15 +499,15 @@ http://nordicone.tv:2095/play/live.php?mac=00:1a:79:67:52:6c&stream=110504&exten
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",1.Bloomberg UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584&extension=ts&play_token=6jBXOtTIxl
-#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",2.Bloomberg UHD
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",2.Bloomberg UHD---***---
 http://dimarstore.com:8080/live/euroiptv400cox/E6TDpeMPfrZt4eSn/279908.m3u8
 
-#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/foxne-skkk",1.Fox News UHD ---***---
-http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/473165.ts
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/foxne-skkk",1.Fox News FHD 
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=71657&extension=ts&play_token=ueuCIWACHC
 
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",1.CNN FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=104592&extension=ts&play_token=ufxPKSCbnl
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=8248&extension=ts&play_token=UtcA78ImPX
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png",1.BBC News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=20455&extension=ts&play_token=GVkHA4BdJl
 
