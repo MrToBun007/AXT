@@ -16,16 +16,17 @@
 
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/hrd222",Welcome to 4K-UHD Channel-Use iSTB or OTT Navigator or Tivimate app
-http://st3x.ddns.net:80/venhCPGn/sxJGPh3FAA/185407
+http://st3x.ddns.net:80/iFNk9T1x/gR1MrBp1N8/185407
+#http://sverigeplay.tv:80/play/live.php?mac=00:1A:79:ad:f1:43&stream=572964&extension=ts&play_token=f8pl0vWUNh
 
 #https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 #http://gg.gg/4hkdrrr
 
 #--*.*--UHD Live--*.*--#
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",EuroSport
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Digi 4K C1
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",List Daily Sport
+http://gooserace.xyz/live/annmarie/annmarie/3043213.m3u8
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Tennis
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Digi 4K C1
 
@@ -33,7 +34,7 @@ http://st3x.ddns.net:80/venhCPGn/sxJGPh3FAA/185407
 
 #--*.*--FHD Live--*.*--#
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD2
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Live Arg vs Aus
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD3
 
@@ -503,11 +504,13 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584
 http://dimarstore.com:8080/live/euroiptv400cox/E6TDpeMPfrZt4eSn/279908.m3u8
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/foxne-skkk",1.Fox News FHD 
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=71657&extension=ts&play_token=ueuCIWACHC
+http://realsport.scalecdn.co:8080/live/george1/george2/3647.m3u8
 
 
-#EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",1.CNN FHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=8248&extension=ts&play_token=UtcA78ImPX
+#EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",1.CNN UHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1555722&extension=ts&play_token=YtBgkN3SPo
+#EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",2.CNN FHD
+http://realsport.scalecdn.co:8080/live/george1/george2/3625.m3u8
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png",1.BBC News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=20455&extension=ts&play_token=GVkHA4BdJl
 
@@ -1164,10 +1167,14 @@ https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", Xone Radio
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
-
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", London Radio
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:A6:CA:FB&stream=287287&extension=ts&play_token=mrVwwE8r4X
 
 
 #-*--UHD-Need VPN-*--#
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",0.EuroSport 4K
+http://safe.avivainsur.com:8080/live/ANTONI.DUMA/grdfHRHjBZGu/10510.m3u8
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport-Sweden VPN
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
@@ -1296,26 +1303,24 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension
 http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/ksport1kkk",2.K+ SPORT 1
-http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtYB5XoJRLUQpKdUJ/m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/ksport1kkk",3.K+ SPORT 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"XaUqecAm5BpOPcxU9W2ntA", "kid":"1Xmxbd5/OGeAtMi0pXIWAQ" } ], "type":"temporary"}
 https://smarttv-drm.fptplay.net/drmlive/k1sport1_4000.stream/manifest.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/ksport1kkk",4.K+ SPORT 1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/ksport1kkk",3.K+ SPORT 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary"}	
 http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd?hdnts=exp=1679405479~acl=/*~hmac=ede08a28f01588514705d06a50200e65d52b78c7b432583437206d7cd381c30a&manifestfilter=video_bitrate:1-3600000&uid=1635208
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/ksport1kkk",5.K+ SPORT 1 FPT
+#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/ksport1kkk",4.K+ SPORT 1 FPT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7ImnXtmtxOTHZwcHkBWXhg", "kid":"Kggglwkxt/hRN9o3+fYc2Q" } ], "type":"temporary" }
 https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/ksport1kkk",6.K+ SPORT 1 Viettel TV
+#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/ksport1kkk",5.K+ SPORT 1 Viettel TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }	
@@ -1369,10 +1374,7 @@ https://smarttv-drm.fptplay.net/drmlive/k1sport2_4000.stream/manifest.mpd
 http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae
 
 
-#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="http://gg.gg/klifekkk",1.K+ LIFE
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
-
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/klifekkk" group-title="TEST",2.K+ LIFE
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/klifekkk" group-title="TEST",1.K+ LIFE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keylife.php
 https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
@@ -1455,3 +1457,8 @@ https://liveh12.vtvcab.vn/hls/ONGOLFTA/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onvff
 #ht@tps://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVFFTV/manifest.mpd
 https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
+
+#EXTINF:0 tvg-id="ksport1hd" group-title="bep4.0K+" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg", K+SPORT1 BEP4.0
+http://103.75.186.169/b4tv/b4tv/1.ts
+#EXTINF:0 tvg-id="ksport2hd" group-title="bep4.0K+" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg", K+SPORT2 BEP4.0
+http://103.75.186.169/b4tv/b4tv/5.m3u8
