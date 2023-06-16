@@ -1461,7 +1461,7 @@ https://liveh12.vtvcab.vn/hls/ONGOLFTA/index.m3u8
 #ht@tps://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVFFTV/manifest.mpd
 https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
 
-#EXTINF:0 tvg-id="ksport1hd" group-title="bep4.0K+" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg", K+SPORT1 BEP4.0
+#EXTINF:0 tvg-id="ksport1hd" group-title="TEST" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg", K+SPORT1 BEP4.0
 http://103.75.186.169/b4tv/b4tv/1.ts
-#EXTINF:0 tvg-id="ksport2hd" group-title="bep4.0K+" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg", K+SPORT2 BEP4.0
+#EXTINF:0 tvg-id="ksport2hd" group-title="TEST" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg", K+SPORT2 BEP4.0
 http://103.75.186.169/b4tv/b4tv/5.m3u8
