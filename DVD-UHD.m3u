@@ -25,10 +25,13 @@ http://st3x.ddns.net:80/iFNk9T1x/gR1MrBp1N8/185407
 #--*.*--UHD Live--*.*--#
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",List Daily Sport
-http://gooserace.xyz/live/annmarie/annmarie/3043213.m3u8
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",Tennis
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Digi 4K C1
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Sky F1 UHD 17June
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1566281&extension=ts&play_token=pWO7TmsfXQ
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Sky F1 UHD 17June
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1566281&extension=ts&play_token=sAFDaEnf1o
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",3.Sky F1 UHD 17June
+http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1566281&extension=ts&play_token=k2beVnnBVf
 
 
 
@@ -295,7 +298,7 @@ http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:57:29:E8&stream=564952&ext
 #EXTINF:-1 group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",10.DIGI UHD
 http://nordicone.tv:2095/play/live.php?mac=00:1a:79:67:52:6c&stream=90814&extension=ts&play_token=y74VDMal0M
 #EXTINF:-1 group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",11.DIGI UHD
-http://xxxxlocal.com:8080/live/ilyasle40mdMMXyFMlvv/kCd0xepGIEtPD4WvlUe5ax/21209.m3u8
+
 
 #EXTINF:-1 group-title="Vsports Ultra" tvg-logo="http://gg.gg/vsportkkk",1.Vsports Ultra UHD
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=466358&extension=ts&play_token=6l3mRdMJ9g
@@ -481,6 +484,8 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=400958&extensi
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=400958&extension=ts&play_token=e0NlLpIBZE
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",3.TRT 4K
 
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/dvdeurosport",0.EuroSport 4K
+http://safe.avivainsur.com:8080/live/ANTONI.DUMA/grdfHRHjBZGu/10510.m3u8
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/lovenaturekkk",1.Love Nature UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=502583&extension=ts&play_token=HbZbZ4goJz
@@ -1172,9 +1177,6 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:A6:CA:FB&stream=287287&exte
 
 
 #-*--UHD-Need VPN-*--#
-
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",0.EuroSport 4K
-http://safe.avivainsur.com:8080/live/ANTONI.DUMA/grdfHRHjBZGu/10510.m3u8
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport-Sweden VPN
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
