@@ -1446,30 +1446,30 @@ https://liveh12.vtvcab.vn/hls/ONGOLFTA/index.m3u8
 #ht@tps://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVFFTV/manifest.mpd
 https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
 
-#EXTINF:0 tvg-id="ksport1hd" group-title="TEST" tvg-logo="https://img.vnmedia.xyz/logo/ksport1hd.jpg", K+SPORT1 BEP4.0
+#EXTINF:0 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/ksport1kkk", K+SPORT1 BEP4.0
 http://103.75.186.169/b4tv/b4tv/1.ts
-#EXTINF:0 tvg-id="ksport2hd" group-title="TEST" tvg-logo="https://img.vnmedia.xyz/logo/ksport2hd.jpg", K+SPORT2 BEP4.0
+#EXTINF:0 tvg-id="ksport2hd" group-title="TEST" tvg-logo="http://gg.gg/ksport2kkk", K+SPORT2 BEP4.0
 http://103.75.186.169/b4tv/b4tv/5.m3u8
 
 
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT1%20HD.png",K+ Sport 1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="TEST" tvg-logo="http://gg.gg/ksport1kkk",N.K+ Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keysport1.php
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="TEST" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KSPORT2%20HD.png",K+ Sport 2
+#EXTINF:-1 tvg-id="ksport2hd" group-title="TEST" tvg-logo="http://gg.gg/ksport2kkk",N.K+ Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keysport2.php
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KCINE%20HD.png",K+ Cine
+#EXTINF:-1 tvg-id="kcinehd" group-title="TEST" tvg-logo="http://gg.gg/kcinekkk",N.K+ Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keycine.php
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KLIFE%20HD.png",K+ Life
+#EXTINF:-1 tvg-id="klifehd" group-title="TEST" tvg-logo="http://gg.gg/klifekkk",N.K+ Life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keylife.php
 https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="TEST" tvg-logo="https://img.kplus.vn/images?filename=media/channels/sg/channelicons/KKIDS%20HD.png", K+ Kids
+#EXTINF:-1 tvg-id="kkidshd" group-title="TEST" tvg-logo="http://gg.gg/kkidkkk",N.K+ Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/keykids.php
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
