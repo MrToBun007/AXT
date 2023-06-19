@@ -611,6 +611,13 @@ http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=154405&exten
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Extra FHD
 http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753907.m3u8
 
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",2. ViaPlay Sports 1 FHD
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=595187&extension=ts&play_token=bgs9vcdZ1u
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",2. ViaPlay Sports 2 FHD
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=595189&extension=ts&play_token=QyrZAmQarS
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",2. ViaPlay Extra FHD
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=595191&extension=ts&play_token=HrZQiFTdWB
+
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png",1.BBC ONE FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71399&extension=ts&play_token=2JCVbfMtIN
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png",2.BBC ONE FHD
@@ -620,7 +627,7 @@ http://metaip.tv:80/rezastar7/ucCIshvpYj/8726
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1841px-BBC_Two.svg.png",1.BBC TWO FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71397&extension=ts&play_token=x0DivRfPN5
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1841px-BBC_Two.svg.png",2.BBC TWO FHD
-
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=11348&extension=ts&play_token=kmX1FzjqDs
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",1.ITV 1 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=22815&extension=ts&play_token=3ABp2Z0CTf
@@ -637,26 +644,26 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20179&extens
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20181&extension=ts&play_token=hbffuurR3H
 
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",1.Manchester City FHD
-http://103.76.130.33:13107/play/AO-exgRlEK3XJoH1rBboJUz0-0F9ZlGcyIKy3MIX7-VkSRFzbaxaVFzEoJfnWOA7aKEIYjiQ2AuG827J9pHCfmaMNCXe88JBw2QibNpyXHo?ext=.ts
+
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",2.Manchester City FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713441&extension=ts&play_token=nFRC4rvIed
+
 
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",1.Manchester United FHD
-http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/59933.m3u8
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=56381&extension=ts&play_token=UEUK5eDBCY
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",2.Manchester United FHD
-http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/17278
+
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",1.Liverpool FHD
 http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/61467.m3u8
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",2.Liverpool FHD
-http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/150244
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=117748&extension=ts&play_token=7q9nikpesQ
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",1.Asenal FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713430&extension=ts&play_token=3DrP76Afz7
+
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png",1.Newcastle United FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713443&extension=ts&play_token=YAb8JqxTGI
+
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png",1.Chelsea FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713435&extension=ts&play_token=oNGxY3E2aO
+
 #EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1024px-Brighton_%26_Hove_Albion_logo.svg.png",1.Brighton&Hove Albion FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=713433&extension=ts&play_token=uqEGroGVab
+
 
 
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",1.Sky Sport F1 FHD
@@ -722,6 +729,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=130113&exten
 http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",4.TENNIS FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=130113&extension=ts&play_token=tZOVvmXb5J
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",5.TENNIS FHD
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=519695&extension=ts&play_token=RTrOU8KNyV
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox1fhdkkk",1.Fox Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=42904&extension=ts&play_token=on8dezHGwB
@@ -853,24 +862,24 @@ http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303190&extension=
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303189&extension=ts&play_token=dHrFVtYZDs
 
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersports 1 FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38186&extension=ts&play_token=dAdxkwYjMp
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115615&extension=ts&play_token=TpjKqKOYXN
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersports 2 FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38187&extension=ts&play_token=R9ODy8D8B8
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115616&extension=ts&play_token=EhQRHoKa1j
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersports 3 FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38189&extension=ts&play_token=MhUYplPWKt
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115617&extension=ts&play_token=57f1B5QsEy
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersports 4 FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38191&extension=ts&play_token=OR5DOWotC8
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115618&extension=ts&play_token=gM6wuCy6wi
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersports 5 FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1117031&extension=ts&play_token=eOaVsReUY3
+
 
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350557&extension=ts&play_token=OUA7OifHiI
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348097&extension=ts&play_token=mJHzGozKrt
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350558&extension=ts&play_token=I7lqZQfynJ
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348098&extension=ts&play_token=zMqY51sdkb
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",1.Hub Premier 3 FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350559&extension=ts&play_token=9Dv3X5rOic
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348099&extension=ts&play_token=qNZUG2QZF0
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",1.Hub Premier 4 FHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1350560&extension=ts&play_token=K6v6QLLBxs
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348100&extension=ts&play_token=A4LXdqiAoR
 
 
 #--*.*--VTV--*.*--#
