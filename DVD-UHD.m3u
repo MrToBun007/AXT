@@ -53,7 +53,7 @@ http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd?hdnts=exp=16794
 https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/ksport1kkk",3.K+ SPORT1 50FPS TV360
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/ksport1kkk",3.K+ SPORT 1 50FPS TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kplussports1v?key99/738829912/20sportskeokey
