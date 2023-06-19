@@ -527,14 +527,14 @@ http://nordicone.tv:2095/play/live.php?mac=00:1a:79:67:52:6c&stream=110504&exten
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",1.Bloomberg UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584&extension=ts&play_token=6jBXOtTIxl
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",2.Bloomberg UHD---***---
-http://dimarstore.com:8080/live/euroiptv400cox/E6TDpeMPfrZt4eSn/279908.m3u8
+
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/foxne-skkk",1.Fox News FHD 
 http://realsport.scalecdn.co:8080/live/george1/george2/3647.m3u8
 
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",1.CNN UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1555722&extension=ts&play_token=YtBgkN3SPo
+
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",2.CNN FHD
 http://realsport.scalecdn.co:8080/live/george1/george2/3625.m3u8
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png",1.BBC News FHD
@@ -604,17 +604,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255103&exten
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/06_Racing.png",2.Sky Sports Racing FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&extension=ts&play_token=pS17zrmBcR
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",3.Sky Sports Main Event FHD
-http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArCjHZ69_INMOMFKVAdPpdF27H8cUz02iFaa-OTyU_Uc9sMyJRlt2jfkdCahUAg7L5c?ext=.ts
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",3.Sky Sports Football FHD
-http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArA_aNHomAaMG0jdLhdbocoiHW_cJ5nCkLjRt0ANqbHjWe8S7miAouimk3HNxiFM4C0?ext=.ts
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",3.Sky Sports Premier League FHD
-http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArDv5KzXeOleOGBGglK5RADMtpgAw1qowdwT_ibxoHhEA91zGZWPnLl1B7-f_z-LW5s?ext=.ts
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/07_Golf.png",3.Sky Sports Golf FHD
-http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArCdu2tBmnd4RcSFNISZNYclBBuptV3tThbXKotzx4o-LfYFi9KajAG_S0SFOjixaxU?ext=.ts
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/06_Racing.png",3.Sky Sports Racing FHD
-http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArBCREZPcven_8uc8HkXt3e9Cdppdc9r82NrMUjs7J1Ji95jXUIFAOeqYF8W0gPVy3A?ext=.ts
-
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Sports 1 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",1. ViaPlay Sports 2 FHD
@@ -631,7 +620,7 @@ http://metaip.tv:80/rezastar7/ucCIshvpYj/8726
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1841px-BBC_Two.svg.png",1.BBC TWO FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71397&extension=ts&play_token=x0DivRfPN5
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1841px-BBC_Two.svg.png",2.BBC TWO FHD
-http://cdnnewott.com:80/77F3A5988FD7D50/j0epUW7Lhr/17318
+
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",1.ITV 1 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=22815&extension=ts&play_token=3ABp2Z0CTf
