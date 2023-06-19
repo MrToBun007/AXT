@@ -729,6 +729,18 @@ http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=130113&extension=ts&play_token=tZOVvmXb5J
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",5.TENNIS FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=519695&extension=ts&play_token=RTrOU8KNyV
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 1 FHD
+http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=519697&extension=ts&play_token=W3B8tl7679
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 2 FHD
+http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=519698&extension=ts&play_token=JMhLD2X4Oy
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 3 FHD
+http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=519699&extension=ts&play_token=JHIrqrUhvY
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 4 FHD
+http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=541116&extension=ts&play_token=4fxqLMq6LU
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 5 FHD
+http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=541117&extension=ts&play_token=7IRMLMRnTp
+
+
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox1fhdkkk",1.Fox Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=42904&extension=ts&play_token=on8dezHGwB
