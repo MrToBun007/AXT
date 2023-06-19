@@ -32,8 +32,8 @@ http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1566281&ext
 
 #--*.*--FHD Live--*.*--#
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Live Arg vs Aus
-
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Live 19h30 IDN vs ARG
+http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=527365&extension=ts&play_token=MNKnSsjGIe
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",Roland Garros FHD3
 
 
