@@ -925,7 +925,7 @@ https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportshd
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png",1.ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/get/vtvcab/vtvcab3/playlist.m3u8
 
