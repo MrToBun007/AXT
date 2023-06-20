@@ -40,39 +40,10 @@ http://kb001.xyz:80/gWN7T51fr8L1/WaZGW4VZ3l/185407
 
 #--*.*--K+--*.*--#
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/ksport1kkk",1.K+ SPORT 1 50FPS TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }	
-http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd?hdnts=exp=1679405479~acl=/*~hmac=ede08a28f01588514705d06a50200e65d52b78c7b432583437206d7cd381c30a&manifestfilter=video_bitrate:1-3600000&uid=16352080
-
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/ksport1kkk",2.K+ SPORT 1 50FPS TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kplussports1v?key99/738829912/20sportskeokey
-https://hqth.me/kplussports1v?id=klifesports476/seasonid:64537772881/sports.mpd
 
-
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://gg.gg/ksport2kkk",1.K+ SPORT 2 50FPS TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
-http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae		 ㅤ
 
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/ksport2kkk" group-title="K+",2.K+ SPORT 2 IPTV
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8 
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://gg.gg/ksport2kkk",3.K+ SPORT 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeysports2hd?key=66/728819923/32sportskeokey
-https://hqth.me/kplussports2hd?id=klifesports821/seasonid:1777288822/sports.mpd
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://gg.gg/ksport2kkk",4.K+ SPORT2 50FPS TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kplussports2v?key=66/728819923/32sportskeokey
-https://hqth.me/kplussports2v?id=klifesports432/seasonid:74883999201/sports.mpd	
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/kcinekkk",1.K+ CINE
@@ -83,6 +54,8 @@ https://hqth.me/kplussports2v?id=klifesports432/seasonid:74883999201/sports.mpd
 
 
 #EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="http://gg.gg/kkidkkk",2.K+ KIDS
+
+#--*.*--BT Sports--*.*--#
 
 #EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/btultimatekkk",1.BT Ultimate UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1300442&extension=ts&play_token=YmsTKWQok5
