@@ -492,10 +492,6 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extensi
 http://metaip.tv:80/rezastar7/ucCIshvpYj/9472
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",1.TRT 4K
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=400958&extension=ts&play_token=VjjT7V1UDz
-#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",2.TRT 4K
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=400958&extension=ts&play_token=e0NlLpIBZE
-#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",3.TRT 4K
 http://kb001.xyz:80/gWN7T51fr8L1/WaZGW4VZ3l/299410
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport 4K
@@ -532,6 +528,11 @@ http://realsport.scalecdn.co:8080/live/george1/george2/3647.m3u8
 http://realsport.scalecdn.co:8080/live/george1/george2/3625.m3u8
 #EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png",1.BBC News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=20455&extension=ts&play_token=GVkHA4BdJl
+
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",1.TRT FHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=400958&extension=ts&play_token=VjjT7V1UDz
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",2.TRT FHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=400958&extension=ts&play_token=e0NlLpIBZE
 
 #-*--SPORT FULL HD-*--#
 #EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/bt1kkk",1.BT Sports 1 FHD 
