@@ -246,6 +246,9 @@ http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:AF:3A:F1&stream=482837&ext
 #EXTINF:-1 group-title="⚽ Bundesliga" tvg-logo="http://gg.gg/bundesligasky",5.Sky Bundesliga UHD Live Event
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=242541&extension=ts&play_token=fzzmdaad0a
 
+#EXTINF:-1 group-title="DIGI Sports" tvg-logo="http://gg.gg/orangesportkkk",1.Orange Sport 1 UHD
+http://safe.avivainsur.com:8080/live/ANTONI.DUMA/grdfHRHjBZGu/38647.m3u8
+
 #EXTINF:-1 group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=443338&extension=ts&play_token=f5SxajYgdf
 #EXTINF:-1 group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",2.DIGI UHD
