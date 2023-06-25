@@ -391,7 +391,7 @@ http://optimus-tv.com:8080/play/live.php?mac=00:1A:79:57:29:E8&stream=629068&ext
 
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Sports UHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=101206&extension=ts&play_token=D1lw5F81Zy
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101206&extension=ts&play_token=9bATPLdfFe
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",2.Canal+ Sports UHD
 http://vip.liontv.site:80/play/live.php?mac=00:1A:79:08:5F:25&stream=526130&extension=ts&play_token=TNmh41WhmE
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",3.Canal+ Sports UHD
