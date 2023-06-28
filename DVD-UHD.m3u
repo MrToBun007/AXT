@@ -887,43 +887,6 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 
-#-*-Khích📺-VTV-*--#
-
-#EXTINF:0 tvg-id="vtv1hd" group-title="📺VTV&CAB"tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/25/yxhr8rj5_vtv122ab95efb9e05240b2b6b3d1f9c9a09f_296_168.webp",❤️VTV1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv1-hd
-#EXTINF:0 tvg-id="vtv2hd" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/8jxfvivt_vtv2ee9c08aad4e297b156d0b454e83fd10d_296_168.webp",❤️VTV2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv2-hd
-#EXTINF:0 tvg-id="vtv3hd" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/9dkyyxb3_vtv382c4339e5a8c4dba16f6ed6ec87c2a4d_296_168.webp",❤️VTV3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv3-hd
-#EXTINF:0 tvg-id="vtv4hd" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6dufbhs9_vtv4_296_168.webp",❤️VTV4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv4-hd
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/27/s96psn20_vtv5bdd33f05b45edf0c7b72cd892ad3c52a_296_168.webp",❤️VTV5 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv5-hd
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/tmx7zrvk_vtvcab_vtv-tnb_296_168.webp",❤️VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv5-tay-nam-bo
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/9ku4rk7z_vtvcab_update_296_168.webp",❤️VTV5 Tây Nguyên
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv5-tay-nguyen
-#EXTINF:0 tvg-id="vtv7hd" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/xiyp03o6_vtv7_296_168.webp",❤️VTV7 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv7-hd
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.webp",❤️VTV8 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv8-hd
-
-#EXTINF:0 tvg-id="vtv9hd" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/q8jw35jn_vtv97423ee6b52f3c30fd7b7b22ca1023b50_296_168.webp" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8",❤️VTV9 HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-https://hqth.me/getlinksctvvtv9?id9288199201/manifest:9/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/mygem9ju_vtv-can-tho992d0d0d357f71755e38c5f4276cc207_296_168.webp",❤️VTV Cần Thơ HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://phimmoi.asia/vieon.php?type=tivi&kenh=vtv-can-tho
-
 #--*.*--VTVCAB--*.*--#
 
 #EXTINF:-1 tvg-id="" group-title="📺VTV&CAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/B%C3%B3ng_%C4%90%C3%A1_Vi%E1%BB%87t_logo.png/revision/latest/scale-to-width-down/180?cb=20221129115904&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/ondrm/ONVFFTV/sc-gaFEAA/m30_index.m3u8?startTime=${start}&stopTime=${end}",1.Bóng đá Việt
