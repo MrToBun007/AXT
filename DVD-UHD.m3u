@@ -898,15 +898,6 @@ http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/q8jw35jn_vtv97423ee6b52f3c30fd7b7b22ca1023b50_296_168.webp" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV9 HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 
-#EXTINF:-1 tvg-id="ninhbinh" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/161.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/160/auto/dvr-${start}-${end}.m3u8", Ninh Bình HD
-http://103.90.220.236/nbtvlive/tv1live.m3u8
-
-#EXTINF:-1 tvg-id="danang1" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/128.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/90/auto/dvr-${start}-${end}.m3u8", DaNangTV1 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang2" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/129.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/60/auto/dvr-${start}-${end}.m3u8", DaNangTV2 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-
-
 #--*.*--VTVCAB--*.*--#
 
 #EXTINF:-1 tvg-id="" group-title="📺VTV&CAB" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/B%C3%B3ng_%C4%90%C3%A1_Vi%E1%BB%87t_logo.png/revision/latest/scale-to-width-down/180?cb=20221129115904&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/ondrm/ONVFFTV/sc-gaFEAA/m30_index.m3u8?startTime=${start}&stopTime=${end}", Bóng đá Việt
@@ -917,7 +908,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
 
 
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/dvr-${start}-${offset}.m3u8",1.ON Golf
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/dvr-${start}-${offset}.m3u8", ON Golf
 #https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", ON Sports Action
@@ -988,7 +979,13 @@ https://liveh12.vtvcab.vn/hls/ONSPORTNEWSTA/03.m3u8
 #EXTINF:-1 tvg-id="" group-title="📺VTV&CAB" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/ad12aa62-1d69-4141-8852-18d65ab3be64.jpg", ON Golf ENG
 https://liveh12.vtvcab.vn/hls/ONGOLFTA/03.m3u8
 
+#EXTINF:-1 tvg-id="ninhbinh" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/161.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/160/auto/dvr-${start}-${end}.m3u8", Ninh Bình HD
+http://103.90.220.236/nbtvlive/tv1live.m3u8
 
+#EXTINF:-1 tvg-id="danang1" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/128.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/90/auto/dvr-${start}-${end}.m3u8", DaNangTV1 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 tvg-id="danang2" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/129.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/60/auto/dvr-${start}-${end}.m3u8", DaNangTV2 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 #--*.*--Phim--*.*--#
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/24/5z9ogvys_hbongagn5c6638d88559beb0b692f177bbe32637_296_168.webp" group-title="MOVIE",1.HBO VIET
