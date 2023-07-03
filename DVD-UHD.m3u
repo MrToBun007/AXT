@@ -32,7 +32,7 @@ http://45.158.254.2:80/play/live.php?mac=00:1A:79:CD:E5:45&stream=1124346&extens
 #--*.*--FHD Live--*.*--#
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Live Motor GP of Assen
-http://ultraflix.uk:8080/live/Chopper2022/JLYLpawjHtJu/1858.m3u8
+
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",2.Live Motor GP of Assen
 
 
@@ -67,11 +67,6 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #http://nhamngfpt.ddns.me/thongbaongungphat.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://gg.gg/kkidkkk", K+ Kids
-EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dgMhoEQNN+yqjjbFowApcA", "kid":"VWhlBxaSRsR2sptnbcEvqQ" },{ "kty":"oct", "k":"HnM3g8SP1BUF9CrD1QX3ZA", "kid":"FBMhvseSRsR2sptnbcEvqQ" },{ "kty":"oct", "k":"iww0YHxkorNJT5PPk7tXeA", "kid":"XFchvseSRsR2sptnbcEvqQ" }], "type":"temporary" }
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 
 
@@ -697,23 +692,23 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=42910&
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695&extension=ts&play_token=Td5aN51cxU
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",2.TENNIS FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=130113&extension=ts&play_token=tMlNnDjqu6
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=519695&extension=ts&play_token=RTrOU8KNyV
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",3.TENNIS FHD
 http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",4.TENNIS FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=130113&extension=ts&play_token=tZOVvmXb5J
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",5.TENNIS FHD
-http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=519695&extension=ts&play_token=RTrOU8KNyV
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 1 FHD
-http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=519697&extension=ts&play_token=W3B8tl7679
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 2 FHD
-http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=519698&extension=ts&play_token=JMhLD2X4Oy
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 3 FHD
-http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=519699&extension=ts&play_token=JHIrqrUhvY
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 4 FHD
-http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=541116&extension=ts&play_token=4fxqLMq6LU
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 5 FHD
-http://nordicone.tv:2095/play/live.php?mac=00:1a:79:53:25:72&stream=541117&extension=ts&play_token=7IRMLMRnTp
+
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox1fhdkkk",1.Fox Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=42904&extension=ts&play_token=on8dezHGwB
@@ -921,7 +916,9 @@ https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
 #https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="📺VTV&CAB" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", ON Sports Action
-
+#https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+https:///liveh34.vtvcab.vn/hls/ACTION/01.m3u8
+#https:///dl.dropboxusercontent.com/s/9mb7vq0hevodo8g//   																						 ㅤ
 
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="📺VTV&CAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
 #EXTVLCOPT:http-user-agent="Khanggne"
