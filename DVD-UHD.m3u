@@ -7,6 +7,7 @@
 
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #Su dung OTT Navigator hoặc Tivimate để xem được K+
+#Thanks Viettivi (hqth.me/viettivi)
 
 #My list : http://gg.gg/06062023 , https://hqth.me/r586iE
 
@@ -66,9 +67,21 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #http://nhamngfpt.ddns.me/thongbaongungphat.m3u8
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://gg.gg/kkidkkk", K+ Kids
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://gg.gg/kkidkkk",1.K+ Kids
+EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dgMhoEQNN+yqjjbFowApcA", "kid":"VWhlBxaSRsR2sptnbcEvqQ" },{ "kty":"oct", "k":"HnM3g8SP1BUF9CrD1QX3ZA", "kid":"FBMhvseSRsR2sptnbcEvqQ" },{ "kty":"oct", "k":"iww0YHxkorNJT5PPk7tXeA", "kid":"XFchvseSRsR2sptnbcEvqQ" }], "type":"temporary" }
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
-
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/kcinekkk",2.K+CINE MyTV
+http://103.56.160.133:8081/kcine
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://gg.gg/klifekkk",2.K+ Life MyTV
+http://103.56.160.133:8081/klife
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/ksport1kkk",2.K+SPORT 1 MyTV
+http://103.56.160.133:8081/ksport1
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://gg.gg/ksport2kkk",2.K+SPORT 2 MyTV
+http://103.56.160.133:8081/ksport2
 
 
 
