@@ -495,15 +495,19 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=110504&extensi
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/fashionkkk",4.Fashion TV UHD
 http://nordicone.tv:2095/play/live.php?mac=00:1a:79:67:52:6c&stream=110504&extension=ts&play_token=NfAyZYw13c
 
-#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",1.Bloomberg UHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584&extension=ts&play_token=6jBXOtTIxl
-#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",2.Bloomberg UHD---***---
-http://defitv.fun:80/live/Chris123/Chris123/375988.m3u8
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",1.TRT 4K
 http://kb001.xyz:80/gWN7T51fr8L1/WaZGW4VZ3l/299410
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",1.Canal+ Box Office UHD
+
+
+
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",1.Bloomberg UHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584&extension=ts&play_token=6jBXOtTIxl
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",2.Bloomberg UHD---***---
+http://defitv.fun:80/live/Chris123/Chris123/375988.m3u8
+
 
 
 
