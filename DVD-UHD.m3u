@@ -971,17 +971,6 @@ https://s7773.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=523
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://media.info/i/lf/900/1592346981/1533.png",1.Sky Cinema Disney US FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=9831&extension=ts&play_token=xJzW79GYZ1
-
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",1.CineMax US FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121626&extension=ts&play_token=YUIHMcmuQd
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png",1.HBO US FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121724&extension=ts&play_token=LqZhyQpn8M
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png",2.HBO UK FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1555712&extension=ts&play_token=xKA7f4XNP1
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/1920px-MovieMax_Logo.svg.png",1.Movie Max US FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=121736&extension=ts&play_token=1jFfG95IwQ
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://gg.gg/TRT1kkk",1.TRT FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=400958&extension=ts&play_token=VjjT7V1UDz
