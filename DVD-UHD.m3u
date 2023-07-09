@@ -438,7 +438,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=502583&extensi
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/claritykkk",1.Clarity 4K
-
+http://my1esilil.ddns.net:80/k67jdKb3TR86188/jIEuZgnrU0/273895
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/fashionkkk",1.Fashion TV UHD
 http://nordicone.tv:2095/play/live.php?mac=00:1a:79:67:52:6c&stream=110504&extension=ts&play_token=NfAyZYw13c
@@ -1123,4 +1123,7 @@ http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=5
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486167&extension=ts&play_token=aSOd6hmbJV
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/francesportkkk",2.France*TV Sport-Canada VPN
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension=ts&play_token=dLNP07FZA0
+
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/claritykkk",1.Clarity 4K
+http://my1esilil.ddns.net:80/k67jdKb3TR86188/jIEuZgnrU0/273895
 
