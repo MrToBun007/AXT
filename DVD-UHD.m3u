@@ -1063,7 +1063,7 @@ http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/118089.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/bein4kkk",1.Skyhigh Dance-Canada VPN
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=683911&extension=ts&play_token=XSEasUc2Ih
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/bein4kkk",2.Bein-Canada VPN
-
+http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=81673&extension=ts&play_token=aFs7DBirvk
 
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/TRT1kkk",1.TRT-Canada VPN
