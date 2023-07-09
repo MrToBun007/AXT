@@ -44,8 +44,8 @@ http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74086.
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Tennis Dohuk Sports
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=309992&extension=ts&play_token=cw7DDSmzZd
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",2.Live Motor GP of Assen
-
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",2.F1 Live
+http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=275659&extension=ts&play_token=1TC36LJgH4
 
 
 
@@ -417,9 +417,9 @@ http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=310432&extens
 
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/bein4kkk",1.Bein 4K
-http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=466959&extension=ts&play_token=D8lZhJ6iMI
+http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=466959&extension=ts&play_token=eaxc6yM2gX
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/bein4kkk",2.Bein 4K
-
+http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=466959&extension=ts&play_token=eaxc6yM2gX
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Motor UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526128&extension=ts&play_token=b5FA4gfd0H
