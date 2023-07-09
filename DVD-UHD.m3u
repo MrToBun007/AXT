@@ -30,6 +30,8 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extensi
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ae:c6:b8&stream=348094&extension=ts&play_token=sFD5pWlz1e
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",3.Tennis Wimbledon 4K
 http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",4.Tennis Wimbledon 4K
+http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250781&extension=ts&play_token=jHsQdsEZoZ
 
 
 #--*.*--FHD Live--*.*--#
@@ -158,7 +160,7 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=348094
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="http://gg.gg/astrokkk",9.Astro Supersports UHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ad:f1:43&stream=348094&extension=ts&play_token=3Nea7kJ1iH
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="http://gg.gg/astrokkk",10.Astro Supersports UHD
-
+http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250763&extension=ts&play_token=Y77yJ8GTki
 
 
 
@@ -377,7 +379,7 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124350&ext
 #--*.*--Canal+--*.*--#
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",1.Canal+ 4K
-
+http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250760&extension=ts&play_token=28uJO818z7
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",2.Canal+ 4K
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",3.Canal+ 4K
@@ -405,7 +407,7 @@ http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&ext
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",9.Canal+ Sports UHD
 http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=BzCcY4S10M
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",10.Canal+ Sports UHD
-
+http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=310432&extension=ts&play_token=saknpzj6Dv
 
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/bein4kkk",1.Bein 4K
