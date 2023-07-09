@@ -32,6 +32,8 @@ http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ae:c6:b8&stream=348094&ext
 http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",4.Tennis Wimbledon 4K
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250781&extension=ts&play_token=jHsQdsEZoZ
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",5.Tennis Wimbledon 4K
+http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74113.ts
 
 
 #--*.*--FHD Live--*.*--#
