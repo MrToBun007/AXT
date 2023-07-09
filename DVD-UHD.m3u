@@ -34,7 +34,11 @@ http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250781&extension=ts&play_token=jHsQdsEZoZ
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",4.Tennis Wimbledon 4K
 http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74113.ts
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",5.Tennis Wimbledon BBC 4K
+https://p13.cx:443/play/1IRiOn6iKoW1rm_3RdXnTR-OtVaryUoC_3Mri3xxr9e0ype7uzWCtm640QrnfW0R8OtTzmh35O5n9106mFRarUFD1g13raIC93M8XIZU8Ctxn0QxzZUEzNkqGLbQwFcRfACUxuXa12C2aMpQ2af9KR_9ri1oG24Oc_-3i-dzRzg?ext=.ts
 
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",4.F1 4K
+http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250781&extension=ts&play_token=jHsQdsEZoZ
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk", BTV 4K 
 http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74086.ts
