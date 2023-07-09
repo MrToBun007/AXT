@@ -1031,10 +1031,9 @@ http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/88667.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/skybundesliga",2.Sky Bundesliga-Netherlands/Canada VPN
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/88667.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/skybundesliga",3.Sky Bundesliga-Canada VPN
-http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486169&extension=ts&play_token=Dk9jO5RL12
+http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=482837&extension=ts&play_token=adPgjCGavJ
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/skybundesliga",4.Sky Bundesliga-VPN
-http://magm1giillmig.funtogether.xyz:8080/jmtJH7Agol/OXlQWS6ekb/108527?play_token=XWNXhBMxiX
-
+http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=484209&extension=ts&play_token=AJg4h6j480
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Sports-Canada VPN
 http://2.onrev.xyz:80/bEfj2Y1w/bQPmCxrB3K/147549
@@ -1043,7 +1042,7 @@ http://2.onrev.xyz:80/bEfj2Y1w/bQPmCxrB3K/147549
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/canal-uhd",1.Canal+-Canada VPN
 http://vod.supremetv.live/live/jake1234/jake1234/526135.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/canal-uhd",2.Canal+-Canada VPN
-
+http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=629068&extension=ts&play_token=NmbctJ2BbX
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/elevenkkk",1.Eleven Sports-Canada VPN
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/118089.m3u8
@@ -1051,8 +1050,8 @@ http://45.12.1.14:80/live/quertiy12222/gzaVWR144/118089.m3u8
 http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/118089.m3u8
 
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/bein4kkk",1.Bein-Canada VPN
-
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/bein4kkk",1.Skyhigh Dance-Canada VPN
+http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=683911&extension=ts&play_token=XSEasUc2Ih
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/bein4kkk",2.Bein-Sweden VPN
 
 
@@ -1075,10 +1074,9 @@ http://vod.supremetv.live/live/jake1234/jake1234/1124350.m3u8
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier-Netherlands VPN
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=1032518&extension=ts&play_token=0guZCYI6m6
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/hubpremierkkk",2.Hub Premier-Netherlands VPN
-http://wavetv.pro:80/play/live.php?mac=00:1A:79:17:2d:6a&stream=1032518&extension=ts&play_token=VXSMPk1YAS
+http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=670350&extension=ts&play_token=WCLy3QEofX
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/hubpremierkkk",3.Hub Premier-VPN
-http://magm1giillmig.funtogether.xyz:8080/jmtJH7Agol/OXlQWS6ekb/112230?play_token=cEMZAtZJBR
-
+http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=670352&extension=ts&play_token=qx7U6JDbNH
 
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI-Netherlands VPN
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:C8:61:7C&stream=443338&extension=ts&play_token=VRk1pATjKs
