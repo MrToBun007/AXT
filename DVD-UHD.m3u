@@ -881,9 +881,7 @@ https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
 #https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VIET NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", ON Sports Action
-#https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
-https:///liveh34.vtvcab.vn/hls/ACTION/01.m3u8
-#https:///dl.dropboxusercontent.com/s/9mb7vq0hevodo8g//   																						 ㅤ
+ 																						 ㅤ
 
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="VIET NAM" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
 #EXTVLCOPT:http-user-agent="Khanggne"
@@ -921,18 +919,6 @@ https://liveh12.vtvcab.vn/hls/ONGOLFTA/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VIET NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VIET NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/8ed3e90f20e83dc5de355ea9581b73b7c339bd89/1687961214/vtvcab6-on-sport-plus/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VIET NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/8ed3e90f20e83dc5de355ea9581b73b7c339bd89/1687961214/vtvcab16-on-football/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VIET NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/8ed3e90f20e83dc5de355ea9581b73b7c339bd89/1687961214/vtvcab18-on-sports-news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VIET NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf
 https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
