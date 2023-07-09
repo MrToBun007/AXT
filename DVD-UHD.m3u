@@ -126,7 +126,7 @@ http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1299719&ext
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:8E:61:F6&stream=1350568&extension=ts&play_token=TUQFELPfwB
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="http://gg.gg/hubpremierkkk",2.Hub Premier 2 UHD
-
+http://epg.protv.cc:80/live/Verhoeven/Verhoeven/1032518.m3u8
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="http://gg.gg/hubpremierkkk",3.Hub Premier 2 UHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1032518&extension=ts&play_token=23sRdi72eC
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="http://gg.gg/hubpremierkkk",4.Hub Premier 2 UHD
@@ -150,7 +150,7 @@ http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=188713&extensio
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="http://gg.gg/astrokkk",1.Astro Supersports UHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ae:c6:b8&stream=348094&extension=ts&play_token=sFD5pWlz1e
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="http://gg.gg/astrokkk",2.Astro Supersports UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1124635&extension=ts&play_token=8xvLzrFJpH
+http://epg.protv.cc:80/live/Verhoeven/Verhoeven/1016544.m3u8
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="http://gg.gg/astrokkk",3.Astro Supersports UHD
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=1016544&extension=ts&play_token=1EpPfEv4wz
 #EXTINF:-1 group-title="Astro Supersports" tvg-logo="http://gg.gg/astrokkk",4.Astro Supersports UHD
