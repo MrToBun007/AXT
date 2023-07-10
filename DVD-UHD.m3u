@@ -25,11 +25,11 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=11
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Live Concacaf Fox Sport 4K+11h
 http://45.158.254.2:80/play/live.php?mac=00:1A:79:CD:E5:45&stream=1124346&extension=ts&play_token=Pd2uVhI6I3
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Tennis Wimbledon 4K
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extension=ts&play_token=4bpG5l7h9F
+http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Tennis Wimbledon 4K
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ae:c6:b8&stream=348094&extension=ts&play_token=sFD5pWlz1e
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",3.Tennis Wimbledon 4K
-http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extension=ts&play_token=4bpG5l7h9F
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",4.Tennis Wimbledon 4K
 http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74113.ts
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",5.Tennis Wimbledon BBC 4K
@@ -38,9 +38,6 @@ http://trx.p13.one/live/Americo/Americo/1872119.m3u8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.F1 4K
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250781&extension=ts&play_token=jHsQdsEZoZ
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.BTV 4K 
-http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74086.ts
 
 
 #--*.*--FHD Live--*.*--#
@@ -445,6 +442,9 @@ http://kb001.xyz:80/gWN7T51fr8L1/WaZGW4VZ3l/179589
 
 #--*.*--USA Channel--*.*--#
 
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/btvkkk",1.BTV 4K 
+http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74086.ts
+
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/lovenaturekkk",1.Love Nature UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=502583&extension=ts&play_token=ySiozykwoN
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/lovenaturekkk",2.Love Nature UHD
@@ -471,6 +471,7 @@ http://raw1.ath.cx:8080/live/topram58/04032023/2.m3u8
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",1.Bloomberg UHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=502584&extension=ts&play_token=6jBXOtTIxl
+
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/blombergkkk",2.Bloomberg UHD---***---
 http://defitv.fun:80/live/Chris123/Chris123/375988.m3u8
 
@@ -1060,7 +1061,7 @@ http://45.12.1.14:80/live/quertiy12222/gzaVWR144/118089.m3u8
 http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/118089.m3u8
 
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/bein4kkk",1.SkyHigh Dance-Canada VPN
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/skyhighdancekkk",1.SkyHigh Dance-Canada VPN
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=683911&extension=ts&play_token=XSEasUc2Ih
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/bein4kkk",2.Bein-Canada VPN
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=81673&extension=ts&play_token=aFs7DBirvk
@@ -1144,5 +1145,5 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension
 #EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/claritykkk",1.Clarity 4K-Canada VPN
 http://my1esilil.ddns.net:80/k67jdKb3TR86188/jIEuZgnrU0/273895
 
-#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/claritykkk",DAZN 4K-Canada VPN
+#EXTINF:-1 group-title="UHD-Need VPN" tvg-logo="http://gg.gg/daznf1kkk",DAZN 4K-Canada VPN
 http://trx.p13.one/live/Manan123/Manan123/1836060.m3u8
