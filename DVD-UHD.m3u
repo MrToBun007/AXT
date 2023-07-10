@@ -434,7 +434,8 @@ http://safe.avivainsur.com:8080/live/lidas/kzAtmnHq2v/10510.m3u8
 http://safe.avivainsur.com:8080/live/Ionut_Alexa/4MyXxpcF8nMf/10510.m3u8
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/dvdeurosport",3.EuroSport 4K
 http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
-
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/dvdeurosport",4.EuroSport 4K
+http://safe.avivainsur.com:8080/Ionut_Alexa/4MyXxpcF8nMf/10510
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/RAIkkk",1.RAI 4K
 http://kb001.xyz:80/gWN7T51fr8L1/WaZGW4VZ3l/179589
@@ -1013,10 +1014,10 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:A6:CA:FB&stream=287287&exte
 
 #-*--UHD-Need VPN-*--#
 
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport-Sweden VPN
-http://adam4k.top:80/play/live.php?mac=00:1A:79:4D:BF:A7&stream=486170&extension=ts&play_token=PCyhFva85W
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",2.EuroSport-Sweden VPN
-http://adam4k.top:80/play/live.php?mac=00:1A:79:74:80:D2&stream=479962&extension=ts&play_token=7ipkkb97Da
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport-Canada VPN
+http://safe.avivainsur.com:8080/Cinta_Gheorghe/a2x2DSg2Gg4m/10510
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/dvdeurosport",2.EuroSport-Canada VPN
+http://safe.avivainsur.com:8080/Stefan-Razvan_Roibu/pdVXSsGrZ1/10510
 
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/Cmorekkk",1.Cmore-Sweden VPN
@@ -1145,5 +1146,5 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/claritykkk",1.Clarity 4K-Canada VPN
 http://my1esilil.ddns.net:80/k67jdKb3TR86188/jIEuZgnrU0/273895
 
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/daznf1kkk",DAZN 4K-Canada VPN
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/daznf1kkk",1.DAZN 4K-Canada VPN
 http://trx.p13.one/live/Manan123/Manan123/1836060.m3u8
