@@ -778,13 +778,13 @@ http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=117748&extensi
 
 
 
-#EXTINF:-1 group-title="Fomula F1" tvg-logo="hhttp://gg.gg/ssf1kkk",1.Sky Sport F1 FHD
+#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",1.Sky Sport F1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
-#EXTINF:-1 group-title="Fomula F1" tvg-logo="hhttp://gg.gg/ssf1kkk",2.Sky Sport F1 FHD
+#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",2.Sky Sport F1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
-#EXTINF:-1 group-title="Fomula F1" tvg-logo="hhttp://gg.gg/ssf1kkk",3.Sky Sport F1 FHD
+#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",3.Sky Sport F1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=ts&play_token=6rCllY0ScD
-#EXTINF:-1 group-title="Fomula F1" tvg-logo="hhttp://gg.gg/ssf1kkk",4.Sky Sport F1 FHD
+#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",4.Sky Sport F1 FHD
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://www.pngkit.com/png/full/146-1464169_eurosport-1.png",1.EuroSport 1 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=8339&extension=ts&play_token=clIor7Ker2
@@ -1182,7 +1182,3 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://gg.gg/bbcradiokkk", London Radio
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:A6:CA:FB&stream=287287&extension=ts&play_token=mrVwwE8r4X
-
-
-
-
