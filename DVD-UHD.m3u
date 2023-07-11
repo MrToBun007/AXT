@@ -66,13 +66,13 @@ http://safe.avivainsur.com:8080/Stefan-Razvan_Roibu/pdVXSsGrZ1/10510
 
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssportdekkk",1.Sky Sports DE-Canada VPN
-http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/88668.m3u8
+http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:08:45:84&stream=484209&extension=ts&play_token=XwvZx02GGP
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssportdekkk",2.Sky Sports DE-Canada VPN
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/88668.m3u8
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssportdekkk",3.Sky Sports DE-Canada VPN
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=484209&extension=ts&play_token=AJg4h6j480
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssportdekkk",4.Sky Sports DE-Canada VPN
-http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:08:45:84&stream=484209&extension=ts&play_token=XwvZx02GGP
+http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/88668.m3u8
 
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/skybundesliga",1.Sky Bundesliga-Canada VPN
@@ -1182,4 +1182,3 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://gg.gg/bbcradiokkk", London Radio
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:A6:CA:FB&stream=287287&extension=ts&play_token=mrVwwE8r4X
-
