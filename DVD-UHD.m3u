@@ -74,7 +74,7 @@ http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=275659&extension
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qg+QQeS1MmBhQI7u2n80aA","kid":"nQdw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"F+eU3yitSHnkFFYtE4+Z2Q","kid":"5Utw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"sbTHo540AyIwLSJXW37szQ","kid":"8k+0EeOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"P7qdnqQX/GQO0jZmMdQYrw","kid":"3ly0KTKK2e/i8ZU5nQ1apQ"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ LIFE HD
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://gg.gg/k-lifekkk", K+ LIFE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rYzTVA6IU25BWyCi6eFMsw","kid":"LDpBJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"/RhsW9MUFJ2qkzxx0M61SA","kid":"dH5BJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"MZj/PKMmrAC+/gj9Mb9tPA","kid":"gYKFVZeYlI9krXpiPNl76Q"},{"kty":"oct","k":"JhP3tQTc0MyUQBhFKh5wSQ","kid":"bY+FbeaYlI9krXpiPNl76Q"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
@@ -98,7 +98,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeycinehd?key=20/2991888829/80keokeo
 https://hqth.me/kpluscinehd?id=kplus20/seasonid:2991/cine.mpd
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://logo.vagroup.pw/96.png" group-title="K+",$ K+ LIFE HD
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/k-lifekkk" group-title="K+",$ K+ LIFE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeylifehd?key=28/199022112/80keokey
