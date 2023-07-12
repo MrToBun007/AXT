@@ -953,11 +953,11 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1115460&exte
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",2.Canal+ Sports FHD
 
 
-#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsportskkk",1.RMC Sports 1 FHD
+#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsport1kkk",1.RMC Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101205&extension=ts&play_token=4vd06PVuX3
-#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsportskkk",2.RMC Sports 1 FHD
+#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsport1kkk",2.RMC Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extension=ts&play_token=sT88QaQFMH
-#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsportskkk",3.RMC Sports 1 FHD
+#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsport1kkk",3.RMC Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extension=ts&play_token=uYjhxVFb4c
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/Canal_Formula1",1.Canal+ Formula 1 FHD
