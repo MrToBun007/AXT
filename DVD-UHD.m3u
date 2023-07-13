@@ -239,7 +239,7 @@ http://185.243.7.3:80/play/live.php?mac=00:1A:79:10:6c:2e&stream=1016544&extensi
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports-Canada VPN
 http://trx.p13.one/live/Manan123/Manan123/1836065.m3u8
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",2.Now Sports-Canada VPN
-
+http://185.243.7.3:80/play/live.php?mac=00:1A:79:10:6c:2e&stream=1032489&extension=ts&play_token=nIc3p8uazq
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/vsporthdkkk",1.Vsports Ultra-Canada VPN
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:F9:9E:43&stream=1112184&extension=ts&play_token=fNg4Jfk673
@@ -259,8 +259,10 @@ http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:c6:e4:5b&stream=4
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/btultimatekkk",2.BT Ultimate-Canada VPN
 http://hulk.madk.firemanboss.org:80/play/live.php?mac=00:1A:79:e2:2a:a0&stream=479413&extension=ts&play_token=JbFfmwjNvs&sn2=
 
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/btultimatekkk",Sky Sports Main Event-Canada VPN
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/btultimatekkk",1.Sky Sports Main Event-Canada VPN
 http://trx.p13.one/live/Manan123/Manan123/1836073.m3u8
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/btultimatekkk",2.Sky Sports Main Event-Canada VPN
+http://jedicctv.net:8080/play/live.php?mac=00:1A:79:e6:9e:a8&stream=234174&extension=ts&play_token=of6VUcV8cA
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/skyf1kkk",1.Sky Sport F1-Canada VPN 
 http://tigerfights.xyz:80/live/asdfghjk/asdfghjk/3401821.m3u8
