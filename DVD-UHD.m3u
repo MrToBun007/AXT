@@ -169,6 +169,8 @@ http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:08:45:84&stream=455102&exte
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:F9:9E:43&stream=526130&extension=ts&play_token=aGyCuzGhkg
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canalkkk",2.Canal+ Sports-Canada VPN
 http://epg.protv.cc:80/live/brenda/brenda123/526130.m3u8
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canalkkk",3.Canal+ Sports-Canada VPN
+http://185.243.7.3:80/play/live.php?mac=00:1A:79:10:6c:2e&stream=526130&extension=ts&play_token=utUmgIamHi
 
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canal-uhd",1.Canal+-Canada VPN
@@ -176,7 +178,7 @@ http://vod.supremetv.live/live/jake1234/jake1234/526135.m3u8
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canal-uhd",2.Canal+-Canada VPN
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=629068&extension=ts&play_token=NmbctJ2BbX
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canal-uhd",3.Canal+-Canada VPN
-http://bestiptv.top:22461/IPTVTUBEMAG:IPTVTUBE:sub_mn9yt8du2qvs5m/6211535fc6e12df0c905/89440?play_token=xKg357LjOv
+http://185.243.7.3:80/play/live.php?mac=00:1A:79:10:6c:2e&stream=1271764&extension=ts&play_token=tEubl9buDq
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/elevenkkk",1.Eleven Sports-Canada VPN
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/118089.m3u8
@@ -216,6 +218,8 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:52:94:40&stream=1032518&e
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=670350&extension=ts&play_token=WCLy3QEofX
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/hubpremierkkk",3.Hub Premier-Canada VPN
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=670352&extension=ts&play_token=qx7U6JDbNH
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/hubpremierkkk",4.Hub Premier-Canada VPN
+http://185.243.7.3:80/play/live.php?mac=00:1A:79:10:6c:2e&stream=1032518&extension=ts&play_token=xGTBtGjsXJ
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI-Canada  VPN
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:F9:9E:43&stream=443338&extension=ts&play_token=EeFutFHAQo
@@ -228,6 +232,8 @@ http://safe.avivainsur.com:8080/Stefan-Razvan_Roibu/pdVXSsGrZ1/10402
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:52:94:40&stream=1016544&extension=ts&play_token=M3lgtwJFJ6
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/astrokkk",2.Astro Supersports-Canada VPN
 http://magm1giillmig.funtogether.xyz:8080/jmtJH7Agol/OXlQWS6ekb/110707?play_token=ThUK6tiskl
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/astrokkk",3.Astro Supersports-Canada VPN
+http://185.243.7.3:80/play/live.php?mac=00:1A:79:10:6c:2e&stream=1016544&extension=ts&play_token=TcEpF6WfFs
 
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports-Canada VPN
