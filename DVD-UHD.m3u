@@ -118,7 +118,7 @@ https://hqth.me/kpluscinehd?id=kplus20/seasonid:2991/cine.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeylifehd?key=28/199022112/80keokey
 https://hqth.me/kpluslifehd?id=20/seasonid:4763/live992/life.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" logo="https://cdn.hqth.me/logo/thumbs/87.png",$ K+ SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",$ K+ SPORT1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kpluskeysports1hd?key99/738829912/20sportskeokey
