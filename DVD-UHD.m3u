@@ -36,10 +36,11 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extensi
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",4.Tennis Wimbledon 4K
 http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74113.ts
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",5.Tennis Wimbledon BBC UHD
-http://trx.p13.one/live/Americo/Americo/1872119.m3u8
+http://trx.p13.one/live/Manan123/Manan123/1872101.m3u8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",6.Tennis Wimbledon BBC UHD
-http://apbest.re:80/live/18220704922642218/1593574628/111963.ts
+http://trx.p13.one/live/charlottem/charlottem/1872101.m3u8
+#http://apbest.re:80/live/18220704922642218/1593574628/111963.ts
 
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.F1 4K
@@ -253,6 +254,8 @@ http://safe.avivainsur.com:8080/Nicolae_Cimpan/ELJ6c8WSfCkm/35745
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/bein4kkkk",1.Bein 4K-Canada VPN
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=81673&extension=ts&play_token=aFs7DBirvk
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/bein4kkkk",2.Bein 4K Premium-Canada VPN
+http://trx.p13.one/live/Linda2023/Linda2023/1458854.m3u8
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/danzkkk",1.DAZN 4K-Canada VPN
 http://trx.p13.one/live/Manan123/Manan123/1836060.m3u8
@@ -288,7 +291,7 @@ http://apbest.re:80/live/18220704922642218/1593574628/41016.ts
 
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/nasakkk",1.NASA-Canada VPN
-http://apbest.re:80/live/628277105026825/1593574628/99778.ts
+http://trx.p13.one/live/Linda2023/Linda2023/1475322.m3u8
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/nasakkk",2.NASA-Canada VPN
 http://apbest.re:80/live/628277105026825/1593574628/99778.ts
 
