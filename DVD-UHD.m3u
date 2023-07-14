@@ -130,7 +130,7 @@ http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:08:45:84&stream=484209&exte
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssportdekkk",2.Sky Sports DE-Canada VPN
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=484209&extension=ts&play_token=AJg4h6j480
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssportdekkk",3.Sky Sports DE-Canada VPN
-
+http://apbest.re:80/live/18220704922642218/1593574628/98634.ts
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssportdekkk",4.Sky Sports DE-Canada VPN
 
 
@@ -185,6 +185,8 @@ http://apbest.re:80/live/18220704922642218/1593574628/75309.ts
 http://apbest.re:80/live/18220704922642218/1593574628/15420.ts
 
 
+
+
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canal-uhd",1.Canal+-Canada VPN
 http://vod.supremetv.live/live/jake1234/jake1234/526135.m3u8
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canal-uhd",2.Canal+-Canada VPN
@@ -199,6 +201,9 @@ http://apbest.re:80/live/18220704922642218/1593574628/74180.ts
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/118089.m3u8
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/elevenkkk",2.Eleven Sports-Canada VPN
 http://45.12.1.14:80/live/DrZpz9YdTHxy556/7885eS0931/118089.m3u8
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/elevenkkk",3.Eleven Sports-Canada VPN
+http://apbest.re:80/live/18220704922642218/1593574628/99164.ts
+
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI-Canada  VPN
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:F9:9E:43&stream=443338&extension=ts&play_token=EeFutFHAQo
@@ -214,8 +219,10 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:F9:9E:43&stream=1112184&e
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:F9:9E:43&stream=466358&extension=ts&play_token=gXAsGmrDYG
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/vsporthdkkk",3.Vsports Ultra-Canada VPN
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:F9:9E:43&stream=294070&extension=ts&play_token=DxYvvcIX0T
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/vsporthdkkk",4.Vsports Premium SW-Canada VPN
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/vsporthdkkk",1.Vsports Premium SW-Canada VPN
 http://apbest.re:80/live/628277105026825/1593574628/68220.ts
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/vsporthdkkk",2.Vsports Premium SW-Canada VPN
+http://apbest.re:80/live/18220704922642218/1593574628/68220.ts
 
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/NBCsportskkk",1.NBC Sports-Canada VPN
@@ -256,6 +263,9 @@ http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:08:45:84&stream=455102&exte
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=683911&extension=ts&play_token=XSEasUc2Ih
 
 
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/fashiontvkkk",1.Fashion TV UHD
+http://apbest.re:80/live/18220704922642218/1593574628/72319.ts
+
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/RAIkkk",1.RAI-Canada VPN
 http://my1esilil.ddns.net:80/k67jdKb3TR86188/jIEuZgnrU0/179589
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/RAIkkk",2.RAI-Canada VPN
@@ -266,7 +276,12 @@ http://my1esilil.ddns.net:80/k67jdKb3TR86188/jIEuZgnrU0/273895
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/TRT1kkk",1.TRT-Canada VPN
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=484452&extension=ts&play_token=ss4k8iy0gO
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/TRT1kkk",2.TRT-Canada VPN
+http://apbest.re:80/live/18220704922642218/1593574628/41016.ts
 
+
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tve4kkk",1.TF1 4K-Canada VPN
+http://apbest.re:80/live/18220704922642218/1593574628/58473.ts
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tf1kkk",1.TF1 4K-Canada VPN
 http://apbest.re:80/live/18220704922642218/1593574628/99360.ts
@@ -456,7 +471,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348127&extensi
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="http://gg.gg/elevenkkk",3.Eleven Sports UHD
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=905665&extension=ts&play_token=w04PypIZGW
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="http://gg.gg/elevenkkk",4.Eleven Sports UHD
-
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:19:48:3C&stream=905665&extension=ts&play_token=6pRZLD1Zsh
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="http://gg.gg/elevenkkk",5.Eleven Sports UHD
 
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="http://gg.gg/elevenkkk",6.Eleven Sports UHD
@@ -474,6 +489,9 @@ http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=242541&extens
 
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/bundesligasky",5.Sky Bundesliga UHD Live Event
 
+
+#EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/uhd1xkkk",1.UHD1
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:19:48:3C&stream=540014&extension=ts&play_token=wZlVWol6yf
 
 
 #--*.*--DIGI Sports--*.*--#
@@ -641,9 +659,9 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124350&ext
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",1.Canal+ 4K
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250760&extension=ts&play_token=28uJO818z7
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",2.Canal+ 4K
-
+http://416streams.sytes.net:8080/live/tgtom/sfX2pkmu5L/510627.m3u8
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",3.Canal+ 4K
-
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:19:48:3C&stream=1271764&extension=ts&play_token=I4ONefBwS9
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",1.Canal+ LDC Champions League UHD
 
@@ -842,26 +860,26 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20179&extens
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",3.ITV 3 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20181&extension=ts&play_token=hbffuurR3H
 
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",1.Manchester City FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",1.Manchester City FHD
 
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",2.Manchester City FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",2.Manchester City FHD
 
 
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",1.Manchester United FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",1.Manchester United FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=56381&extension=ts&play_token=UEUK5eDBCY
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",2.Manchester United FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",2.Manchester United FHD
 
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",1.Liverpool FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",1.Liverpool FHD
 http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/61467.m3u8
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",2.Liverpool FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",2.Liverpool FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=117748&extension=ts&play_token=7q9nikpesQ
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",1.Asenal FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",1.Asenal FHD
 
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png",1.Newcastle United FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png",1.Newcastle United FHD
 
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png",1.Chelsea FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png",1.Chelsea FHD
 
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1024px-Brighton_%26_Hove_Albion_logo.svg.png",1.Brighton&Hove Albion FHD
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1024px-Brighton_%26_Hove_Albion_logo.svg.png",1.Brighton&Hove Albion FHD
 
 
 
@@ -980,34 +998,35 @@ http://gooserace.xyz/live/asdfghjk/asdfghjk/3087002.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png",1.Real Madrid FHD-Canada
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png",1.Real Madrid FHD-Canada
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=386176&extension=ts&play_token=o3MwnMwoBr
-#EXTINF:-1 group-title="⚽ EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/91/FC_Barcelona_logo.svg/1010px-FC_Barcelona_logo.svg.png",1.Barcelona FHD-Canada
+#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/91/FC_Barcelona_logo.svg/1010px-FC_Barcelona_logo.svg.png",1.Barcelona FHD-Canada
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=386179&extension=ts&play_token=O974inADyG
 
-
-#EXTINF:-1 group-title="⚽ LaLiga" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg",1.DAZN LaLiga FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/danzkkk",1.DAZN FHD-
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:19:48:3C&stream=986639&extension=ts&play_token=Kn5pte950I
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg",1.DAZN LaLiga FHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=986639&extension=ts&play_token=mlJMDqY8K4
-#EXTINF:-1 group-title="⚽ LaLiga" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg",1.DAZN LaLiga FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg",1.DAZN LaLiga FHD
 
-#EXTINF:-1 group-title="⚽ LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png",1.M LaLiga FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png",1.M LaLiga FHD
 
 
-#EXTINF:-1 group-title="⚽ LaLiga" tvg-logo="http://gg.gg/laligakkk",1.LaLiga TV FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/laligakkk",1.LaLiga TV FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303297&extension=ts&play_token=CBil8VNbyO
 
-#EXTINF:-1 group-title="⚽ LaLiga" tvg-logo="https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg",1.SuperSport LaLiga FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg",1.SuperSport LaLiga FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=33507&extension=ts&play_token=hY79tjl8gW
-#EXTINF:-1 group-title="⚽ LaLiga" tvg-logo="https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg",2.SuperSport LaLiga FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg",2.SuperSport LaLiga FHD
 
 
-#EXTINF:-1 group-title="⚽ LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 1 FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 1 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361400&extension=ts&play_token=zaDNQesZPg
-#EXTINF:-1 group-title="⚽ LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 2 FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 2 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361404&extension=ts&play_token=u45yaclqe8
-#EXTINF:-1 group-title="⚽ LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 3 FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 3 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361406&extension=ts&play_token=jRmUF8p36V
-#EXTINF:-1 group-title="⚽ LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 4 FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 4 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361408&extension=ts&play_token=IsXSnXQ98w
 
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/ssbundesligakkk",1.Bundesliga 1 FHD
