@@ -837,6 +837,12 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255101&exten
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssracingkkk",2.Sky Sports Racing FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&extension=ts&play_token=pS17zrmBcR
 
+
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssteniskkk",1.Sky Sport Tennis DE FHD
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=1235871&extension=ts&play_token=RZj6xpmSUJ
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssteniskkk",1.Sky Sport Tennis IT FHD
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=692433&extension=ts&play_token=GYcwrkIfSw
+
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 1 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 2 FHD
@@ -965,10 +971,7 @@ http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
 http://restream-live.realiptv.to:8080/live/Daryl/12345/3685.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",5.TENNIS FHD
 
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ssteniskkk",1.TENNIS DE FHD
-http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=1235871&extension=ts&play_token=RZj6xpmSUJ
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ssteniskkk",1.TENNIS IT FHD
-http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=692433&extension=ts&play_token=GYcwrkIfSw
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 3 FHD
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 4 FHD
