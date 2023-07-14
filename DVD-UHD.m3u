@@ -59,7 +59,7 @@ http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=275659&extension
 
 #-*--K+-*--#
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1K+ CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qg+QQeS1MmBhQI7u2n80aA","kid":"nQdw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"F+eU3yitSHnkFFYtE4+Z2Q","kid":"5Utw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"sbTHo540AyIwLSJXW37szQ","kid":"8k+0EeOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"P7qdnqQX/GQO0jZmMdQYrw","kid":"3ly0KTKK2e/i8ZU5nQ1apQ"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
