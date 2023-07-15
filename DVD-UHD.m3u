@@ -35,11 +35,12 @@ http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ae:c6:b8&stream=348094&ext
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extension=ts&play_token=4bpG5l7h9F
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",4.Tennis Wimbledon 4K
 http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74113.ts
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",5.Tennis Wimbledon BBC UHD-Canada VPN
-http://apbest.re:80/live/18220704922642218/1593574628/111963.ts
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",5.Tennis Wimbledon BBC UHD
+http://trx.p13.one/live/Manan123/Manan123/1872101.m3u8
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",6.Tennis Wimbledon BBC UHD-Replay
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",6.Tennis Wimbledon BBC UHD
 http://trx.p13.one/live/charlottem/charlottem/1872101.m3u8
+#http://apbest.re:80/live/18220704922642218/1593574628/111963.ts
 
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.F1 4K
@@ -123,7 +124,7 @@ https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", ON Sports Action
 
 
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="K+&VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title=""K+&VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
@@ -345,7 +346,6 @@ http://apbest.re:80/live/18220704922642218/1593574628/72319.ts
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/RAIkkk",1.RAI-Canada VPN
 http://my1esilil.ddns.net:80/k67jdKb3TR86188/jIEuZgnrU0/179589
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/RAIkkk",2.RAI-Canada VPN
-http://my1esilil.ddns.net:80/vC2utFZh3j87104/27fM356c03/179589
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/claritykkk",1.Clarity 4K-Canada VPN
 http://my1esilil.ddns.net:80/k67jdKb3TR86188/jIEuZgnrU0/273895
@@ -355,8 +355,6 @@ http://my1esilil.ddns.net:80/k67jdKb3TR86188/jIEuZgnrU0/273895
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=484452&extension=ts&play_token=ss4k8iy0gO
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/TRT1kkk",2.TRT-Canada VPN
 http://apbest.re:80/live/18220704922642218/1593574628/41016.ts
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/TRT1kkk",3.TRT-Canada VPN
-http://my1esilil.ddns.net:80/vC2utFZh3j87104/27fM356c03/299410
 
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/nasakkk",1.NASA-Canada VPN
@@ -444,33 +442,33 @@ http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1300442&ext
 
 #--*.*--Sky Sports--*.*--#
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",1.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",1.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=JJIj9TgyKk
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",2.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",2.Sky Sports Main Event UHD
 http://gooserace.xyz/live/annmarie/annmarie/3387919.m3u8
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",3.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",3.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=255102&extension=ts&play_token=JsvCAPWIYe
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",4.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",4.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=255102&extension=ts&play_token=9V0iI5GbrE
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",5.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",5.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",6.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",6.Sky Sports Main Event UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1299719&extension=ts&play_token=pQ2xPxqCDv
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",7.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",7.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=255102&extension=ts&play_token=fkNID6BAqQ
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",8.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",8.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1299719&extension=ts&play_token=inv5ZqpPfR
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",9.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",9.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",10.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",10.Sky Sports Main Event UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1299719&extension=ts&play_token=zKDdvDT4pU
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",11.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",11.Sky Sports Main Event UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=514345&extension=ts&play_token=OBi3eWXqCw
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",12.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",12.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552954&extension=ts&play_token=Y8BoswZibD
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",13.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",13.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1552954&extension=ts&play_token=lByrhTs3UD
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",14.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",14.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1299719&extension=ts&play_token=fvOMfJrBPI
 
 
@@ -875,80 +873,107 @@ http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=174206&extensio
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2123&extension=ts&play_token=duMX7lgrg6
 
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssnews1kkk",1.Sky Sports News FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssnews1kkk",1.Sky Sports News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255100&extension=ts&play_token=r45ODj2bPE
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",1.Sky Sports Main Event FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",1.Sky Sports Main Event FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255102&extension=ts&play_token=Hz8fIAwLKE
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssfotkkk",1.Sky Sports Football FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssfotkkk",1.Sky Sports Football FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255104&extension=ts&play_token=DiBZxTfc3q
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/sspl2kkk",1.Sky Sports Premier League FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/sspl2kkk",1.Sky Sports Premier League FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255098&extension=ts&play_token=t8NRUo9Bmx
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/goflkkk",1.Sky Sports Golf FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/goflkkk",1.Sky Sports Golf FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255103&extension=ts&play_token=4YDZA1potc
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmixxkkk",1.Sky Sports Mix FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmixxkkk",1.Sky Sports Mix FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255101&extension=ts&play_token=8IJP75M3va
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssracingkkk",1.Sky Sports Racing FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssracingkkk",1.Sky Sports Racing FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255097&extension=ts&play_token=25c4inW4wg
 
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssnews1kkk",2.Sky Sports News FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssnews1kkk",2.Sky Sports News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255100&extension=ts&play_token=XsHgi7Nesf
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmaineventkkk",2.Sky Sports Main Event FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",2.Sky Sports Main Event FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=Tkd8tpMXwB
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssfotkkk",2.Sky Sports Football FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssfotkkk",2.Sky Sports Football FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255104&extension=ts&play_token=XuD8NsRQqR
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/sspl2kkk",2.Sky Sports Premier League FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/sspl2kkk",2.Sky Sports Premier League FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255098&extension=ts&play_token=Za0weY3vbC
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/goflkkk",2.Sky Sports Golf FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/goflkkk",2.Sky Sports Golf FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255103&extension=ts&play_token=XycWWKtc3O
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmixxkkk",2.Sky Sports Mix FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmixxkkk",2.Sky Sports Mix FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255101&extension=ts&play_token=BCS1kbfmTZ
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssracingkkk",2.Sky Sports Racing FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssracingkkk",2.Sky Sports Racing FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&extension=ts&play_token=pS17zrmBcR
 
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssteniskkk",1.Sky Sport Tennis DE FHD
+
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssteniskkk",1.Sky Sport Tennis DE FHD
 http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=1235871&extension=ts&play_token=RZj6xpmSUJ
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssteniskkk",1.Sky Sport Tennis IT FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssteniskkk",1.Sky Sport Tennis IT FHD
 http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=692433&extension=ts&play_token=GYcwrkIfSw
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 1 FHD
+
+
+#-*--Sky Sports DE-*--#
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports DE
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/7813
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Tennis DE
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/7814
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports F1 DE
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/223333
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Premier DE
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279059
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Top Event DE
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279053
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",2.Sky Sports Tennis DE
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279055
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Golf DE
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279061
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 1 DE
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/146661
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 2 DE
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/146659
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 3 DE 
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/146658
+
+
+
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 1 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 2 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 2 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=154405&extension=ts&play_token=Sz0cj6w84W
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Extra FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Extra FHD
 http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753907.m3u8
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Sports 1 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Sports 1 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=595187&extension=ts&play_token=bgs9vcdZ1u
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Sports 2 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Sports 2 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=595189&extension=ts&play_token=QyrZAmQarS
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Extra FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Extra FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=595191&extension=ts&play_token=HrZQiFTdWB
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/bbc1kkk",1.BBC ONE FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/bbc1kkk",1.BBC ONE FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71399&extension=ts&play_token=2JCVbfMtIN
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/bbc1kkk",2.BBC ONE FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/bbc1kkk",2.BBC ONE FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=697656&extension=ts&play_token=OuHtnIkQAM
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/bbc1kkk",3.BBC ONE FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/bbc1kkk",3.BBC ONE FHD
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/bbc2kkk",1.BBC TWO FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/bbc2kkk",1.BBC TWO FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71397&extension=ts&play_token=x0DivRfPN5
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/bbc2kkk",2.BBC TWO FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/bbc2kkk",2.BBC TWO FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=11348&extension=ts&play_token=kmX1FzjqDs
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",1.ITV 1 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",1.ITV 1 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=22815&extension=ts&play_token=3ABp2Z0CTf
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",1.ITV 2 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",1.ITV 2 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11113&extension=ts&play_token=1h8z8Nq126
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",1.ITV 3 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",1.ITV 3 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=37395&extension=ts&play_token=UTY59xbT8B
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",2.ITV 1 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",2.ITV 1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20142&extension=ts&play_token=j0M1Brp2wK
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",2.ITV 2 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",2.ITV 2 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20179&extension=ts&play_token=ISi0zQBbot
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",3.ITV 3 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",3.ITV 3 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20181&extension=ts&play_token=hbffuurR3H
 
 #EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",1.Manchester City FHD
@@ -982,13 +1007,13 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&exten
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=ts&play_token=6rCllY0ScD
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",4.Sky Sport F1 FHD
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/eurosport1xkkk",1.EuroSport 1 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/eurosport1xkkk",1.EuroSport 1 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=8339&extension=ts&play_token=clIor7Ker2
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/eurosport2kkk",1.EuroSport 2 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/eurosport2kkk",1.EuroSport 2 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71606&extension=ts&play_token=rQtYPRfIUI
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/eurosport1xkkk",2.EuroSport 1 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/eurosport1xkkk",2.EuroSport 1 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1a:79:6b:96:31&stream=278612&extension=ts&play_token=ydIShg4Xih
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/eurosport2kkk",2.EuroSport 2 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/eurosport2kkk",2.EuroSport 2 FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=9852&extension=ts&play_token=cwdRdihniL
 
 
@@ -1310,19 +1335,3 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://gg.gg/bbcradiokkk", London Radio
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:A6:CA:FB&stream=287287&extension=ts&play_token=mrVwwE8r4X
-
-
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Schedule Monday
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Schedule Tuesday 
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Schedule Wednesday
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Schedule Thursday 
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Schedule Friday 
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Schedule Saturday 
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Schedule Sunday
