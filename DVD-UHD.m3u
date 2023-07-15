@@ -56,8 +56,10 @@ http://trx.p13.one/live/charlottem/charlottem/1872101.m3u8
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",2.Tennis Wimbledon HD
 http://trx.p13.one/live/Manan123/Manan123/1872101.m3u8
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.F1 Live
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.F1 FHD Live 
 http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=275659&extension=ts&play_token=1TC36LJgH4
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Live Crystal Palace vs Brondly
+http://trx.p13.one/live/Americo/Americo/1873445.m3u8
 
 
 #-*--K+-*--#
