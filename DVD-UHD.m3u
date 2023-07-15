@@ -906,33 +906,30 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&exten
 
 
 
-#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssteniskkk",1.Sky Sport Tennis DE FHD
-http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=1235871&extension=ts&play_token=RZj6xpmSUJ
-#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssteniskkk",1.Sky Sport Tennis IT FHD
-http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=692433&extension=ts&play_token=GYcwrkIfSw
-
-
-
 #-*--Sky Sports DE-*--#
-#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports DE
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports DE FHD
 http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/7813
-#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Tennis DE
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Tennis DE FHD
 http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/7814
-#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports F1 DE
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/223333
-#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Premier DE
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279059
-#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Top Event DE
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279053
-#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",2.Sky Sports Tennis DE
+#EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssteniskkk",2.Sky Sport Tennis DE FHD
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=1235871&extension=ts&play_token=RZj6xpmSUJ
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",3.Sky Sports Tennis DE FHD
 http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279055
-#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Golf DE
+
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports F1 DE FHD
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/223333
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Premier DE FHD
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279059
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Top Event DE FHD
+http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279053
+
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Golf DE FHD
 http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279061
-#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 1 DE
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 1 DE FHD
 http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/146661
-#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 2 DE
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 2 DE FHD
 http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/146659
-#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 3 DE 
+#EXTINF:-1 group-title="Sky Sport DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 3 DE FHD 
 http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/146658
 
 
@@ -1054,16 +1051,17 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=32089&extens
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=42910&extension=ts&play_token=3boUMQdHFb
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",3.ESPN 2 FHD
 
-
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ssteniskkk",1.Sky Sport Tennis IT FHD
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=692433&extension=ts&play_token=GYcwrkIfSw
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695&extension=ts&play_token=Td5aN51cxU
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",2.TENNIS FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",2.TENNIS US FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=519695&extension=ts&play_token=RTrOU8KNyV
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",3.TENNIS FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",3.TENNIS US FHD
 http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",4.TENNIS FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",4.TENNIS US FHD
 http://restream-live.realiptv.to:8080/live/Daryl/12345/3685.m3u8
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",5.TENNIS FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",5.TENNIS US FHD
 
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 3 FHD
