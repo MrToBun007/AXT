@@ -37,7 +37,7 @@ http://trx.p13.one/live/Hardeep/Hardeep/1823292.m3u8
 
 #--*.*--FHD Live--*.*--#
 
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", 1. Live World Cup Women
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", 1. Live Tiếng Việt World Cup Women
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
@@ -46,6 +46,14 @@ http://geckohost.bid:8080/play/D0IwhefT2kOaDYBeM5S5z8yBXB5AtLkFQfdHWq3aOCV5Zm2QR
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",3. Live World Cup Women 
 http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/63928.m3u8
+
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",4. Live World Cup Women
+http://89.47.232.72:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=4596&extension=ts&play_token=ZLJl8CEIHB
+
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",5. Live World Cup Women
+http://89.47.232.72:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=5035&extension=ts&play_token=YTYNrzXm9j
+
+
 
 #-*--K+-*--#
 
