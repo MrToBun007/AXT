@@ -27,20 +27,6 @@ http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=279619&extension
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Live Concacaf Fox Sport 4K+11h
 http://45.158.254.2:80/play/live.php?mac=00:1A:79:CD:E5:45&stream=1124346&extension=ts&play_token=Pd2uVhI6I3
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Tennis Wimbledon EURO 4K
-http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Tennis Wimbledon ASTRO 4K
-http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ae:c6:b8&stream=348094&extension=ts&play_token=sFD5pWlz1e
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",3.Tennis Wimbledon SPORT TV 4K
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extension=ts&play_token=4bpG5l7h9F
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",4.Tennis Wimbledon 4K
-http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74113.ts
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",5.Tennis Wimbledon BBC UHD-Live Event
-http://trx.p13.one/live/Hardeep/Hardeep/1872119.m3u8
-
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",6.Tennis Wimbledon BBC UHD-Live Event
-http://trx.p13.one/live/Hardeep/Hardeep/1274710.m3u8
-
 
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.F1 4K
@@ -51,72 +37,29 @@ http://trx.p13.one/live/Hardeep/Hardeep/1823292.m3u8
 
 #--*.*--FHD Live--*.*--#
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Tennis Wimbledon FDH-Replay
-http://trx.p13.one/live/charlottem/charlottem/1872101.m3u8
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",2.Tennis Wimbledon HD
-http://trx.p13.one/live/Manan123/Manan123/1872101.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", 1. Live World Cup Women
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.F1 FHD Live 
-http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=275659&extension=ts&play_token=1TC36LJgH4
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Live Crystal Palace vs Brondly
-http://trx.p13.one/live/Americo/Americo/1873445.m3u8
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",2. Live World Cup Women 
+http://geckohost.bid:8080/play/D0IwhefT2kOaDYBeM5S5z8yBXB5AtLkFQfdHWq3aOCV5Zm2QRme1HWOLc_fk3olux6OjtPFeiattyqJ9EJGSFouvYgo5NkKlLBfuKTI2GFON13-miGsyfza3EPIAzT-7z4m-7_74L2mlkUt8L8cRUzZVm7fhGAr1rMrAdh3SIgY?ext=.ts
 
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",3. Live World Cup Women 
+http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/63928.m3u8
 
 #-*--K+-*--#
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qg+QQeS1MmBhQI7u2n80aA","kid":"nQdw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"F+eU3yitSHnkFFYtE4+Z2Q","kid":"5Utw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"sbTHo540AyIwLSJXW37szQ","kid":"8k+0EeOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"P7qdnqQX/GQO0jZmMdQYrw","kid":"3ly0KTKK2e/i8ZU5nQ1apQ"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+
 #EXTINF:-1 tvg-id="klifehd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/k-lifekkk",1.K+ LIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rYzTVA6IU25BWyCi6eFMsw","kid":"LDpBJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"/RhsW9MUFJ2qkzxx0M61SA","kid":"dH5BJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"MZj/PKMmrAC+/gj9Mb9tPA","kid":"gYKFVZeYlI9krXpiPNl76Q"},{"kty":"oct","k":"JhP3tQTc0MyUQBhFKh5wSQ","kid":"bY+FbeaYlI9krXpiPNl76Q"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/kidkkk",1.K+ KIDS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v5MmYy+l2IhTvDRiE3lXgA","kid":"kS2SZJp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"kLankYJEAdmZHSw57nFviw","kid":"2XGSZJp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"0aRRVnZ7VALgmN9A5iCA1w","kid":"5nXWlZp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"++8GSN8CtWli97j9iTr24A","kid":"0oLWrel/WqLbUq1WfcNa3Q"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/sport1kkk",1.K+ SPORT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1gNT9vX7GvZq9LqBJPRCmg","kid":"Rh9cpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"eMr9GRHIgscXF6UCmKvqBA","kid":"jmNcpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"6lBJy/L4bqiv8DNrJ6MC0A","kid":"m2eg1ohBGGHdJ81O+EHPWg"},{"kty":"oct","k":"t/A+Ss9g96Hkk90WbG8TIQ","kid":"h3Sg7tdBGGHdJ81O+EHPWg"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/sports2kkk",1.K+ SPORT 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n6k+TEUTx+p5Bj+XB69aQw","kid":"55jZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"WG+ZbXW/pusa9Z7BwtiVow","kid":"L9zZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"l5Iw6Kja8Q6B95kPL5nk5w","kid":"POAdqWj4rhMV4y/yxpkZww"},{"kty":"oct","k":"aASJKkeMlZ63BNMI5sF3Og","kid":"KO0dwbf4rhMV4y/yxpkZww"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/cinekkk",2.K+ CINE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qg+QQeS1MmBhQI7u2n80aA","kid":"nQdw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"F+eU3yitSHnkFFYtE4+Z2Q","kid":"5Utw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"sbTHo540AyIwLSJXW37szQ","kid":"8k+0EeOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"P7qdnqQX/GQO0jZmMdQYrw","kid":"3ly0KTKK2e/i8ZU5nQ1apQ"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/k-lifekkk" group-title="K+&VTVCab",2.K+ LIFE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rYzTVA6IU25BWyCi6eFMsw","kid":"LDpBJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"/RhsW9MUFJ2qkzxx0M61SA","kid":"dH5BJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"MZj/PKMmrAC+/gj9Mb9tPA","kid":"gYKFVZeYlI9krXpiPNl76Q"},{"kty":"oct","k":"JhP3tQTc0MyUQBhFKh5wSQ","kid":"bY+FbeaYlI9krXpiPNl76Q"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/kidkkk",2.K+ Kids
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v5MmYy+l2IhTvDRiE3lXgA","kid":"kS2SZJp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"kLankYJEAdmZHSw57nFviw","kid":"2XGSZJp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"0aRRVnZ7VALgmN9A5iCA1w","kid":"5nXWlZp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"++8GSN8CtWli97j9iTr24A","kid":"0oLWrel/WqLbUq1WfcNa3Q"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/sport1kkk",2.K+ SPORT1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1gNT9vX7GvZq9LqBJPRCmg","kid":"Rh9cpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"eMr9GRHIgscXF6UCmKvqBA","kid":"jmNcpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"6lBJy/L4bqiv8DNrJ6MC0A","kid":"m2eg1ohBGGHdJ81O+EHPWg"},{"kty":"oct","k":"t/A+Ss9g96Hkk90WbG8TIQ","kid":"h3Sg7tdBGGHdJ81O+EHPWg"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/sports2kkk",2.K+ SPORT 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n6k+TEUTx+p5Bj+XB69aQw","kid":"55jZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"WG+ZbXW/pusa9Z7BwtiVow","kid":"L9zZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"l5Iw6Kja8Q6B95kPL5nk5w","kid":"POAdqWj4rhMV4y/yxpkZww"},{"kty":"oct","k":"aASJKkeMlZ63BNMI5sF3Og","kid":"KO0dwbf4rhMV4y/yxpkZww"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 
 
@@ -1251,6 +1194,10 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=20455&extens
 
 
 #--*.*--VTV--*.*--#
+
+#EXTINF:0 tvg-id="quochoi" group-title="THỜI SỰ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/03/rrpb2y9m_quochoitimeshift_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QUỐC HỘI HD
+https://dl.dropboxusercontent.com/s/lt2u9ukg3bnmnd0/getlink//vtvcabon/hls/ONQUOCHOI_CL/onvtvcab.m3u8?id=on-quoc-hoi-hd
+
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/25/yxhr8rj5_vtv122ab95efb9e05240b2b6b3d1f9c9a09f_296_168.webp" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 HD 
 #EXTVLCOPT:http-user-agent="Khanggne"
 http://live-zlr1.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
