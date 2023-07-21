@@ -42,7 +42,7 @@ http://trx.p13.one/live/Hardeep/Hardeep/1823292.m3u8
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",2. Live World Cup Women 
-http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/63928.m3u8
+
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",3. Live World Cup Women 
 
@@ -125,9 +125,9 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:52:94:40&stream=1032518&e
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/hubpremierkkk",2.Hub Premier-Canada VPN
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=670350&extension=ts&play_token=WCLy3QEofX
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/hubpremierkkk",3.Hub Premier-Canada VPN
-http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=670352&extension=ts&play_token=qx7U6JDbNH
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/hubpremierkkk",4.Hub Premier-Canada VPN
 http://185.243.7.3:80/play/live.php?mac=00:1A:79:10:6c:2e&stream=1032518&extension=ts&play_token=xGTBtGjsXJ
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/hubpremierkkk",4.Hub Premier-Canada VPN
+
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",1.Now Sports-Canada VPN
 http://trx.p13.one/live/Manan123/Manan123/1836065.m3u8
