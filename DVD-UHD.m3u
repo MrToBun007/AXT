@@ -23,9 +23,9 @@ http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=279619&extension
 
 #--*.*--UHD Live--*.*--#
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Live Concacaf Fox Sport 4K+11h
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Live WC Fox Sport 4K
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Live Concacaf Fox Sport 4K+11h
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Live WC Fox Sport 4K
 http://45.158.254.2:80/play/live.php?mac=00:1A:79:CD:E5:45&stream=1124346&extension=ts&play_token=Pd2uVhI6I3
 
 
@@ -73,77 +73,6 @@ http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/63928.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/sport1kkk",1.K+ SPORT 1
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+&VTVCab" tvg-logo="http://gg.gg/sports2kkk",1.K+ SPORT 2
-
-
-
-
-
-#--*.*--VTVCAB--*.*--#
-
-#EXTINF:-1 tvg-id="" group-title="K+&VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/B%C3%B3ng_%C4%90%C3%A1_Vi%E1%BB%87t_logo.png/revision/latest/scale-to-width-down/180?cb=20221129115904&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/ondrm/ONVFFTV/sc-gaFEAA/m30_index.m3u8?startTime=${start}&stopTime=${end}", Bóng đá Việt
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onvff
-#ht@tps://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVFFTV/manifest.mpd
-https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
-
-
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="K+&VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/dvr-${start}-${offset}.m3u8", ON Golf
-#https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
-https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", ON Sports Action
-
-
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="K+&VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4jh8an9o_htvtt0bc7a88214a92d5a553e379269af608d_296_168.webp" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV THỂ THAO
-#EXTVLCOPT:http-user-agent="Khanggne"
-https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="K+&VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/ON_Sports_Eng_logo_04.2022.png/revision/latest/scale-to-width-down/220?cb=20221129104826&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/ondrm/ONSPORTTA/sc-gaFEAA/m30_index.m3u8?startTime=${start}&stopTime=${end}", ON Sports ENG
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportseng1
-#ht@tps://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORTTA/manifest.mpd
-https://liveh12.vtvcab.vn/hls/ONSPORTTA/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="K+&VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_Eng_logo.png/revision/latest/scale-to-width-down/220?cb=20220713084440&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/ondrm/ONFOOTBALLTA/sc-gaFEAA/m30_index.m3u8?startTime=${start}&stopTime=${end}", ON Football ENG
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onfootballeng1
-#http@s://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONFOOTBALLTA/manifest.mpd
-https://liveh12.vtvcab.vn/hls/ONFOOTBALLTA/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="K+&VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/ON_Sports_News_Eng_logo_02.04.2022.png/revision/latest/scale-to-width-down/200?cb=20221129104227&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/ondrm/ONSPORTNEWSTA/sc-gaFEAA/m30_index.m3u8?startTime=${start}&stopTime=${end}", ON Sports News ENG
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsnewseng1
-#htt@ps://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORTNEWSTA/manifest.mpd
-https://liveh12.vtvcab.vn/hls/ONSPORTNEWSTA/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="K+&VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5f/ON_Golf_Eng_logo.png/revision/latest/scale-to-width-down/200?cb=20220713084640&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/ondrm/ONGOLFTA/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}", ON Golf ENG
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-ongolfeng1
-#http@s://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONGOLFTA/manifest.mpd
-https://liveh12.vtvcab.vn/hls/ONGOLFTA/index.m3u8
-
-
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="K+&VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="K+&VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf
-https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="K+&VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png", BTV5 - ON Sports Action
-https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="K+&VTVCab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/13871247-f8b2-4aab-80e3-dbb859adf101.png", ON Sports ENG
-https://liveh12.vtvcab.vn/hls/ONSPORTTA/03.m3u8
-#EXTINF:-1 tvg-id="" group-title="K+&VTVCab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/f6818e24-6211-42c5-aad5-4846dd29ee99.png", ON Football ENG
-https://liveh12.vtvcab.vn/hls/ONFOOTBALLTA/03.m3u8
-#EXTINF:-1 tvg-id="" group-title="K+&VTVCab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/5de42a4a-a26a-4eab-afcc-c119c9f918bb.png", ON Sports News ENG
-https://liveh12.vtvcab.vn/hls/ONSPORTNEWSTA/03.m3u8
-#EXTINF:-1 tvg-id="" group-title="K+&VTVCab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/ad12aa62-1d69-4141-8852-18d65ab3be64.jpg", ON Golf ENG
-https://liveh12.vtvcab.vn/hls/ONGOLFTA/03.m3u8
 
 
 #-*--4K-Need VPN-*--#
@@ -884,29 +813,28 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&exten
 
 #-*--Sky Sports DE-*--#
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports DE FHD
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/7813
+
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Tennis DE FHD
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279055
+
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssteniskkk",2.Sky Sports Tennis DE FHD
 http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=1235871&extension=ts&play_token=RZj6xpmSUJ
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",3.Sky Sports Tennis DE FHD
 
 
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports F1 DE FHD
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/223333
+
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Premier DE FHD
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279059
+
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Top Event DE FHD
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279053
 
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Golf DE FHD
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/279061
+
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 1 DE FHD
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/146661
+
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 2 DE FHD
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/146659
+
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Austria 3 DE FHD 
-http://my1esilil.ddns.net:80/sJwHZ2ff/jmyM3EgAwD/146658
+
 
 
 
