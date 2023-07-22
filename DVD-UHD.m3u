@@ -79,8 +79,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=147222&exten
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/btsportultimatekkk",1.TNT Ultimate-Canada VPN
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1300442&extension=ts&play_token=LfvcMVmsxz
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/btsportultimatekkk",2.TNT Ultimate-Canada VPN
-
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/btsportultimatekkk",1.BT Ultimate-Canada VPN
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:5A:0E:26&stream=1300442&extension=ts&play_token=KbYfr1PCNK
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssmaineventkkk",1.Sky Sports Main Event-Canada VPN
 http://trx.p13.one/live/Manan123/Manan123/1836073.m3u8
