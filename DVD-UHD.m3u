@@ -815,9 +815,9 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&exten
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports DE FHD
 
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",1.Sky Sports Tennis DE FHD
-
-#EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssteniskkk",2.Sky Sports Tennis DE FHD
 http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=1235871&extension=ts&play_token=RZj6xpmSUJ
+#EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssteniskkk",2.Sky Sports Tennis DE FHD
+
 #EXTINF:-1 group-title="Sky Sports DE" tvg-logo="http://gg.gg/ssportde1kkk",3.Sky Sports Tennis DE FHD
 
 
@@ -1138,7 +1138,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=20455&extens
 
 #--*.*--VTV--*.*--#
 
-#EXTINF:0 tvg-id="quochoi" group-title="THỜI SỰ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/03/rrpb2y9m_quochoitimeshift_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QUỐC HỘI HD
+#EXTINF:0 tvg-id="quochoi" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/03/rrpb2y9m_quochoitimeshift_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QUỐC HỘI HD
 https://dl.dropboxusercontent.com/s/lt2u9ukg3bnmnd0/getlink//vtvcabon/hls/ONQUOCHOI_CL/onvtvcab.m3u8?id=on-quoc-hoi-hd
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/25/yxhr8rj5_vtv122ab95efb9e05240b2b6b3d1f9c9a09f_296_168.webp" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 HD 
