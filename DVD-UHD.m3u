@@ -7,9 +7,6 @@
 
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #Su dung OTT Navigator hoặc Tivimate để xem được K+
-# Thanks for KhangIptv and VietTivi
-#https://raw.githubusercontent.com/Khongten22/khongten22iptv/main/khongten22iptv
-#https://dl.dropboxusercontent.com/s/8azrpwo7fhsqcc5/kkk.m3u
 
 #My list : http://gg.gg/06062023 , https://hqth.me/r586iE
 
@@ -322,39 +319,39 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension
 
 #--*.*--BT Sports--*.*--#
 
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",1.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1300442&extension=ts&play_token=YmsTKWQok5
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",2.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",2.TNT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1300442&extension=ts&play_token=kyez1fCJbr
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",3.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",3.TNT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1300442&extension=ts&play_token=kFiCXbKJbA
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",4.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",4.TNT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=6H190jzhqk
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",5.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",5.TNT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1300442&extension=ts&play_token=WI3SeYjiNd
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",6.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",6.TNT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=8yrFewLAuO
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",7.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",7.TNT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=8yrFewLAuO
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",8.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",8.TNT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1300442&extension=ts&play_token=8yrFewLAuO
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",9.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",9.TNT Ultimate UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1122782&extension=ts&play_token=GfHty63NZx
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",10.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",10.TNT Ultimate UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1122782&extension=ts&play_token=U1nb6FuNER
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",11.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",11.TNT Ultimate UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1122782&extension=ts&play_token=JqsTb3hawA
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",12.BT Ultimate UHD 
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",12.TNT Ultimate UHD 
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1122782&extension=ts&play_token=ipXtKwHwal
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",13.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",13.TNT Ultimate UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1122782&extension=ts&play_token=4Pw8V6TvcE
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",14.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",14.TNT Ultimate UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1300442&extension=ts&play_token=7t2vxw9iET
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk2",15.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk2",15.TNT Ultimate UHD
 
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",16.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",16.TNT Ultimate UHD
 
-#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",17.BT Ultimate UHD
+#EXTINF:-1 group-title="BT Sports" tvg-logo="http://gg.gg/tntsportkkk",17.TNT Ultimate UHD
 
 
 
