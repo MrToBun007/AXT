@@ -34,18 +34,18 @@ http://trx.p13.one/live/Hardeep/Hardeep/1823292.m3u8
 
 #--*.*--FHD Live--*.*--#
 
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", 1. Live Tiếng Việt World Cup Women
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",1. Live Tiếng Việt World Cup Women
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",2. Live World Cup Women 
-http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/376362.m3u8
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=147222&extension=ts&play_token=JaoFGQXX6n
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",3. Live World Cup Women TSN
 http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/418553.m3u8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",4. Live World Cup Women FS1
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=147222&extension=ts&play_token=JaoFGQXX6n
+
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",5. Live World Cup Women
 
@@ -81,7 +81,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=147222&exten
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate-Canada VPN
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1300442&extension=ts&play_token=LfvcMVmsxz
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tntsportkkk",1.BT Ultimate-Canada VPN
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate-Canada VPN
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:5A:0E:26&stream=1300442&extension=ts&play_token=KbYfr1PCNK
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssmaineventkkk",1.Sky Sports Main Event-Canada VPN
