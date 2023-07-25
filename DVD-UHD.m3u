@@ -1193,53 +1193,26 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 #-*--Khám Phá-*--#
 
-#EXTINF:-1 group-title="KHÁM PHÁ" tvg-logo="http://gg.gg/TRT1kkk",1.TRT FHD
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",1.TRT FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=400958&extension=ts&play_token=VjjT7V1UDz
 #EXTINF:-1 group-title="KHÁM PHÁ" tvg-logo="http://gg.gg/TRT1kkk",2.TRT FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=400958&extension=ts&play_token=e0NlLpIBZE
 
 
-#EXTINF:-1 group-title="KHÁM PHÁ" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png",1.Wild Earth FHD
+#EXTINF:-1 group-title="USA Channel" tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2017/02/logo-no-background2.jpg.png",1.Wild Earth FHD
 https://wildearth-plex.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="KHÁM PHÁ" tvg-logo="http://gg.gg/nat1kkk",1.National Geographic US FHD
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/nat1kkk",1.National Geographic US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=dQdxWciay6
 #EXTINF:-1 group-title="KHÁM PHÁ" tvg-logo="http://gg.gg/nat1kkk",2.National Geographic UK FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=A0wMl77UWL
 
 
-#EXTINF:-1 group-title="KHÁM PHÁ" tvg-logo="http://gg.gg/discovery1kkk",1.Discovery US FHD
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/discovery1kkk",1.Discovery US FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121633&extension=ts&play_token=W4pwf2Vp44
 #EXTINF:-1 group-title="KHÁM PHÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",1.Discovery Science US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=15175&extension=ts&play_token=eNJ2Iyausy
-
-
-#-*--Cartoon-*--#
-
-#EXTINF:0 tvg-id="disneychannel" group-title="👶" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/iEpvKTL_zcrh2cTR1D8EUA==.jpg?type=live&thumbnail=thumbnail_small.jpg",1.Disney Channel US FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://38.84.24.29:8089/play/mpegts/eyJpdiI6IkdaWWpENWlUVzQzWkh1Ri9IMVRrakE9PSIsInZhbHVlIjoiTXZwRFJ5QUs1Mzhpd0hid2lyc09tSWg5SkhlS1RVWVdiM0lUa1FWbFUyWnZjWjJQMDhnK28xNDBFWDRZUkpRYnl6Qmg5TUlJTFdyYllvc0VFZEVvL0E9PSIsIm1hYyI6ImI0ZjU0M2ZlZjU1NDBjZjM4MWZjMDVlMWM1Y2U0N2YwYTgxOGQ0MzcyN2I4MmY4MzZkM2M1ZjQ5ZTRjMDA5ZWIiLCJ0YWciOiIifQ==/23ff7eb2-29e2-40f9-b81a-17df96d9e096.ts?lvtoken=eyJpdiI6IjhyVlk4ZmZqZTVTRnpGNXl5ZjRGcVE9PSIsInZhbHVlIjoiYllrdnlqVUdVc01lWGVGYTRjVW44bm5TZ29EWDkwQ2hNSWkxK1hDOWQwVjgxcDVuekQyUE10TlAzajhQcnZqNVI0eTZFUFoxVC9tdi9VaVpuYWFhTG11RUhMdDBKb25TOU8rUlVrelo1ak00V09ZWlBuNml2eWpSTHpZS1ZFZDUwcVpiNFFMenE1b2JSb214QnBKOUltajJSeUNGTkI4ak5DV0pGWWYvZ3g3eXpubmhtSis5SGlvejZsWlhkMGlpTnJJUmZlMHBXRitqMUtyVS9Va00zdz09IiwibWFjIjoiYTczZGE3NjljYjYwNTE0ZjM0YmE2NzRlOGQxNjQzNGIyMjM5OTViZjVhNGZhNGE0MGIxZTQ2ODI5ZDViY2NlYyIsInRhZyI6IiJ9&r=9fdb46&rt=e66a27bd6d767f07614bdbd8df845229
-#https://code.vthanhtivi.pw/getlink/jptv/iEpvKTL_zcrh2cTR1D8EUA==/playlist.m3u8
-#EXTINF:-1 group-title="👶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",2.Disney Channel US FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
-
-#EXTINF:0 tvg-id="disneyjunior" group-title="👶" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/chTowUHZLkQGzE_HtjvDXw==.jpg?type=live&thumbnail=thumbnail_small.jpg",1.Disney Junior FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://38.84.24.29:8089/play/mpegts/eyJpdiI6ImVEK1JxZFZJTWtIbituMFh4UHlwcXc9PSIsInZhbHVlIjoiaUZxUHJVVVVjMnRUb1czYUk4MERHZU1xM0dubXRTTytGd01qOWRkaHhVYjJzZFplaTQ1SG1TOUFiWnYzUGlxWDZ4aHdDWCtQNm1YOU5vK2VuTDFNRmc9PSIsIm1hYyI6ImM5NmFmNGI1NDJkNDlhNTAwMDRmM2ZkMDYxNGExODczMDA5NTU2Y2M5MGI3NTBmYmI4OTljZmQzYWJlZjFmZGEiLCJ0YWciOiIifQ==/057e1b7d-8c3a-4f8c-8d9c-b7fbf39691b6.ts?lvtoken=eyJpdiI6Ik16VDZMSlc1VWRGdDBKL0c1SGdRYWc9PSIsInZhbHVlIjoiNEVIUWtDMXNlR20weFlHVm9qK0RpUlBtdXNGNFJxZ0F5cDBwL2I1R24vTFAwdkZnMlFhL3VsR2RQRkRCMmRSaWFoSWRNSUxuQnZhejA3RURVWlpzTCtVajZ2aVd1L0hqS0lFQXdqRHh2SnJOT09TN1dDTXo1czdERGhPdGZXWXhyMTl1NVMreXp3UEdrSlFTWi80WXFoWGNPNCt6bVNtdWkxRzVIK3prcUp6RlVxRGZkV1dxMk51cE9PNi9LS3dhSFdUYzFLMzNBUHYxcTJ5VEpNSjgzZz09IiwibWFjIjoiYzJiYzNjYjg3ZDEwMmM4YjNhNDEwYzczYzZjYTFkMTA5MDMxZGUwODA3MDUxYzMwMWNjZDcwYzc3ZDEzNGRlYSIsInRhZyI6IiJ9&r=113520&rt=42faa73e337ce162ea023f4268002df4
-#https://code.vthanhtivi.pw/getlink/jptv/chTowUHZLkQGzE_HtjvDXw==/playlist.m3u8
-#EXTINF:-1 group-title="👶" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",2.Disney Junior FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=16770&extension=ts&play_token=ercn0JhXQO
-
-#EXTINF:-1 tvg-id="cartoonhd" group-title="👶" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",1.Cartoon Network HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=592
-https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-
-#EXTINF:0 tvg-id="disneyxd" group-title="👶" tvg-logo="https://i.ibb.co/pbCSymV/disneyXD.webp",1.Disney XD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://38.84.24.29:8089/play/mpegts/eyJpdiI6Ii90QmdJM1RFS3N1TEVxbUVtd284WFE9PSIsInZhbHVlIjoibENzRFhRSXQvVGt3b012eTA3dnpmWnFyNEwvK1RBbVplWUxlMXI1NHgzdnUyeklkZ1BJUVJiRytsR3NjR2J0U1RUblZvL0lxeXpFaVhobFg2RmZ1RXc9PSIsIm1hYyI6IjViMWYzMzA1N2QzMTZiNzZjN2NhZDQ5MWI5MGJlNTExMjAyNzM3MzE1OTQwOWUzYTJhZWQ5OGQxNGIyNDM0NmMiLCJ0YWciOiIifQ==/f3dd2ffb-d557-4c44-a5b0-a4e6f47bf60a.ts?lvtoken=eyJpdiI6IlJLcyt6YkpmcUZSZWExYlVDR1hHdHc9PSIsInZhbHVlIjoiWloxUzBvd24wZ1lRUnJISDdKV1g0akxFNmdvb3NteFhINVpNRlpTQ210dmVVaXR5anU3Z0xHVTFBdTY5VEdSZGplQUVoN0F5MEw4b0dTMm1kRXBocFVRVTZUejN5aE5sMWh0SndCd2ViaWYzeExVSUMvNTBUMEl2ZUVKM3BtNkhoZzJnai85RlEyQ3d1OUhwM2djVE9LTjBIS2xXcmoxQm1uZE1wOTNaYlN5MkNQUTFjOXFXQzkzNFlobGs2YTRicFhVL1JPeFF1UkRpWkZROFhsN0lZZz09IiwibWFjIjoiZDg2OGVkNDQwNDAxZmFiYzM4ODJmNTc4ZWM1ZmZiZTc2NjgxODMzNDljNDg2YjM0ZTk1Y2M4MzkzYjcwYjIzMyIsInRhZyI6IiJ9&r=499d6b&rt=b8da53be7e01dd07422cfb3d7c0bcfa9
 
 
 #-*--Radio-*--#
