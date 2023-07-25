@@ -1195,7 +1195,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",1.TRT FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=400958&extension=ts&play_token=VjjT7V1UDz
-#EXTINF:-1 group-title="KHÁM PHÁ" tvg-logo="http://gg.gg/TRT1kkk",2.TRT FHD
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",2.TRT FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=400958&extension=ts&play_token=e0NlLpIBZE
 
 
@@ -1205,13 +1205,13 @@ https://wildearth-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/nat1kkk",1.National Geographic US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=dQdxWciay6
-#EXTINF:-1 group-title="KHÁM PHÁ" tvg-logo="http://gg.gg/nat1kkk",2.National Geographic UK FHD
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/nat1kkk",2.National Geographic UK FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=A0wMl77UWL
 
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/discovery1kkk",1.Discovery US FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121633&extension=ts&play_token=W4pwf2Vp44
-#EXTINF:-1 group-title="KHÁM PHÁ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",1.Discovery Science US FHD
+#EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",1.Discovery Science US FHD
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=15175&extension=ts&play_token=eNJ2Iyausy
 
 
