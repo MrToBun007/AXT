@@ -81,8 +81,11 @@ http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/418553.m3u8
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate-Canada VPN
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1300442&extension=ts&play_token=LfvcMVmsxz
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate-Canada VPN
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tntsportkkk",2.TNT Ultimate-Canada VPN
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:5A:0E:26&stream=1300442&extension=ts&play_token=KbYfr1PCNK
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tntsportkkk",3.TNT Ultimate-Canada VPN
+http://quickview.xyz/live/Neil2/2Neil/1042157.m3u8
+
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssmaineventkkk",1.Sky Sports Main Event-Canada VPN
 http://trx.p13.one/live/Manan123/Manan123/1836073.m3u8
@@ -216,6 +219,8 @@ http://trx.p13.one/live/Americo/Americo/1872119.m3u8
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/wimbledon",2.Wimbledon BBC UHD-Canada VPN
 http://apbest.re:80/live/18220704922642218/1593574628/111963.ts
 
+#EXTINF:-1 group-title="DIGI Sports" tvg-logo="http://gg.gg/digisport1kkk",1.DIGI SPORTS 1-Canada VPN
+http://kleineinzeige.com:8080/live/Ciprian-Petrea1/EV7P2jur/38531.m3u8
 
 #EXTINF:-1 group-title="DIGI Sports" tvg-logo="http://gg.gg/primakkk",1.PRIMA 4K-Canada VPN
 http://safe.avivainsur.com:8080/Nicolae_Cimpan/ELJ6c8WSfCkm/35745
@@ -892,9 +897,9 @@ http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=56381&extensio
 #EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",2.Manchester United FHD
 
 #EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",1.Liverpool FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=20383&extension=ts&play_token=fNHWjDzRq2
+http://2hubs.ddns.net:25461/live/sharedspp/EbUQ2qWhya/61467.m3u8
 #EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",2.Liverpool FHD
-
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=117748&extension=ts&play_token=7q9nikpesQ
 #EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",1.Asenal FHD
 
 #EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png",1.Newcastle United FHD
