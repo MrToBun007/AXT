@@ -8,7 +8,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #Su dung OTT Navigator hoặc Tivimate để xem được K+
 
-#My list : http://gg.gg/06062023 , https://hqth.me/r586iE
+#My list : http://gg.gg/06062023 , https://hqth.me/r586iE , http://onetv.pw/0606
 
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/hrd222",Welcome to 4K-UHD Channel
@@ -44,8 +44,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=147222&exten
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",3. Live World Cup Women TSN
 http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/418553.m3u8
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",4. Live World Cup Women FS1
-
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1. Live Bayer vs ManCity
+http://quickview.xyz/live/Neil2/2Neil/1011043.m3u8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",5. Live World Cup Women
 
