@@ -30,6 +30,8 @@ http://45.158.254.2:80/play/live.php?mac=00:1A:79:CD:E5:45&stream=1124346&extens
 http://trx.p13.one/live/Hardeep/Hardeep/1836072.m3u8
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.F1 4K
 http://trx.p13.one/live/Hardeep/Hardeep/1823292.m3u8
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.F1 2K
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:08:44:3C&stream=646892&extension=ts&play_token=17DLmpRAJi
 
 
 #--*.*--FHD Live--*.*--#
