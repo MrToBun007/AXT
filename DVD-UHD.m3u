@@ -52,10 +52,10 @@ http://128.199.214.24/OSN/mpegts
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=147222&extension=ts&play_token=JaoFGQXX6n
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",4. Live World Cup Women 
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:69:E7:8D&stream=530785&extension=ts&play_token=1ktN9RYHWn
+http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/418553.m3u8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",5. Live World Cup Women TSN
-http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/418553.m3u8
+
 
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",5. Live World Cup Women
@@ -337,9 +337,6 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension
 
 
 #--*.*--2K-QHD--*.*--#
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sport-TV QHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:55:9A:B1&stream=489200&extension=ts&play_token=qnVHIJHZT7
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.National Geographic QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646896&extension=ts&play_token=mp3ZjfrjM5
@@ -1323,39 +1320,3 @@ https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://gg.gg/bbcradiokkk", London Radio
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:A6:CA:FB&stream=287287&extension=ts&play_token=mrVwwE8r4X
 
-
-
-
-#------------------------DRM------------------------#
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/cETq7Wv.jpg",ON Golf HD (DRM)
-rtp://@232.84.2.246:10876
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports (DRM)
-rtp://@232.84.1.208:9222
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/XySB4yh.jpg",VTVcab5 E Channel (DRM)
-rtp://@232.84.1.193:9132
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/1p7Qi8i.jpg",ON Sports+ (DRM)
-rtp://@232.84.1.220:9294
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football (DRM)
-rtp://@232.84.1.138:8802
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD (DRM)
-rtp://@232.84.1.207:9216
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD (DRM)
-rtp://@232.84.1.210:9234
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News (DRM)
-rtp://@232.84.2.193:10942
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine (DRM)
-rtp://@232.84.1.122:10314
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life (DRM)
-rtp://@232.84.1.123:10320
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 (DRM)
-rtp://@232.84.1.125:10326
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 (DRM)
-rtp://@232.84.1.176:10374
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine (DRM)
-rtp://@232.84.1.96:8550
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life (DRM)
-rtp://@232.84.1.97:8556
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 (DRM)
-rtp://@232.84.1.98:8562
-#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 (DRM)
-rtp://@232.84.1.131:10368
