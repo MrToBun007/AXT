@@ -48,8 +48,11 @@ https://fbvip88.com/cliptv/cliptv.php?id=on-sports-news
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://128.199.214.24/OSN/mpegts
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",4. Live World Cup Women 
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",3. Live World Cup Women 
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=147222&extension=ts&play_token=JaoFGQXX6n
+
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",4. Live World Cup Women 
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:69:E7:8D&stream=530785&extension=ts&play_token=1ktN9RYHWn
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",5. Live World Cup Women TSN
 http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/418553.m3u8
@@ -334,6 +337,9 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension
 
 
 #--*.*--2K-QHD--*.*--#
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sport-TV QHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:55:9A:B1&stream=489200&extension=ts&play_token=qnVHIJHZT7
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.National Geographic QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646896&extension=ts&play_token=mp3ZjfrjM5
@@ -774,6 +780,9 @@ http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=310432&extens
 http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=466959&extension=ts&play_token=EG2xvFnudz
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/bein4kkkk",2.Bein 4K
 http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=466959&extension=ts&play_token=eaxc6yM2gX
+#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/bein4kkkk",3.Bein 4K
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:69:E7:8D&stream=549727&extension=ts&play_token=54jQWv0t9a
+
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Motor UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526128&extension=ts&play_token=b5FA4gfd0H
