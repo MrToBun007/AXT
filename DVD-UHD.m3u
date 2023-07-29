@@ -40,14 +40,20 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:08:44:3C&stream=646892&exten
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",2. Live World Cup Women 
+
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab18-on-sports-news/dvr-${start}-${offset}.m3u8",1.ON Sports News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://fbvip88.com/cliptv/cliptv.php?id=on-sports-news
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png"catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab18-on-sports-news/dvr-${start}-${offset}.m3u8",2.ON Sports News HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://128.199.214.24/OSN/mpegts
+
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",4. Live World Cup Women 
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=147222&extension=ts&play_token=JaoFGQXX6n
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",3. Live World Cup Women TSN
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",5. Live World Cup Women TSN
 http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/418553.m3u8
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1. Live Bayer vs ManCity
-http://quickview.xyz/live/Neil2/2Neil/1011043.m3u8
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",5. Live World Cup Women
 
