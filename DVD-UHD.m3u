@@ -1322,3 +1322,40 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
 #EXTINF:-1 group-title="RADIO" tvg-logo="http://gg.gg/bbcradiokkk", London Radio
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:A6:CA:FB&stream=287287&extension=ts&play_token=mrVwwE8r4X
+
+
+
+
+#------------------------DRM------------------------#
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/cETq7Wv.jpg",ON Golf HD (DRM)
+rtp://@232.84.2.246:10876
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports (DRM)
+rtp://@232.84.1.208:9222
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/XySB4yh.jpg",VTVcab5 E Channel (DRM)
+rtp://@232.84.1.193:9132
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/1p7Qi8i.jpg",ON Sports+ (DRM)
+rtp://@232.84.1.220:9294
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football (DRM)
+rtp://@232.84.1.138:8802
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD (DRM)
+rtp://@232.84.1.207:9216
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD (DRM)
+rtp://@232.84.1.210:9234
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News (DRM)
+rtp://@232.84.2.193:10942
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine (DRM)
+rtp://@232.84.1.122:10314
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life (DRM)
+rtp://@232.84.1.123:10320
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 (DRM)
+rtp://@232.84.1.125:10326
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 (DRM)
+rtp://@232.84.1.176:10374
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine (DRM)
+rtp://@232.84.1.96:8550
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life (DRM)
+rtp://@232.84.1.97:8556
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 (DRM)
+rtp://@232.84.1.98:8562
+#EXTINF:0 group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 (DRM)
+rtp://@232.84.1.131:10368
