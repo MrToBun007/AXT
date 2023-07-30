@@ -118,7 +118,8 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1300442&exte
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:5A:0E:26&stream=1300442&extension=ts&play_token=KbYfr1PCNK
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tntsportkkk",3.TNT Ultimate-Canada VPN
 http://quickview.xyz/live/Neil2/2Neil/1042157.m3u8
-
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tntsportkkk",4.TNT Ultimate-Canada VPN
+http://firemanboss.firemanboss.org:80/play/live.php?mac=00:1A:79:cd:d8:10&stream=479413&extension=ts&play_token=PsWBXkXEYB
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/ssmaineventkkk",1.Sky Sports Main Event-Canada VPN
 http://trx.p13.one/live/Manan123/Manan123/1836073.m3u8
