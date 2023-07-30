@@ -661,7 +661,7 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=114242&extensi
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",1.Sky F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",2.Sky F1 UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:c0:04:04&stream=1566281&extension=ts&play_token=EsxX1oCPF8
+http://trx.p13.one/live/Hardeep/Hardeep/1836072.m3u8
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",3.Sky F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1566281&extension=ts&play_token=pWO7TmsfXQ
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",4.Sky F1 UHD
@@ -671,7 +671,7 @@ http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1566281&ext
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",6.Sky F1 UHD
 http://trx.p13.one/live/Hardeep/Hardeep/1823292.m3u8
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",7.Sky F1 UHD
-http://trx.p13.one/live/Hardeep/Hardeep/1836072.m3u8
+
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/daznf1xkkk",1.DAZN F1 UHD
 http://trx.p13.one/live/Hardeep/Hardeep/1836060.m3u8
 
@@ -808,7 +808,7 @@ http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
 http://safe.avivainsur.com:8080/Ionut_Alexa/4MyXxpcF8nMf/10510
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/RAIkkk",1.RAI 4K
-http://kb001.xyz:80/gWN7T51fr8L1/WaZGW4VZ3l/179589
+
 
 
 #--*.*--USA Channel--*.*--#
