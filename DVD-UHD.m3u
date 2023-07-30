@@ -760,7 +760,7 @@ http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250760&extens
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",2.Canal+ 4K
 http://416streams.sytes.net:8080/live/tgtom/sfX2pkmu5L/510627.m3u8
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",3.Canal+ 4K
-http://45.158.254.2:80/play/live.php?mac=00:1A:79:19:48:3C&stream=1271764&extension=ts&play_token=I4ONefBwS9
+
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",1.Canal+ LDC Champions League UHD
 
@@ -783,7 +783,7 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=52613
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&extension=ts&play_token=7Af8Ztv0eN
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",9.Canal+ Sports UHD
 http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=BzCcY4S10M
-#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",10.Canal+ Sports UHD
+#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",10.Canal+ Foot UHD
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=310432&extension=ts&play_token=saknpzj6Dv
 
 
