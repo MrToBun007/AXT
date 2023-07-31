@@ -734,7 +734,7 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=11
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",1.Fox Sports FS1 UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",2.Fox Sports FS1 UHD
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1124346&extension=ts&play_token=fPAvj56w8k
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=1124346&extension=ts&play_token=2TIsIHs8MA
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",3.Fox Sports FS1 UHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124346&extension=ts&play_token=4LT1bBbn8g
 
@@ -743,7 +743,7 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=11
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",5.Fox Sports FS1 UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:A6:63:88&stream=1124346&extension=ts&play_token=MpkXJnPOt2
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",6.Fox Sports FS1 UHD
-http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=1124346&extension=ts&play_token=2TIsIHs8MA
+
 
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/NBCsportskkk",1.NBC Sports UHD
