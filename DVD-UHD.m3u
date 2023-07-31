@@ -28,9 +28,9 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:A6:63:88&stream=11
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=1124346&extension=ts&play_token=2TIsIHs8MA
 
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Live WC Fox UHD
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Live WC Fox Sports UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:A6:63:88&stream=1124348&extension=ts&play_token=RAFQTNXEeC
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Live WC Fox UHD
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Live WC Fox Sports UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=1124348&extension=ts&play_token=PDmudPglO5
 
 
@@ -685,55 +685,65 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1555727&exte
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",3.ESPN UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1555727&extension=ts&play_token=q8WziQKkJH
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",4.ESPN UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:07:45:0D&stream=1555727&extension=ts&play_token=NjKzmXayH3
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1555727&extension=ts&play_token=hB2tpFCEZJ
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",5.ESPN UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1555727&extension=ts&play_token=12TBPq5X4a
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1555727&extension=ts&play_token=BUrv12p3J7
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",6.ESPN UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1555727&extension=ts&play_token=9EX7js4tMx
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",7.ESPN UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1555727&extension=ts&play_token=2xn7PS2q11
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",8.ESPN UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1555727&extension=ts&play_token=BUrv12p3J7
-#EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",9.ESPN UHD
 http://megabest.ottc.pro/Jv5CmgEkUZetHZ8/eLqKeqw8ks/576830
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",9.ESPN UHD
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",10.ESPN UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1555727&extension=ts&play_token=hB2tpFCEZJ
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",11.ESPN UHD
-http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/470254.ts
+
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/universokkk",1.UNIVERSO UHD
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/universokkk",2.UNIVERSO UHD
 
 
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",1.Fox Sports FS1 UHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="ttp://gg.gg/foxsport4kkkk",1.Fox Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1555726&extension=ts&play_token=bibWKhtcY8
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",2.Fox Sports FS1 UHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="ttp://gg.gg/foxsport4kkkk",2.Fox Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1555726&extension=ts&play_token=Ks11unw3dY
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",3.Fox Sports FS1 UHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="ttp://gg.gg/foxsport4kkkk",3.Fox Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1555726&extension=ts&play_token=LJzQ87JAeB
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",4.Fox Sports FS1 UHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="ttp://gg.gg/foxsport4kkkk",4.Fox Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=1555726&extension=ts&play_token=wr0pS2e2FB
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",5.Fox Sports FS1 UHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="ttp://gg.gg/foxsport4kkkk",5.Fox Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=1555726&extension=ts&play_token=HMixqlyTd7
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",6.Fox Sports FS1 UHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="ttp://gg.gg/foxsport4kkkk",6.Fox Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:56:25:26&stream=1555726&extension=ts&play_token=zQVZyXy1A1
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",7.Fox Sports FS1 UHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="ttp://gg.gg/foxsport4kkkk",7.Fox Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1555726&extension=ts&play_token=q0p4ojf4cQ
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",8.Fox Sports FS1 UHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="ttp://gg.gg/foxsport4kkkk",8.Fox Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=1555726&extension=ts&play_token=wrEH5hWoe0
-
-
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsport4kkkk",1.Fox Sports 4K
-http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsport4kkkk",2.Fox Sports 4K
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1124346&extension=ts&play_token=fPAvj56w8k
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsport4kkkk",3.Fox Sports 4K
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124346&extension=ts&play_token=4LT1bBbn8g
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsport4kkkk",4.Fox Sports 4K
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsport4kkkk",9.Fox Sports UHD
 http://104.243.32.68:25461/live/unrealKD/p73rmm3dn4/470252.ts
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsport4kkkk",5.Fox Sports 4K
 
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsport4kkkk",10.Fox Sports UHD
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:A6:63:88&stream=1124348&extension=ts&play_token=RAFQTNXEeC
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsport4kkkk",11.Fox Sports UHD
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=1124348&extension=ts&play_token=PDmudPglO5
+
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",1.Fox Sports FS1 UHD
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",2.Fox Sports FS1 UHD
+http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=1124346&extension=ts&play_token=fPAvj56w8k
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",3.Fox Sports FS1 UHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124346&extension=ts&play_token=4LT1bBbn8g
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",4.Fox Sports FS1 UHD
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",5.Fox Sports FS1 UHD
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:A6:63:88&stream=1124346&extension=ts&play_token=MpkXJnPOt2
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",6.Fox Sports FS1 UHD
+http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=1124346&extension=ts&play_token=2TIsIHs8MA
 
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/NBCsportskkk",1.NBC Sports UHD
@@ -741,11 +751,11 @@ http://m.octotv.live:80/play/live.php?mac=00:1A:79:5E:B2:55&stream=1124350&exten
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/NBCsportskkk",2.NBC Sports UHD
 http://raptor-tv.com:80/play/live.php?mac=00:1A:79:73:fa:4e&stream=1124350&extension=ts&play_token=okQhy24Oim
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/NBCsportskkk",3.NBC Sports UHD
-http://bakerbonds.h1ott.com:80/play/live.php?mac=00:1A:79:66:a5:10&stream=1124350&extension=ts&play_token=LdFEY7xAl2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124350&extension=ts&play_token=wpmAw2wejp
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/NBCsportskkk",4.NBC Sports UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124350&extension=ts&play_token=3HKs6JUGGq
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/NBCsportskkk",5.NBC Sports UHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124350&extension=ts&play_token=wpmAw2wejp
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/NBCsportskkk",6.NBC Sports UHD
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/NBCsportskkk",7.NBC Sports UHD
@@ -1051,13 +1061,7 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=9852&e
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ufckkk",1.UFC FIGHT PASS FHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=13259&extension=ts&play_token=dWtCza4q14
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ufckkk",2.UFC FIGHT PASS FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=206942&extension=ts&play_token=GCslZL1uNr
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ufckkk",3.UFC FIGHT PASS FHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=13259&extension=ts&play_token=BGkfLwnUBH
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ufckkk",4.UFC FIGHT PASS FHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101217&extension=ts&play_token=hm8Di15njA
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ufckkk",5.UFC FIGHT PASS FHD
-http://primestreams.tv:826/live/Giancarlo/Giancarlo/33843.ts
+
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",1.WWE FHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=9663&extension=ts&play_token=4a8AB2mqki
@@ -1068,30 +1072,29 @@ http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101219&ext
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",4.WWE FHD
 http://realsport.scalecdn.co:8080/live/111222/111222/3701.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",5.WWE FHD
-http://primestreams.tv:826/live/Giancarlo/Giancarlo/36372.ts
+
 
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",1.ESPN 1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=32083&extension=ts&play_token=54jfarpTs9
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",2.ESPN 1 FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=42909&extension=ts&play_token=DhmsA3yGBq
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",3.ESPN 1 FHD
 
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",1.ESPN 2 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=32089&extension=ts&play_token=OJgmkAhrHs
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",2.ESPN 2 FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=42910&extension=ts&play_token=3boUMQdHFb
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",3.ESPN 2 FHD
 
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ssteniskkk",1.Sky Sport Tennis IT FHD
-http://45.158.254.2:80/play/live.php?mac=00:1A:79:63:74:5e&stream=692433&extension=ts&play_token=GYcwrkIfSw
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS US FHD
 http://restream-live.realiptv.to:8080/live/Daryl/12345/3685.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",2.TENNIS US FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=519695&extension=ts&play_token=RTrOU8KNyV
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",3.TENNIS US FHD
-http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",4.TENNIS US FHD
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",5.TENNIS US FHD
@@ -1105,11 +1108,11 @@ http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
 
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox1fhdkkk",1.Fox Sports 1 FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=42904&extension=ts&play_token=GVc9Vgbarl
+http://firemanboss.firemanboss.org:80/play/live.php?mac=00:1A:79:17:29:17&stream=530785&extension=ts&play_token=KJpy9h3ZNt
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox1fhdkkk",2.Fox Sports 1 FHD
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox2fhdkkk",1.Fox Sports 2 FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=42903&extension=ts&play_token=qJLmnIu5AJ
+http://firemanboss.firemanboss.org:80/play/live.php?mac=00:1A:79:17:29:17&stream=530786&extension=ts&play_token=dtxBSJEkeI
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox2fhdkkk",2.Fox Sports 2 FHD
 
 
