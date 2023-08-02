@@ -96,9 +96,10 @@ https://tiemnhazunn.click/tv360/tv360.php?id=228
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://gg.gg/kidkkk",1.K+ KIDS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keykids.php 
-https://tiemnhazunn.click/tv360/tv360.php?id=307
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/2rr19l6e8fmdhpb/KplusKidskey.ico?dl=0 
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/sport1kkk",1.K+ SPORT 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -112,6 +113,30 @@ https://tiemnhazunn.click/tv360/tv360.php?id=230
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport2.php
 https://tiemnhazunn.click/tv360/tv360.php?id=231
+
+
+#-*--KhichTV-*--#
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",2.K+ CINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/hf4k3zc675bcc1k/kpluscinekey.ico?dl=0  
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://gg.gg/k-lifekkk",2.K+ LIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/xsft6z0g7wshrqd/Kpluslifekey.ico?dl=0  
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/sport1kkk",2.K+ SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/uy6h2s6fl3urfas/Kplussport1key.ico?dl=0  
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://gg.gg/sports2kkk",2.K+ SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/5lx2ytzuhm1nwep/KplusSport2key.ico?dl=0  
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
 
 
 #-*--4K-Need VPN-*--#
