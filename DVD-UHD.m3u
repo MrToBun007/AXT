@@ -918,7 +918,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2123&extensi
 
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssnews1kkk",1.Sky Sports News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255100&extension=ts&play_token=r45ODj2bPE
-#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",1.Sky Sports Main Event FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventhdkkk",1.Sky Sports Main Event FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255102&extension=ts&play_token=Hz8fIAwLKE
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssfotkkk",1.Sky Sports Football FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255104&extension=ts&play_token=DiBZxTfc3q
@@ -934,7 +934,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255097&exten
 
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssnews1kkk",2.Sky Sports News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255100&extension=ts&play_token=XsHgi7Nesf
-#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventkkk",2.Sky Sports Main Event FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventhdkkk",2.Sky Sports Main Event FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=Tkd8tpMXwB
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssfotkkk",2.Sky Sports Football FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255104&extension=ts&play_token=XuD8NsRQqR
