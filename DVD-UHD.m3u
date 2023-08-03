@@ -1071,12 +1071,6 @@ http://cocopops.xyz:8080/play/live.php?mac=00:1a:79:6b:96:31&stream=278612&exten
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=9852&extension=ts&play_token=cwdRdihniL
 
 
-#EXTINF:-1 group-title="USA Sports" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f873%2fs-sport-1-1.png",1.S Sport 1 TR FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&extension=ts&play_token=kS1xcmkSEt
-
-#EXTINF:-1 group-title="USA Sports" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f873%2fs-sport-1-1.png",1.S Sport 2 TR FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&extension=ts&play_token=5XFZvVZjXf
-
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ufckkk",1.UFC FIGHT PASS FHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=13259&extension=ts&play_token=dWtCza4q14
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ufckkk",2.UFC FIGHT PASS FHD
@@ -1162,6 +1156,12 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=553356&exten
 http://gooserace.xyz/live/asdfghjk/asdfghjk/3087002.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/universokkk",2.NBC Universo FHD
 
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f873%2fs-sport-1-1.png",1.S Sport 1 TR FHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&extension=ts&play_token=kS1xcmkSEt
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f873%2fs-sport-1-1.png",1.S Sport 2 TR FHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&extension=ts&play_token=5XFZvVZjXf
 
 
 #EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png",1.Real Madrid FHD-Canada
