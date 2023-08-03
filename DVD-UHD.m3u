@@ -1196,7 +1196,7 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&exten
 
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/danzkkk",1.DAZN FHD
-http://45.158.254.2:80/play/live.php?mac=00:1A:79:19:48:3C&stream=986639&extension=ts&play_token=Kn5pte950I
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=455045&extension=ts&play_token=I9E8f7Tt4M
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/daznlaligakkk",1.DAZN LaLiga FHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=986639&extension=ts&play_token=mlJMDqY8K4
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/daznlaligakkk",2.DAZN LaLiga FHD
