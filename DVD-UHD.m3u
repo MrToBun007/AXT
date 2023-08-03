@@ -375,63 +375,6 @@ http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486167&extension
 http://adam4k.top:80/play/live.php?mac=00:1A:79:4C:12:47&stream=486166&extension=ts&play_token=dLNP07FZA0
 
 
-
-#--*.*--2K-QHD--*.*--#
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.National Geographic QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646896&extension=ts&play_token=mp3ZjfrjM5
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.National Geographic Wild QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646897&extension=ts&play_token=tp51GdwSVZ
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Discovery Channel QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646898&extension=ts&play_token=70M0dvkr5a
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.History QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646899&extension=ts&play_token=PNUqKmnXcV
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Nature QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646900&extension=ts&play_token=rZB3NDi6ph
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Documentaries QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646901&extension=ts&play_token=r8Mvzeelo5
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky One QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=575451&extension=ts&play_token=dKQmB1FCk5
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Universal QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646886&extension=ts&play_token=sUFbOhmECn
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky SPort News QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646889&extension=ts&play_token=Cuw8NE0ciW
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Top Event QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=567234&extension=ts&play_token=n56363Na86
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Bundesliga QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646890&extension=ts&play_token=RXYxyanHL7
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Premier League QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646891&extension=ts&play_token=NdX4Y75kLh
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport F1 QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646892&extension=ts&play_token=iNBWntk9W7
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky SPort Mix QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646893&extension=ts&play_token=oK9y8qZcRg
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Golf QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646894&extension=ts&play_token=MBHkCZByL0
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Tennis QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646895&extension=ts&play_token=NPIPfiHIh7
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.
-
-
-
-
-
 #--*.*--TNT Sports--*.*--#
 
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate UHD
@@ -639,6 +582,8 @@ http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ad:f1:43&stream=90814&exte
 http://safe.avivainsur.com:8080/live/lidas/kzAtmnHq2v/10402.m3u8
 #EXTINF:-1 group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",10.DIGI UHD
 http://nordicone.tv:2095/play/live.php?mac=00:1a:79:67:52:6c&stream=90814&extension=ts&play_token=y74VDMal0M
+#EXTINF:-1 group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",11.DIGI UHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=564952&extension=ts&play_token=fJM3H5hN9J
 
 
 
@@ -677,6 +622,8 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=31644&extensio
 #EXTINF:-1 group-title="Vsports Ultra" tvg-logo="http://gg.gg/vsporthdkkk",16.Vsports Ultra UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=114242&extension=ts&play_token=Ah0BMydoRP
 #EXTINF:-1 group-title="Vsports Ultra" tvg-logo="http://gg.gg/vsporthdkkk",17.Vsports Ultra UHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=597527&extension=ts&play_token=V6Cpf4B5mw
+
 
 
 #EXTINF:-1 group-title="Vsports Ultra" tvg-logo="http://gg.gg/Cmorekkk",Cmore UHD 1 C1&League 1
@@ -874,6 +821,87 @@ http://pro7ip.ddnsking.com:80/pFSkD6rkf3/GcfQ1tNGuT/273891
 http://45.139.122.199:80/play/live.php?mac=00:1A:79:2A:33:21&stream=115186&extension=ts&play_token=u8AhYyoJ09
 
 
+#--*.*--2K-QHD--*.*--#
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.National Geographic QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646896&extension=ts&play_token=mp3ZjfrjM5
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.National Geographic Wild QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646897&extension=ts&play_token=tp51GdwSVZ
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Discovery Channel QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646898&extension=ts&play_token=70M0dvkr5a
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.History QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646899&extension=ts&play_token=PNUqKmnXcV
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Nature QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646900&extension=ts&play_token=rZB3NDi6ph
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Documentaries QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646901&extension=ts&play_token=r8Mvzeelo5
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky One QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=575451&extension=ts&play_token=dKQmB1FCk5
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Universal QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646886&extension=ts&play_token=sUFbOhmECn
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky SPort News QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646889&extension=ts&play_token=Cuw8NE0ciW
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Top Event QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=567234&extension=ts&play_token=n56363Na86
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Bundesliga QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646890&extension=ts&play_token=RXYxyanHL7
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Premier League QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646891&extension=ts&play_token=NdX4Y75kLh
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport F1 QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646892&extension=ts&play_token=iNBWntk9W7
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky SPort Mix QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646893&extension=ts&play_token=oK9y8qZcRg
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Golf QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646894&extension=ts&play_token=MBHkCZByL0
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Tennis QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646895&extension=ts&play_token=NPIPfiHIh7
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.TV 8.5 TR QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=44&extension=ts&play_token=GLMfZw6R6T
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.TRT Sport TR QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=36&extension=ts&play_token=OnSY3KJ62k
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sport Smart 1 TR QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=27&extension=ts&play_token=2nC9C9gl7W
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sport Smart 2 TR QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=434&extension=ts&play_token=KnL4wSKNxi
+
+
+#-*--Sky Cinema DE QHD Channel-*--#
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="hhttp://gg.gg/skycinekkk",1.Sky Cinema Special QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=597641&extension=ts&play_token=jiKshihaSC
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Thriller QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646872&extension=ts&play_token=UGGXWIM4aN
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Premieren QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646873&extension=ts&play_token=T4o1g0lRxE
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Action QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646874&extension=ts&play_token=ST1knwooFL
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Best Of QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646880&extension=ts&play_token=yHoAajiqgj
+
+
 #-*--SPORT FULL HD-*--#
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 1 FHD 
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=104722&extension=ts&play_token=O2NNroHgM0
@@ -916,6 +944,8 @@ http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=174206&extensio
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2123&extension=ts&play_token=duMX7lgrg6
 
 
+#-*--Sky UK Channel-*--#
+
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssnews1kkk",1.Sky Sports News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255100&extension=ts&play_token=r45ODj2bPE
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/maineventhd1kkk",1.Sky Sports Main Event FHD
@@ -949,8 +979,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&exten
 
 
 
-
-#-*--Sky Sports UK-*--#
+#-*--UK Channel-*--#
 
 
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 1 FHD
@@ -991,6 +1020,8 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20142&extens
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20179&extension=ts&play_token=ISi0zQBbot
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",3.ITV 3 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20181&extension=ts&play_token=hbffuurR3H
+
+
 
 
 #-*--Sky Sports DE-*--#
