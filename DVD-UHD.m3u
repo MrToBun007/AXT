@@ -515,11 +515,11 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&ext
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",10.Sky Sports Main Event UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1299719&extension=ts&play_token=zKDdvDT4pU
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",11.Sky Sports Main Event UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=514345&extension=ts&play_token=OBi3eWXqCw
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1552954&extension=ts&play_token=lByrhTs3UD
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",12.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552954&extension=ts&play_token=Y8BoswZibD
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",13.Sky Sports Main Event UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1552954&extension=ts&play_token=lByrhTs3UD
+
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",14.Sky Sports Main Event UHD
 
 
