@@ -886,7 +886,7 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=434&extensio
 
 #-*--Sky Cinema DE QHD Channel-*--#
 
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="hhttp://gg.gg/skycinekkk",1.Sky Cinema Special QHD
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Special QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=597641&extension=ts&play_token=jiKshihaSC
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Thriller QHD
