@@ -1045,26 +1045,26 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=484622&exten
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=484623&extension=ts&play_token=R2EyC1m8A8
 
 
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",1.Manchester City FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",1.Manchester City FHD
 
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",2.Manchester City FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",2.Manchester City FHD
 
 
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",1.Manchester United FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",1.Manchester United FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=56381&extension=ts&play_token=UEUK5eDBCY
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",2.Manchester United FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",2.Manchester United FHD
 
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",1.Liverpool FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",1.Liverpool FHD
 http://45.139.122.199:80/play/live.php?mac=00:1A:79:AA:BF:0D&stream=9844&extension=ts&play_token=riBezV3nqn
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",2.Liverpool FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",2.Liverpool FHD
 http://quickview.xyz/live/slarge/slarge/1011038.m3u8
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",1.Asenal FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",1.Asenal FHD
 
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png",1.Newcastle United FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png",1.Newcastle United FHD
 
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png",1.Chelsea FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png",1.Chelsea FHD
 
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1024px-Brighton_%26_Hove_Albion_logo.svg.png",1.Brighton&Hove Albion FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1024px-Brighton_%26_Hove_Albion_logo.svg.png",1.Brighton&Hove Albion FHD
 
 
 
@@ -1190,9 +1190,9 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&exten
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&extension=ts&play_token=5XFZvVZjXf
 
 
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png",1.Real Madrid FHD-Canada
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png",1.Real Madrid FHD-Canada
 
-#EXTINF:-1 group-title="EPL Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/91/FC_Barcelona_logo.svg/1010px-FC_Barcelona_logo.svg.png",1.Barcelona FHD-Canada
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/91/FC_Barcelona_logo.svg/1010px-FC_Barcelona_logo.svg.png",1.Barcelona FHD-Canada
 
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/danzkkk",1.DAZN FHD
