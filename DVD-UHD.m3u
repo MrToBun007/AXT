@@ -421,6 +421,9 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646894&exten
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Tennis QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646895&extension=ts&play_token=NPIPfiHIh7
 
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.TRT 1 TR QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=41&extension=ts&play_token=rQp1bORlif
+
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.TV 8.5 TR QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=44&extension=ts&play_token=GLMfZw6R6T
 
