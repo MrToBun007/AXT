@@ -433,6 +433,24 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=27&extension
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sport Smart 2 TR QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=434&extension=ts&play_token=KnL4wSKNxi
 
+
+#-*--Sky Cinema DE QHD Channel-*--#
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Special QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=597641&extension=ts&play_token=jiKshihaSC
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Thriller QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646872&extension=ts&play_token=UGGXWIM4aN
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Premieren QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646873&extension=ts&play_token=T4o1g0lRxE
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Action QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646874&extension=ts&play_token=ST1knwooFL
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Best Of QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646880&extension=ts&play_token=yHoAajiqgj
+
 #--*.*--TNT Sports--*.*--#
 
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate UHD
@@ -877,24 +895,6 @@ http://pro7ip.ddnsking.com:80/pFSkD6rkf3/GcfQ1tNGuT/273891
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/livehdd",---------***---------
 http://45.139.122.199:80/play/live.php?mac=00:1A:79:2A:33:21&stream=115186&extension=ts&play_token=u8AhYyoJ09
-
-
-#-*--Sky Cinema DE QHD Channel-*--#
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Special QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=597641&extension=ts&play_token=jiKshihaSC
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Thriller QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646872&extension=ts&play_token=UGGXWIM4aN
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Premieren QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646873&extension=ts&play_token=T4o1g0lRxE
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Action QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646874&extension=ts&play_token=ST1knwooFL
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/skycinekkk",1.Sky Cinema Best Of QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=646880&extension=ts&play_token=yHoAajiqgj
 
 
 #-*--SPORT FULL HD-*--#
