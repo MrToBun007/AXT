@@ -36,9 +36,9 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=11
 http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:5f:8c:e7&stream=1124348&extension=ts&play_token=Lk20lqYwLM
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.F1 4K
-http://trx.p13.one/live/Hardeep/Hardeep/1836072.m3u8
+
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.F1 4K
-http://trx.p13.one/live/Hardeep/Hardeep/1823292.m3u8
+
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.F1 2K
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:08:44:3C&stream=646892&extension=ts&play_token=17DLmpRAJi
 
@@ -713,15 +713,15 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=597527&exten
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",1.Sky F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",2.Sky F1 UHD
-http://trx.p13.one/live/Hardeep/Hardeep/1836072.m3u8
+http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1566281&extension=ts&play_token=k2beVnnBVf
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",3.Sky F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1566281&extension=ts&play_token=pWO7TmsfXQ
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",4.Sky F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1566281&extension=ts&play_token=sAFDaEnf1o
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",5.Sky F1 UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1566281&extension=ts&play_token=k2beVnnBVf
+
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",6.Sky F1 UHD
-http://trx.p13.one/live/Hardeep/Hardeep/1823292.m3u8
+
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/skyf1kkk",7.Sky F1 UHD
 
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/daznf1xkkk",1.DAZN F1 UHD
@@ -1077,13 +1077,11 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&exten
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",3.Sky Sport F1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=ts&play_token=6rCllY0ScD
-#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",4.Sky Sport F1 EN FHD
+#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",4.Sky Sport F1 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=693530&extension=ts&play_token=eEnIjFdPdR
-#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",5.Sky Sport F1 EN FHD
+#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",5.Sky Sport F1 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=693532&extension=ts&play_token=VpJms0sZEy
-#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",6.Sky Sport F1 IT FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=693529&extension=ts&play_token=aXGtv9V76P
-#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportde1kkk",7.Sky Sports F1 DE FHD
+#EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportde1kkk",6.Sky Sports F1 DE FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=603379&extension=ts&play_token=w44JcnbV8V
 
 
