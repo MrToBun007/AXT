@@ -519,7 +519,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=1032518
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="http://gg.gg/hubpremierkkk",5.Hub Premier 2 UHD
 http://bollox.ie:8080/play/live.php?mac=00:1A:79:10:73:CB&stream=188713&extension=ts&play_token=ypbW8n6aUB
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="http://gg.gg/hubpremierkkk",6.Hub Premier 2 UHD
-
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=670352&extension=ts&play_token=ku2AAPhUqV
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="http://gg.gg/hubpremierkkk",7.Hub Premier 2 UHD
 
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="http://gg.gg/hubpremierkkk",8.Hub Premier 2 UHD
@@ -595,8 +595,12 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=653043&exten
 
 #--*.*--Bundesliga--*.*--#
 
-#EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/ssportdekkk",1.Sky Sports DE
+#EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/ssportdekkk",1.Sky Sports DE UHD 
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=484209&extension=ts&play_token=4h2sm7Uvea
+#EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/ssportdekkk",2.Sky Sports DE UHD 
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=484209&extension=ts&play_token=5XWDuAhsnf
+#EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/ssportdekkk",3.Sky Sports DE UHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=484209&extension=ts&play_token=uZ6vUE6re8
 
 
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/bundesligasky",1.Sky Bundesliga UHD
@@ -607,8 +611,8 @@ http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:aa:87:2d&stream=242541
 http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=242541&extension=ts&play_token=KgDDf1PWtD
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/bundesligasky",4.Sky Bundesliga UHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=482837&extension=ts&play_token=uKaKQYZPoJ
-#EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/bundesligasky",5.Sky Bundesliga UHD Live Event
-
+#EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/bundesligasky",5.Sky Bundesliga UHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=482837&extension=ts&play_token=wJvA92tWu6
 
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/uhd1xkkk",1.UHD1
 http://45.158.254.2:80/play/live.php?mac=00:1A:79:19:48:3C&stream=540014&extension=ts&play_token=wZlVWol6yf
@@ -644,7 +648,8 @@ http://safe.avivainsur.com:8080/live/lidas/kzAtmnHq2v/10402.m3u8
 http://nordicone.tv:2095/play/live.php?mac=00:1a:79:67:52:6c&stream=90814&extension=ts&play_token=y74VDMal0M
 #EXTINF:-1 group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",11.DIGI UHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=564952&extension=ts&play_token=fJM3H5hN9J
-
+#EXTINF:-1 group-title="DIGI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",12.DIGI UHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=564952&extension=ts&play_token=V0dftH9OqH
 
 
 #--*.*--Vsport Ultra--*.*--#
@@ -683,7 +688,8 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=31644&extensio
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=114242&extension=ts&play_token=Ah0BMydoRP
 #EXTINF:-1 group-title="Vsports Ultra" tvg-logo="http://gg.gg/vsporthdkkk",17.Vsports Ultra UHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=597527&extension=ts&play_token=V6Cpf4B5mw
-
+#EXTINF:-1 group-title="Vsports Ultra" tvg-logo="http://gg.gg/vsporthdkkk",18.Vsports Ultra 
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=597527&extension=ts&play_token=vNcS76sQNT
 
 
 #EXTINF:-1 group-title="Vsports Ultra" tvg-logo="http://gg.gg/Cmorekkk",Cmore UHD 1 C1&League 1
@@ -783,7 +789,7 @@ http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250760&extens
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",2.Canal+ 4K
 http://416streams.sytes.net:8080/live/tgtom/sfX2pkmu5L/510627.m3u8
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canal-kkk",3.Canal+ 4K
-
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=629068&extension=ts&play_token=vmkOZ4GhhK
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",1.Canal+ LDC Champions League UHD
 
@@ -869,6 +875,8 @@ http://my1esilil.ddns.net:80/k67jdKb3TR86188/jIEuZgnrU0/230039
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",1.TRT 4K
 http://pro7ip.ddnsking.com:80/pFSkD6rkf3/GcfQ1tNGuT/299410
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/TRT1kkk",2.TRT 4K
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=543368&extension=ts&play_token=Q1h3oLOFhi
 
 
 #EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/bloombergkkk",1.Bloomberg UHD
@@ -883,7 +891,7 @@ http://45.139.122.199:80/play/live.php?mac=00:1A:79:2A:33:21&stream=115186&exten
 
 #-*--SPORT FULL HD-*--#
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 1 FHD 
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=104722&extension=ts&play_token=O2NNroHgM0
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=693103&extension=ts&play_token=z0Dteibzrz
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 2 FHD 
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=20365&extension=ts&play_token=9xznlzuN0l
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 3 FHD 
