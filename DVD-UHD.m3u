@@ -40,7 +40,7 @@ http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:5f:8c:e7&stream=1124348&ex
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.F1 4K
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.F1 2K
-
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=646892&extension=ts&play_token=1Xq8f1Qfwv
 
 
 #--*.*--FHD Live--*.*--#
@@ -391,7 +391,7 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646890&exten
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646891&extension=ts&play_token=NdX4Y75kLh
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport F1 QHD
-
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:B5:D0:5F&stream=646892&extension=ts&play_token=xW0xj3eCM4
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky SPort Mix QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646893&extension=ts&play_token=oK9y8qZcRg
