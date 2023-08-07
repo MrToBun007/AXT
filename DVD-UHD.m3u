@@ -1172,6 +1172,9 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=553356&exten
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",7.USA Networks FHD
 
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/mlskkk",1.MLS-Leagues Cup USA FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=966225&extension=ts&play_token=1x9MHjL6IB
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tsn1hdkkk",1.TSN 1 FHD
 http://fuzzyunicorns.net/live/xX5Weda03/JKc192dnu3/3055.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tsn2hdkkk",1.TSN 2 FHD
