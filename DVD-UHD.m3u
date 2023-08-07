@@ -1001,11 +1001,11 @@ http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71397&extension=t
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=11348&extension=ts&play_token=kmX1FzjqDs
 
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",1.ITV 1 FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=22815&extension=ts&play_token=3ABp2Z0CTf
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:B7:EC&stream=5085&extension=ts&play_token=jVKYkdTtFI
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",1.ITV 2 FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11113&extension=ts&play_token=1h8z8Nq126
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:B7:EC&stream=5086&extension=ts&play_token=d7rUhjqhB3
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",1.ITV 3 FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=37395&extension=ts&play_token=UTY59xbT8B
+http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:B7:EC&stream=5087&extension=ts&play_token=jphFhSFseB
 
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",2.ITV 1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20142&extension=ts&play_token=j0M1Brp2wK
