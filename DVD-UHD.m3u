@@ -35,8 +35,8 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=11
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",3.Live WC Fox Sports UHD-Canada VPN
 http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:5f:8c:e7&stream=1124348&extension=ts&play_token=Lk20lqYwLM
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.F1 4K
-
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Live BayerMunich vs Monaco 2K
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=563887&extension=ts&play_token=hM8W9oooOm
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.F1 4K
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.F1 2K
@@ -379,6 +379,9 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646901&exten
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky One QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=575451&extension=ts&play_token=dKQmB1FCk5
+
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.RTL QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=563887&extension=ts&play_token=hM8W9oooOm
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Universal QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646886&extension=ts&play_token=sUFbOhmECn
