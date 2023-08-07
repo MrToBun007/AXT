@@ -1001,11 +1001,11 @@ http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71397&extension=t
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=11348&extension=ts&play_token=kmX1FzjqDs
 
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/itv1fhdkkk",1.ITV 1 FHD
-http://pro7ip.ddnsking.com:80/eDu1182p/KL84k2Ta1s/76149
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:C6:A7:D1&stream=566120&extension=ts&play_token=hMKh0gompj
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",1.ITV 2 FHD
-http://pro7ip.ddnsking.com:80/eDu1182p/KL84k2Ta1s/76148
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:C6:A7:D1&stream=566121&extension=ts&play_token=zpEko1ctul
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",1.ITV 3 FHD
-http://pro7ip.ddnsking.com:80/eDu1182p/KL84k2Ta1s/76147
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:C6:A7:D1&stream=566122&extension=ts&play_token=0hct78IyUW
 
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/itv1fhdkkk",2.ITV 1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20142&extension=ts&play_token=j0M1Brp2wK
