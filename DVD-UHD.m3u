@@ -1000,14 +1000,14 @@ http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71397&extension=t
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/bbc2kkk",2.BBC TWO FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=11348&extension=ts&play_token=kmX1FzjqDs
 
-#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",1.ITV 1 FHD
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:B7:EC&stream=5085&extension=ts&play_token=jVKYkdTtFI
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/itv1fhdkkk",1.ITV 1 FHD
+http://pro7ip.ddnsking.com:80/eDu1182p/KL84k2Ta1s/76149
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",1.ITV 2 FHD
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:B7:EC&stream=5086&extension=ts&play_token=d7rUhjqhB3
+http://pro7ip.ddnsking.com:80/eDu1182p/KL84k2Ta1s/76148
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",1.ITV 3 FHD
-http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:73:B7:EC&stream=5087&extension=ts&play_token=jphFhSFseB
+http://pro7ip.ddnsking.com:80/eDu1182p/KL84k2Ta1s/76147
 
-#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",2.ITV 1 FHD
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/itv1fhdkkk",2.ITV 1 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20142&extension=ts&play_token=j0M1Brp2wK
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",2.ITV 2 FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=20179&extension=ts&play_token=ISi0zQBbot
@@ -1043,26 +1043,26 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=484622&exten
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=484623&extension=ts&play_token=R2EyC1m8A8
 
 
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",1.Manchester City FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/mancitykkk",1.Manchester City FHD
 
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",2.Manchester City FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/mancitykkk",2.Manchester City FHD
 
 
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",1.Manchester United FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/manukkk",1.Manchester United FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=56381&extension=ts&play_token=UEUK5eDBCY
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",2.Manchester United FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/manukkk,2.Manchester United FHD
 
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",1.Liverpool FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/liverkkk",1.Liverpool FHD
 http://45.139.122.199:80/play/live.php?mac=00:1A:79:AA:BF:0D&stream=9844&extension=ts&play_token=riBezV3nqn
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",2.Liverpool FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/liverkkk",2.Liverpool FHD
 http://quickview.xyz/live/slarge/slarge/1011038.m3u8
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/800px-Arsenal_FC.svg.png",1.Asenal FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/asenalkkk",1.Asenal FHD
 
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1017px-Newcastle_United_Logo.svg.png",1.Newcastle United FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/newkkk",1.Newcastle United FHD
 
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5c/Chelsea_crest.svg/1024px-Chelsea_crest.svg.png",1.Chelsea FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/cheasekkk",1.Chelsea FHD
 
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/fd/Brighton_%26_Hove_Albion_logo.svg/1024px-Brighton_%26_Hove_Albion_logo.svg.png",1.Brighton&Hove Albion FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/Brightonkkk",1.Brighton&Hove Albion FHD
 
 
 
@@ -1195,9 +1195,9 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&exten
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&extension=ts&play_token=5XFZvVZjXf
 
 
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png",1.Real Madrid FHD-Canada
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/realkkk",1.Real Madrid FHD-Canada
 
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/91/FC_Barcelona_logo.svg/1010px-FC_Barcelona_logo.svg.png",1.Barcelona FHD-Canada
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/bacxakkk",1.Barcelona FHD-Canada
 
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/danzkkk",1.DAZN FHD
@@ -1206,7 +1206,7 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=455045&exten
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=986639&extension=ts&play_token=mlJMDqY8K4
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/daznlaligakkk",2.DAZN LaLiga FHD
 
-#EXTINF:-1 group-title="LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1280px-Movistar_LaLiga.svg.png",1.M LaLiga FHD
+#EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/mlaligakkk",1.M LaLiga FHD
 
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/laligakkk",1.LaLiga TV FHD
@@ -1262,7 +1262,7 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497553&ext
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497554&extension=ts&play_token=REOFKLXSCG
 
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122",1.Now Sports HK 1 FHD
-http://geckohost.bid:8080/play/Tdd_1emehx5TDFmNOQa6c6qnMddzfNtckpsebjvTahbDE86xdv8DBMdFCN-0KuM09syiHFlP166ax_Xr3b8-hpQqiakAq9AYasJAsJ59ArDDQ1Pmdn2q2WN_gAWk0mfY6y_EI84iaeCBhJ3iYlhW1UsQXjHMuqx-WvpRMD5ZtWg?ext=.ts
+
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_170_122",2.Now Sports HK 2 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fa:b4:0a&stream=1497552&extension=ts&play_token=BWPiOwlc4j
 #EXTINF:-1 group-title="Now Sports" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122",2.Now Sports HK 3 FHD
@@ -1310,45 +1310,45 @@ http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348100&extensi
 http://realsport.scalecdn.co:8080/live/george1/george2/3647.m3u8
 
 
-#EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",1.CNN UHD
-
-#EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1024px-CNN-International-Logo.svg.png",2.CNN FHD
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/cnnkkk",1.CNN UHD
 http://realsport.scalecdn.co:8080/live/george1/george2/3625.m3u8
-#EXTINF:-1 group-title="USA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png",1.BBC News FHD
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/cnnkkk",2.CNN FHD
+
+#EXTINF:-1 group-title="USA Channel" tvg-logo="http://gg.gg/bbcnewskkk",1.BBC News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=20455&extension=ts&play_token=GVkHA4BdJl
 
 
 #--*.*--VTV--*.*--#
 
-#EXTINF:0 tvg-id="quochoi" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/03/rrpb2y9m_quochoitimeshift_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QUỐC HỘI HD
+#EXTINF:0 tvg-id="quochoi" group-title="VTV" tvg-logo="http://gg.gg/quochoikkk" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QUỐC HỘI HD
 https://dl.dropboxusercontent.com/s/lt2u9ukg3bnmnd0/getlink//vtvcabon/hls/ONQUOCHOI_CL/onvtvcab.m3u8?id=on-quoc-hoi-hd
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/25/yxhr8rj5_vtv122ab95efb9e05240b2b6b3d1f9c9a09f_296_168.webp" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 HD 
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1kkk" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 HD 
 #EXTVLCOPT:http-user-agent="Khanggne"
 http://live-zlr1.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/8jxfvivt_vtv2ee9c08aad4e297b156d0b454e83fd10d_296_168.webp" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 HD
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2kkk" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 http://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/9dkyyxb3_vtv382c4339e5a8c4dba16f6ed6ec87c2a4d_296_168.webp" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV3 HD
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://gg.gg/vtv3kkk" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV3 HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6dufbhs9_vtv4_296_168.webp" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV4 HD
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="http://gg.gg/vtv4kkk" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV4 HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv4/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/27/s96psn20_vtv5bdd33f05b45edf0c7b72cd892ad3c52a_296_168.webp" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV5 HD
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="http://gg.gg/vtv5kkk" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV5 HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 | 50fps
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:0 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/mygem9ju_vtv-can-tho992d0d0d357f71755e38c5f4276cc207_296_168.webp" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV Cần Thơ
+#EXTINF:0 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="http://gg.gg/canthokkk" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent="Khanggne"
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/xiyp03o6_vtv7_296_168.webp"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8, VTV7 HD
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://gg.gg/vtv7kkk"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8, VTV7 HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 #https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/vtv7/sd2/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
 #https://k4dzr60ab.vtvgiaitri.vn/vtv07/vtv07@360p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.webp" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV8 HD
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="http://gg.gg/vtv8kkk" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV8 HD
 #EXTVLCOPT:http-user-agent="Khanggne"
 http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/q8jw35jn_vtv97423ee6b52f3c30fd7b7b22ca1023b50_296_168.webp" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV9 HD
