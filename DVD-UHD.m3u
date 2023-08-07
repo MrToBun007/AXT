@@ -742,7 +742,8 @@ http://megabest.ottc.pro/Jv5CmgEkUZetHZ8/eLqKeqw8ks/576830
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",10.ESPN UHD
 
-#EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",11.ESPN UHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tsn1kkk",1.TSN 1 UHD
+http://fuzzyunicorns.net/live/xX5Weda03/JKc192dnu3/792616.m3u8
 
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/universokkk",1.UNIVERSO UHD
@@ -1128,7 +1129,7 @@ http://restream-live.realiptv.to:8080/live/Daryl/12345/3685.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",2.TENNIS US FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=519695&extension=ts&play_token=RTrOU8KNyV
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",3.TENNIS US FHD
-
+http://ua-iptv.com:8080/live/johneita/3477919074/219136.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",4.TENNIS US FHD
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",5.TENNIS US FHD
@@ -1142,11 +1143,11 @@ http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=519695&extensi
 
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox1fhdkkk",1.Fox Sports 1 FHD
-http://firemanboss.firemanboss.org:80/play/live.php?mac=00:1A:79:17:29:17&stream=530785&extension=ts&play_token=KJpy9h3ZNt
+http://ua-iptv.com:8080/live/johneita/3477919074/219086.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox1fhdkkk",2.Fox Sports 1 FHD
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox2fhdkkk",1.Fox Sports 2 FHD
-http://firemanboss.firemanboss.org:80/play/live.php?mac=00:1A:79:17:29:17&stream=530786&extension=ts&play_token=dtxBSJEkeI
+http://ua-iptv.com:8080/live/johneita/3477919074/219087.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox2fhdkkk",2.Fox Sports 2 FHD
 
 
@@ -1171,7 +1172,13 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=553356&exten
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",7.USA Networks FHD
 
-#EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",8.USA Networks FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tsn1hdkkk",1.TSN 1 FHD
+http://fuzzyunicorns.net/live/xX5Weda03/JKc192dnu3/3055.m3u8
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tsn2hdkkk",1.TSN 2 FHD
+http://fuzzyunicorns.net/live/xX5Weda03/JKc192dnu3/3056.m3u8
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tsn1hdkkk",2.TSN 1 FHD
+http://fuzzyunicorns.net/live/485965/362294/792616.m3u8
 
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/universokkk",1.NBC Universo FHD
 http://gooserace.xyz/live/asdfghjk/asdfghjk/3087002.m3u8
