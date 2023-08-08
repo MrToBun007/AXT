@@ -1259,7 +1259,7 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=986639&exte
 
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/laligakkk",1.LaLiga TV FHD
-http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303297&extension=ts&play_token=CBil8VNbyO
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499181&extension=ts&play_token=SJLOgnhROK
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg",1.SuperSport LaLiga FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=33507&extension=ts&play_token=hY79tjl8gW
@@ -1267,13 +1267,13 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=33507&extens
 
 
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 1 FHD
-
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499188&extension=ts&play_token=8iBxtPsxQk
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 2 FHD
-
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499194&extension=ts&play_token=9w00vsT8i8
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 3 FHD
-
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499199&extension=ts&play_token=TpSzIpvHU1
 #EXTINF:-1 group-title="LaLiga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 4 FHD
-
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499202&extension=ts&play_token=wO9Fn34L6s
 
 
 
