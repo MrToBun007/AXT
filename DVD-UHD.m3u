@@ -1114,26 +1114,30 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6598&extensi
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6606&extension=ts&play_token=UvUf2neSp1
 
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/mancitykkk",1.Manchester City FHD
-
+http://panelnet.co.uk:8000/live/sebastien/sebastien/560107.m3u8
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/mancitykkk",2.Manchester City FHD
-
+http://panelnet.co.uk:8000/live/tt/tt/560107.m3u8
 
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/manukkk",1.Manchester United FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=56381&extension=ts&play_token=UEUK5eDBCY
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/manukkk,2.Manchester United FHD
+http://panelnet.co.uk:8000/live/sebastien/sebastien/560108.m3u8
 
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/liverkkk",1.Liverpool FHD
 http://45.139.122.199:80/play/live.php?mac=00:1A:79:AA:BF:0D&stream=9844&extension=ts&play_token=riBezV3nqn
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/liverkkk",2.Liverpool FHD
 http://quickview.xyz/live/slarge/slarge/1011038.m3u8
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/asenalkkk",1.Asenal FHD
+http://panelnet.co.uk:8000/live/sebastien/sebastien/560097.m3u8
 
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/newkkk",1.Newcastle United FHD
+http://panelnet.co.uk:8000/live/sebastien/sebastien/560109.m3u8
 
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/cheasekkk",1.Chelsea FHD
+http://panelnet.co.uk:8000/live/sebastien/sebastien/560101.m3u8
 
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/Brightonkkk",1.Brighton&Hove Albion FHD
-
+http://panelnet.co.uk:8000/live/sebastien/sebastien/560100.m3u8
 
 
 #EXTINF:-1 group-title="Fomula F1" tvg-logo="http://gg.gg/ssportsf1kkk",1.Sky Sport F1 FHD
