@@ -1120,7 +1120,7 @@ http://panelnet.co.uk:8000/live/tt/tt/560107.m3u8
 
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/manukkk",1.Manchester United FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=56381&extension=ts&play_token=UEUK5eDBCY
-#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/manukkk,2.Manchester United FHD
+#EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/manukkk",2.Manchester United FHD
 http://panelnet.co.uk:8000/live/sebastien/sebastien/560108.m3u8
 
 #EXTINF:-1 group-title="EPL Premier League Team" tvg-logo="http://gg.gg/liverkkk",1.Liverpool FHD
