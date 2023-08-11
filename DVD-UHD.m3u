@@ -543,14 +543,43 @@ http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=
 #EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Now Sports UHD
 http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=490&extension=ts&play_token=umRCjZDTtN
 
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 1 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=366901&extension=ts&play_token=1eNlOhtgr8
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Bein UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=549727&extension=ts&play_token=SJhyRgOdfp
 
 #EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Sports TV 1 QHD
 http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=489200&extension=ts&play_token=2kMSLCVBPX
 
 #EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",2.Sports TV 1 QHD
 http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=489195&extension=ts&play_token=WJgIRkQmvR
+
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 1 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=366901&extension=ts&play_token=1eNlOhtgr8
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 2 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366902&extension=ts&play_token=6jNdFIe53X
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 3 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366903&extension=ts&play_token=xIXsvaWIQe
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 4 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366904&extension=ts&play_token=K3CM8DgrYZ
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 5 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366905&extension=ts&play_token=xiLuGLyvTz
+
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 1 50FPS
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=155&extension=ts&play_token=tLZ72aqjxi
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 2 50FPS
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=160&extension=ts&play_token=JYPh6FyegI
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 3 50FPS
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=165&extension=ts&play_token=UKQ5EUYbid
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 4 50FPS
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=169&extension=ts&play_token=VKnuAAWVut
 
 #--*.*--Hub Premier-*.*--#
 
