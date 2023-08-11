@@ -21,19 +21,19 @@ http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=279619&extension
 #--*.*--UHD Live--*.*--#
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Live WC Fox FS1 4K
-http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
+
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Live WC Fox FS1 4K
-http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:A6:63:88&stream=1124346&extension=ts&play_token=MpkXJnPOt2
+
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",3.Live WC Fox FS1 4K
-http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=1124346&extension=ts&play_token=2TIsIHs8MA
+
 
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Live WC Fox Sports UHD
-http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:A6:63:88&stream=1124348&extension=ts&play_token=RAFQTNXEeC
+
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Live WC Fox Sports UHD
-http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=1124348&extension=ts&play_token=PDmudPglO5
+
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",3.Live WC Fox Sports UHD-Canada VPN
-http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:5f:8c:e7&stream=1124348&extension=ts&play_token=Lk20lqYwLM
+
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Live BayerMunich vs Monaco 2K
 
@@ -63,14 +63,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=147222&exten
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",4. Live World Cup Women 
 http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/418553.m3u8
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.22h Live Community Shield ManCity -Asenal
-http://dontgiveitout.club/live/slarge/slarge/62590.m3u8
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",2.22h Live Community Shield ManCity -Asenal
-http://dontgiveitout.club/live/slarge/slarge/106806.m3u8
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",3.22h Live Community Shield ManCity -Asenal
-http://dontgiveitout.club/live/slarge/slarge/341.m3u8
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",4.22h Live Community Shield ManCity -Asenal
-http://dontgiveitout.club/live/slarge/slarge/3157601.m3u8
+
 
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",5. Live World Cup Women
 
@@ -81,62 +74,81 @@ http://dontgiveitout.club/live/slarge/slarge/3157601.m3u8
 #-*--KhichTV K+-*--#
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/hf4k3zc675bcc1k/kpluscinekey.ico?dl=0  
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+
 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://gg.gg/k-lifekkk",1.K+ LIFE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/xsft6z0g7wshrqd/Kpluslifekey.ico?dl=0  
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/sport1kkk",1.K+ SPORT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/uy6h2s6fl3urfas/Kplussport1key.ico?dl=0  
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
  
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://gg.gg/sports2kkk",1.K+ SPORT 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/5lx2ytzuhm1nwep/KplusSport2key.ico?dl=0  
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://gg.gg/kidkkk",1.K+ KIDS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/kpluskids/key.php
-http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_kplus_kidshd/local
 
 
-#-*--K+-*--#
+#--*.*--Test-*.*--#
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",2.K+ CINE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keycine.php
-https://tiemnhazunn.click/tv360/tv360.php?id=229
 
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://gg.gg/k-lifekkk",2.K+ LIFE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keylife.php
-https://tiemnhazunn.click/tv360/tv360.php?id=228
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Sky Sports Main Event UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=474653&extension=ts&play_token=9McyJIOA0I
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://gg.gg/kidkkk",2.K+ KIDS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/s/2rr19l6e8fmdhpb/KplusKidskey.ico?dl=0 
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Sky Sports F1 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=548023&extension=ts&play_token=r2rgS9oEAc
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/sport1kkk",2.K+ SPORT 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vip-livecdn.khanggtivi.duckdns.org/manifest/K_PLUS_PM_SD/api=eWR9DG56HfYUUU6SFuXc1qAOpB5mD2aDkLd7EyJ8LLMWGSprP7dYe5uSfPJV7jowqD5DAZfM5u08Eaz3ihGKuvzClECJ4kTau6yyL
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TNT Ultimate UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=479413&extension=ts&play_token=6uVMtTgR8p
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://gg.gg/sports2kkk",2.K+ SPORT 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vip-livecdn.khanggtivi.duckdns.org/manifest/K_PLUS_PC_SD/api=W0Ytp1PJFI8ayekf9QHZIq0rtVDqZql8fUCoW54PUaI53rkDkYOEljpHUxxjE91UsvYvbJQAUvr0Lq90CY7yBBodMfzCYR1vFAOOK
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Eleven Sports UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=488978&extension=ts&play_token=65XtqSyNDg
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Hub Premier UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=482000&extension=ts&play_token=RZmlC7bzH9
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Astro Sports UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=534095&extension=ts&play_token=abXzAg3RpZ
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Now Sports UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=490&extension=ts&play_token=umRCjZDTtN
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Bein UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=549727&extension=ts&play_token=SJhyRgOdfp
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Sports TV 1 QHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=489200&extension=ts&play_token=2kMSLCVBPX
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",2.Sports TV 1 QHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=489195&extension=ts&play_token=WJgIRkQmvR
+
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 1 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=366901&extension=ts&play_token=1eNlOhtgr8
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 2 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366902&extension=ts&play_token=6jNdFIe53X
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 3 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366903&extension=ts&play_token=xIXsvaWIQe
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 4 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366904&extension=ts&play_token=K3CM8DgrYZ
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 5 UHD
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366905&extension=ts&play_token=xiLuGLyvTz
+
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 1 50FPS
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=155&extension=ts&play_token=4HMKXzLo2D
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 2 50FPS
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=160&extension=ts&play_token=O8R7IDE0Mq
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 3 50FPS
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=165&extension=ts&play_token=mlzAi5yy2L
+
+#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 4 50FPS
+http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=169&extension=ts&play_token=RlvlP9PhsU
 
 #-*--4K-Need VPN-*--#
 
@@ -219,7 +231,6 @@ http://apbest.re:80/live/628277105026825/1593574628/75309.ts
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/rmcsport1kkk",1.RMC Sports UHD-Canada VPN
 http://apbest.re:80/live/18220704922642218/1593574628/15420.ts
 
-
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canal-uhd",1.Canal+-Canada VPN
 http://vod.supremetv.live/live/jake1234/jake1234/526135.m3u8
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canal-uhd",2.Canal+-Canada VPN
@@ -268,6 +279,8 @@ http://epg.protv.cc:80/live/patrice/patrice/1124346.m3u8
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:52:94:40&stream=1124346&extension=ts&play_token=yBfeQxqeo3
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/foxsport4kkkk",3.Fox Sports 4K-Canada VPN
 http://185.243.7.3:80/play/live.php?mac=00:1A:79:10:6c:2e&stream=1124346&extension=ts&play_token=h3h07iP9rt
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/foxsport4kkkk",4.Fox Sports 4K-Canada VPN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:5f:8c:e7&stream=1124348&extension=ts&play_token=Lk20lqYwLM
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/wimbledon",1.Wimbledon BBC UHD-Canada VPN
 http://trx.p13.one/live/Americo/Americo/1872119.m3u8
@@ -408,6 +421,9 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646891&exten
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport F1 QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:B5:D0:5F&stream=646892&extension=ts&play_token=xW0xj3eCM4
 
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",2.Sky Sport F1 QHD
+http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=646892&extension=ts&play_token=1Xq8f1Qfwv
+
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky SPort Mix QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646893&extension=ts&play_token=oK9y8qZcRg
 
@@ -491,9 +507,9 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=1122782&exte
 #--*.*--Sky Sports--*.*--#
 
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=JJIj9TgyKk
-#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",2.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1299719&extension=ts&play_token=fvOMfJrBPI
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",2.Sky Sports Main Event UHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=JJIj9TgyKk
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",3.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=255102&extension=ts&play_token=JsvCAPWIYe
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",4.Sky Sports Main Event UHD
@@ -517,69 +533,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552954&exte
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",13.Sky Sports Main Event UHD
 
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",14.Sky Sports Main Event UHD
-
-
-#--*.*--Test-*.*--#
-
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Sky Sports Main Event UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=474653&extension=ts&play_token=9McyJIOA0I
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Sky Sports F1 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=548023&extension=ts&play_token=r2rgS9oEAc
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TNT Ultimate UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=479413&extension=ts&play_token=6uVMtTgR8p
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Eleven Sports UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=488978&extension=ts&play_token=65XtqSyNDg
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Hub Premier UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=482000&extension=ts&play_token=RZmlC7bzH9
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Astro Sports UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=534095&extension=ts&play_token=abXzAg3RpZ
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Now Sports UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=490&extension=ts&play_token=umRCjZDTtN
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Bein UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=549727&extension=ts&play_token=SJhyRgOdfp
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Sports TV 1 QHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=489200&extension=ts&play_token=2kMSLCVBPX
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",2.Sports TV 1 QHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=489195&extension=ts&play_token=WJgIRkQmvR
-
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 1 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=366901&extension=ts&play_token=1eNlOhtgr8
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 2 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366902&extension=ts&play_token=6jNdFIe53X
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 3 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366903&extension=ts&play_token=xIXsvaWIQe
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 4 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366904&extension=ts&play_token=K3CM8DgrYZ
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 5 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366905&extension=ts&play_token=xiLuGLyvTz
-
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 1 50FPS
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=155&extension=ts&play_token=4HMKXzLo2D
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 2 50FPS
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=160&extension=ts&play_token=O8R7IDE0Mq
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 3 50FPS
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=165&extension=ts&play_token=mlzAi5yy2L
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/logo2kkkk",1.TNT Sports 4 50FPS
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=169&extension=ts&play_token=RlvlP9PhsU
 
 
 #--*.*--Hub Premier-*.*--#
@@ -833,11 +786,10 @@ http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=11
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:B3:5E&stream=1124346&extension=ts&play_token=2TIsIHs8MA
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",3.Fox Sports FS1 UHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=1124346&extension=ts&play_token=4LT1bBbn8g
-
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",4.Fox Sports FS1 UHD
-http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=1124346&extension=ts&play_token=qLA6gy8fnj
-#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",5.Fox Sports FS1 UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:A6:63:88&stream=1124346&extension=ts&play_token=MpkXJnPOt2
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",5.Fox Sports FS1 UHD
+
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/foxsportkkk",6.Fox Sports FS1 UHD
 
 
