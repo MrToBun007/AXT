@@ -1368,42 +1368,6 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 
 
-#-*--VTV-*--#
-
-#EXTINF:0 tvg-id="quochoi" group-title="VTV" tvg-logo="http://gg.gg/quochoikkk" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QUỐC HỘI HD
-https://dl.dropboxusercontent.com/s/lt2u9ukg3bnmnd0/getlink//vtvcabon/hls/ONQUOCHOI_CL/onvtvcab.m3u8?id=on-quoc-hoi-hd
-
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://gg.gg/vtv1kkk" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 HD 
-#EXTVLCOPT:http-user-agent="Khanggne"
-http://live-zlr1.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://gg.gg/vtv2kkk" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-http://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://gg.gg/vtv3kkk" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV3 HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="http://gg.gg/vtv4kkk" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV4 HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv4/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="http://gg.gg/vtv5kkk" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV5 HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 | 50fps
-https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:0 tvg-id="vtvcanthohd" group-title="VTV" tvg-logo="http://gg.gg/canthokkk" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV Cần Thơ
-#EXTVLCOPT:http-user-agent="Khanggne"
-http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://gg.gg/vtv7kkk"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8, VTV7 HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-#https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/vtv7/sd2/index.m3u8?khanggtv|Referer=http://sctvonline.vn/
-#https://k4dzr60ab.vtvgiaitri.vn/vtv07/vtv07@360p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="http://gg.gg/vtv8kkk" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV8 HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/q8jw35jn_vtv97423ee6b52f3c30fd7b7b22ca1023b50_296_168.webp" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV9 HD
-#EXTVLCOPT:http-user-agent="Khanggne"
-
 #EXTINF:-1 tvg-id="ninhbinh" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/161.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/160/auto/dvr-${start}-${end}.m3u8", Ninh Bình HD
 http://103.90.220.236/nbtvlive/tv1live.m3u8
 
