@@ -228,6 +228,8 @@ http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=629068&exte
 http://185.243.7.3:80/play/live.php?mac=00:1A:79:10:6c:2e&stream=1271764&extension=ts&play_token=tEubl9buDq
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canal-uhd",4.Canal+-Canada VPN
 http://apbest.re:80/live/18220704922642218/1593574628/74180.ts
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/canal-uhd",5.Canal+-Canada VPN
+http://digihoster224.access.ly:8080/live/58GakAJ5/DPH3unTE/256270.m3u8
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/elevenkkk",1.Eleven Sports-Canada VPN
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/118089.m3u8
@@ -499,7 +501,6 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1552954&exte
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssmaineventuhdkkk",8.Sky Sports Main Event UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552954&extension=ts&play_token=Y8BoswZibD
 
-
 #--*.*--Hub Premier-*.*--#
 
 #EXTINF:-1 group-title="Hub Premier" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 UHD
@@ -563,7 +564,7 @@ http://45.158.254.2:80/play/live.php?mac=00:1A:79:19:48:3C&stream=905665&extensi
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="http://gg.gg/elevenkkk",5.Eleven Sports UHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=653043&extension=ts&play_token=I0TjBctqF0
 #EXTINF:-1 group-title="Eleven Sports" tvg-logo="http://gg.gg/elevenkkk",6.Eleven Sports UHD
-
+http://digihoster224.access.ly:8080/live/58GakAJ5/DPH3unTE/256269.m3u8
 
 #--*.*--Bundesliga--*.*--#
 
@@ -587,7 +588,7 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=482837&exten
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=482837&extension=ts&play_token=wJvA92tWu6
 
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="http://gg.gg/uhd1xkkk",1.UHD1
-
+http://digihoster224.access.ly:8080/live/58GakAJ5/DPH3unTE/246177.m3u8
 
 
 #--*.*--DIGI Sports--*.*--#
@@ -777,8 +778,6 @@ http://trx.p13.one/live/Ronnie/Ronnie123/1836057.m3u8
 http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=466959&extension=ts&play_token=EG2xvFnudz
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/bein4kkkk",2.Bein 4K
 http://pure8k.top:80/play/live.php?mac=00:1A:79:4D:EF:AA&stream=466959&extension=ts&play_token=eaxc6yM2gX
-#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/bein4kkkk",3.Bein 4K
-
 
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Motor UHD
@@ -794,7 +793,7 @@ http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
 http://safe.avivainsur.com:8080/Ionut_Alexa/4MyXxpcF8nMf/10510
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/RAIkkk",1.RAI 4K
-
+http://digihoster224.access.ly:8080/live/58GakAJ5/DPH3unTE/246177.m3u8
 
 
 #--*.*--USA Channel--*.*--#
