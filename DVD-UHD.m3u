@@ -910,12 +910,11 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=255102&exten
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=255102&extension=ts&play_token=9V0iI5GbrE
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/maineventhd1kkk",5.Sky Sports Main Event FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=255102&extension=ts&play_token=fkNID6BAqQ
-
+#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/maineventhd1kkk",6.Sky Sports Main Event FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=Tkd8tpMXwB
 
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssnews1kkk",2.Sky Sports News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255100&extension=ts&play_token=XsHgi7Nesf
-#EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/maineventhd1kkk",6.Sky Sports Main Event FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=Tkd8tpMXwB
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/ssfotkkk",2.Sky Sports Football FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255104&extension=ts&play_token=XuD8NsRQqR
 #EXTINF:-1 group-title="Sky Sports UK" tvg-logo="http://gg.gg/sspl2kkk",2.Sky Sports Premier League FHD
