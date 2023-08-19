@@ -69,66 +69,6 @@ http://evolved.host:8080/live/yazminp0907@gmail.com/NdjQK4WZMe/418553.m3u8
 #-*--K+-*--#
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X+2Q/EpS4HhXssZ3DW7Rqw","kid":"vlSlc21yotKzSnQRirJZxQ"},{"kty":"oct","k":"3CgJrpuqMZh2VxPk//BPUA","kid":"Bpilc21yotKzSnQRirJZxQ"},{"kty":"oct","k":"VgrUg4J4XahsFeBMOh7ZlA","kid":"E5zppG1yotKzSnQRirJZxQ"},{"kty":"oct","k":"MOPM3N0uBHYR6Ry9jsCevg","kid":"/6npvLxyotKzSnQRirJZxQ"}],"type":"temporary"}   
-
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JTdbPM2Q+78VC8HXw094gQ","kid":"8nLAogWX/AaqhyOkH6wsqw"},{"kty":"oct","k":"lXaeSJwb1DUliuRvYn2LEA","kid":"OrbAogWX/AaqhyOkH6wsqw"},{"kty":"oct","k":"iAJeoeo5+q+RYfL/zASmLA","kid":"R7oE0wWX/AaqhyOkH6wsqw"},{"kty":"oct","k":"8U5h0+HaY3+9Ljqfp8dLdg","kid":"M8cE61SX/AaqhyOkH6wsqw"}],"type":"temporary"}  
-
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT 1 HD
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7tJeCwn0Tg2O/VKCz06xkg","kid":"KshlUQDGkb+FXyWpZqIZng"},{"kty":"oct","k":"GRN3e2D2bvL0FTCm3SaXlQ","kid":"cgxlUQDGkb+FXyWpZqIZng"},{"kty":"oct","k":"TEIHBKNOyEsR9wMgTYXTNw","kid":"fxCpggDGkb+FXyWpZqIZng"},{"kty":"oct","k":"2RtEqQhJeqA5NDBg6xyRaQ","kid":"ax2pmk/Gkb+FXyWpZqIZng"}],"type":"temporary"}  
-
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",K+SPORT 2 HD
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sS7SoTVO5JsDCtQUYeYC7g","kid":"Rc7L2yqNSHtaePqPKkwtqQ"},{"kty":"oct","k":"15cpQr621RwuL9ocFWU/Rw","kid":"jRLL2yqNSHtaePqPKkwtqQ"},{"kty":"oct","k":"9HI94BIkgpkGryPizPavsQ","kid":"mhYPDCqNSHtaePqPKkwtqQ"},{"kty":"oct","k":"9fnHQzlIxQ6MxmooRojMuw","kid":"hiMPJHmNSHtaePqPKkwtqQ"}],"type":"temporary"}  
-
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JQaRokrhVv81ZBtFzurdfQ","kid":"OeXislxQgjvPvnREqq7IoA"},{"kty":"oct","k":"hGYEMg1nHbNQXA1ltZUs5Q","kid":"gSnislxQgjvPvnREqq7IoA"},{"kty":"oct","k":"lyrQwpQ5QaQY327SQA7vUw","kid":"ji0m41xQgjvPvnREqq7IoA"},{"kty":"oct","k":"H2kfCLBu5w7rplZpmXIkFQ","kid":"ejom+6tQgjvPvnREqq7IoA"}],"type":"temporary"}  
-
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -153,28 +93,26 @@ http://s7266.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
 http://s7267.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyTV 
+#KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/mytv/01.php 
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd 
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyTV 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=http://keys.khanggtivi.duckdns.org/key/mytv/02.php 
+https://s12920.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
+
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"tR8yWkoC2Yh8qE6w6+uAzA", "kid":"Jl1e2h/2RWa2oaY+qyR/nQ" } ], "type":"temporary"}
-
-http://s7267.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ MyTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"QaXhw9lcVZV0JJ7bYkW8Qw", "kid":"2t/kWLARQyK1389+GUZgSw" } ], "type":"temporary"}
-
 http://s7267.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
