@@ -158,57 +158,6 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://gg.gg/kidkkk",1.K+ KIDS
 
 
-
-#--*.*--Test-*.*--#
-
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Sky Sports Main Event UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=474653&extension=ts&play_token=9McyJIOA0I
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Sky Sports F1 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=548023&extension=ts&play_token=r2rgS9oEAc
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TNT Ultimate UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=479413&extension=ts&play_token=6uVMtTgR8p
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Eleven Sports UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=488978&extension=ts&play_token=65XtqSyNDg
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Hub Premier UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=482000&extension=ts&play_token=RZmlC7bzH9
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Astro Sports UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=534095&extension=ts&play_token=abXzAg3RpZ
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Now Sports UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=490&extension=ts&play_token=umRCjZDTtN
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Bein UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=549727&extension=ts&play_token=SJhyRgOdfp
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.Sports TV 1 QHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=489200&extension=ts&play_token=2kMSLCVBPX
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",2.Sports TV 1 QHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=489195&extension=ts&play_token=WJgIRkQmvR
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 1 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:75:11:01&stream=366901&extension=ts&play_token=1eNlOhtgr8
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 2 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366902&extension=ts&play_token=6jNdFIe53X
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 3 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366903&extension=ts&play_token=xIXsvaWIQe
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 4 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366904&extension=ts&play_token=K3CM8DgrYZ
-
-#EXTINF:-1 group-title="TEST" tvg-logo="http://gg.gg/hrd222",1.TSN 5 UHD
-http://portal365.mastergold.co.uk:80/play/live.php?mac=00:1A:79:8b:cd:10&stream=366905&extension=ts&play_token=xiLuGLyvTz
-
-
-
 #-*--4K-Need VPN-*--#
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate-Canada VPN
