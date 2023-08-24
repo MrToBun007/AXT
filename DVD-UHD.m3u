@@ -235,15 +235,6 @@ http://stiptv3.xyz:80/play/live.php?mac=00:1A:79:4A:B7:BC&stream=1124350&extensi
 http://vod.supremetv.live/live/jake1234/jake1234/1124350.m3u8
 
 
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/foxsport4kkkk",1.Fox Sports 4K-Canada VPN
-http://epg.protv.cc:80/live/patrice/patrice/1124346.m3u8
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/foxsport4kkkk",2.Fox Sports 4K-Canada VPN
-http://line.iptveros.com:80/play/live.php?mac=00:1A:79:52:94:40&stream=1124346&extension=ts&play_token=yBfeQxqeo3
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/foxsport4kkkk",3.Fox Sports 4K-Canada VPN
-http://185.243.7.3:80/play/live.php?mac=00:1A:79:10:6c:2e&stream=1124346&extension=ts&play_token=h3h07iP9rt
-#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/foxsport4kkkk",4.Fox Sports 4K-Canada VPN
-http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:5f:8c:e7&stream=1124348&extension=ts&play_token=Lk20lqYwLM
-
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/digisport1kkk",1.DIGI SPORTS 1-Canada VPN
 http://kleineinzeige.com:8080/live/Ciprian-Petrea1/EV7P2jur/38531.m3u8
 
@@ -292,6 +283,8 @@ http://safe.avivainsur.com:8080/ionut.luca/xRuanWsZdYaU/40746
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/4kmoviekkk",1.PROXTECH TRUE 4K-Canada VPN
 http://safe.avivainsur.com:8080/ionut.luca/xRuanWsZdYaU/44691
 
+
+#EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/foxsport4kkkk",1.Fox Sports 4K-Canada VPN
 
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/sesdemokkk",1.SES DE-Canada VPN
 
