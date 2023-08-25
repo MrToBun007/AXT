@@ -131,11 +131,11 @@ https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/03.php
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/04.php
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O4O+X+EK8O/Wz+n6eo7iJg", "kid":"6vS3BWM9VjSv+lyu0zLj8Q" },{ "kty":"oct", "k":"2YXpHKjn4Pk7THpkX5fpvw", "kid":"qZ9zvBQ9VjSv+lyu0zLj8Q" },{ "kty":"oct", "k":"O4O+X+EK8O/Wz+n6eo7iJg", "kid":"6vS3BWM9VjSv+lyu0zLj8Q" },{ "kty":"oct", "k":"92pXkxQezg0SthdDpdxCPg", "kid":"8eNzvBQ9VjSv+lyu0zLj8Q" }], "type":"temporary" } 	
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
 
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
@@ -315,27 +315,6 @@ http://safe.avivainsur.com:8080/ionut.luca/xRuanWsZdYaU/44691
 #EXTINF:-1 group-title="4K-Need VPN" tvg-logo="http://gg.gg/wimbledon",1.Wimbledon BBC UHD-Canada VPN
 
 #--*.*--2K-QHD--*.*--#
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.National Geographic QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646896&extension=ts&play_token=mp3ZjfrjM5
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.National Geographic Wild QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646897&extension=ts&play_token=tp51GdwSVZ
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Discovery Channel QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646898&extension=ts&play_token=70M0dvkr5a
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.History QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646899&extension=ts&play_token=PNUqKmnXcV
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Nature QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646900&extension=ts&play_token=rZB3NDi6ph
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Documentaries QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646901&extension=ts&play_token=r8Mvzeelo5
-
-#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky One QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=575451&extension=ts&play_token=dKQmB1FCk5
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.RTL QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=563887&extension=ts&play_token=hM8W9oooOm
