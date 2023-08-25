@@ -131,15 +131,15 @@ https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/03.php
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O4O+X+EK8O/Wz+n6eo7iJg", "kid":"6vS3BWM9VjSv+lyu0zLj8Q" },{ "kty":"oct", "k":"2YXpHKjn4Pk7THpkX5fpvw", "kid":"qZ9zvBQ9VjSv+lyu0zLj8Q" },{ "kty":"oct", "k":"O4O+X+EK8O/Wz+n6eo7iJg", "kid":"6vS3BWM9VjSv+lyu0zLj8Q" },{ "kty":"oct", "k":"92pXkxQezg0SthdDpdxCPg", "kid":"8eNzvBQ9VjSv+lyu0zLj8Q" }], "type":"temporary" } 	
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/sp2
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/kids
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 
 
