@@ -607,17 +607,23 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2123&extensi
 
 #-*--Sky UK Channel-*--#
 
+
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssmainevent2020kkk",1.Sky Sports Main Event FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1582716&extension=ts&play_token=EKCAqBDZ8C
 #EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssnews1kkk",1.Sky Sports News FHD
-
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255100&extension=ts&play_token=AA0D8nGvRd
 #EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssfotkkk",1.Sky Sports Football FHD
-
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1591025&extension=ts&play_token=aziHpeEH2r
 #EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/sspl2kkk",1.Sky Sports Premier League FHD
-
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1582717&extension=ts&play_token=DbDW75zy8W
 #EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/goflkkk",1.Sky Sports Golf FHD
-
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1582719&extension=ts&play_token=znKzG0BExA
 #EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssmixxkkk",1.Sky Sports Mix FHD
-
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1591026&extension=ts&play_token=r3YFxHf2oc
 #EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssracingkkk",1.Sky Sports Racing FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1582740&extension=ts&play_token=EYIC4jUKCT
+
+
 
 #-*--UK Channel-*--#
 
