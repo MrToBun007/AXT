@@ -173,7 +173,7 @@ https://akafpt.K+.vn/bpk-tv/prod_K+_kidshd/default/index.mpd
 #-*--4K-UHD-*--#
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate UHD
-
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:04:7e:7d&stream=1300442&extension=ts&play_token=ZkU9F5cCnV
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1299719&extension=ts&play_token=fvOMfJrBPI
