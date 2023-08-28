@@ -687,43 +687,43 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extensi
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/Canal_Formula1",1.Canal+ Formula 1 FHD
 
 
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122",1.Now Sport 1 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122",1.Now Sport 1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303199&extension=ts&play_token=9qNh2gKuNQ
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_170_122",1.Now Sport 2 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_170_122",1.Now Sport 2 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497552&extension=ts&play_token=1RVZY4q24D
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122",1.Now Sport 3 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122",1.Now Sport 3 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497553&extension=ts&play_token=ngyVucyX01
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122",1.Now Sport 4 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122",1.Now Sport 4 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497554&extension=ts&play_token=REOFKLXSCG
 
 
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122",1.Now Premier Sport 1 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122",1.Now Premier Sport 1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303192&extension=ts&play_token=i4xTxQU1lQ
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122",1.Now Premier Sport 2 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122",1.Now Premier Sport 2 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303191&extension=ts&play_token=XD8L1JA3v0
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_170_122",1.Now Premier Sport 3 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_170_122",1.Now Premier Sport 3 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303190&extension=ts&play_token=5gcIqRUx6Y
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122",1.Now Premier Sport 4 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122",1.Now Premier Sport 4 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303189&extension=ts&play_token=dHrFVtYZDs
 
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 1 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 1 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115615&extension=ts&play_token=TpjKqKOYXN
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 2 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 2 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115616&extension=ts&play_token=EhQRHoKa1j
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 3 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 3 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115617&extension=ts&play_token=57f1B5QsEy
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 4 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 4 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115618&extension=ts&play_token=gM6wuCy6wi
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 5 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 5 FHD
 
 
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348097&extension=ts&play_token=mJHzGozKrt
-#EXTINF:-1 group-title="Premier League" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348098&extension=ts&play_token=zMqY51sdkb
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",1.Hub Premier 3 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",1.Hub Premier 3 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348099&extension=ts&play_token=qNZUG2QZF0
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",1.Hub Premier 4 FHD
+#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",1.Hub Premier 4 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348100&extension=ts&play_token=A4LXdqiAoR
 
 #--*.*--VTV--*.*--#
@@ -755,15 +755,12 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab18-on-sports-news/dvr-${start}-${offset}.m3u8",1.ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptv/cliptv.php?id=on-sports-news
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png"catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab18-on-sports-news/dvr-${start}-${offset}.m3u8",2.ON Sports News HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://128.199.214.24/OSN/mpegts
 
 
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="VTV" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",1. Live Tiếng Việt World Cup Women
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THE THAO" group-title="VTV" tvg-logo="http://gg.gg/livehdd" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",1.HTV Thể Thao
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
