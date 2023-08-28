@@ -21,7 +21,7 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=455102&exten
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=479413&extension=ts&play_token=gnLji0Ksph
 #EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk", Sky Sports Main Event UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=474653&extension=ts&play_token=1fIKQ2jFQt
-#EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk", Sky F1 UHD
+#EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk", Sky Sports F1 UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=548023&extension=ts&play_token=sPirn4DvpB
 #EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/astrokkk", Astro Supersports UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=534095&extension=ts&play_token=dcv0ABR6tb
@@ -197,15 +197,15 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1299719&exte
 http://vividmedia.xyz:2052/jordan33/jordan33/3387919
 
 
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk",1.Sky F1 UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk",1.Sky Sports F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:AA:E0:62&stream=1566281&extension=ts&play_token=9xQzo8bZoK
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk",2.Sky F1 UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk",2.Sky Sports F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1566281&extension=ts&play_token=k2beVnnBVf
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk",3.Sky F1 UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk",3.Sky Sports F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1566281&extension=ts&play_token=pWO7TmsfXQ
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk",4.Sky F1 UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk",4.Sky Sports F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1566281&extension=ts&play_token=sAFDaEnf1o
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk",5.Sky Sport F1 UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk",5.Sky Sports F1 UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:b4:fe:0a&stream=1566281&extension=ts&play_token=i3t9iYDcQ5
 
 
