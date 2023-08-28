@@ -110,17 +110,11 @@ https://akavnpt.K+.vn/bpk-tv/prod_K+_lifehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/K+/03.php
 https://akaviettel.K+.vn/bpk-tv/prod_K+_sport1hd/default/index.mpd
 
-
-
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/K+/kids
 https://akafpt.K+.vn/bpk-tv/prod_K+_kidshd/default/index.mpd
 
-
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-
-#K+
 
 #EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD
 
@@ -820,7 +814,7 @@ http://128.199.214.24/OSN/mpegts
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
 
 #EXTINF:-1 tvg-id="ninhbinh" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/161.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/160/auto/dvr-${start}-${end}.m3u8", Ninh Bình HD
-https://vtvgolive-dp.vtvdigital.vn/ODHX9eO-oV4YNTi2mshZTQ/1691827833/live/ninhbinhtv/playlist.m3u8
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 
 #EXTINF:-1 tvg-id="danang1" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/128.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/90/auto/dvr-${start}-${end}.m3u8", DaNangTV1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
