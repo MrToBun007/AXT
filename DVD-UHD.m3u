@@ -21,19 +21,19 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=455102&exten
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.
 
 
-#EXTINF:-1 group-title="4K-UHD Sports 🔴| Live Event" tvg-logo="http://gg.gg/tntsportkkk",*.TNT Ultimate UHD
+#EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/tntsportkkk", TNT Ultimate UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=479413&extension=ts&play_token=gnLji0Ksph
-#EXTINF:-1 group-title="4K-UHD Sports 🔴| Live Event" tvg-logo="http://gg.gg/ssmaineventuhdkkk",*.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk", Sky Sports Main Event UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=474653&extension=ts&play_token=1fIKQ2jFQt
-#EXTINF:-1 group-title="4K-UHD Sports 🔴| Live Event" tvg-logo="http://gg.gg/skyf1kkk",*.Sky F1 UHD
+#EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/skyf1kkk", Sky F1 UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=548023&extension=ts&play_token=sPirn4DvpB
-#EXTINF:-1 group-title="4K-UHD Sports 🔴| Live Event" tvg-logo="http://gg.gg/astrokkk",*.Astro Supersports UHD
+#EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/astrokkk", Astro Supersports UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=534095&extension=ts&play_token=dcv0ABR6tb
-#EXTINF:-1 group-title="4K-UHD Sports 🔴| Live Event" tvg-logo="http://gg.gg/hubpremierkkk",*.Hub Premier 2 UHD
+#EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/hubpremierkkk", Hub Premier 2 UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=482000&extension=ts&play_token=rzArmA2vpc
-#EXTINF:-1 group-title="4K-UHD Sports 🔴| Live Event" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",*.Now Sport UHD
+#EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png", Now Sport UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=490&extension=ts&play_token=72JYxxzFEv
-#EXTINF:-1 group-title="4K-UHD Sports 🔴| Live Event" tvg-logo="http://gg.gg/bein4kkkk",*.Bein 4K
+#EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/bein4kkkk", Bein 4K
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=549727&extension=ts&play_token=OT0nquJEuu
 
 
