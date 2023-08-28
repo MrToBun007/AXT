@@ -452,9 +452,8 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=646894&exten
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Tennis QHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=603378&extension=ts&play_token=D3caB8KGsJ
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/livehdd",---------***---------
-http://45.139.122.199:80/play/live.php?mac=00:1A:79:2A:33:21&stream=115186&extension=ts&play_token=u8AhYyoJ09
 
+#-*-------------------------FHD-*---------------------------------------#
 
 #-*--TNT Sports-*--#
 #EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 1 FHD
@@ -479,10 +478,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2124&extensi
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=23657&extension=ts&play_token=4qNGlsOpuO
 
 
-
-
 #-*--Sky UK Channel-*--#
-
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmainevent2020kkk",1.Sky Sports Main Event FHD
 http://ipgurl.xyz:80/live/Globe/qxi0sjvYJs!@/9398.m3u8
@@ -500,9 +496,7 @@ http://geckohost.bid:8080/play/UpCkua7LeZfNKF1IkNXfrNpKqmrfMFyBP4_zZiuWphQXIhWtW
 http://geckohost.bid:8080/play/UpCkua7LeZfNKF1IkNXfrNpKqmrfMFyBP4_zZiuWphQXIhWtWNbe-yuaYs7_0CmW7VmXTYj8suAcih0GvTTvm-Qa9dOxGb1CVlKKW4RD5zWb2Bx6kit1FiX9QXPPifFP__FLsfj1wKTY5Kt4_bR1uXQeA3taCG5fgK7dE5hFwoQ?ext=.ts
 
 
-
 #-*--UK Channel-*--#
-
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 1 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
