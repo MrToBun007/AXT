@@ -163,7 +163,6 @@ https://akavnpt.K+.vn/bpk-tv/prod_K+_lifehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/K+/kids
 
 https://akafpt.K+.vn/bpk-tv/prod_K+_kidshd/default/index.mpd
-1
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
@@ -180,7 +179,6 @@ https://akafpt.K+.vn/bpk-tv/prod_K+_kidshd/default/index.mpd
 #-*--4K-UHD-*--#
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate UHD
-http://dontgiveitout.club/live/hollie2020/hollie2020/1042157.m3u8
 
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
