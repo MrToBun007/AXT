@@ -195,25 +195,26 @@ http://happydays2022.click:80/play/l3fRE9HnimCVzYk2dU__KiMM3elpahF4IecxrzImPbj67
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png",4.Now Sports-UHD
 http://45.139.122.199:80/play/live.php?mac=00:1A:79:4e:e2:96&stream=117957&extension=ts&play_token=SRX16Bzof1
 
-#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport 4K
-http://safe.avivainsur.com:8080/Cinta_Gheorghe/a2x2DSg2Gg4m/10510
-#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/dvdeurosport",2.EuroSport 4K
-http://safe.avivainsur.com:8080/Stefan-Razvan_Roibu/pdVXSsGrZ1/10510
 
-
-#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Foot UHD
+#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/footuhdkkk",1.Canal+ Foot UHD
 http://apbest.re:80/live/18220704922642218/1593574628/75309.ts
-
+#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/footuhdkkk",2.Canal+ Foot UHD
+http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=310432&extension=ts&play_token=saknpzj6Dv
 
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/canal-uhd",1.Canal+ UHD
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=629068&extension=ts&play_token=NmbctJ2BbX
 
 
-#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/elevenkkk",1.Eleven
+#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/elevenkkk",1.Eleven 4K
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/118089.m3u8
-
-#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/elevenkkk",2.Eleven
+#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/elevenkkk",2.Eleven 4K
 http://apbest.re:80/live/18220704922642218/1593574628/99164.ts
+#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/elevenkkk",3.Eleven 4K
+http://digihoster224.access.ly:8080/live/58GakAJ5/DPH3unTE/256269.m3u8
+#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/elevenkkk",4.Eleven 4K
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348127&extension=ts&play_token=FlYAe3hSYU
+#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/elevenkkk",5.Eleven 4K
+http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=905665&extension=ts&play_token=w04PypIZGW
 
 
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/digisport1kkk",1.4K-UHD 1
@@ -221,6 +222,8 @@ http://kleineinzeige.com:8080/live/Ciprian-Petrea1/EV7P2jur/38531.m3u8
 
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/primakkk",1.PRIMA 4K
 http://safe.avivainsur.com:8080/Nicolae_Cimpan/ELJ6c8WSfCkm/35745
+#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/primakkk",2.PRIMA 4K
+http://safe.avivainsur.com:8080/live/lidas/kzAtmnHq2v/35745.m3u8
 
 
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/bein4kkkk",1.Bein 4K
@@ -234,17 +237,6 @@ http://digihoster224.access.ly:8080/live/58GakAJ5/DPH3unTE/246177.m3u8
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/skyhighdancekkk",1.Sky High Dance
 http://m.tvfalco.com:8080/play/live.php?mac=00:1A:79:A0:FF:D2&stream=683911&extension=ts&play_token=XSEasUc2Ih
 
-
-#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/elevenkkk",1.Eleven 4K
-http://digihoster224.access.ly:8080/live/58GakAJ5/DPH3unTE/256269.m3u8
-#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/elevenkkk",2.Eleven 4K
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348127&extension=ts&play_token=FlYAe3hSYU
-#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/elevenkkk",3.Eleven 4K
-http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=905665&extension=ts&play_token=w04PypIZGW
-
-
-#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/primakkk",1.PRIMA 4K
-http://safe.avivainsur.com:8080/live/lidas/kzAtmnHq2v/35745.m3u8
 
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI UHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=564952&extension=ts&play_token=V0dftH9OqH
@@ -334,9 +326,6 @@ http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=101206&ext
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/canalkkk",6.Canal+ Sports UHD
 http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=BzCcY4S10M
 
-#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/footuhdkkk",1.Canal+ Foot UHD
-http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=310432&extension=ts&play_token=saknpzj6Dv
-
 
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Motor UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526128&extension=ts&play_token=b5FA4gfd0H
@@ -349,6 +338,10 @@ http://safe.avivainsur.com:8080/live/Ionut_Alexa/4MyXxpcF8nMf/10510.m3u8
 http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/dvdeurosport",4.EuroSport 4K
 http://safe.avivainsur.com:8080/Ionut_Alexa/4MyXxpcF8nMf/10510
+#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/dvdeurosport",5.EuroSport 4K
+http://safe.avivainsur.com:8080/Cinta_Gheorghe/a2x2DSg2Gg4m/10510
+#EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/dvdeurosport",6.EuroSport 4K
+http://safe.avivainsur.com:8080/Stefan-Razvan_Roibu/pdVXSsGrZ1/10510
 
 
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/btvkkk",1.BTV 4K 
@@ -467,49 +460,47 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=646892&exten
 http://45.139.122.199:80/play/live.php?mac=00:1A:79:2A:33:21&stream=115186&extension=ts&play_token=u8AhYyoJ09
 
 
-#-*--SPORT FULL HD-*--#
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 1 FHD 
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=693103&extension=ts&play_token=z0Dteibzrz
-
-
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/btsportkkk",2.TNT Sports 1 FHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2126&extension=ts&play_token=a0K8UcWHUw
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/btsportkkk",2.TNT Sports 2 FHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2125&extension=ts&play_token=JTbRVK6IVJ
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/btsportkkk",2.TNT Sports 3 FHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2124&extension=ts&play_token=zX9ooz43zd
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 4 FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=23657&extension=ts&play_token=4qNGlsOpuO
-
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/btsportkkk",3.TNT Sports 1 FHD
+#-*--TNT Sports-*--#
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71581&extension=ts&play_token=pxHJTVgBYd
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/btsportkkk",3.TNT Sports 2 FHD
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 2 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71580&extension=ts&play_token=eq8OB4V97r
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/btsportkkk",3.TNT Sports 3 FHD
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 3 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71579&extension=ts&play_token=Vd8EoOzAER
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/btsportkkk",3.TNT Sports 4 FHD
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",1.TNT Sports 4 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71578&extension=ts&play_token=oVLYVRHqoA
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/btsportespnkkk",1.TNT Sportss ESPN FHD
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportespnkkk",1.TNT Sportss ESPN FHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2123&extension=ts&play_token=duMX7lgrg6
+
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",2.TNT Sports 1 FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2126&extension=ts&play_token=a0K8UcWHUw
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",2.TNT Sports 2 FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2125&extension=ts&play_token=JTbRVK6IVJ
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",2.TNT Sports 3 FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2124&extension=ts&play_token=zX9ooz43zd
+#EXTINF:-1 group-title="TNT Sports" tvg-logo="http://gg.gg/btsportkkk",2.TNT Sports 4 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:6d:a0:80&stream=23657&extension=ts&play_token=4qNGlsOpuO
+
+
 
 
 #-*--Sky UK Channel-*--#
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssmainevent2020kkk",1.Sky Sports Main Event FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmainevent2020kkk",1.Sky Sports Main Event FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1582716&extension=ts&play_token=EKCAqBDZ8C
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssnews1kkk",1.Sky Sports News FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssnews1kkk",1.Sky Sports News FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255100&extension=ts&play_token=AA0D8nGvRd
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssfotkkk",1.Sky Sports Football FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssfotkkk",1.Sky Sports Football FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1591025&extension=ts&play_token=aziHpeEH2r
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/sspl2kkk",1.Sky Sports Premier League FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/sspl2kkk",1.Sky Sports Premier League FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1582717&extension=ts&play_token=DbDW75zy8W
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/goflkkk",1.Sky Sports Golf FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/goflkkk",1.Sky Sports Golf FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1582719&extension=ts&play_token=znKzG0BExA
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssmixxkkk",1.Sky Sports Mix FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssmixxkkk",1.Sky Sports Mix FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1591026&extension=ts&play_token=r3YFxHf2oc
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssracingkkk",1.Sky Sports Racing FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssracingkkk",1.Sky Sports Racing FHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1582740&extension=ts&play_token=EYIC4jUKCT
 
 
@@ -517,71 +508,54 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1582740&exte
 #-*--UK Channel-*--#
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 1 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 1 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 2 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Sports 2 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=154405&extension=ts&play_token=Sz0cj6w84W
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Extra FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",1. ViaPlay Extra FHD
 http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753907.m3u8
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Sports 1 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Sports 1 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=595187&extension=ts&play_token=bgs9vcdZ1u
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Sports 2 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Sports 2 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=595189&extension=ts&play_token=QyrZAmQarS
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Extra FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/viaplay123kkk",2. ViaPlay Extra FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=595191&extension=ts&play_token=HrZQiFTdWB
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/bbc1kkk",1.BBC ONE FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/bbc1kkk",1.BBC ONE FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71399&extension=ts&play_token=2JCVbfMtIN
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/bbc1kkk",2.BBC ONE FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/bbc1kkk",2.BBC ONE FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=697656&extension=ts&play_token=OuHtnIkQAM
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/bbc1kkk",3.BBC ONE FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/bbc1kkk",3.BBC ONE FHD
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/bbc2kkk",1.BBC TWO FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/bbc2kkk",1.BBC TWO FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71397&extension=ts&play_token=x0DivRfPN5
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/bbc2kkk",2.BBC TWO FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/bbc2kkk",2.BBC TWO FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=11348&extension=ts&play_token=kmX1FzjqDs
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/itv1fhdkkk",1.ITV 1 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/itv1fhdkkk",1.ITV 1 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:C6:A7:D1&stream=566120&extension=ts&play_token=hMKh0gompj
-#EXTINF:-1 group-title="FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",1.ITV 2 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",1.ITV 2 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:C6:A7:D1&stream=566121&extension=ts&play_token=zpEko1ctul
-#EXTINF:-1 group-title="FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",1.ITV 3 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1920px-ITV3_logo_2022.svg.png",1.ITV 3 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:C6:A7:D1&stream=566122&extension=ts&play_token=0hct78IyUW
-
-
-#-*--Sky Sports DE-*--#
-
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/fussballkkk",1.SportDigital FussBall FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=455048&extension=ts&play_token=Xz4LLPpzZ5
-
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ss4K-UHDkkk",1.4K-UHD 1 FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=561310&extension=ts&play_token=34qvfcYxGw
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ss4K-UHDkkk",1.4K-UHD 2 FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=561312&extension=ts&play_token=orPe0pGAMF
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ss4K-UHDkkk",1.4K-UHD 3 FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=561313&extension=ts&play_token=UUzBs5lOV2
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ss4K-UHDkkk",1.4K-UHD 4 FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=561314&extension=ts&play_token=ItmD8yxi2l
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ss4K-UHDkkk",1.4K-UHD 5 FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=561315&extension=ts&play_token=1K9kwJirJg
 
 
 #-*--Ziggo Sports NL-*--#
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Select FHD
+#EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Select FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6595&extension=ts&play_token=bvujBFWnKT
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Voetbal
+#EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Voetbal
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6602&extension=ts&play_token=PVRsgJd44D
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Racing FHD
+#EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Racing FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=207544&extension=ts&play_token=YbjboROzAc
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Golf FHD
+#EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Golf FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6598&extension=ts&play_token=WxcfxxXBPJ
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Tennis FHD
+#EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Tennis FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6606&extension=ts&play_token=UvUf2neSp1
 
 #EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/mancitykkk",1.Manchester City FHD
@@ -603,84 +577,77 @@ http://45.139.122.199:80/play/live.php?mac=00:1A:79:AA:BF:0D&stream=9844&extensi
 #EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/Brightonkkk",1.Brighton&Hove Albion FHD
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssportsf1kkk",1.Sky Sport F1 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssportsf1kkk",1.Sky Sport F1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=ts&play_token=6rCllY0ScD
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssportsf1kkk",2.Sky Sport F1 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssportsf1kkk",2.Sky Sport F1 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=693530&extension=ts&play_token=eEnIjFdPdR
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssportsf1kkk",3.Sky Sport F1 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssportsf1kkk",3.Sky Sport F1 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=693532&extension=ts&play_token=VpJms0sZEy
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ssportsf1kkk",4.Sky Sports F1 DE FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/ssportsf1kkk",4.Sky Sports F1 DE FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=603379&extension=ts&play_token=w44JcnbV8V
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/eurosport1xkkk",1.EuroSport 1 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/eurosport1xkkk",1.EuroSport 1 FHD
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/eurosport2kkk",1.EuroSport 2 FHD
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/eurosport2kkk",1.EuroSport 2 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71606&extension=ts&play_token=rQtYPRfIUI
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ufckkk",1.UFC FIGHT PASS FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ufckkk",1.UFC FIGHT PASS FHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=13259&extension=ts&play_token=dWtCza4q14
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/ufckkk",2.UFC FIGHT PASS FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/ufckkk",2.UFC FIGHT PASS FHD
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",1.WWE FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.freepnglogos.com/uploads/wwe-logo-black-png-8.png",1.WWE FHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=9663&extension=ts&play_token=4a8AB2mqki
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",1.ESPN 1 FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",1.ESPN 1 FHD
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",1.ESPN 2 FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",1.ESPN 2 FHD
 
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS US FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS US FHD
 http://restream-live.realiptv.to:8080/live/Daryl/12345/3685.m3u8
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/tennisfhdkkk",2.TENNIS US FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",2.TENNIS US FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=519695&extension=ts&play_token=RTrOU8KNyV
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/tennisfhdkkk",3.TENNIS US FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",3.TENNIS US FHD
 http://ua-iptv.com:8080/live/johneita/3477919074/219136.m3u8
 
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/fox1fhdkkk",1.Fox Sports 1 FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox1fhdkkk",1.Fox Sports 1 FHD
 http://ua-iptv.com:8080/live/johneita/3477919074/219086.m3u8
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/fox2fhdkkk",1.Fox Sports 2 FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/fox2fhdkkk",1.Fox Sports 2 FHD
 http://ua-iptv.com:8080/live/johneita/3477919074/219087.m3u8
 
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://sm.pcmag.com/t/pcmag_uk/review/f/fubo/fubo_f9jn.1920.png",1.Fubo Sports 1 FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://sm.pcmag.com/t/pcmag_uk/review/f/fubo/fubo_f9jn.1920.png",1.Fubo Sports 1 FHD
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://sm.pcmag.com/t/pcmag_uk/review/f/fubo/fubo_f9jn.1920.png",1.Fubo Sports 2 FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://sm.pcmag.com/t/pcmag_uk/review/f/fubo/fubo_f9jn.1920.png",1.Fubo Sports 2 FHD
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg",1.Bein Sports US FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg",1.Bein Sports US FHD
 http://103.76.130.33:13107/play/umCQLoR1xdo9jfapcpH-e_SE--tNHdG7354zJV4WLT-hwk5ePYAojrvwcEQ0vOfU0ErybHl-zXAgbEQqJdxovqDKJjjHHnC-LDKkXzUCFP0?ext=.ts
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",1.USA Networks FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",1.USA Networks FHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=8259&extension=ts&play_token=g5949aLDdj
-#EXTINF:-1 group-title="FHD" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",2.USA Networks FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",2.USA Networks FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=553356&extension=ts&play_token=qHru5VeMKT
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/mlskkk",1.MLS-Leagues Cup USA FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/mlskkk",1.MLS-Leagues Cup USA FHD
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/tsn1hdkkk",1.TSN 1 FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tsn1hdkkk",1.TSN 1 FHD
 http://fuzzyunicorns.net/live/xX5Weda03/JKc192dnu3/3055.m3u8
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/universokkk",1.NBC Universo FHD
-
-
-#EXTINF:-1 group-title="FHD" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f873%2fs-sport-1-1.png",1.S Sport 1 TR FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&extension=ts&play_token=kS1xcmkSEt
-
-#EXTINF:-1 group-title="FHD" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f873%2fs-sport-1-1.png",1.S Sport 2 TR FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&extension=ts&play_token=5XFZvVZjXf
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/universokkk",1.NBC Universo FHD
 
 
 #EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/realkkk",1.Real Madrid FHD-Canada
@@ -688,79 +655,79 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=664531&exten
 #EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/bacxakkk",1.Barcelona FHD-Canada
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/danzkkk",1.DAZN FHD
+#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/danzkkk",1.DAZN FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=455045&extension=ts&play_token=I9E8f7Tt4M
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/daznlaligakkk",1.DAZN LaLiga FHD
+#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/daznlaligakkk",1.DAZN LaLiga FHD
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/mlaligakkk",1.M LaLiga FHD
+#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/mlaligakkk",1.M LaLiga FHD
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/laligakkk",1.LaLiga TV FHD
+#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/laligakkk",1.LaLiga TV FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499181&extension=ts&play_token=SJLOgnhROK
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 1 FHD
+#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 1 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499188&extension=ts&play_token=8iBxtPsxQk
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 2 FHD
+#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 2 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499194&extension=ts&play_token=9w00vsT8i8
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 3 FHD
+#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 3 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499199&extension=ts&play_token=TpSzIpvHU1
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 4 FHD
+#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 4 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499202&extension=ts&play_token=wO9Fn34L6s
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Sports FHD
+#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Sports FHD
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/rmcsport1kkk",1.RMC Sports 1 FHD
+#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsport1kkk",1.RMC Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101205&extension=ts&play_token=4vd06PVuX3
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/rmcsport1kkk",2.RMC Sports 1 FHD
+#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsport1kkk",2.RMC Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extension=ts&play_token=sT88QaQFMH
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/rmcsport1kkk",3.RMC Sports 1 FHD
+#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsport1kkk",3.RMC Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extension=ts&play_token=uYjhxVFb4c
 
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/Canal_Formula1",1.Canal+ Formula 1 FHD
+#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/Canal_Formula1",1.Canal+ Formula 1 FHD
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122",1.Now Sport 1 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122",1.Now Sport 1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303199&extension=ts&play_token=9qNh2gKuNQ
-#EXTINF:-1 group-title="FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_170_122",1.Now Sport 2 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_170_122",1.Now Sport 2 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497552&extension=ts&play_token=1RVZY4q24D
-#EXTINF:-1 group-title="FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122",1.Now Sport 3 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122",1.Now Sport 3 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497553&extension=ts&play_token=ngyVucyX01
-#EXTINF:-1 group-title="FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122",1.Now Sport 4 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_170_122",1.Now Sport 4 FHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497554&extension=ts&play_token=REOFKLXSCG
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122",1.Now Premier Sport 1 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122",1.Now Premier Sport 1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303192&extension=ts&play_token=i4xTxQU1lQ
-#EXTINF:-1 group-title="FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122",1.Now Premier Sport 2 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122",1.Now Premier Sport 2 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303191&extension=ts&play_token=XD8L1JA3v0
-#EXTINF:-1 group-title="FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_170_122",1.Now Premier Sport 3 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_170_122",1.Now Premier Sport 3 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303190&extension=ts&play_token=5gcIqRUx6Y
-#EXTINF:-1 group-title="FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122",1.Now Premier Sport 4 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122",1.Now Premier Sport 4 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303189&extension=ts&play_token=dHrFVtYZDs
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 1 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 1 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115615&extension=ts&play_token=TpjKqKOYXN
-#EXTINF:-1 group-title="FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 2 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 2 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115616&extension=ts&play_token=EhQRHoKa1j
-#EXTINF:-1 group-title="FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 3 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 3 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115617&extension=ts&play_token=57f1B5QsEy
-#EXTINF:-1 group-title="FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 4 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 4 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115618&extension=ts&play_token=gM6wuCy6wi
-#EXTINF:-1 group-title="FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 5 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 5 FHD
 
 
-#EXTINF:-1 group-title="FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348097&extension=ts&play_token=mJHzGozKrt
-#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348098&extension=ts&play_token=zMqY51sdkb
-#EXTINF:-1 group-title="FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",1.Hub Premier 3 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",1.Hub Premier 3 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348099&extension=ts&play_token=qNZUG2QZF0
-#EXTINF:-1 group-title="FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",1.Hub Premier 4 FHD
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",1.Hub Premier 4 FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348100&extension=ts&play_token=A4LXdqiAoR
 
 #--*.*--VTV--*.*--#
