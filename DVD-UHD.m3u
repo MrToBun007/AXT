@@ -12,8 +12,7 @@
 
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/hrd222",Welcome to 4K-UHD Channel
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=455102&extension=ts&play_token=tVTbpfWAV8
-#https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
+https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 #http://gg.gg/4hkdrrr
 
 
@@ -26,7 +25,7 @@ http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=548023&exten
 #EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/astrokkk", Astro Supersports UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=534095&extension=ts&play_token=dcv0ABR6tb
 #EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/hubpremierkkk", Hub Premier 2 UHD
-http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=482000&extension=ts&play_token=rzArmA2vpc
+http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:39:02:30&stream=482000&extension=ts&play_token=1fEpHIuRjl
 #EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="https://www.nowtv.now.com/media/logo/611-wbg-e.png", Now Sport UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=490&extension=ts&play_token=72JYxxzFEv
 #EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/bein4kkkk", Bein 4K
@@ -120,7 +119,7 @@ https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #-*--4K-UHD-*--#
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate UHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:04:7e:7d&stream=1300442&extension=ts&play_token=ZkU9F5cCnV
+http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:39:02:30&stream=479413&extension=ts&play_token=nVsnk9hszx
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1299719&extension=ts&play_token=fvOMfJrBPI
