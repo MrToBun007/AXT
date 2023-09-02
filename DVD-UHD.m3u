@@ -620,45 +620,45 @@ http://fuzzyunicorns.net/live/xX5Weda03/JKc192dnu3/3055.m3u8
 #EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/universokkk",1.NBC Universo FHD
 
 
-#EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/realkkk",1.Real Madrid FHD-Canada
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/realkkk",1.Real Madrid FHD-Canada
 
-#EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/bacxakkk",1.Barcelona FHD-Canada
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/bacxakkk",1.Barcelona FHD-Canada
 
 
-#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/danzkkk",1.DAZN FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/danzkkk",1.DAZN FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=455045&extension=ts&play_token=I9E8f7Tt4M
 
-#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/daznlaligakkk",1.DAZN LaLiga FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/daznlaligakkk",1.DAZN LaLiga FHD
 
 
-#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/mlaligakkk",1.M LaLiga FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/mlaligakkk",1.M LaLiga FHD
 
 
-#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/laligakkk",1.LaLiga TV FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/laligakkk",1.LaLiga TV FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499181&extension=ts&play_token=SJLOgnhROK
 
 
-#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 1 FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 1 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499188&extension=ts&play_token=8iBxtPsxQk
-#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 2 FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 2 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499194&extension=ts&play_token=9w00vsT8i8
-#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 3 FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 3 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499199&extension=ts&play_token=TpSzIpvHU1
-#EXTINF:-1 group-title="Laliga" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 4 FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/movistarlaligakkk",1.Movistar LaLiga 4 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=499202&extension=ts&play_token=wO9Fn34L6s
 
 
 #EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Sports FHD
 
 
-#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsport1kkk",1.RMC Sports 1 FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/rmcsport1kkk",1.RMC Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=101205&extension=ts&play_token=4vd06PVuX3
-#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsport1kkk",2.RMC Sports 1 FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/rmcsport1kkk",2.RMC Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extension=ts&play_token=sT88QaQFMH
-#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/rmcsport1kkk",3.RMC Sports 1 FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/rmcsport1kkk",3.RMC Sports 1 FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101205&extension=ts&play_token=uYjhxVFb4c
 
-#EXTINF:-1 group-title="Canal+" tvg-logo="http://gg.gg/Canal_Formula1",1.Canal+ Formula 1 FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/Canal_Formula1",1.Canal+ Formula 1 FHD
 
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_170_122",1.Now Sport 1 FHD
