@@ -34,16 +34,16 @@ http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:b9:26&stream=549727&exten
 
 #--*.*--🔴| Live Event--*.*--#
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/live4kkkkk",23h30 Super Saturday Brighton&Hove vs Newcastle - 4K
+#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/live4kkkkk",23h30 Brighton&Hove vs Newcastle - 4K
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:3B:50&stream=1299719&extension=ts&play_token=izWZAalImz
 
 
-#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",23h30 Super Saturday Brighton&Hove vs Newcastle - FHD
+#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/livehdd",23h30 Brighton&Hove vs Newcastle - FHD
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
 
 
 #--*.*--K+--*.*--#
-NO LONGER AVAILABLE
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
