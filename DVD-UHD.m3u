@@ -42,67 +42,28 @@ http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:54:34:75&stream=549727&exten
 #EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.
 
 
-
-
-#-*--K+-*--#
-
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",1.K+CINE HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"3M85idW2iMmm6QaiyRoFTQ", "kid":"yOIdrLfvTfKmmDFE9fT0pg" } ], "type":"temporary"}
-http://s7266.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",2.K+ CINE - MyTV
+#--*.*--K+--*.*--#
+NO LONGER AVAILABLE
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/03.php
+#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/getuid.php?key=c&token=1287791226
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",3.K+ CINE - MyK+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/06.php
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",1.K+LIFE HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"L8MZNN3NcAV7pp2rgXMHFg", "kid":"7hE1s+02Q8GCCNOUxBHcFw" } ], "type":"temporary"}
-http://s7267.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",2.K+ LIFE - MyTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/04.php
+#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/getuid.php?key=l&token=1287791226
 https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",3.K+ LIFE - MyK+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/07.php
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",1.K+ SPORT1 - MyK+
+#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/getuid.php?key=1&token=1287791226
+https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/03.php
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png",2.K+ SPORT2 - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/04.php
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png",1.K+ KIDS - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/kplus/05.php
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/getuid.php?key=2&token=1287791226
+https://s12920.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
@@ -114,6 +75,24 @@ https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://gg.gg/sports2kkk",1.K+ SPORT 2
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://gg.gg/kidkkk",1.K+ KIDS
+
+
+#-*-- B4TV -*--#
+#EXTINF:-1 group-title="B4TV Live" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
+http://b4tv.live/b4tv/b4tv/1.m3u8
+#EXTINF:-1 group-title="B4TV Live" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png", B4BOX
+http://b4tv.live/b4tv/b4tv/2.m3u8
+#EXTINF:-1 group-title="B4TV Live" tvg-logo="http://b4tv.live/images/5150b363cf6c9192ebe147a113dea625.png", B4TUBE
+http://b4tv.live/b4tv/b4tv/4.m3u8
+#EXTINF:-1 group-title="B4TV Live" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 1
+http://b4tv.live/b4tv/b4tv/3.m3u8
+#EXTINF:-1 group-title="B4TV Live" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 2
+http://b4tv.live/b4tv/b4tv/47.m3u8
+#EXTINF:-1 group-title="B4TV Live" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 3
+http://b4tv.live/b4tv/b4tv/48.m3u8
+#EXTINF:-1 group-title="B4TV Live" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT
+http://b4tv.live/b4tv/b4tv/76.m3u8
+
 
 
 #-*--4K-UHD-*--#
