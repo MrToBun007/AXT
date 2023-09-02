@@ -528,23 +528,23 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6598&extensi
 #EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Tennis FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6606&extension=ts&play_token=UvUf2neSp1
 
-#EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/mancitykkk",1.Manchester City FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/mancitykkk",1.Manchester City FHD
 
 
-#EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/manukkk",1.Manchester United FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/manukkk",1.Manchester United FHD
 http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=56381&extension=ts&play_token=UEUK5eDBCY
 
 
-#EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/liverkkk",1.Liverpool FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/liverkkk",1.Liverpool FHD
 http://45.139.122.199:80/play/live.php?mac=00:1A:79:AA:BF:0D&stream=9844&extension=ts&play_token=riBezV3nqn
 
-#EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/asenalkkk",1.Asenal FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/asenalkkk",1.Asenal FHD
 
-#EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/newkkk",1.Newcastle United FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/newkkk",1.Newcastle United FHD
 
-#EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/cheasekkk",1.Chelsea FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/cheasekkk",1.Chelsea FHD
 
-#EXTINF:-1 group-title="Premier League Team" tvg-logo="http://gg.gg/Brightonkkk",1.Brighton&Hove Albion FHD
+#EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/Brightonkkk",1.Brighton&Hove Albion FHD
 
 
 #EXTINF:-1 group-title="UK Sports" tvg-logo="http://gg.gg/ssportsf1kkk",1.Sky Sport F1 FHD
