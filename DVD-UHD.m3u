@@ -18,15 +18,16 @@ https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 
 #--*.*--🔴| Live Event--*.*--#
 
-#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/live4kkkkk",23h30 Brighton&Hove vs Newcastle - 4K
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:3B:50&stream=1299719&extension=ts&play_token=izWZAalImz
+#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/live4kkkkk",22h30 Brighton&Hove vs Newcastle - 4K
+http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:84:67:EB&stream=474653&extension=ts&play_token=pau9Q67kMO
 
+#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/live4kkkkk",22h30 Brighton&Hove vs Newcastle - ASTRO SS UHD
+http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:84:67:EB&stream=534095&extension=ts&play_token=mJz4gQvhT1
 
-#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/livehdd",23h30 Brighton&Hove vs Newcastle - USA Networks FHD 
+#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/livehdd",22h30 Brighton&Hove vs Newcastle - USA Networks FHD 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
 
-#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/livehdd",23h30 Brighton&Hove vs Newcastle - Optus FHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:C8:7B:C3&stream=1519251&extension=ts&play_token=Ddf6BtHEqd
+
 
 #--*.*--K+--*.*--#
 
@@ -48,7 +49,7 @@ https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=
 
 #kplus
 
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="KPLUS" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -58,7 +59,7 @@ https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=
 
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="KPLUS" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -66,7 +67,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Kcinehd" group-title="KPLUS" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
+#EXTINF:-1 tvg-id="Kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -74,7 +75,7 @@ https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Klifehd" group-title="KPLUS" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD
+#EXTINF:-1 tvg-id="Klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -82,7 +83,7 @@ https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Kkidhd" group-title="KPLUS" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD
+#EXTINF:-1 tvg-id="Kkidhd" group-title="K+" tvg-logo="https://i.ibb.co/rm4Kykp/K-Kids-HD-2021.webp", K+KID HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
