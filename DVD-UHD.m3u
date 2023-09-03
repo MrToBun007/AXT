@@ -697,33 +697,33 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1497554&ext
 
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_170_122",1.Now Premier Sport 1 FHD
-http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303192&extension=ts&play_token=i4xTxQU1lQ
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:35:67:13&stream=176285&extension=ts&play_token=Zo0XERxKnM
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_170_122",1.Now Premier Sport 2 FHD
-http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303191&extension=ts&play_token=XD8L1JA3v0
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:35:67:13&stream=176284&extension=ts&play_token=lqwUOTm5AF
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_170_122",1.Now Premier Sport 3 FHD
-http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303190&extension=ts&play_token=5gcIqRUx6Y
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:35:67:13&stream=176283&extension=ts&play_token=N8N1gPwpGC
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122",1.Now Premier Sport 4 FHD
-http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303189&extension=ts&play_token=dHrFVtYZDs
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:35:67:13&stream=176282&extension=ts&play_token=bZdZUjaTSp
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 1 FHD
-http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115615&extension=ts&play_token=TpjKqKOYXN
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:5c:90:68&stream=38186&extension=ts&play_token=0shsiNWpxn
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 2 FHD
-http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115616&extension=ts&play_token=EhQRHoKa1j
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:5c:90:68&stream=38187&extension=ts&play_token=W0MjRX3nmP
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 3 FHD
-http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115617&extension=ts&play_token=57f1B5QsEy
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:5c:90:68&stream=38189&extension=ts&play_token=Qr0ymirAcn
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 4 FHD
-http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115618&extension=ts&play_token=gM6wuCy6wi
-#EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 5 FHD
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:5c:90:68&stream=38191&extension=ts&play_token=Lw7fz690nm
+
 
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
-http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348097&extension=ts&play_token=mJHzGozKrt
+http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:84:67:EB&stream=491329&extension=ts&play_token=Q1Q3G5sJ6G
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 FHD
-http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348098&extension=ts&play_token=zMqY51sdkb
+http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:84:67:EB&stream=491330&extension=ts&play_token=YAVF7R50Bf
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png",1.Hub Premier 3 FHD
-http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348099&extension=ts&play_token=qNZUG2QZF0
+http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:84:67:EB&stream=491331&extension=ts&play_token=A6YKvrvzrR
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png",1.Hub Premier 4 FHD
-http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=348100&extension=ts&play_token=A4LXdqiAoR
+http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:84:67:EB&stream=491332&extension=ts&play_token=TOZt6qTdmr
 
 #--*.*--VTV--*.*--#
 
