@@ -31,42 +31,6 @@ http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&exten
 
 #--*.*--K+--*.*--#
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/getuid.php?key=c&token=1287791226
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://khanggtivi.xyz/key/mytv/getuid.php?key=l&token=1287791226
-https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-
-
-
-
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-
-#kplus
-
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="K+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/sp1
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 HD
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/sp2
-
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
 #EXTINF:-1 tvg-id="Kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,6 +54,11 @@ https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://bsfr.ddns.net/keys/kplus/kids
 
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/k-1sportsskkk",1.K+ SPORT 1
+https://goeco.link/Khích-TiVi,live-trực-tiếp-k-.m3u8 
+
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
 
@@ -122,7 +91,7 @@ http://b4tv.live/b4tv/b4tv/76.m3u8
 
 #-*--4K-UHD-*--#
 
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/tntsportkkk",1.TNT Ultimate UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:B8:45:57&stream=1300442&extension=ts&play_token=3irh6KG4SJ
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
@@ -165,17 +134,17 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=484209&exten
 http://45.12.1.14:80/live/quertiy12222/gzaVWR144/88668.m3u8
 
 
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/astrokkk",1.Astro Supersports UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png",1.Astro Supersports UHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ae:c6:b8&stream=348094&extension=ts&play_token=sFD5pWlz1e
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/astrokkk",2.Astro Supersports UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png",2.Astro Supersports UHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ad:f1:43&stream=348094&extension=ts&play_token=3Nea7kJ1iH
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/astrokkk",3.Astro Supersports UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png",3.Astro Supersports UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=348094&extension=ts&play_token=4bpG5l7h9F
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/astrokkk",4.Astro Supersports UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png",4.Astro Supersports UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2F:4A:B6&stream=348094&extension=ts&play_token=8VFADwOede
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/astrokkk",5.Astro Supersports UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png",5.Astro Supersports UHD
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250763&extension=ts&play_token=Y77yJ8GTki
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/astrokkk",6.Astro Supersports UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png",6.Astro Supersports UHD
 http://dontgiveitout.club/live/hollie2020/hollie2020/3157680.m3u8
 
 
@@ -629,9 +598,9 @@ http://ua-iptv.com:8080/live/johneita/3477919074/219087.m3u8
 http://103.76.130.33:13107/play/umCQLoR1xdo9jfapcpH-e_SE--tNHdG7354zJV4WLT-hwk5ePYAojrvwcEQ0vOfU0ErybHl-zXAgbEQqJdxovqDKJjjHHnC-LDKkXzUCFP0?ext=.ts
 
 
-#EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",1.USA Networks FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/usanetworks1kkk",1.USA Networks FHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=8259&extension=ts&play_token=g5949aLDdj
-#EXTINF:-1 group-title="USA Sports" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png",2.USA Networks FHD
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/usanetworks1kkk",2.USA Networks FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=553356&extension=ts&play_token=qHru5VeMKT
 
 
