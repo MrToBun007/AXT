@@ -18,11 +18,9 @@ https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 
 #--*.*--🔴| Live Event--*.*--#
 
-#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/live4kkkkk",Sky Sports Main Event UHD
-http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:84:67:EB&stream=474653&extension=ts&play_token=pau9Q67kMO
+#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/live4kkkkk",US Open - Eurosport 4K
+http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
 
-#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/live4kkkkk",ASTRO SS UHD
-http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:84:67:EB&stream=534095&extension=ts&play_token=mJz4gQvhT1
 
 #EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/livehdd",USA Networks FHD 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
@@ -286,17 +284,11 @@ http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extens
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526128&extension=ts&play_token=b5FA4gfd0H
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport 4K
-http://safe.avivainsur.com:8080/live/lidas/kzAtmnHq2v/10510.m3u8
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",2.EuroSport 4K
-http://safe.avivainsur.com:8080/live/Ionut_Alexa/4MyXxpcF8nMf/10510.m3u8
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",3.EuroSport 4K
 http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",4.EuroSport 4K
-http://safe.avivainsur.com:8080/Ionut_Alexa/4MyXxpcF8nMf/10510
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",5.EuroSport 4K
-http://safe.avivainsur.com:8080/Cinta_Gheorghe/a2x2DSg2Gg4m/10510
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",6.EuroSport 4K
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",2.EuroSport 4K
 http://safe.avivainsur.com:8080/Stefan-Razvan_Roibu/pdVXSsGrZ1/10510
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",3.EuroSport 4K
+http://safe.avivainsur.com:8080/Cinta_Gheorghe/a2x2DSg2Gg4m/10510
 
 
 
