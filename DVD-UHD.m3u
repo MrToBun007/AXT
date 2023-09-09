@@ -421,31 +421,31 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:6e:4b&stream=543368&exten
 #--*.*--2K-QHD--*.*--#
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.RTL QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=563887&extension=ts&play_token=hM8W9oooOm
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:aa:5b:a3&stream=563887&extension=ts&play_token=3nPHDiMpfg
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport F1 QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=646892&extension=ts&play_token=ydmSVIshSX
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:aa:5b:a3&stream=646892&extension=ts&play_token=Wa9iL6Esc6
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",2.Sky Sport Bundesliga QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=646890&extension=ts&play_token=v4WrKrYk32
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:aa:5b:a3&stream=646890&extension=ts&play_token=6dsW2RLKju
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky SPort News QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=646889&extension=ts&play_token=Bs347bVjEH
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:aa:5b:a3&stream=646889&extension=ts&play_token=0sUuulnwPT
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Top Event QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=567234&extension=ts&play_token=lHIQoImgpr
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:aa:5b:a3&stream=567234&extension=ts&play_token=H8JFw6seEM
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Premier League QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=646891&extension=ts&play_token=tfLkv2Ag62
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:aa:5b:a3&stream=646891&extension=ts&play_token=oQ949Ne3ND
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky SPort Mix QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=646893&extension=ts&play_token=AvP8xEDASL
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:aa:5b:a3&stream=646893&extension=ts&play_token=ZMUTeCQuoX
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Golf QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=646894&extension=ts&play_token=wJgm9i4988
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:aa:5b:a3&stream=646894&extension=ts&play_token=4tz5XWh0y5
 
 #EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Tennis QHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:A0:E5:60&stream=603378&extension=ts&play_token=D3caB8KGsJ
+http://optimustv.show:8080/play/live.php?mac=00:1A:79:aa:5b:a3&stream=603378&extension=ts&play_token=KYMW1FqxBJ
 
 
 #-*-------------------------FHD-*---------------------------------------#
