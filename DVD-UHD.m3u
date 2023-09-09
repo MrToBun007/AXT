@@ -529,19 +529,19 @@ http://89.45.13.201:8080/play/live.php?mac=00:1A:79:C6:A7:D1&stream=566122&exten
 #-*--Ziggo Sports NL-*--#
 
 #EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Select FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6595&extension=ts&play_token=bvujBFWnKT
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=270642&extension=ts&play_token=WUGeZBPz1e
 
 #EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Voetbal
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6602&extension=ts&play_token=PVRsgJd44D
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=270644&extension=ts&play_token=UJyqT2LH2i
 
 #EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Racing FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=207544&extension=ts&play_token=YbjboROzAc
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=270643&extension=ts&play_token=J0tGnAJCKR
 
 #EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Golf FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6598&extension=ts&play_token=WxcfxxXBPJ
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=270645&extension=ts&play_token=1M5t6fVM7z
 
-#EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Tennis FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:BC:31:0C&stream=6606&extension=ts&play_token=UvUf2neSp1
+#EXTINF:-1 group-title="Ziggo Sport" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sport Sports FHD
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=270641&extension=ts&play_token=0OGxwrh8Na
 
 #EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/mancitykkk",1.Manchester City FHD
 
@@ -696,13 +696,13 @@ http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=670233&exten
 http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=670234&extension=ts&play_token=tvVQTaE6NV
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 1 FHD
-http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=656462&extension=ts&play_token=8rmr9FzCZ7
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=215315&extension=ts&play_token=tqUGMO5P8x
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 2 FHD
-http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=656463&extension=ts&play_token=43b34WJavu
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=215316&extension=ts&play_token=WgBAEIfZKC
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 3 FHD
-http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=656464&extension=ts&play_token=cgGuvXK1cf
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=215317&extension=ts&play_token=geGJWao4xt
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 4 FHD
-http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=656465&extension=ts&play_token=NmOwoassjZ
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=215318&extension=ts&play_token=9CgoDKybGc
 
 
 
