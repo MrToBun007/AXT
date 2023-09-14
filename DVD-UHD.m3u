@@ -18,10 +18,10 @@ https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 
 #--*.*--🔴| Live Event--*.*--#
 
-#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/live4kkkkk",US Open - Eurosport 4K
+#EXTINF:-1 group-title="⚽|Live Super SAT&SUN" tvg-logo="http://gg.gg/live4kkkkk",US Open - Eurosport 4K
 http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:B2:58:2B&stream=242996&extension=ts&play_token=8Wn7wM2Vrs
 
-#EXTINF:-1 group-title="⚽| Live Super SATURDAY & SUNDAY" tvg-logo="http://gg.gg/livehdd",USA Networks FHD 
+#EXTINF:-1 group-title="⚽|Live Super SAT&SUN" tvg-logo="http://gg.gg/livehdd",USA Networks FHD 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
 
 
@@ -46,7 +46,7 @@ https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://live.khanggtivi.xyz/keys/?token=b6ab2acd057b9151ee1ecd1683a3bc75cb0568ef&id=710
 https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyTV
+#EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyTV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -562,7 +562,7 @@ http://45.139.122.199:80/play/live.php?mac=00:1A:79:AA:BF:0D&stream=9844&extensi
 #EXTINF:-1 group-title="FHD" tvg-logo="http://gg.gg/Brightonkkk",1.Brighton&Hove Albion FHD
 
 
-#EXTINF:-1 group-title="🏁|Formula 1 " tvg-logo="http://gg.gg/ssportsf1kkk",1.Sky Sport F1 FHD
+#EXTINF:-1 group-title="🏁|Formula 1" tvg-logo="http://gg.gg/ssportsf1kkk",1.Sky Sport F1 FHD
 http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=ts&play_token=6rCllY0ScD
 #EXTINF:-1 group-title="🏁|Formula 1" tvg-logo="http://gg.gg/ssportsf1kkk",2.Sky Sport F1 FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:01:71:e5&stream=693530&extension=ts&play_token=eEnIjFdPdR
