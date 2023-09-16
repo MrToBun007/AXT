@@ -19,7 +19,7 @@ http://kleineinzeige.com:8080/live/Mirecea_Isdrael/Alarma123/56016.m3u8
 
 #--*.*--🔴| Live Event--*.*--#
 
-#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://gg.gg/live4kkkkk",18h30 TNT Sports Ultimate UHD
+#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",18h30 TNT Sports Ultimate UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1300442&extension=ts&play_token=KRQ2igfaiV
 
 #EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://gg.gg/live4kkkkk",21h00 Sky Sports Main Event UHD
@@ -95,18 +95,18 @@ http://b4tv.live/b4tv/b4tv/76.m3u8
 
 #-*--4K-UHD-*--#
 
-#EXTINF:-1 group-title="4K-UHD Sports" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
+#EXTINF:-1 group-title="4K-UHD Sports" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sky_Sport_4K.svg/2716px-Sky_Sport_4K.svg.png" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1300442&extension=ts&play_token=KRQ2igfaiV
 
-#EXTINF:-1 group-title="4K-UHD Sports" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1299719&extension=ts&play_token=fvOMfJrBPI
-#EXTINF:-1 group-title="4K-UHD Sports" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/ssmaineventuhdkkk",2.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",2.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
-#EXTINF:-1 group-title="4K-UHD Sports" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/ssmaineventuhdkkk",3.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",3.Sky Sports Main Event UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1299719&extension=ts&play_token=pQ2xPxqCDv
-#EXTINF:-1 group-title="4K-UHD Sports" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/ssmaineventuhdkkk",4.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",4.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1299719&extension=ts&play_token=inv5ZqpPfR
-#EXTINF:-1 group-title="4K-UHD Sports" group-logo="http://gg.gg/ssmaineventuhdkkk" tvg-logo="http://gg.gg/ssmaineventuhdkkk",5.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",5.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
 
 
