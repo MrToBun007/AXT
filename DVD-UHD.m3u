@@ -95,7 +95,7 @@ http://b4tv.live/b4tv/b4tv/76.m3u8
 
 #-*--4K-UHD-*--#
 
-#EXTINF:-1 group-title="4K-UHD Sports" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sky_Sport_4K.svg/2716px-Sky_Sport_4K.svg.png" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
+#EXTINF:-1 group-title="4K-UHD Sports" group-logo="https://img.freepik.com/premium-photo/hd-4k-icon-silver-frame_427873-453.jpg" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1300442&extension=ts&play_token=KRQ2igfaiV
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
@@ -249,7 +249,7 @@ http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=52613
 http://ultratv.one:2095/play/live.php?mac=00:1A:79:C9:3F:E3&stream=101206&extension=ts&play_token=BzCcY4S10M
 
 
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Motor UHD
+#EXTINF:-1 group-title="4K-UHD Sports" group-logo="https://t4.ftcdn.net/jpg/05/33/02/23/360_F_533022360_pQ3WjgQvkL4n4oAYVHCgsJgjvJmFV9Pv.jpg" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Motor UHD
 http://thespectrummag.sytes.net:80/play/live.php?mac=00:1A:79:7B:61:99&stream=526128&extension=ts&play_token=b5FA4gfd0H
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport 4K
