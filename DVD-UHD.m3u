@@ -159,11 +159,10 @@ http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=81673&extensi
 
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI UHD
-http://safe.avivainsur.com:8080/Stefan-Razvan_Roibu/pdVXSsGrZ1/10402
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=90814&extension=ts&play_token=vfms2HUyoB
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",2.DIGI UHD
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=443338&extension=ts&play_token=EgMgLw2PMR
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",3.DIGI UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=90814&extension=ts&play_token=vfms2HUyoB
+
 
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/vsporthdkkk",1.V Sports UltraHD
