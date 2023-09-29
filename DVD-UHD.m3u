@@ -622,15 +622,13 @@ http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=670233&exten
 http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=670234&extension=ts&play_token=tvVQTaE6NV
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 1 FHD
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=215315&extension=ts&play_token=tqUGMO5P8x
+http://wagnet.club:2052/play/live.php?mac=00:1A:79:A6:8E:C8&stream=1640141&extension=ts&play_token=PztFFYUCGb
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 2 FHD
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=215316&extension=ts&play_token=WgBAEIfZKC
+http://wagnet.club:2052/play/live.php?mac=00:1A:79:A6:8E:C8&stream=1640140&extension=ts&play_token=hsmNbM8aAM
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 3 FHD
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=215317&extension=ts&play_token=geGJWao4xt
+http://wagnet.club:2052/play/live.php?mac=00:1A:79:A6:8E:C8&stream=1640139&extension=ts&play_token=3Ic595daI4
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 4 FHD
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=215318&extension=ts&play_token=9CgoDKybGc
-
-
+http://wagnet.club:2052/play/live.php?mac=00:1A:79:A6:8E:C8&stream=1640138&extension=ts&play_token=7qSilMc199
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:C8:7B:C3&stream=1350557&extension=ts&play_token=r0e43XfMsy
