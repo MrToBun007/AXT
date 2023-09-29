@@ -621,14 +621,15 @@ http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=670233&exten
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_170_122",1.Now Premier Sport 4 FHD
 http://oaclass.live:8080/play/live.php?mac=00:1A:79:AB:59:41&stream=670234&extension=ts&play_token=tvVQTaE6NV
 
+
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 1 FHD
-http://wagnet.club:2052/play/live.php?mac=00:1A:79:A6:8E:C8&stream=1640141&extension=ts&play_token=PztFFYUCGb
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57653.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 2 FHD
-http://wagnet.club:2052/play/live.php?mac=00:1A:79:A6:8E:C8&stream=1640140&extension=ts&play_token=hsmNbM8aAM
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57654.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 3 FHD
-http://wagnet.club:2052/play/live.php?mac=00:1A:79:A6:8E:C8&stream=1640139&extension=ts&play_token=3Ic595daI4
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57655.ts
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1_HD.png",1.Astro Supersport 4 FHD
-http://wagnet.club:2052/play/live.php?mac=00:1A:79:A6:8E:C8&stream=1640138&extension=ts&play_token=7qSilMc199
+http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
 
 #EXTINF:-1 group-title="Premier League FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",1.Hub Premier 1 FHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:C8:7B:C3&stream=1350557&extension=ts&play_token=r0e43XfMsy
