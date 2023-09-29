@@ -20,10 +20,10 @@ http://kleineinzeige.com:8080/live/Mirecea_Isdrael/Alarma123/56016.m3u8
 #--*.*--🔴| Live Event--*.*--#
 
 #EXTINF:-1 group-title="⚽|Live Super SAT & SUN" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",TNT Sports Ultimate UHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1300442&extension=ts&play_token=KRQ2igfaiV
+http://46.175.129.181:80/play/live.php?mac=00:1A:79:bd:3a:f2&stream=479413&extension=ts&play_token=ePMWb8SwQI
 
 #EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://gg.gg/live4kkkkk",Sky Sports Main Event UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
+http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6d:00:2e&stream=372268&extension=ts&play_token=N9vmtr8ZEs
 
 #EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://gg.gg/livehdd",USA Networks FHD 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
