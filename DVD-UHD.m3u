@@ -28,6 +28,8 @@ http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6d:00:2e&stream=372268&exten
 #EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://gg.gg/livehdd",USA Networks FHD 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
 
+#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://gg.gg/livehdd",MotorSport Japan GP
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38700&extension=ts&play_token=s2QtqcUkHm
 
 #--*.*--K+--*.*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyTV
