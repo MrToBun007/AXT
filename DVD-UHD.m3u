@@ -120,15 +120,6 @@ http://45.139.122.199:80/play/live.php?mac=00:1A:79:BA:67:F1&stream=643684&exten
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1299719&extension=ts&play_token=fvOMfJrBPI
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",2.Sky Sports Main Event UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",3.Sky Sports Main Event UHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1299719&extension=ts&play_token=pQ2xPxqCDv
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",4.Sky Sports Main Event UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1299719&extension=ts&play_token=inv5ZqpPfR
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",5.Sky Sports Main Event UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
-
 
 
 #EXTINF:-1 group-title="🏁|Formula 1" tvg-logo="http://gg.gg/skyf1kkk",1.Sky Sports F1 UHD
@@ -139,8 +130,6 @@ http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1566281&ext
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1566281&extension=ts&play_token=pWO7TmsfXQ
 #EXTINF:-1 group-title="🏁|Formula 1" tvg-logo="http://gg.gg/skyf1kkk",4.Sky Sports F1 UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1566281&extension=ts&play_token=sAFDaEnf1o
-#EXTINF:-1 group-title="🏁|Formula 1" tvg-logo="http://gg.gg/skyf1kkk",5.Sky Sports F1 UHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:b4:fe:0a&stream=1566281&extension=ts&play_token=i3t9iYDcQ5
 
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssportdekkk",1.Sky Sports DE UHD
