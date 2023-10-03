@@ -19,11 +19,14 @@ http://kleineinzeige.com:8080/live/Mirecea_Isdrael/Alarma123/56016.m3u8
 
 #--*.*--🔴| Live Event--*.*--#
 
-#EXTINF:-1 group-title="⚽|Live C1" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",TNT Sports Ultimate UHD
+#EXTINF:-1 group-title="⚽|Live C1" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",1.TNT Sports Ultimate UHD
 http://46.175.129.181:80/play/live.php?mac=00:1a:79:96:ac:e7&stream=479413&extension=ts&play_token=TLgX98bYtN
 
-#EXTINF:-1 group-title="⚽|Live C1" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",TNT Sports Ultimate UHD
+#EXTINF:-1 group-title="⚽|Live C1" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",2.TNT Sports Ultimate UHD
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:4b:ad:5d&stream=359943&extension=ts&play_token=CGPgp5sdhE
+
+#EXTINF:-1 group-title="⚽|Live C1" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",3.TNT Sports Ultimate UHD
+http://wellwisher.mastergold.co.uk:80/play/live.php?mac=00:1A:79:5F:60:8C&stream=479413&extension=ts&play_token=VLcWBg8nGz
 
 #EXTINF:-1 group-title="⚽|Live C1" tvg-logo="http://gg.gg/live4kkkkk",Sky Sports Main Event UHD
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6d:00:2e&stream=372268&extension=ts&play_token=N9vmtr8ZEs
