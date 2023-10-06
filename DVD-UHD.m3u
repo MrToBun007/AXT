@@ -28,8 +28,11 @@ http://45.137.119.2:8080/play/live.php?mac=00:1A:79:4b:ad:5d&stream=359943&exten
 #EXTINF:-1 group-title="⚽|Live Event" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",3.TNT Sports Ultimate UHD
 http://wellwisher.mastergold.co.uk:80/play/live.php?mac=00:1A:79:5F:60:8C&stream=479413&extension=ts&play_token=VLcWBg8nGz
 
-#EXTINF:-1 group-title="⚽|Live Event" tvg-logo="http://gg.gg/live4kkkkk",Sky Sports Main Event UHD
+#EXTINF:-1 group-title="⚽|Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports Main Event UHD
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6d:00:2e&stream=372268&extension=ts&play_token=N9vmtr8ZEs
+
+#EXTINF:-1 group-title="⚽|Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Sky Sports Main Event UHD
+http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:40:D4:5E&stream=474653&extension=ts&play_token=TkTSNjd9u6
 
 #EXTINF:-1 group-title="⚽|Live Event" tvg-logo="http://gg.gg/livehdd",USA Networks FHD 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
