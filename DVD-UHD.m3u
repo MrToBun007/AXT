@@ -52,6 +52,16 @@ https://asia.vthanhtivi.pw/test/index.m3u8
 http://103.172.78.51/b4tv/b4tv/1.m3u8
 
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyTV Thử nghiệm phát sóng
+https://live.khanggtivi.xyz/rtp/play-drm/?dash=232.84.1.96:8550&token=0c7dcecf44f1954b0d9c8342790cf8219d84820a
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyTV Thử nghiệm phát sóng
+https://live.khanggtivi.xyz/rtp/play-drm/?dash=232.84.1.97:8556&token=0c7dcecf44f1954b0d9c8342790cf8219d84820a
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyTV Thử nghiệm phát sóng
+https://live.khanggtivi.xyz/rtp/play-drm/?dash=232.84.1.98:8562&token=0c7dcecf44f1954b0d9c8342790cf8219d84820a
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyTV Thử nghiệm phát sóng
+https://live.khanggtivi.xyz/rtp/play-drm/?dash=232.84.1.131:10368&token=0c7dcecf44f1954b0d9c8342790cf8219d84820a
+
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://gg.gg/k-lifekkk",1.K+ LIFE
