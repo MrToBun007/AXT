@@ -12,8 +12,7 @@
 
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1 group-title="🔁|Refresh List Before Saturday" tvg-logo="http://gg.gg/hrd222",4K-UHD Channel
-http://kleineinzeige.com:8080/live/Mirecea_Isdrael/Alarma123/56016.m3u8
-#https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
+https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 #http://gg.gg/4hkdrrr
 
 
@@ -24,9 +23,6 @@ http://46.175.129.181:80/play/live.php?mac=00:1a:79:96:ac:e7&stream=479413&exten
 
 #EXTINF:-1 group-title="⚽|Live Event" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",2.TNT Sports Ultimate UHD
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:4b:ad:5d&stream=359943&extension=ts&play_token=CGPgp5sdhE
-
-#EXTINF:-1 group-title="⚽|Live Event" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",3.TNT Sports Ultimate UHD
-http://wellwisher.mastergold.co.uk:80/play/live.php?mac=00:1A:79:5F:60:8C&stream=479413&extension=ts&play_token=VLcWBg8nGz
 
 #EXTINF:-1 group-title="⚽|Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports Main Event UHD
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6d:00:2e&stream=372268&extension=ts&play_token=N9vmtr8ZEs
@@ -42,14 +38,28 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=38700&extens
 
 #--*.*--K+--*.*--#
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - ClipTV
+https://asia.vthanhtivi.pw/kcine/index.m3u8
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - ClipTV
+https://asia.vthanhtivi.pw/klife/index.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - ClipTV
+https://asia.vthanhtivi.pw/ksport1/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - ClipTV
+https://asia.vthanhtivi.pw/ksport2c/index.m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - ClipTV
+https://asia.vthanhtivi.pw/kkidsc/index.m3u8
+
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
 http://vthanhtivi.pw:5000/kcine/index.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
 http://vthanhtivi.pw:5000/klife/index.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",1.K+ SPORT1 - MyK+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
 https://asia.vthanhtivi.pw/test/index.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",2.K+ SPORT1 - MyK+
-http://103.172.78.51/b4tv/b4tv/1.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+https://asia.vthanhtivi.pw/ksport2/index.m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+https://asia.vthanhtivi.pw/kkids/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
@@ -80,6 +90,7 @@ http://b4tv.live/b4tv/b4tv/48.m3u8
 http://b4tv.live/b4tv/b4tv/86.m3u8
 #EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 2
 http://b4tv.live/b4tv/b4tv/76.m3u8
+
 
 
 #-*--4K-UHD-*--#
