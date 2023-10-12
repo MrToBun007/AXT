@@ -18,19 +18,19 @@ https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 
 #--*.*--🔴| Live Event--*.*--#
 
-#EXTINF:-1 group-title="⚽|Live Event" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",1.TNT Sports Ultimate UHD
+#EXTINF:-1 group-title="⚽|Live Event 4K" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",1.TNT Sports Ultimate UHD
 http://46.175.129.181:80/play/live.php?mac=00:1a:79:96:ac:e7&stream=479413&extension=ts&play_token=TLgX98bYtN
 
-#EXTINF:-1 group-title="⚽|Live Event" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",2.TNT Sports Ultimate UHD
+#EXTINF:-1 group-title="⚽|Live Event 4K" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",2.TNT Sports Ultimate UHD
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:4b:ad:5d&stream=359943&extension=ts&play_token=CGPgp5sdhE
 
-#EXTINF:-1 group-title="⚽|Live Event" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports Main Event UHD
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6d:00:2e&stream=372268&extension=ts&play_token=N9vmtr8ZEs
 
-#EXTINF:-1 group-title="⚽|Live Event" tvg-logo="http://gg.gg/live4kkkkk",2.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/live4kkkkk",2.Sky Sports Main Event UHD
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:40:D4:5E&stream=474653&extension=ts&play_token=TkTSNjd9u6
 
-#EXTINF:-1 group-title="⚽|Live Event" tvg-logo="http://gg.gg/livehdd",USA Networks FHD 
+#EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/livehdd",USA Networks FHD 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
 
 
@@ -72,21 +72,21 @@ https://asia.vthanhtivi.pw/kkids/index.m3u8
 
 
 #-*-- B4TV -*--#
-#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
+#EXTINF:-1 group-title="⚽|Live B4TV" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
 http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png", B4BOX
+#EXTINF:-1 group-title="⚽|Live B4TV" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png", B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
-#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://b4tv.live/images/5150b363cf6c9192ebe147a113dea625.png", B4TUBE
+#EXTINF:-1 group-title="⚽|Live B4TV" tvg-logo="http://b4tv.live/images/5150b363cf6c9192ebe147a113dea625.png", B4TUBE
 http://b4tv.live/b4tv/b4tv/85.m3u8
-#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 1
+#EXTINF:-1 group-title="⚽|Live B4TV" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 1
 http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 2
+#EXTINF:-1 group-title="⚽|Live B4TV" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 2
 http://b4tv.live/b4tv/b4tv/47.m3u8
-#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 3
+#EXTINF:-1 group-title="⚽|Live B4TV" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 3
 http://b4tv.live/b4tv/b4tv/48.m3u8
-#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 1
+#EXTINF:-1 group-title="⚽|Live B4TV" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 1
 http://b4tv.live/b4tv/b4tv/86.m3u8
-#EXTINF:-1 group-title="⚽|Live Super SAT & SUN" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 2
+#EXTINF:-1 group-title="⚽|Live B4TV" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 2
 http://b4tv.live/b4tv/b4tv/76.m3u8
 
 
