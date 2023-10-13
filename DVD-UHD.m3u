@@ -36,18 +36,6 @@ http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&exten
 
 #--*.*--K+--*.*--#
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - ClipTV
-https://asia.vthanhtivi.pw/kcine/index.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - ClipTV
-https://asia.vthanhtivi.pw/klife/index.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - ClipTV
-https://asia.vthanhtivi.pw/ksport1/index.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - ClipTV
-https://asia.vthanhtivi.pw/ksport2c/index.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - ClipTV
-https://asia.vthanhtivi.pw/kkidsc/index.m3u8
-
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
 http://vthanhtivi.pw:5000/kcine/index.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
@@ -58,17 +46,6 @@ https://asia.vthanhtivi.pw/test/index.m3u8
 https://asia.vthanhtivi.pw/ksport2/index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
 https://asia.vthanhtivi.pw/kkids/index.m3u8
-
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", KK+ CINE
-https://live.khanggtivi.xyz/32ef3f2d22c8fc4c32f731d173e71b5bc9b0557c/kcinehd/playlist.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", KK+ LIFE
-https://live.khanggtivi.xyz/32ef3f2d22c8fc4c32f731d173e71b5bc9b0557c/klifehd/playlist.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", KK+ SPORT1
-https://live.khanggtivi.xyz/32ef3f2d22c8fc4c32f731d173e71b5bc9b0557c/ksport1hd/playlist.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", KK+ SPORT2
-https://live.khanggtivi.xyz/32ef3f2d22c8fc4c32f731d173e71b5bc9b0557c/ksport2hd/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/cinekkk",1.K+ CINE
