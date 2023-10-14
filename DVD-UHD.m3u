@@ -148,10 +148,8 @@ http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=242996&extensi
 http://45.139.122.199:8080/live/kUwmB8cP/anhw5pG/453954.m3u8
 
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/canal-kkk",1.Canal+ 4K
-http://416streams.sytes.net:8080/live/tgtom/sfX2pkmu5L/510627.m3u8
 
 #EXTINF:-1 group-title="4K-UHD" tvg-logo="http://gg.gg/btvkkk",1.BTV 4K 
-http://xplatinmedia.com:8080/live/STV_Disc/tF0tQTIBAxDEl2qBTFutUUgyuNmyFN/74086.ts
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/orangesportkkk",1.Orange Sport 1 UHD
 http://safe.avivainsur.com:8080/Cinta_Gheorghe/a2x2DSg2Gg4m/38647
