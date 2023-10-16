@@ -8,7 +8,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #Su dung OTT Navigator hoặc Tivimate để xem được K+
 
-#My list : http://gg.gg/06062023 , https://hqth.me/r586iE , http://onetv.pw/0606
+#My list : http://gg.gg/101023
 
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1 group-title="🔁|Refresh List Before Saturday" tvg-logo="http://gg.gg/hrd222",4K-UHD Channel
@@ -21,14 +21,14 @@ https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 #EXTINF:-1 group-title="⚽|Live Event 4K" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",1.Ziggo Sports UHD
 http://v1.titanlive.pro:8080/live/yalcinoguzulgen/yalcin@0923/393077.m3u8
 
-#EXTINF:-1 group-title="⚽|Live Event 4K" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",2.TNT Sports Ultimate UHD
-http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:FC:08:EF&stream=479413&extension=ts&play_token=nYsxdbTTjl
+#EXTINF:-1 group-title="⚽|Live Event 4K" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk",1.TNT Sports Ultimate UHD
+http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:E8:72:AE&stream=479413&extension=ts&play_token=odhJbw5kqR
 
 #EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports Main Event UHD
-http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6d:00:2e&stream=372268&extension=ts&play_token=N9vmtr8ZEs
+http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:6e:d5:c9&stream=1536782&extension=ts&play_token=gpNwmXbZOk
 
-#EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/live4kkkkk",2.Sky Sports Main Event UHD
-http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:40:D4:5E&stream=474653&extension=ts&play_token=TkTSNjd9u6
+#EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports UHD
+http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:6e:d5:c9&stream=1884239&extension=ts&play_token=NG40BmXfhZ
 
 #EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/livehdd",USA Networks FHD 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
