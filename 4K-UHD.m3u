@@ -30,7 +30,7 @@ http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:6e:d5:c9&stream=1536782
 #EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/Skyultrakkk",1.Sky Sports UltraHD HDR
 http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:6e:d5:c9&stream=1884239&extension=ts&play_token=NG40BmXfhZ
 
-#EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/livehdd",USA Networks FHD 
+#EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/livehdd",1.USA Networks FHD 
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
 
 
@@ -326,7 +326,7 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 https://live2onsport.vtvcab.vn/hls/VTV6_HD/sc-gaFEAA/m30_index.m3u8
 
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/6WW75Cz/NINHBINH-BEARTV.png",Ninh Bình
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/6WW75Cz/NINHBINH-BEARTV.png", Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 
 
