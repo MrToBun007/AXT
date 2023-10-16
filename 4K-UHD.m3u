@@ -27,7 +27,7 @@ http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:E8:72:AE&stream=47
 #EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports Main Event UHD
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:95:32:6A&stream=474653&extension=ts&play_token=Fw95EFwsnm
 
-#EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/Skyultrakkk",1.Sky Sports UltraHD HDR
+#EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports UltraHD HDR
 http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:6e:d5:c9&stream=1884239&extension=ts&play_token=NG40BmXfhZ
 
 #EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/livehdd",1.USA Networks FHD 
@@ -57,7 +57,7 @@ http://b4tv.live/b4tv/b4tv/76.m3u8
 
 #-*--4K-UHD-*--#
 
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports UltraHD HDR
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/Skyultrakkk",1.Sky Sports UltraHD HDR
 http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:76:03:b3&stream=1884239&extension=ts&play_token=EsxNxzAk4J
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
