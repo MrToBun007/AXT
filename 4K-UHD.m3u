@@ -72,15 +72,9 @@ http://b4tv.live/b4tv/b4tv/76.m3u8
 http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:76:03:b3&stream=1884239&extension=ts&play_token=EsxNxzAk4J
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
-http://46.175.129.181:80/play/live.php?mac=00:1a:79:96:ac:e7&stream=479413&extension=ts&play_token=1DO7gomcJr
-
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/tntultimateuhd1kkk",2.TNT Ultimate UHD
-http://45.139.122.199:8080/live/kUwmB8cP/anhw5pG/643684.m3u8
+http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:95:32:6A&stream=479413&extension=ts&play_token=yeydnZiyJ7
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
-http://46.175.129.181:80/play/live.php?mac=00:1A:79:bd:3a:f2&stream=474653&extension=ts&play_token=Le9mO8mjBu
-
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",2.Sky Sports Main Event UHD
 http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:62:04:F4&stream=1536782&extension=ts&play_token=6eWZW2M2Zp
 
 #EXTINF:-1 group-title="🏁|Formula 1" tvg-logo="http://gg.gg/skyf1kkk",1.Sky Sports F1 UHD
