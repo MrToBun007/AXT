@@ -20,7 +20,7 @@ https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:E8:72:AE&stream=479413&extension=ts&play_token=odhJbw5kqR
 
 #EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports Main Event UHD
-http://46.175.129.181:80/play/live.php?mac=00:1A:79:73:69:65&stream=474653&extension=ts&play_token=fBoLmyB94s
+http://premiercctv.net:8080/play/live.php?mac=00:1A:79:BC:40:46&stream=234174&extension=ts&play_token=GWWFurkBQv
 
 #EXTINF:-1 group-title="⚽|Live Event 4K" tvg-logo="http://gg.gg/live4kkkkk",1.Sky Sports UltraHD HDR
 http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:6e:d5:c9&stream=1884239&extension=ts&play_token=NG40BmXfhZ
@@ -56,7 +56,7 @@ http://b4tv.live/b4tv/b4tv/76.m3u8
 http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:76:03:b3&stream=1884239&extension=ts&play_token=EsxNxzAk4J
 
 #EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
-http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:62:04:F4&stream=1536782&extension=ts&play_token=6eWZW2M2Zp
+http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=474653&extension=ts&play_token=NqwGESB80b
 
 #EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:95:32:6A&stream=479413&extension=ts&play_token=yeydnZiyJ7
@@ -104,7 +104,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=905665&
 #EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/digisport1kkk",1.Digi Sports 1
 http://45.139.122.199:8080/live/kUwmB8cP/anhw5pG/90814.m3u8
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI 4K
 http://live.nettvroeuroworld.net:8080/live/48504359694-2022/Idsxt3P7Wkw5A8t/130855.m3u8
 
 #EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/vsporthdkkk",1.V Sports UltraHD
