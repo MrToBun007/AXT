@@ -84,9 +84,6 @@ http://optimustv.show:8080/play/live.php?mac=00:1A:79:01:72:8C&stream=482837&ext
 http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=262458&extension=ts&play_token=PlJW0ra5so
 
 #EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/astro4kkk",1.Astro Supersports UHD
-http://ipgurl.xyz:80/live/Jn4aKNNYC/PF560kadv6/85859.m3u8
-
-#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/astro4kkk",2.Astro Supersports UHD
 http://46.175.129.181:80/play/live.php?mac=00:1A:79:c1:3e:39&stream=534095&extension=ts&play_token=Ve0SDf2Fcm
 
 #EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 UHD
