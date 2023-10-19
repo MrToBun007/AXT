@@ -102,8 +102,8 @@ http://kleineinzeige.com:8080/live/Vasile_Pop/HmCARm543/10402.m3u8
 #EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/vsporthdkkk",1.V Sports UltraHD
 http://m.octotv.live/live/Michael99/Michael99/466358.m3u8
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/canalkkk",1.Canal+ Sports UHD
-http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:f3:15:70&stream=526130&extension=ts&play_token=MlgpSMgsLy
+#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/canalkkk",1.Canal+ UHD
+http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:4d:05:c6&stream=225921&extension=ts&play_token=vXbTtxd5ER
 
 #EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport 4K
 http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:B2:58:2B&stream=242996&extension=ts&play_token=8Wn7wM2Vrs
