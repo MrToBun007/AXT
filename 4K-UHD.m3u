@@ -48,54 +48,6 @@ http://b4tv.live/b4tv/b4tv/86.m3u8
 http://b4tv.live/b4tv/b4tv/76.m3u8
 
 
-#-*--K+-*--#
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - MyK+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/11a3431e1cc0b29c49725039ef4060791fc8fd210be4e2ce91f4611e98288f2ccb/stream/kpluscine/master.m3u8
-
-
-#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+ACTION - MyK+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/11a3431e1cc0b29c49725039ef4060791fc8fd210be4e2ce91f4611e98288f2ccb/stream/kpluslife/master.m3u8
-
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyK+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/11a3431e1cc0b29c49725039ef4060791fc8fd210be4e2ce91f4611e98288f2ccb/stream/kplus1/master.m3u8
-
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 - MyK+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/11a3431e1cc0b29c49725039ef4060791fc8fd210be4e2ce91f4611e98288f2ccb/stream/kplus2/master.m3u8
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS - MyK+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/11a3431e1cc0b29c49725039ef4060791fc8fd210be4e2ce91f4611e98288f2ccb/stream/kids/master.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/11a3431e1cc0b29c49725039ef4060791fc8fd210be4e2ce91f4611e98288f2ccb/stream/klive1/master.m3u8
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+LIVE2 - MyK+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/11a3431e1cc0b29c49725039ef4060791fc8fd210be4e2ce91f4611e98288f2ccb/stream/klive2/master.m3u8
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+LIVE3 - MyK+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/11a3431e1cc0b29c49725039ef4060791fc8fd210be4e2ce91f4611e98288f2ccb/stream/klive3/master.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
-https://drm-livecdn.khanggtivi.xyz/kplus/917d02c5f6aa20202361e83afe135a7ffcee3f79c82e60bfd91302eea42aac97890c9e/47/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
-https://drm-livecdn.khanggtivi.xyz/kplus/917d02c5f6aa20202361e83afe135a7ffcee3f79c82e60bfd91302eea42aac97890c9e/48/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
-https://drm-livecdn.khanggtivi.xyz/kplus/917d02c5f6aa20202361e83afe135a7ffcee3f79c82e60bfd91302eea42aac97890c9e/49/playlist.m3u8
-
-
 #-*--4K-UHD-*--#
 
 #EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/Skyultrakkk",1.Sky Sports UltraHD HDR
