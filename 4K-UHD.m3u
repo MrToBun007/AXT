@@ -51,13 +51,13 @@ http://b4tv.live/b4tv/b4tv/76.m3u8
 #EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/Skyultrakkk",1.Sky Sports UltraHD HDR
 http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:76:03:b3&stream=1884239&extension=ts&play_token=EsxNxzAk4J
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=474653&extension=ts&play_token=NqwGESB80b
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=479413&extension=ts&play_token=MQs0fxSoFv
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sports UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo Sports UHD
 http://vegasizle.xyz:8080/play/live.php?mac=00:1A:79:59:12:3B&stream=393077&extension=ts&play_token=t40cTTXbXt
 #http://v1.titanlive.pro:8080/live/yalcinoguzulgen/yalcin@0923/393077.m3u8
 
@@ -71,50 +71,50 @@ http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:62:04:F4&stream=1542769
 #EXTINF:-1 group-title="🏁|Formula 1" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/skyf1kkk",1.Sport Klub F1 4K
 http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:B2:58:2B&stream=243200&extension=ts&play_token=xeTAeOHv5B
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/ssportdekkk",1.Sky Sports DE UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/ssportdekkk",1.Sky Sports DE UHD
 http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:B2:58:2B&stream=237492&extension=ts&play_token=HKW56XPCK4
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/ssportdekkk",2.Sky Sports DE UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/ssportdekkk",2.Sky Sports DE UHD
 http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=237492&extension=ts&play_token=CKTB26Ypz9
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/skybundesliga",1.Sky Bundesliga UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/skybundesliga",1.Sky Bundesliga UHD
 http://optimustv.show:8080/play/live.php?mac=00:1A:79:01:72:8C&stream=482837&extension=ts&play_token=cgTcz6Ck8N
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/astro4kkk",1.Astro Supersports UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/astro4kkk",1.Astro Supersports UHD
 http://46.175.129.181:80/play/live.php?mac=00:1A:79:c1:3e:39&stream=534095&extension=ts&play_token=Ve0SDf2Fcm
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/hubpremierkkk",1.Hub Premier 2 UHD
 http://46.175.129.181:80/play/live.php?mac=00:1A:79:4C:5C:7D&stream=482000&extension=ts&play_token=jFOr5ZPwM1
 
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/now4kkk",1.Now Sport UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/now4kkk",1.Now Sport UHD
 http://45.139.122.199:8080/live/kUwmB8cP/anhw5pG/117957.m3u8
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/elevenkkk",1.Eleven 4K
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/elevenkkk",1.Eleven 4K
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:74:34:8e&stream=905665&extension=ts&play_token=w04PypIZGW
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/digisport1kkk",1.Digi Sports 1
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/digisport1kkk",1.Digi Sports 1
 http://45.139.122.199:8080/live/kUwmB8cP/anhw5pG/90814.m3u8
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI 4K
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI 4K
 http://kleineinzeige.com:8080/live/Vasile_Pop/HmCARm543/10402.m3u8
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/vsporthdkkk",1.V Sports UltraHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/vsporthdkkk",1.V Sports UltraHD
 http://m.octotv.live/live/Michael99/Michael99/466358.m3u8
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/canalkkk",1.Canal+ UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/canalkkk",1.Canal+ UHD
 http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:4d:05:c6&stream=225921&extension=ts&play_token=vXbTtxd5ER
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport 4K
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport 4K
 http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:B2:58:2B&stream=242996&extension=ts&play_token=8Wn7wM2Vrs
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/dvdeurosport",2.EuroSport 4K
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",2.EuroSport 4K
 http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=242996&extension=ts&play_token=naRADNITvs
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/orangesportkkk",1.Orange Sport 1 UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/orangesportkkk",1.Orange Sport 1 UHD
 http://safe.avivainsur.com:8080/Cinta_Gheorghe/a2x2DSg2Gg4m/38647
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/fashiontvkkk",1.Fashion TV UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/fashiontvkkk",1.Fashion TV UHD
 http://alibaabahateyou7.ddns.net:80/qAUChu9y/CErjbgPLYg/230039
 
 
@@ -123,48 +123,48 @@ http://alibaabahateyou7.ddns.net:80/qAUChu9y/CErjbgPLYg/230039
 #EXTINF:-1 group-title="2K-QHD" group-logo="http://gg.gg/logo2kkkk" tvg-logo="http://gg.gg/logo2kkkk",1.RTL QHD
 http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=472450&extension=ts&play_token=681e9XRml9
 
-#EXTINF:-1 group-title="2K-QHD" group-logo="http://gg.gg/logo2kkkk" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport F1 QHD
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport F1 QHD
 http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=133540&extension=ts&play_token=OYE2cWH3ls
 
-#EXTINF:-1 group-title="2K-QHD" group-logo="http://gg.gg/logo2kkkk" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Bundesliga QHD
+#EXTINF:-1 group-title="2K-QHD" tvg-logo="http://gg.gg/logo2kkkk",1.Sky Sport Bundesliga QHD
 http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=434505&extension=ts&play_token=lg4yD24Nfg
 
 
 #--*.*--VTV--*.*--#
-#EXTINF:-1 tvg-id="vtv1hd" group-logo="http://gg.gg/vtvkkk" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://code.vthanhtivi.pw/getlink/tv360/8_c3V-Q8zzQKE128q_zKTg/1697696852/2/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv2-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://code.vthanhtivi.pw/getlink/vieon/vtv3-hd/playlist.m3u8
 https://liveh12.vtvcab.vn/hls/VTV3_HD/03.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://code.vthanhtivi.pw/getlink/fptplay/ijahS2UwV9idlhcHsC73bw/1697696852/vtv5-tay-nguyen/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://code.vthanhtivi.pw/getlink/vieon/vtv-can-tho/playlist.m3u8
 https://live2onsport.vtvcab.vn/hls/VTV6_HD/sc-gaFEAA/m30_index.m3u8
 
 
-#EXTINF:-1 group-logo="http://gg.gg/vtvkkk" group-title="❤| VTV" tvg-logo="https://i.ibb.co/6WW75Cz/NINHBINH-BEARTV.png", Ninh Bình
+#EXTINF:-1 group-title="❤| VTV" tvg-logo="https://i.ibb.co/6WW75Cz/NINHBINH-BEARTV.png", Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 
 
