@@ -51,6 +51,13 @@ http://b4tv.live/b4tv/b4tv/76.m3u8
 #EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/Skyultrakkk",1.Sky Sports UltraHD HDR
 http://live.exodus-1.rocks:80/play/live.php?mac=00:1A:79:76:03:b3&stream=1884239&extension=ts&play_token=EsxNxzAk4J
 
+#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/Skyultrakkk",2.Sky Sports UltraHD HDR
+http://45.137.119.2:8080/play/live.php?mac=00:1A:79:f6:75:c8&stream=396199&extension=ts&play_token=WlhoiwntgW
+
+#EXTINF:-1 group-title="📺 4K-UHD Sports" group-logo="http://gg.gg/sportskkk" tvg-logo="http://gg.gg/Skyultrakkk",3.Sky Sports UltraHD HDR
+http://45.137.119.2:8080/play/live.php?mac=00:1A:79:f6:75:c8&stream=396200&extension=ts&play_token=bixb6WskX2
+
+
 #EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=474653&extension=ts&play_token=NqwGESB80b
 
