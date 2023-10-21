@@ -99,10 +99,13 @@ http://45.139.122.199:8080/live/kUwmB8cP/anhw5pG/90814.m3u8
 #EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",1.DIGI 4K
 http://kleineinzeige.com:8080/live/Vasile_Pop/HmCARm543/10402.m3u8
 
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",2.DIGI 4K
+http://kleineinzeige.com:8080/live/SILVIU/SILVIU2021/10402.m3u8
+
 #EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/vsporthdkkk",1.V Sports UltraHD
 http://m.octotv.live/live/Michael99/Michael99/466358.m3u8
 
-#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/canalkkk",1.Canal+ UHD
+#EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/canal-uhd",1.Canal+ UHD
 http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:4d:05:c6&stream=225921&extension=ts&play_token=vXbTtxd5ER
 
 #EXTINF:-1 group-title="📺 4K-UHD Sports" tvg-logo="http://gg.gg/dvdeurosport",1.EuroSport 4K
