@@ -63,8 +63,6 @@ http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:B2:58:2B&stream=237492&exte
 #EXTINF:-1 tvg-id="4" tvg-name="EU" tvg-logo="http://gg.gg/ziggosportkkk" group-title="Sports UHD",1.Ziggo Sports 4K 
 http://nvdprotv.xyz:8080/play/live.php?mac=00:1A:79:60:b4:42&stream=393077&extension=ts&play_token=JICrcaYsBH
 #EXTINF:-1 tvg-id="4" tvg-name="EU" tvg-logo="http://gg.gg/ziggosportkkk" group-title="Sports UHD",2.Ziggo Sports 4K
-http://kloselivetv.xyz:8080/play/live.php?mac=00:1A:79:28:5c:ca&stream=393077&extension=ts&play_token=4bLK0FGgQN
-#EXTINF:-1 tvg-id="4" tvg-name="EU" tvg-logo="http://gg.gg/ziggosportkkk" group-title="Sports UHD",3.Ziggo Sports 4K 
 http://nvdprotv.xyz:8080/play/live.php?mac=00:1A:79:60:b4:42&stream=393077&extension=ts&play_token=lqwNl3zW4n
 
 #EXTINF:-1 tvg-id="5" tvg-name="VN" tvg-logo="http://gg.gg/bein4kkkk" group-title="Sports UHD",1.Bein 4K 
