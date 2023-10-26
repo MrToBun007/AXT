@@ -1,16 +1,11 @@
 
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,
-
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 #Su dung OTT Navigator hoặc Tivimate để xem được K+
 
-#My list : http://gg.gg/101023
+#My list : http://gg.gg/251023
 
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1 group-title="🔁|Refresh List Before Saturday + Use VPN" tvg-logo="http://gg.gg/hrd222",4K-UHD Channel
 https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
-#http://gg.gg/4hkdrrr
-
 
 #--*.*--🔴| Live Sports--*.*--#
 
