@@ -18,13 +18,20 @@ http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=47
 #EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",3-2h Crystal Palace vs Tottenham Hotspur
 https://p13.cx:443/play/4AH10lv5jSNFSyFqrecJtSKOKDUjVHjEXLFoGBlNHKu6vGQOoTAiOfb8IlKLakpTi-ZooTyVpFrWHbqRdl_FeMdbT1fimg-27rL4qOJHnY7szX9Ep1I1xadFKECfOVVz_sVC0-14YoeeQrwHJv3r6xTfkkm6Ajy34ck1F8mWGDw?ext=.ts
 
-#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",4
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",4-2h Crystal Palace vs Tottenham Hotspur
+http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6f:e5:d2&stream=396200&extension=ts&play_token=4cPjjVcVR6
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",5-2h Crystal Palace vs Tottenham Hotspur
+http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6f:e5:d2&stream=396199&extension=ts&play_token=3Gp3iOUhpf
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",6
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=482000&extension=ts&play_token=6KoitMnGwA
 
-#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",5
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",7
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=534095&extension=ts&play_token=eoEb0gQhG2
 
-#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",6-F1
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",8-F1
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=548023&extension=ts&play_token=74HOKBFFl8
 
 
