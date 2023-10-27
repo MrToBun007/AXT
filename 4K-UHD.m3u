@@ -24,10 +24,10 @@ http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=53
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=548023&extension=ts&play_token=74HOKBFFl8
 
 
-#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",Channel 1 UEFA Europa
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Channel 1 FHD
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71581&extension=ts&play_token=4FsF0OCajM
 
-#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="http://gg.gg/live4kkkkk",Channel 2 UEFA Europa
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Channel 2 FHD
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71580&extension=ts&play_token=z62h2YhMGz
 
 #-*-- B4TV -*--#
