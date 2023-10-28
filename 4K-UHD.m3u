@@ -10,9 +10,15 @@ https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 #--*.*--Live Sports 4K--*.*--#
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" group-logo="http://gg.gg/live4kkkk" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate-18h30 Chelsea vs Bentford
+http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=479413&extension=ts&play_token=xBdSMweoGf
+
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate Sub
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=479413&extension=ts&play_token=LlsmiVMEpL
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports Main Event
+http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=474653&extension=ts&play_token=zfyMjFc9iA
+
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports Main Event Sub
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=474653&extension=ts&play_token=p0qZWYzgrv
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Now HK Sports-18h30 Chelsea vs Bentford
