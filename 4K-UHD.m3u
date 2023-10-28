@@ -34,9 +34,16 @@ http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6f:e5:d2&stream=396200&exten
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6f:e5:d2&stream=396199&extension=ts&play_token=3Gp3iOUhpf
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Hub Premier 2
+http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=482000&extension=ts&play_token=7mGc6WEyw4
+
+
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Hub Premier 2 Sub
 https://p13.cx:443/play/4AH10lv5jSNFSyFqrecJtSKOKDUjVHjEXLFoGBlNHKu6vGQOoTAiOfb8IlKLakpTi-ZooTyVpFrWHbqRdl_FeMdbT1fimg-27rL4qOJHnY5F_XT2_cdHedHsmVsCiQFY4XGZpk9DMGvGf_vRMD3BzrDk62uQUwhcvFTo-HMTMuo?ext=.ts
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Astro Sports
+http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=534095&extension=ts&play_token=AhBmq6gKVN
+
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Astro Sports Sub
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=534095&extension=ts&play_token=eoEb0gQhG2
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports Deutsch
@@ -46,6 +53,9 @@ http://tanix-hnx.xyz:8080/live/Rene2/Rene2/237492.m3u8
 http://tanix-hnx.xyz:8080/live/Rene2/Rene2/243261.m3u8
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sport F1
+http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=548023&extension=ts&play_token=B5CNJA4cvb
+
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sport F1 Sub
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=548023&extension=ts&play_token=74HOKBFFl8
 
 
