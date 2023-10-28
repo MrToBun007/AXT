@@ -25,7 +25,7 @@ http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=47
 http://optimustv.show:8080/play/live.php?mac=00:1A:79:08:4E:F7&stream=729232&extension=ts&play_token=y4iqCswnrQ
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",NBC Sports-18h30 Chelsea vs Bentford
-https://p13.cx:443/play/4AH10lv5jSNFSyFqrecJtSKOKDUjVHjEXLFoGBlNHKu6vGQOoTAiOfb8IlKLakpTi-ZooTyVpFrWHbqRdl_FeMdbT1fimg-27rL4qOJHnY6y1SteuuqDRm7xiIDO8gP-kunCyEpJEjfD0MGiI17mZMVMXEDZj7Dv0UOsgLYJbFM?ext=.ts
+
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Fubo Sports
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6f:e5:d2&stream=396200&extension=ts&play_token=4cPjjVcVR6
@@ -38,7 +38,6 @@ http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=482
 
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Hub Premier 2 Sub
-https://p13.cx:443/play/4AH10lv5jSNFSyFqrecJtSKOKDUjVHjEXLFoGBlNHKu6vGQOoTAiOfb8IlKLakpTi-ZooTyVpFrWHbqRdl_FeMdbT1fimg-27rL4qOJHnY5F_XT2_cdHedHsmVsCiQFY4XGZpk9DMGvGf_vRMD3BzrDk62uQUwhcvFTo-HMTMuo?ext=.ts
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Astro Sports
 http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=534095&extension=ts&play_token=AhBmq6gKVN
