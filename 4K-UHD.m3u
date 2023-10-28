@@ -48,6 +48,9 @@ http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=53
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Digi Sport 1-21h15 Bar vs RealMD
 http://kleineinzeige.com:8080/live/Alin_Mandy/EmmaAlin13/38531.m3u8
 
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Orange Sport 1-21h15 Bar vs RealMD
+http://kleineinzeige.com:8080/live/Alin_Mandy/EmmaAlin13/38647.m3u8
+
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports Deutsch
 http://tanix-hnx.xyz:8080/live/Rene2/Rene2/237492.m3u8
 
