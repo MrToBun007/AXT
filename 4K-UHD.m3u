@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="🔁|Refresh List Before Saturday + Use VPN" tvg-logo="http://gg.gg/hrd222",4K-UHD Channel
 https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 
-#--*.*--🔴| Live Sports--*.*--#
+#--*.*--Live Sports 4K--*.*--#
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" group-logo="http://gg.gg/live4kkkk" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate-18h30 Chelsea vs Bentford
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=479413&extension=ts&play_token=LlsmiVMEpL
@@ -38,7 +38,7 @@ http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=54
 
 
 
-#--*.*--2K-QHD--*.*--#
+#--*.*--Live Sports 2K--*.*--#
 
 #EXTINF:-1 group-title="⚽|Live Sports 2K" group-logo="http://gg.gg/live2kkkk" tvg-logo="http://gg.gg/logo2kkkk",Sky Bundesliga
 http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:91:3c:17&stream=434505&extension=ts&play_token=Iq9ekzxoc4
@@ -53,7 +53,7 @@ http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:91:3c:17&stream=133540&exte
 http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:78:6F:18&stream=245250&extension=ts&play_token=e2E0WW1bsN
 
 
-#--*.*--FHD--*.*--#
+#--*.*--Live Sports FHD--*.*--#
 
 #EXTINF:-1 group-title="⚽|Live Sports FHD" group-logo="http://gg.gg/livefhdkkk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 1
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71581&extension=ts&play_token=4FsF0OCajM
