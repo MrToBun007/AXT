@@ -33,6 +33,12 @@ https://p13.cx:443/play/4AH10lv5jSNFSyFqrecJtSKOKDUjVHjEXLFoGBlNHKu6vGQOoTAiOfb8
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Astro Sports
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=534095&extension=ts&play_token=eoEb0gQhG2
 
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports Deutsch
+http://tanix-hnx.xyz:8080/live/Rene2/Rene2/237492.m3u8
+
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Bundesliga Deutsch
+http://tanix-hnx.xyz:8080/live/Rene2/Rene2/243261.m3u8
+
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sport F1
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=548023&extension=ts&play_token=74HOKBFFl8
 
