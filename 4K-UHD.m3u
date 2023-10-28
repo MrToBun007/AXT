@@ -34,6 +34,10 @@ http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=53
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=548023&extension=ts&play_token=74HOKBFFl8
 
 
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",DAZN 1 QHD Barcelona vs Real Marid
+http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:78:6F:18&stream=245250&extension=ts&play_token=e2E0WW1bsN
+
+
 #EXTINF:-1 group-title="⚽|Live Sports FHD" group-logo="http://gg.gg/fhdlogokkk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 1
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71581&extension=ts&play_token=4FsF0OCajM
 
