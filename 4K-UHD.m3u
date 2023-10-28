@@ -9,7 +9,7 @@ https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 
 #--*.*--Live Sports 4K--*.*--#
 
-#EXTINF:-1 group-title="⚽|Live Sports 4K" group-logo="http://gg.gg/live4kkkk" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate Sports-18h30 Chelsea vs Bentford
+#EXTINF:-1 group-title="⚽|Live Sports 4K" group-logo="http://gg.gg/live4kkkk" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate Sports
 http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=479413&extension=ts&play_token=xBdSMweoGf
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate Sports Sub
@@ -21,16 +21,16 @@ http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=474
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports Main Event Sub
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=474653&extension=ts&play_token=p0qZWYzgrv
 
-#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Now HK Sports-18h30 Chelsea vs Bentford
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Now HK Sports
 http://optimustv.show:8080/play/live.php?mac=00:1A:79:08:4E:F7&stream=729232&extension=ts&play_token=y4iqCswnrQ
 
-#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",NBC Sports-18h30 Chelsea vs Bentford
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",NBC Sports
 
 
-#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Fubo Sports
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports UltraHD
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6f:e5:d2&stream=396200&extension=ts&play_token=4cPjjVcVR6
 
-#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports
+#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports UtraHD Sub
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6f:e5:d2&stream=396199&extension=ts&play_token=3Gp3iOUhpf
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Hub Premier 2
