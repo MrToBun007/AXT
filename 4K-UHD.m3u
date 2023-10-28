@@ -35,11 +35,42 @@ http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=53
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=548023&extension=ts&play_token=74HOKBFFl8
 
 
-#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Channel 1 FHD
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 1 FHD
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71581&extension=ts&play_token=4FsF0OCajM
 
-#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Channel 2 FHD
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 2 FHD
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71580&extension=ts&play_token=z62h2YhMGz
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 3 FHD
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71579&extension=ts&play_token=w7FmKDstqr
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 4 FHD
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71578&extension=ts&play_token=lBNlOTjb8B
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sports Main Event FHD
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=344337&extension=ts&play_token=vHNSxvAA53
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport F1 FHD
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=344338&extension=ts&play_token=bxZflMN3S4
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport News FHD
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71564&extension=ts&play_token=0BTt1GLKHE
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Premier FHD
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71550&extension=ts&play_token=Bb3jfaFB59
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Football FHD
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71560&extension=ts&play_token=0JJHMMbnPM
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Mix FHD
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71557&extension=ts&play_token=f9ZMz3KMNf
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Golf FHD
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=348673&extension=ts&play_token=oiutmUmcPk
+
+#EXTINF:-1 group-title="⚽|Live Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",USA Networks FHD
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71932&extension=ts&play_token=tY9bkJmrsk
+
 
 #-*-- B4TV -*--#
 #EXTINF:-1 group-title="⚽|Live B4TV" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
