@@ -111,3 +111,6 @@ http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=348673&ext
 
 #EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",USA Networks
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71932&extension=ts&play_token=tY9bkJmrsk
+
+#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",22h15 Barcelona vs Real Marid
+http://images185dh-w.ddns.me:8080/pD08IIV1CB/GuBUmowwlq/66044?play_token=eb8PJ88Ypw
