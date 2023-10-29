@@ -90,7 +90,8 @@ http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71579&exte
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71578&extension=ts&play_token=lBNlOTjb8B
 
 #EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sports Main Event
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:52:FB:A4&stream=71563&extension=ts&play_token=9eFp2E0A7b
+http://gunslingertv.org:8080/live/todoYTTVUS6520ol/bUk3cH73cR/47194.m3u8
+#http://live.watsits.art:80/play/live.php?mac=00:1A:79:52:FB:A4&stream=71563&extension=ts&play_token=9eFp2E0A7b
 
 #EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport F1
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=344338&extension=ts&play_token=bxZflMN3S4
