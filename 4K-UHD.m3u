@@ -117,5 +117,5 @@ http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71932&exte
 #EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",1
 
 
-#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Hub Premier
+#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Hub Premier 1
 http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:1E:4E:36&stream=491329&extension=ts&play_token=Kj1CDX93LT
