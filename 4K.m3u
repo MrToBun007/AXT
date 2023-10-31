@@ -19,6 +19,8 @@ http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6f:e5:d2&stream=396200&exten
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ziggosportkkk",1.Ziggo
 http://titansmart.xyz:8080/play/live.php?mac=00:1A:79:5A:9F:CB&stream=393077&extension=ts&play_token=AR8bZygVgF
 
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ziggosportkkk",1.Hub Premier
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:55:7e:c8&stream=1350568&extension=ts&play_token=P6cpmNfavb
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/k-lifekkk",1.Sport Klub
 http://titansmart.xyz:8080/play/live.php?mac=00:1A:79:5A:9F:CB&stream=393084&extension=ts&play_token=rvlKf7u1L6
