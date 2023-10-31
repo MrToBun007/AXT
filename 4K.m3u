@@ -7,11 +7,11 @@
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/tntultimateuhd1kkk",1.TNT Ultimate UHD
 http://nebula.tel:80/live/test/test/1042157.m3u8
 
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.SS Main Event UHD
 http://nebula.tel:80/live/test/test/1042160.m3u8
 
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skysportshdr",1.Sky Sports UltraHD HDR
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skysportshdr",1.SS UltraHD HDR
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6f:e5:d2&stream=396199&extension=ts&play_token=m25fJwunLi
 
-#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skysportshdr",2.Sky Sports UltraHD HDR
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/skysportshdr",2.SS UltraHD HDR
 http://45.137.119.2:8080/play/live.php?mac=00:1A:79:6f:e5:d2&stream=396200&extension=ts&play_token=GRmuQRcmv4
