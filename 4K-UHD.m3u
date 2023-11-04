@@ -10,16 +10,10 @@ https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 #--*.*--Live Sports 4K--*.*--#
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" group-logo="http://gg.gg/live4kkkk" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate Sports
-http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=479413&extension=ts&play_token=xBdSMweoGf
-
-#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate Sports Sub
-http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=479413&extension=ts&play_token=LlsmiVMEpL
+http://ston.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=479413&extension=ts&play_token=KVQjtTlNRb&sn2=
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports Main Event
-http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=474653&extension=ts&play_token=zfyMjFc9iA
-
-#EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports Main Event Sub
-http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=474653&extension=ts&play_token=p0qZWYzgrv
+http://ston.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=474653&extension=ts&play_token=yaGNjERJj3&sn2=
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Now HK Sports
 http://optimustv.show:8080/play/live.php?mac=00:1A:79:08:4E:F7&stream=729232&extension=ts&play_token=y4iqCswnrQ
