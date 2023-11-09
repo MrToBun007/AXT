@@ -24,3 +24,109 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:55:7e:c8&stream=1350568&ext
 
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/k-lifekkk",1.SK 4K
 http://titansmart.xyz:8080/play/live.php?mac=00:1A:79:5A:9F:CB&stream=393084&extension=ts&play_token=rvlKf7u1L6
+
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 tvg-id="1566281" tvg-name="TEST UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/2560px-Test-Logo.svg.png" group-title="4K",TEST UHD
+https://p13.cx:443/play/1IRiOn6iKoW1rm_3RdXnTR-OtVaryUoC_3Mri3xxr9e0ype7uzWCtm640QrnfW0R8OtTzmh35O5n9106mFRarUFD1g13raIC93M8XIZU8Cv6FeXUDlFtHnkEp481JvXlsqSdh_4n8LaiAMDAEuGJiC9kQFEF5emC6Lnzj-Om4-U?ext=.ts
+#EXTINF:-1 tvg-id="1299720" tvg-name="SS UltraHD 2" tvg-logo="http://gg.gg/Skyultrakkk" group-title="4K",SS UltraHD Football 
+http://adarker.com:25461/12345678/12345678/1299720
+#EXTINF:-1 tvg-id="1299719" tvg-name="SS Main Event UHD" tvg-logo="http://gg.gg/ssmaineventuhdkkk" group-title="4K",SS Main Event UHD
+http://adarker.com:25461/12345678/12345678/1299719
+#EXTINF:-1 tvg-id="1232965" tvg-name="SS UltraHD 1" tvg-logo="http://gg.gg/Skyultrakkk" group-title="4K",SS UltraHD Premier 
+http://adarker.com:25461/12345678/12345678/1232965
+#EXTINF:-1 tvg-id="1350568" tvg-name="Hub Premier 2 UHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="HUB SPORTS",Hub Premier 2 UHD
+http://adarker.com:25461/12345678/12345678/1350568
+#EXTINF:-1 tvg-id="1300442" tvg-name="TNT Sports Ultimate 4K" tvg-logo="http://gg.gg/tntultimateuhd1kkk" group-title="4K",TNT Sports Ultimate 4K
+http://adarker.com:25461/12345678/12345678/1300442
+#EXTINF:-1 tvg-id="1042160" tvg-name="SS Main Event UHD" tvg-logo="http://gg.gg/ssmaineventuhdkkk" group-title="Sports",SS Main Event UHD
+http://nebula.tel:80/test/test/1042160
+#EXTINF:-1 tvg-id="1042159" tvg-name="SS F1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="Sports",SS F1 UHD
+http://nebula.tel:80/test/test/1042159
+#EXTINF:-1 tvg-id="1042156" tvg-name="NOW SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="Sports",NOW SPORTS UHD
+http://nebula.tel:80/test/test/1042156
+#EXTINF:-1 tvg-id="5068954" tvg-name="EPL 4K: NOW 4K" tvg-logo="http://wizardapks.co.uk/picons/picons3/epl1.png" group-title="EPL Games",EPL 4K: NOW 4K
+http://nebula.tel:80/test/test/5068954
+#EXTINF:-1 tvg-id="1841" tvg-name="TRT 4K" tvg-logo="http://gg.gg/TRT1kkk" group-title="TR ☪ ULUSAL",TRT 4K
+http://tanix-hnx.xyz:8080/Rene2/Rene2/1841
+#EXTINF:-1 tvg-id="1134" tvg-name="RTL UHD" tvg-logo="https://i.imgur.com/iW9X3Bw.png" group-title="DE ✦ HEVC RAW",RTL UHD
+http://tanix-hnx.xyz:8080/Rene2/Rene2/1134
+#EXTINF:-1 tvg-id="212745" tvg-name="UHD 1" tvg-logo="http://gg.gg/uhd1xkkk" group-title="DE ✦ HEVC RAW",UHD 1
+http://tanix-hnx.xyz:8080/Rene2/Rene2/212745
+#EXTINF:-1 tvg-id="237492" tvg-name="SKY SPORT UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png" group-title="DE ✦ SPORT",SKY SPORT UHD
+http://tanix-hnx.xyz:8080/Rene2/Rene2/237492
+#EXTINF:-1 tvg-id="225921" tvg-name="CANAL+ 4K" tvg-logo="http://gg.gg/canal-kkk" group-title="✦ POLSKA ✦",CANAL+ 4K
+http://tanix-hnx.xyz:8080/Rene2/Rene2/225921
+#EXTINF:-1 tvg-id="225922" tvg-name="ELEVEN SPORTS 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="✦ PL SPORTY ✦",ELEVEN SPORTS 1 4K
+http://tanix-hnx.xyz:8080/Rene2/Rene2/225922
+#EXTINF:-1 tvg-id="245189" tvg-name="ELEVEN SPORTS 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="✦ DESPORTO ✦",ELEVEN SPORTS 1 4K
+http://tanix-hnx.xyz:8080/Rene2/Rene2/245189
+#EXTINF:-1 tvg-id="243261" tvg-name="SKY BUNDESLIGA ᵁᴴᴰ" tvg-logo="http://gg.gg/bundesligasky" group-title="DE ✦ SKY BUNDESLIGA",SKY BUNDESLIGA ᵁᴴᴰ
+http://tanix-hnx.xyz:8080/Rene2/Rene2/243261
+#EXTINF:-1 tvg-id="133540" tvg-name="SS F1 QHD" tvg-logo="https://i.imgur.com/c4IpvpB.png" group-title="SPORT ✦ F1 FORMULA INT",SS F1 QHD
+http://tanix-hnx.xyz:8080/Rene2/Rene2/133540
+#EXTINF:-1 tvg-id="130855" tvg-name="Digi 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="•●★ Generale ★●•",Digi 4K
+http://live.nettvroeuroworld.net:8080/48504359694-2022/Idsxt3P7Wkw5A8t/130855
+#EXTINF:-1 tvg-id="189733" tvg-name="Eurosport 4k" tvg-logo="http://gg.gg/dvdeurosport" group-title="•●★ Sport ★●•",Eurosport 4k
+http://live.nettvroeuroworld.net:8080/48504359694-2022/Idsxt3P7Wkw5A8t/189733
+#EXTINF:-1 tvg-id="194839" tvg-name="TRT 4K" tvg-logo="http://gg.gg/TRT1kkk" group-title="•●★ Turcia ★●•",TRT 4K
+http://live.nettvroeuroworld.net:8080/48504359694-2022/Idsxt3P7Wkw5A8t/194839
+#EXTINF:-1 tvg-id="195692" tvg-name="Eleven Sports 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="•●★ Polonia ★●•",Eleven Sports 4K
+http://live.nettvroeuroworld.net:8080/48504359694-2022/Idsxt3P7Wkw5A8t/195692
+#EXTINF:-1 tvg-id="38563" tvg-name="Prima TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Prima_TV_logo.png" group-title="⭐ ROMANIA TV ⭐",Prima TV 4K
+http://kleineinzeige.com:8080/Ciprian-Petrea1/EV7P2jur/38563
+#EXTINF:-1 tvg-id="10402" tvg-name="Digi 4K ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="⭐ ROMANIA TV ⭐",Digi 4K ⚽
+http://kleineinzeige.com:8080/Ciprian-Petrea1/EV7P2jur/10402
+#EXTINF:-1 tvg-id="38531" tvg-name="Digi Sport 1 4K ⚽" tvg-logo="http://gg.gg/digisport1kkk" group-title="⭐ ROMANIA TV ⭐",Digi Sport 1 4K ⚽
+http://kleineinzeige.com:8080/Ciprian-Petrea1/EV7P2jur/38531
+#EXTINF:-1 tvg-id="38647" tvg-name="ORANGE SPORT 1 4K ⚽" tvg-logo="http://1.teamovernight.online:8080/images/b7a8be186c9a7f78a471ca87fa21b695.png" group-title="⭐ ROMANIA TV ⭐",ORANGE SPORT 1 4K ⚽
+http://kleineinzeige.com:8080/Ciprian-Petrea1/EV7P2jur/38647
+#EXTINF:-1 tvg-id="35745" tvg-name="PRIMA 4K ⚽" tvg-logo="http://gg.gg/primakkk" group-title="⭐ ROMANIA TV ⭐",PRIMA 4K ⚽
+http://kleineinzeige.com:8080/Ciprian-Petrea1/EV7P2jur/35745
+#EXTINF:-1 tvg-id="10510" tvg-name="Eurosport 4K ⚽" tvg-logo="http://gg.gg/dvdeurosport" group-title="⭐ ROMANIA TV ⭐",Eurosport 4K ⚽
+http://kleineinzeige.com:8080/Ciprian-Petrea1/EV7P2jur/10510
+#EXTINF:-1 tvg-id="43705" tvg-name="TRT 4K" tvg-logo="http://gg.gg/TRT1kkk" group-title="⭐  Turcia ",TRT 4K
+http://kleineinzeige.com:8080/Ciprian-Petrea1/EV7P2jur/43705
+#EXTINF:-1 tvg-id="1497114" tvg-name="USA Network" tvg-logo="https://www.hdicon.com/wp-content/uploads/2010/08/USA_Network_1979.png" group-title="USA ALL",USA Network
+http://adarker.com:25461/12345678/12345678/1497114
+#EXTINF:-1 tvg-id="1042157" tvg-name="TNT Sports Ultimate 4K" tvg-logo="http://gg.gg/tntultimateuhd1kkk" group-title="Sports",TNT Sports Ultimate 4K
+http://nebula.tel:80/test/test/1042157
+#EXTINF:-1 tvg-id="53565" tvg-name="LOVE NATURE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="⭐ ROMANIA TV ⭐",LOVE NATURE 4K
+http://kleineinzeige.com:8080/Ciprian-Petrea1/EV7P2jur/53565
+#EXTINF:-1 tvg-id="4" tvg-name="EU" tvg-logo="http://gg.gg/ziggosportkkk" group-title="Sports UHD",1.Ziggo Sports 4K
+http://1vip.best:8080/play/live.php?mac=00:1A:79:5A:9F:CB&stream=393077&extension=ts&play_token=Lblp91d53y
+#EXTINF:-1 tvg-id="4" tvg-name="EU" tvg-logo="http://gg.gg/ziggosportkkk" group-title="Sports UHD",2.Ziggo Sports 4K
+http://kloselivetv.xyz:8080/play/live.php?mac=00:1A:79:B7:30:2E&stream=393077&extension=ts&play_token=v7bKfDRt5h
+#EXTINF:-1 tvg-id="4" tvg-name="EU " tvg-logo="http://gg.gg/vsporthdkkk" group-title="Sports UHD",1.V Sport UltraHD
+http://m.octotv.live/live/Michael99/Michael99/466358.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="EU" tvg-logo="http://gg.gg/vsporthdkkk" group-title="Sports UHD",2.V Sport UltraHD
+http://po.tomgerryservice.com:80/play/live.php?mac=00:1A:79:C0:7C:92&stream=294070&extension=ts&play_token=3EpYavzaqR
+#EXTINF:-1 tvg-id="4" tvg-name="EU" tvg-logo="https://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="4K-UHD",1.Fashion & Style
+http://elitepanel.site:8080/live/jhowe69@comcast.net/epNsUYiyVa/510619.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="US" tvg-logo="http://gg.gg/nesnkkk" group-title="Sports UHD",1.NESN UHD
+http://elitepanel.site:8080/live/jhowe69@comcast.net/epNsUYiyVa/510610.m3u8
+#EXTINF:-1 tvg-id="5194675" tvg-name="SK 4K " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/2560px-Sportklub_Logo.svg.png" group-title="NFL",SK 4K 
+http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:4D:01:5C&stream=243200&extension=ts&play_token=j8mWKLehzL
+#EXTINF:-1 tvg-id="5194674" tvg-name="PL Canal+ 4K" tvg-logo="http://gg.gg/canal-kkk" group-title="NFL",PL Canal+ 4K
+http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:4D:01:5C&stream=225921&extension=ts&play_token=W01tKYTQHf
+#EXTINF:-1 tvg-id="5194672" tvg-name="Ziggo Sport 4K" tvg-logo="http://gg.gg/ziggosportkkk" group-title="NFL",Ziggo Sport 4K 
+http://hkpremiumtv.pro:8080/play/live.php?mac=00:1A:79:3F:B5:08&stream=393077&extension=ts&play_token=fO7NKCvdvn
+#EXTINF:-1 tvg-id="5194673" tvg-name="SS F1 UHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png" group-title="NFL",SS F1 UHD 
+http://adarker.com:25461/12345678/12345678/1566281
+#EXTINF:-1 tvg-id="5194669" tvg-name="Eurosport 4K " tvg-logo="http://gg.gg/dvdeurosport" group-title="NFL",Eurosport 4K 
+http://bollox.ie:8080/play/live.php?mac=00:1A:79:4A:6C:36&stream=197539&extension=ts&play_token=Mi93NBEgTp
+#EXTINF:-1 tvg-id="287280" tvg-name="Now Sports 4K 616" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="未分类",Now Sports 4K 616
+http://103.76.130.33:13107/play/sSnemMx_yHHlUsSY850mYzaPxj2MbSJC1vhhhGo3Jmca_Wkgv55Abjce_mOO6Ex-GP_gOlADUh3LWHfSRZEf4k93vXvH5SsJUqRItGzdFUI?ext=.ts
+#EXTINF:-1 tvg-id="287276" tvg-name="Now Sports 4K 617" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="未分类",Now Sports 4K 617
+http://103.76.130.33:13107/play/sSnemMx_yHHlUsSY850mYzaPxj2MbSJC1vhhhGo3JmcPywXBt4HI08L2j9LJcQs26bDG8pnt79jETsQ6bPc8_QomYFY79esTElB9CCR6Hus?ext=.ts
+#EXTINF:-1 tvg-id="287279" tvg-name="Hub Premier 2 UHD " tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="未分类",Hub Premier 2 UHD 
+http://103.76.130.33:13107/play/sSnemMx_yHHlUsSY850mYzaPxj2MbSJC1vhhhGo3JmdDwZGoBVjpAau_FCmZx9P1A6rCzuBEyM4F6a84HRJ3D7WfP24vEwOGXE2deA9f-9U?ext=.ts
+#EXTINF:-1 tvg-id="2225" tvg-name="Ziggo Sports 4K " tvg-logo="http://gg.gg/ziggosportkkk" group-title="MUSIC",Ziggo Sports 4K 
+http://vegasizle.xyz:8080/play/live.php?mac=00:1A:79:6b:66:4b&stream=393077&extension=ts&play_token=uOp7Qtgmx2
+#EXTINF:-1 tvg-id="2216" tvg-name="PL Canal+ 4K" tvg-logo="http://gg.gg/canal-kkk" group-title="MUSIC",PL Canal+ 4K
+http://vegasizle.xyz:8080/play/live.php?mac=00:1A:79:6b:66:4b&stream=393085&extension=ts&play_token=PBoSWoc3jq
+#EXTINF:-1 tvg-id="1497549" tvg-name="TR Bein Sat&Sun" tvg-logo="http://gg.gg/bein4kkkk" group-title="USA ALL",TR Bein Sat&Sun
+http://vegasizle.xyz:8080/play/live.php?mac=00:1A:79:ab:67:78&stream=389343&extension=ts&play_token=oUrPDW6P1Q
+#EXTINF:-1 tvg-id="1497548" tvg-name="TR Bein Sat&Sun" tvg-logo="http://gg.gg/bein4kkkk" group-title="USA ALL",TR Bein Sat&Sun
+http://vegasizle.xyz:8080/play/live.php?mac=00:1A:79:ab:67:78&stream=374&extension=ts&play_token=fBnBRkqj8e
