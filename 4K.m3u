@@ -44,15 +44,15 @@ http://adarker.com:25461/12345678/12345678/1300442
 http://nebula.tel:80/test/test/1042160
 #EXTINF:-1 tvg-id="1042159" group-title="4K-UHD Sports" tvg-name="SS F1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png",SS F1 UHD
 http://nebula.tel:80/test/test/1042159
-#EXTINF:-1 tvg-id="1042156" tvg-name="NOW SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png",NOW SPORTS UHD
+#EXTINF:-1 tvg-id="1042156" group-title="4K-UHD Sports" tvg-name="NOW SPORTS UHD" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png",NOW SPORTS UHD
 http://nebula.tel:80/test/test/1042156
-#EXTINF:-1 tvg-id="5068954" tvg-name="EPL 4K: NOW 4K" tvg-logo="http://wizardapks.co.uk/picons/picons3/epl1.png",EPL 4K: NOW 4K
+#EXTINF:-1 tvg-id="5068954" group-title="4K-UHD Sports" tvg-name="EPL 4K: NOW 4K" tvg-logo="http://wizardapks.co.uk/picons/picons3/epl1.png",EPL 4K: NOW 4K
 http://nebula.tel:80/test/test/5068954
-#EXTINF:-1 tvg-id="1841" tvg-name="TRT 4K" tvg-logo="http://gg.gg/TRT1kkk",TRT 4K
+#EXTINF:-1 tvg-id="1841" group-title="4K-UHD Sports" tvg-name="TRT 4K" tvg-logo="http://gg.gg/TRT1kkk",TRT 4K
 http://tanix-hnx.xyz:8080/Rene2/Rene2/1841
-#EXTINF:-1 tvg-id="1134" tvg-name="RTL UHD" tvg-logo="https://i.imgur.com/iW9X3Bw.png",RTL UHD
+#EXTINF:-1 tvg-id="1134" group-title="4K-UHD Sports" tvg-name="RTL UHD" tvg-logo="https://i.imgur.com/iW9X3Bw.png",RTL UHD
 http://tanix-hnx.xyz:8080/Rene2/Rene2/1134
-#EXTINF:-1 tvg-id="212745" tvg-name="UHD 1" tvg-logo="http://gg.gg/uhd1xkkk",UHD 1
+#EXTINF:-1 tvg-id="212745" group-title="4K-UHD Sports" tvg-name="UHD 1" tvg-logo="http://gg.gg/uhd1xkkk",UHD 1
 http://tanix-hnx.xyz:8080/Rene2/Rene2/212745
 #EXTINF:-1 tvg-id="237492" group-title="4K-UHD Sports" tvg-name="SKY SPORT UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",SKY SPORT UHD
 http://tanix-hnx.xyz:8080/Rene2/Rene2/237492
