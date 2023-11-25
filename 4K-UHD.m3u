@@ -5,7 +5,8 @@
 
 #-*--SPORT UHD-4K-*--#
 #EXTINF:-1 group-title="🔁|Refresh List Before Saturday + Use VPN" tvg-logo="http://gg.gg/hrd222",4K-UHD Channel
-https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
+#https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:2D:84:EB&stream=1299719&extension=ts&play_token=FPfKLl8zwY
 
 #--*.*--Live Sports 4K--*.*--#
 
@@ -13,7 +14,7 @@ https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
 http://ston.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=479413&extension=ts&play_token=KVQjtTlNRb&sn2=
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports Main Event
-http://ston.mastergold.co.uk:80/play/live.php?mac=00:1a:79:34:4b:76&stream=474653&extension=ts&play_token=yaGNjERJj3&sn2=
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:2D:84:EB&stream=1232965&extension=ts&play_token=3ms3VTPjIv
 
 #EXTINF:-1 group-title="⚽|Live Sports 4K" tvg-logo="http://gg.gg/logo4kkkk",Now HK Sports
 http://optimustv.show:8080/play/live.php?mac=00:1A:79:08:4E:F7&stream=729232&extension=ts&play_token=y4iqCswnrQ
